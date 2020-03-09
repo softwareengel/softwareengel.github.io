@@ -1,0 +1,353 @@
+    1  ls -al 
+    2  cd /cygdrive/c/src/WasteRoute
+    3  dir
+    4  cd graphhopper
+    5  ./graphhopper.sh -a web -i ../osm/nordrhein-westfalen-latest.osm.pbf
+    6  export JAVA_OPTS="-Xmx1g -Xms1g"
+    7  ./graphhopper.sh -a web -i ../osm/nordrhein-westfalen-latest.osm.pbf
+    8  exit
+    9  cd /cygdrive/c/src/WasteRoute
+   10  dir
+   11  ls -la
+   12  cd graphhopper
+   13  dir
+   14  ls -la
+   15  ./graphhopper.sh -a web -i ../osm/out.pbf
+   16  ./graphhopper.sh 
+   17  ./graphhopper.sh -p car -a web -i ../osm/out.pbf
+   18  ./graphhopper.sh -a build
+   19  ./graphhopper.sh -p car -a web -i ../osm/out.pbf -c config.yml
+   20  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml
+   21  ./graphhopper.sh -a web -i ../osm/out.pbf -c config-example.yml
+   22  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml
+   23  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car,foot
+   24  ./graphhopper.sh 
+   25  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   26  cd /cygdrive/c/src
+   27  cd WasteRoute/graphhopper
+   28  dir
+   29  ls -al 
+   30  5555ls Kein   398 May 15 12:43 .project
+   31  drwxr-xr-x 1 engels Kein     0 May 15 12:45 .settings
+   32  -rw-r--r-- 1 engels Kein  2657 May 15 12:42 .travis.yml
+   33  drwxr-xr-x 1 engels Kein     0 May 15 12:42 android
+   34  -rw-r--r-- 1 engels Kein  1027 May 15 12:42 appveyor.yml
+   35  drwxr-xr-x 1 engels Kein     0 May 15 12:45 client-hc
+   36  -rw-r--r-- 1 engels Kein  5617 May 15 20:01 config.yml
+   37  -rw-r--r-- 1 engels Kein  5498 May 15 19:10 config-example.yml
+   38  -rw-r--r-- 1 engels Kein  2952 May 15 12:42 CONTRIBUTORS.md
+   39  drwxr-xr-x 1 engels Kein     0 May 15 12:45 core
+   40  -rw-r--r-- 1 engels Kein   396 May 15 12:42 Dockerfile
+   41  drwxr-xr-x 1 engels Kein     0 May 15 12:42 docs
+   42  drwxr-xr-x 1 engels Kein     0 May 15 19:23 graph-cache
+   43  -rwxr-xr-x 1 engels Kein 10733 May 15 12:42 graphhopper.sh
+   44  drwxr-xr-x 1 engels Kein     0 May 15 12:45 isochrone
+   45  -rw-r--r-- 1 engels Kein 11562 May 15 12:42 LICENSE.txt
+   46  drwxr-xr-x 1 engels Kein     0 Apr  3  2017 maven
+   47  -rw-r--r-- 1 engels Kein  2602 May 15 12:42 NOTICE.md
+   48  -rw-r--r-- 1 engels Kein 14765 May 15 12:42 pom.xml
+   49  drwxr-xr-x 1 engels Kein     0 May 15 12:45 reader-gtfs
+   50  drwxr-xr-x 1 engels Kein     0 May 15 12:45 reader-json
+   51  drwxr-xr-x 1 engels Kein     0 May 15 12:45 reader-osm
+   52  drwxr-xr-x 1 engels Kein     0 May 15 12:45 reader-shp
+   53  -rw-r--r-- 1 engels Kein 11504 May 15 12:42 README.md
+   54  dir
+   55  \n
+   56  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   57  exit
+   58  _ifconfig
+   59  ?
+   60  help
+   61  exit
+   62  cd /cygdrive/c/src/WasteRoute/graphhopper
+   63  \n\n
+   64  dir
+   65  \n
+   66  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   67  exit
+   68  cd /cygdrive/c/src/WasteRoute/graphhopper
+   69  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   70  cd /cygdrive/c/src/WasteRoute/elog-uml/WS/umlGeneratorEvaluator/out
+   71  dir
+   72  cat
+   73  cat *
+   74  cat * |grep 8989
+   75  cat * |grep :8989
+   76  cat * |grep :8989>ghUrls.txt
+   77  exit
+   78  cd /cygdrive/c/src/WasteRoute/graphhopper
+   79  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   80  exit
+   81  cd /cygdrive/c/src/WasteRoute/graphhopper
+   82  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   83  exit
+   84  cd /cygdrive/c/src/WasteRoute/graphhopper
+   85  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   86  exit
+   87  cd /cygdrive/c/src/WasteRoute/graphhopper
+   88  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   89  exit
+   90  cd /cygdrive/c/src/WasteRoute/graphhopper
+   91  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+   92  exit
+   93  cd /cygdrive/c/src/WasteRoute/
+   94  cxd railway_routing
+   95  cd railway_routing
+   96  ./build.sh
+   97  cd ..
+   98  cd railservice
+   99  cd hopper
+  100  cd railway_routing
+  101  git submodule init
+  102  bash
+  103  pwd
+  104  bash build.sh
+  105  pact
+  106  pact install mvn
+  107  bash build.sh
+  108  mvn
+  109  pact install maven
+  110  exit
+  111  ls
+  112  ps
+  113  ps-al
+  114  ps -al
+  115  ps -alx
+  116  ps -ap
+  117  ps -h
+  118  ps -f
+  119  top
+  120  ntopp
+  121  ntop
+  122  dir
+  123  ?
+  124  help
+  125  sc
+  126  ?
+  127  help
+  128  cd railway_routing
+  129  fc
+  130  cd railway_routing
+  131  help
+  132  fc
+  133  help
+  134  dir
+  135  ls -al
+  136  more .babunrc
+  137  java
+  138  java -v
+  139  java -version
+  140  exit
+  141  ls
+  142  ls -al
+  143  ls -l &
+  144  bg
+  145  fg
+  146  ps
+  147  ps -W
+  148  ps -W|more
+  149  jobs
+  150  jobs --help
+  151  jobs -h
+  152  jobs /?
+  153  edit
+  154  write
+  155  ps -W
+  156  ps -W|grep write
+  157  ps -W
+  158  fg 39304
+  159  exit
+  160  cd /cygdrive/c/src/WasteRoute/graphhopper
+  161  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  162  exit
+  163  cd /cygdrive/c/src/railservice
+  164  cd hopper
+  165  cd railway_routing
+  166  ./build.sh
+  167  exit
+  168  cd /cygdrive/c/src/WasteRoute/graphhopper
+  169  dir
+  170  chmod +x babunStartHopper.sh
+  171  dir
+  172  .
+  173  mc
+  174  ./graphhopper.sh
+  175  mc
+  176  ./babunStartHopper.sh
+  177  exit
+  178  cd /cygdrive/c/src/WasteRoute/graphhopper
+  179  dire
+  180  dir
+  181  ls -la
+  182  ./babunStartHopper.sh
+  183  /cygdrive/c/src/WasteRoute/graphhopper/babunStartHopper.sh
+  184  cd /cygdrive/c/src/WasteRoute/graphhopper
+  185  ./babunStartHopper.sh
+  186  exit
+  187  cd /cygdrive/c/src
+  188  cd WasteRoute/graphhopper
+  189  ./babunStartHopperNRW.sh
+  190  exit
+  191  cd /cygdrive/c/src/WasteRoute
+  192  graphhopper/babunStartHopperNRW.sh
+  193  cd graphhopper
+  194  ./babunStartHopperNRW.sh
+  195  exit
+  196  cd /cygdrive/c/src/WasteRoute/graphhopper
+  197  dir
+  198  ./babunStartHopperNRW.sh
+  199  exit
+  200  pwd
+  201  cd /cygdrive/c/src/WasteRoute/graphhopper
+  202  ./babunStartHopperNRW.sh
+  203  ./babunStartHopper.sh
+  204  ./babunStartHopperNRW.sh
+  205  exit
+  206  gcc
+  207  fcc -?
+  208  gcc /?
+  209  gcc -?
+  210  gcc -help
+  211  gcc --help
+  212  gcc -v
+  213  gcc --version
+  214  exit
+  215  python
+  216  pwd
+  217  dir
+  218  ls -al 
+  219  python hello.py
+  220  whereis python
+  221  python3
+  222  python
+  223  python3
+  224  py
+  225  py --help
+  226  py hello.py
+  227  whereis py
+  228  py hello.py
+  229  dir
+  230  chmod +x hello.py
+  231  dir
+  232  ls - al
+  233  ls -l
+  234  ls -la
+  235  ls -l
+  236  ./hello.py
+  237  whereis py
+  238  whereis python
+  239  ./hello.py
+  240  cat hello.py
+  241  ./hello.py
+  242  py
+  243  python
+  244  python3
+  245  py3
+  246  py
+  247  exit
+  248  exiz
+  249  exit
+  250  fg 1
+  251  fg
+  252  ext
+  253  exit
+  254  ls
+  255  dir
+  256  cd bin
+  257  dir
+  258  cd ..
+  259  cat hello.py
+  260  py
+  261  py -?
+  262  rm hello.py
+  263  pwd
+  264  cd /cygdrive/c/src/WasteRoute
+  265  cd graphhopper
+  266  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  267  exit
+  268  dir
+  269  ls
+  270  ls -al 
+  271  cd bin
+  272  ls -al 
+  273  top
+  274  lsof -i
+  275  dir
+  276  cd graphhopper
+  277  cd /cygdrive/c/src/WasteRoute
+  278  cd graphhopper
+  279  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  280  exit
+  281  dir
+  282  ls -al 
+  283  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  284  cd graphhopper
+  285  cd /cygdrive/c/src/WasteRoute
+  286  cd graphhopper
+  287  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  288  exit
+  289  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  290  cd graphhopper
+  291  cd /cygdrive/c/src/WasteRoute
+  292  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  293  cd graphhopper
+  294  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  295  exit
+  296  cd graphhopper
+  297  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  298  pwd
+  299  cd /cygdrive/c/src/WasteRoute
+  300  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  301  cd graphhopper
+  302  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  303  exit
+  304  cd graphhopper
+  305  cd /cygdrive/c/src/WasteRoute
+  306  cd graphhopper
+  307  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  308  exit
+  309  ls
+  310  ls -al 
+  311  cd /cygdrive/c/src/WasteRoute
+  312  ls -al 
+  313  cd /cygdrive/c
+  314  ls -al 
+  315  babun --version
+  316  cd ~
+  317  /
+  318  exit
+  319  babun --version
+  320  cd /cygdrive/c/src/WasteRoute
+  321  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  322  cd graphhopper
+  323  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  324  exit
+  325  cd /cygdrive/c/src/WasteRoute
+  326  cd graphhopper
+  327  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  328  exit
+  329  cd /cygdrive/c/src/WasteRoute
+  330  cd graphhopper
+  331  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  332  exit
+  333  cd /cygdrive/c/src/WasteRoute
+  334  cd graphhopper
+  335  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  336  ./graphhopper.sh -a web -i ../osm/nordrhein-westfalen-latest.osm.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  337  ./graphhopper.sh -a web -i ../osm/out.pbf -c config.yml -p car --jar web/target/graphhopper-web-0.11-SNAPSHOT.jar
+  338  xit
+  339  exit
+  340  pwd
+  341  exit
+  342  cd /cygdrive/c/src/git/barefoot/map/tools/
+  343  cd..
+  344  cd ..
+  345  bash map/osm/import.sh
+  346  exit
+  347  cd /cygdrive/c/src/git/barefoot/map/tools/
+  348  /cygdrive/c/src/git/OpenRailRouting
+  349  dir
+  350  bash build.sh
+  351  ./build.sh
+  352  exit
+  353  history
