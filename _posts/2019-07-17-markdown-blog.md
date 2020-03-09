@@ -1,5 +1,6 @@
 # Markdown Blog 
 Hinweise für Markdown Tags:
+
 https://guides.github.com/features/mastering-markdown/
 
 https://docs.microsoft.com/de-de/contribute/how-to-write-use-markdown
@@ -9,7 +10,7 @@ https://marketplace.visualstudio.com/items?itemName=njLeonZhang.markdown-image-p
 
 # Beispiel 
 
-## Quellcode 
+## Quellcode (Javascript Beispiel)
 
 ```javascript
 if (isAwesome){
@@ -19,7 +20,7 @@ if (isAwesome){
 
 ## Markierter TExt 
 
-    Beispiel code / Markierter TExt durch Einrückung mit <Tab>
+    Beispiel code / Markierter Text durch Einrückung mit <Tab>
 
     zweite Zeile 
 
@@ -29,10 +30,12 @@ if (isAwesome){
 ![VSCode als Blog](./pic/2019-07-17-VSCode-as-Blog-Editor.png)
 
 Bild einfügen 
+
 [Reference to Markdown Pic](./pic/2019-07-17-md.png)
 
 
 Bild inline:
+
 ![Reference to Markdown Pic](./pic/2019-07-17-md.png)
 
 
