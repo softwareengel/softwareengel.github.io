@@ -7,4 +7,4 @@ https://github.com/tmcw/awesome-geojson
 
 http://geojson.io
 
-![Screenshot_2019-08-07 geojson io.png](./pic/Screenshot_2019-08-07_geojson_io.png)
+![Screenshot_2019-08-07 geojson io.png](/pic/Screenshot_2019-08-07_geojson_io.png)

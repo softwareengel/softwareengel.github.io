@@ -32,13 +32,13 @@ https://github.com/geofabrik/OpenRailRouting
 
 Web - View Graphhopper rail:
 Routing Ulm:
-![](./pic/capture_22072019_113652_002.jpg))
+![](/pic/capture_22072019_113652_002.jpg))
 
-![](./pic/capture_22072019_113038_001.jpg)
+![](/pic/capture_22072019_113038_001.jpg)
 Routing Arnsberg:
-![](./pic/capture_22072019_120913_003.jpg)
+![](/pic/capture_22072019_120913_003.jpg)
 Routing Europa:
-![](./pic/capture_22072019_171154_001.jpg)
+![](/pic/capture_22072019_171154_001.jpg)
 
 Requerst für Map:
 
@@ -52,7 +52,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
     http://hq.softwareengel.de:8989/maps/?point=47.137425%2C15.336914&point=46.721035%2C14.364624&point=51.351201%2C4.454956&point=51.158677%2C3.251953&point=50.937662%2C1.757813&point=51.549751%2C-0.159302&point=52.516221%2C-1.801758&point=55.890716%2C-4.042969&point=48.908059%2C2.438965&point=48.118434%2C-1.532593&point=45.79817%2C4.855957&point=44.962855%2C-0.22522&point=43.258706%2C-1.978912&point=41.75902%2C-0.823975&point=39.532644%2C-0.32341&point=37.920368%2C-4.721375&point=37.492294%2C-5.932617&point=38.603993%2C-9.091187&point=41.120228%2C-8.638&point=43.329174%2C-8.44162&point=36.259778%2C-5.438232&point=40.423951%2C-3.435974&point=43.794146%2C7.380409&point=41.95132%2C12.414551&point=41.07521%2C14.205322&point=44.072787%2C15.379486&point=42.660222%2C21.084137&point=42.644898%2C23.549194&point=43.620171%2C24.675293&point=41.136262%2C28.601532&point=39.970806%2C32.541504&point=38.634036%2C35.194702&point=40.526327%2C43.005981&point=41.607228%2C44.868164&point=43.197167%2C44.615479&point=38.444985%2C38.259888&point=38.552461%2C27.03186&point=38.117272%2C23.806&point=45.371443%2C27.938232&point=47.338823%2C31.096802&point=48.904449%2C33.299561&point=47.82422%2C34.887085&point=49.435985%2C34.557495&point=51.542919%2C39.243164&point=55.606281%2C37.63504&point=59.161852%2C40.0177&point=51.648703%2C36.00769&point=50.454007%2C30.695801&point=54.669066%2C25.3125&point=52.140231%2C20.98938&point=50.014799%2C19.940186&point=51.14834%2C17.097473&point=48.283193%2C16.430054&point=45.863238%2C22.983398&point=47.480088%2C19.25354&point=44.087585%2C12.420044&point=45.479392%2C12.233276&point=45.69467%2C13.85376&point=44.427896%2C8.889313&point=52.038977%2C4.537354&point=52.328625%2C5.015259&point=50.986099%2C7.025757&point=51.495065%2C7.341614&point=52.24462%2C7.981567&point=53.041213%2C8.909912&point=51.55829%2C9.920654&point=51.349485%2C9.516907&point=50.155786%2C8.640747&point=49.477048%2C10.980835&point=48.037692%2C11.585083&point=47.802087%2C13.068237&point=48.806863%2C9.217529&point=47.393701%2C8.491058&point=52.449314%2C9.733887&point=53.555606%2C9.935074&point=54.13026%2C12.21405&point=54.77693%2C9.50592&point=55.665193%2C12.461243&point=55.583002%2C12.996826&point=56.14708%2C13.757629&point=59.850333%2C10.789948&point=60.401645%2C5.419006&point=59.293942%2C18.019638&point=62.408185%2C17.232056&point=59.380786%2C25.054321&point=60.524861%2C25.153198&point=56.98989%2C24.180908&point=52.059246%2C11.68396&point=51.013755%2C13.801575&point=51.426614%2C12.367859&point=52.566334%2C13.084717&locale=de&vehicle=alltracks&weighting=fastest&elevation=false&use_miles=false&layer=OpenStreetMap
 
 ## Web Soap UI Client mit POST und XML 
-![](./pic/capture_22072019_165705_001.jpg)
+![](/pic/capture_22072019_165705_001.jpg)
 
 ### Request GH Rail Match XML (good request)
     Tue Jul 23 09:46:51 CEST 2019:DEBUG:>> "POST /match?vehicle=alltracks HTTP/1.1[\r][\n]"
@@ -461,12 +461,12 @@ Requerst für OSM-Map auf hq.softwareengel.de:
 [./mov/2019-07-22_12-15-32.flv.webm](./mov/2019-07-22_12-15-32.flv.webm)
 
 ## Speicher Sysinternals bei Map mit Europa 
-![](./pic/capture_22072019_171453_002.jpg)
+![](/pic/capture_22072019_171453_002.jpg)
 
 
 
 # Berechnung Ergebnis des GH Rail Map Matchings
-![](./pic/capture_22072019_131603_004.jpg)
+![](/pic/capture_22072019_131603_004.jpg)
 
 ## Ulm GPX-Track 
     <?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.11" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
@@ -497,7 +497,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
     </gpx>
 # Ergebnis GPX in Qgis 
 
-![](./pic/capture_22072019_131852_005.jpg)
+![](/pic/capture_22072019_131852_005.jpg)
 
 
 ## Beispiel config.yml
