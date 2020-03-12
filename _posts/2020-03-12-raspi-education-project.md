@@ -1,4 +1,4 @@
-# Project EDU 
+# Project Rqaspberry Pi Zero EDUcation  
 
     4-5 Gruppen, (Analog-Schalter, Ampel 1-4)
     5 Raspi , MicroSD-Karte , 
