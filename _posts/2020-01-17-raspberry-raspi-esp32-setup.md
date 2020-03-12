@@ -2,7 +2,6 @@
 
 Default Login: pi, defaultp Pass: raspberry
 
-
 ## LED Check Python, LED check in C 
 
 ![Screenshot 2020 01 17 Rpi Gpio C Python3](pic/Screenshot_2020_01_17_Rpi_gpio_C_python3.png)
