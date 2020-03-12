@@ -9,9 +9,9 @@ Start git blog jekyll-now  search  categories docs
 
 # git blog jekyll-now
 
-https://github.com/barryclark/jekyll-now 
+<https://github.com/barryclark/jekyll-now> 
 
-https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+<https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/>
 
 
 ## search in jekyll
@@ -20,11 +20,11 @@ Simple Search in Jekyll [https://github.com/christian-fei/Simple-Jekyll-Search](
 
 ## categories 
 
-https://blog.webjeda.com/jekyll-categories/
+<https://blog.webjeda.com/jekyll-categories/>
 
 ## docs
 
-https://jekyllrb.com/docs/
+<https://jekyllrb.com/docs/>
 
 ## Dev Local 
 
