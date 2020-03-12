@@ -4,20 +4,20 @@ Default Login: pi, defaultp Pass: raspberry
 
 ## LED Check Python, LED check in C 
 
-![Screenshot 2020 01 17 Rpi Gpio C Python3](pic/Screenshot_2020_01_17_Rpi_gpio_C_python3.png)
+![Screenshot 2020 01 17 Rpi Gpio C Python3](/pic/Screenshot_2020_01_17_Rpi_gpio_C_python3.png)
 
 
 ## LED Check GPIO und LED Check Bash 
 
-![Screenshot 2020 01 17 Rpi Gpio2](pic/Screenshot_2020_01_17_Rpi_gpio2.png)
+![Screenshot 2020 01 17 Rpi Gpio2](/pic/Screenshot_2020_01_17_Rpi_gpio2.png)
 
-![Screenshot 2020 01 17 Rpi Gpio](pic/Screenshot_2020_01_17_Rpi_gpio.png)
+![Screenshot 2020 01 17 Rpi Gpio](/pic/Screenshot_2020_01_17_Rpi_gpio.png)
 
-![Screenshot 2020 01 17 Rpi Gpio3](pic/Screenshot_2020_01_17_Rpi_gpio3.png)
+![Screenshot 2020 01 17 Rpi Gpio3](/pic/Screenshot_2020_01_17_Rpi_gpio3.png)
 
 ## Raspi ZEro W
 
-![2020 01 22 Raspi Zero W](pic/2020-01-22-raspi-zero-w.png)
+![2020 01 22 Raspi Zero W](/pic/2020-01-22-raspi-zero-w.png)
 
 
 ## Links 
@@ -75,9 +75,9 @@ https://blog.unixweb.de/raspberry-pi-zero-w-und-die-otg-funktion/
 
 ## Skizze 
 
-![Screenshot 2020 01 17 Rpi Skizze](pic/Screenshot_2020_01_17_Rpi_Skizze.png)
+![Screenshot 2020 01 17 Rpi Skizze](/pic/Screenshot_2020_01_17_Rpi_Skizze.png)
 
-![Foto Rapi Demo](pic/20200131_123540.jpg)
+![Foto Rapi Demo](/pic/20200131_123540.jpg)
 
 ## Raspi Image Crator 
 
@@ -86,8 +86,8 @@ PIBakery https://www.pibakery.org/
 
 ## ESP32
 
-![Screenshot 2020 01 17 E S P32 E Z](pic/Screenshot_2020_01_17_ESP32EZ.png)
+![Screenshot 2020 01 17 E S P32 E Z](/pic/Screenshot_2020_01_17_ESP32EZ.png)
 
-![Screenshot 2020 01 31 Rpi Zero W H Skizze](pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
+![Screenshot 2020 01 31 Rpi Zero W H Skizze](/pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
 
 ![Screenshot 2020 01 31 Rpi Zero W H Skizze](/pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
