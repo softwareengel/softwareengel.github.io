@@ -32,7 +32,7 @@ https://github.com/WiringPi/WiringPi/blob/master/wiringPi/wiringPi.h
 
 https://bitbucket.org/sbub/raspberry-pi-gpio-web-control/src/master/
 
-Raspi Pinout guide:  https://pinout.xyz/# 
+Raspi Pinout guide:  https://pinout.xyz/
 
 VNC Client: https://www.realvnc.com/de/connect/download/viewer/windows/ 
 
@@ -67,6 +67,7 @@ https://makemypi.wordpress.com/2018/02/19/iot-with-influxdb-telegraph-and-grafan
 https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana
 
 https://blog.helmutkarger.de/category/projekte/raspberry-video-camera/ 
+
 https://books.google.de/books?id=WNh2DwAAQBAJ&pg=PT4&lpg=PT4&dq=isbn+978-3-645-22268-6&source=bl&ots=RNrS801o-F&sig=ACfU3U1XS6V1yo61cNHUt6Dy0QYip6YiBA&hl=de&sa=X&ved=2ahUKEwiLx4LHw6vnAhUdBGMBHZoiAlAQ6AEwAnoECAwQAQ#v=onepage&q=isbn%20978-3-645-22268-6&f=false
 
 
@@ -98,3 +99,23 @@ PIBakery https://www.pibakery.org/
 ![Screenshot 2020 01 31 Rpi Zero W H Skizze](/pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
 
 ![Screenshot 2020 01 31 Rpi Zero W H Skizze](/pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
+
+
+# Project EDU 
+
+4-5 Gruppen, (Analog-Schalter, Ampel 1-4)
+5 Raspi , MicroSD- Karte , 
+5 x Stromversorgung 
+Netzterkverbindung ,
+1 WLAN - Router + IP + DHCP 
+5 x 3 LEDs (Rot / Gelb / Grün ) mit Vorwiederstand , 
+3 x 5 Verbindungskabel LED 
+5 x Schalter 
+
+Software:
+ISO Image Rasberian 
+ISO Image Config : + Client Wlan zum WLANRouter + SSH-Server + RDP - Server, VPN Server 
+Putty + Winscp + RDP Client / REal - VNC Client 
+
+
+
