@@ -82,6 +82,7 @@ Interactive Pinout <https://pinout.xyz/pinout/>
 
 ### Python WebLed-Code 
 
+~~~PY
     import RPi.GPIO as GPIO
     import time
 
@@ -139,7 +140,7 @@ Interactive Pinout <https://pinout.xyz/pinout/>
     myServer.server_close()
     print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))
     GPIO.cleanup()
-
+~~~
 ---
 
 ![raspiScreen](/pic/screen-raspi-zero-webserver-led.png)
