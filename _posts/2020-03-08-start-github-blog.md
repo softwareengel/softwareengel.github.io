@@ -14,7 +14,7 @@ https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 
 ## search in jekyll
 
-Simple Search in Jekyll [https://github.com/christian-fei/Simple-Jekyll-Search#give-me-the-code](https://github.com/christian-fei/Simple-Jekyll-Search#give-me-the-code)
+Simple Search in Jekyll [https://github.com/christian-fei/Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search#give-me-the-code)
 
 ## categories 
 
