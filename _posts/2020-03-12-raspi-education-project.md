@@ -1,3 +1,8 @@
+---
+layout: post 
+title: "Project Rqaspberry Pi Zero EDUcation"
+---
+
 # Project Rqaspberry Pi Zero EDUcation  
 
     4-5 Gruppen, (Analog-Schalter, Ampel 1-4)
@@ -22,6 +27,7 @@ Datei mit dem Namen "**SSH**" anlegen
 ## WLAN
 
 <https://pi-buch.info/wlan-schon-vor-der-installation-konfigurieren/>
+
 Datei mit dem Namen "**wpa_supplicant.conf**" anlegen mit UNIX (LF) mit 
 
     country=DE 
