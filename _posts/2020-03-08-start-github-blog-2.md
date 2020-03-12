@@ -28,3 +28,8 @@ Simple Search in Jekyll [https://github.com/christian-fei/Simple-Jekyll-Search](
 
 <https://jekyllrb.com/docs/>
 
+## Dev Local 
+
+für Dev und OPs Path auf "/" setzten dunrch subst z.B. auf Laufwerk L
+
+    subst L: c:\src\git\softwareengel.github.io
