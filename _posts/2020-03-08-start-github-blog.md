@@ -3,7 +3,7 @@ layout: post
 title: github git blog jekyll-now Quickstart 
 ---
 
-start git blog jekyll-now  search  categories docs
+Start git blog jekyll-now  search  categories docs
 
 # git blog jekyll-now
 
