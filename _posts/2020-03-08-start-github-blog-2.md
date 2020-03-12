@@ -1,10 +1,11 @@
 ---
 layout: post 
 title: "github git blog jekyll-now Quickstart 2"
-
+categories: [jekyll,search,blog]
+tags: [jekyll,search]
 ---
 
-Start git blog jekyll-now  search  categories docs V7
+Start git blog jekyll-now  search  categories docs V8
 
 # git blog jekyll-now
 
