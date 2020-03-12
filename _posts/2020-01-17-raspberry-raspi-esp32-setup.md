@@ -26,15 +26,15 @@ https://elinux.org/RPi_GPIO_Code_Samples
 
 http://cool-web.de/raspberry/den-raspberry-pi-ueber-die-wiringpi-api-in-c-programmieren.htm
 
-http://cool-web.de/raspberry/erste-schritte-mit-gpio-und-led.htm#gpio
+<http://cool-web.de/raspberry/erste-schritte-mit-gpio-und-led.htm#gpio>
 
-https://github.com/WiringPi/WiringPi/blob/master/wiringPi/wiringPi.h
+<https://github.com/WiringPi/WiringPi/blob/master/wiringPi/wiringPi.h>
 
-https://bitbucket.org/sbub/raspberry-pi-gpio-web-control/src/master/
+<https://bitbucket.org/sbub/raspberry-pi-gpio-web-control/src/master/>
 
-Raspi Pinout guide:  https://pinout.xyz/
+Raspi Pinout guide:  <https://pinout.xyz/>
 
-VNC Client: https://www.realvnc.com/de/connect/download/viewer/windows/ 
+VNC Client: <https://www.realvnc.com/de/connect/download/viewer/windows/>
 
 Raspbian image Download: https://www.raspberrypi.org/downloads/raspbian/ 
 
@@ -46,38 +46,37 @@ https://tutorials-raspberrypi.de/raspberry-pi-remote-desktop-verbindung/
 
 https://pimylifeup.com/raspberry-pi-ebook-server/
 
-
 https://www.raspberrypi.org/blog/programming-pi-zero-usb/
 
 (Video für Setup)
 
-https://blog.gbaman.info
+<https://blog.gbaman.info>
 
-RASPI ZERO Programming over usb https://blog.gbaman.info/?p=699#comment-189547 
+RASPI ZERO Programming over usb <https://blog.gbaman.info/?p=699#comment-189547>
 
-Setting up Pi Zero OTG - The quick way (No USB keyboard, mouse, HDMI monitor needed, WIn - install Bonjour :-( ) https://gist.github.com/gbaman/975e2db164b3ca2b51ae11e45e8fd40a 
+Setting up Pi Zero OTG - The quick way 
+(No USB keyboard, mouse, HDMI monitor needed, Win - install Bonjour :-( ) <https://gist.github.com/gbaman/975e2db164b3ca2b51ae11e45e8fd40a> 
 
-https://projects.raspberrypi.org/en/projects/see-like-a-bat
+<https://projects.raspberrypi.org/en/projects/see-like-a-bat>
 
-https://curriculum.raspberrypi.org/ 
+<https://curriculum.raspberrypi.org/> 
 
+<https://makemypi.wordpress.com/2018/02/19/iot-with-influxdb-telegraph-and-grafana-on-the-raspberry-pi-3/>
 
-https://makemypi.wordpress.com/2018/02/19/iot-with-influxdb-telegraph-and-grafana-on-the-raspberry-pi-3/
+<https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana>
 
-https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana
+<https://blog.helmutkarger.de/category/projekte/raspberry-video-camera/> 
 
-https://blog.helmutkarger.de/category/projekte/raspberry-video-camera/ 
-
-https://books.google.de/books?id=WNh2DwAAQBAJ&pg=PT4&lpg=PT4&dq=isbn+978-3-645-22268-6&source=bl&ots=RNrS801o-F&sig=ACfU3U1XS6V1yo61cNHUt6Dy0QYip6YiBA&hl=de&sa=X&ved=2ahUKEwiLx4LHw6vnAhUdBGMBHZoiAlAQ6AEwAnoECAwQAQ#v=onepage&q=isbn%20978-3-645-22268-6&f=false
+>https://books.google.de/books?id=WNh2DwAAQBAJ&pg=PT4&lpg=PT4&dq=isbn+978-3-645-22268-6&source=bl&ots=RNrS801o-F&sig=ACfU3U1XS6V1yo61cNHUt6Dy0QYip6YiBA&hl=de&sa=X&ved=2ahUKEwiLx4LHw6vnAhUdBGMBHZoiAlAQ6AEwAnoECAwQAQ#v=onepage&q=isbn%20978-3-645-22268-6&f=false>
 
 
 ## Rpi Zero WH 
 
-https://www.pollin.de/p/raspberry-pi-zero-wh-mit-bestuecktem-header-810885 
+<https://www.pollin.de/p/raspberry-pi-zero-wh-mit-bestuecktem-header-810885> 
 
-https://www.reichelt.de/raspberry-pi-zero-wh-v-1-1-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero-wh-p222531.html
+<https://www.reichelt.de/raspberry-pi-zero-wh-v-1-1-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero-wh-p222531.html>
 
-https://blog.unixweb.de/raspberry-pi-zero-w-und-die-otg-funktion/
+<https://blog.unixweb.de/raspberry-pi-zero-w-und-die-otg-funktion/>
 
 
 
@@ -103,19 +102,22 @@ PIBakery https://www.pibakery.org/
 
 # Project EDU 
 
-4-5 Gruppen, (Analog-Schalter, Ampel 1-4)
-5 Raspi , MicroSD- Karte , 
-5 x Stromversorgung 
-Netzterkverbindung ,
-1 WLAN - Router + IP + DHCP 
-5 x 3 LEDs (Rot / Gelb / Grün ) mit Vorwiederstand , 
-3 x 5 Verbindungskabel LED 
-5 x Schalter 
+    4-5 Gruppen, (Analog-Schalter, Ampel 1-4)
+    5 Raspi , MicroSD-Karte , 
+    5 x Stromversorgung 
+    Netzterkverbindung ,
+    1 WLAN - Router + IP + DHCP 
+    5 x 3 LEDs (Rot / Gelb / Grün ) mit Vorwiederstand , 
+    3 x 5 Verbindungskabel LED 
+    5 x Schalter 
 
-Software:
-ISO Image Rasberian 
-ISO Image Config : + Client Wlan zum WLANRouter + SSH-Server + RDP - Server, VPN Server 
-Putty + Winscp + RDP Client / REal - VNC Client 
+    Software:
+    ISO Image Rasberian 
+    ISO Image Config : + Client Wlan zum WLANRouter + SSH-Server + RDP - Server, VPN Server 
+    Putty + Winscp + RDP Client / REal - VNC Client 
 
 
 
+## WLAN
+
+<https://pi-buch.info/wlan-schon-vor-der-installation-konfigurieren/>

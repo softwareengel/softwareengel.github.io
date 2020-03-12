@@ -1,6 +1,8 @@
 ---
 layout: post
-title: github git blog jekyll-now Quickstart 
+title: "github git blog jekyll-now Quickstart"
+categories: [jekyll, search, blog]
+tags: [jekyll, search]
 ---
 
 Start git blog jekyll-now  search  categories docs
