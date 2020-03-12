@@ -1,6 +1,7 @@
 # InfluxDB 
 
-InfluxDB is the open source time series database
+InfluxDB is a open source time series database
+
 https://portal.influxdata.com/downloads/ 
 
 https://hub.docker.com/_/influxdb 
@@ -12,7 +13,7 @@ Telegraf is the open source server agent to help you collect metrics from your s
 
 https://www.influxdata.com/time-series-platform/telegraf/ 
 
-![Screenshot 2020 01 17 Influx Db Telefraf](pic/Screenshot-2020-01-17_influx-db-telefraf.png)
+![Screenshot 2020 01 17 Influx Db Telefraf](/pic/Screenshot-2020-01-17_influx-db-telefraf.png)
 
 
 
@@ -31,11 +32,11 @@ https://github.com/fg2it/grafana-on-raspberry/
 
 https://bintray.com/fg2it/deb/grafana-on-raspberry/v5.1.4
 
-![Screenshot 2020 01 17 Rpi Graphana Select Data Sources](pic/Screenshot-2020-01-17_Rpi_graphana-select-data-sources.png),
+![Screenshot 2020 01 17 Rpi Graphana Select Data Sources](/pic/Screenshot-2020-01-17_Rpi_graphana-select-data-sources.png),
 
-![Screenshot 2020 01 17 Rpi Grafana Dashboard](pic/Screenshot-2020-01-17_Rpi_grafana-dashboard.png)
+![Screenshot 2020 01 17 Rpi Grafana Dashboard](/pic/Screenshot-2020-01-17_Rpi_grafana-dashboard.png)
 
-![Screenshot 2020 01 17 Rpi Grafana Explore](pic/Screenshot-2020-01-17_Rpi_grafana-explore.png)
+![Screenshot 2020 01 17 Rpi Grafana Explore](/pic/Screenshot-2020-01-17_Rpi_grafana-explore.png)
 
 
 # Grafana + Telegraf + Influx 
@@ -48,19 +49,19 @@ http://padcom13.blogspot.com/2015/12/influxdb-telegraf-and-grafana-on.html
 
 Webinterface geht nur bis Version 1.5 (?!) 
 
-![Screenshot 2020 01 21 Rpi Influx D B Webinterface](pic/Screenshot-2020-01-21_Rpi-influxDB-webinterface.png)
+![Screenshot 2020 01 21 Rpi Influx D B Webinterface](/pic/Screenshot-2020-01-21_Rpi-influxDB-webinterface.png)
 
 ## Chonograf 
 
 https://portal.influxdata.com/downloads/ 
 
-![Screenshot 2020 01 21 Rpi Chohograph Influx D B Hostlist](pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB-hostlist.png)
+![Screenshot 2020 01 21 Rpi Chohograph Influx D B Hostlist](/pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB-hostlist.png)
 
-![Screenshot 2020 01 21 Rpi Chohograph Influx D B](pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB.png)
+![Screenshot 2020 01 21 Rpi Chohograph Influx D B](/pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB.png)
 
-![Screenshot 2020 01 21 Rpi Chohograph Influx D B Data Graph](pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB-data-graph.png)
+![Screenshot 2020 01 21 Rpi Chohograph Influx D B Data Graph](/pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB-data-graph.png)
 
-![Screenshot 2020 01 21 Rpi Chronograf Influx D B Admin](pic/Screenshot-2020-01-21_Rpi-chronograf-influxDB-admin.png)
+![Screenshot 2020 01 21 Rpi Chronograf Influx D B Admin](/pic/Screenshot-2020-01-21_Rpi-chronograf-influxDB-admin.png)
 
 
 ## Python loggin Skript für influxDB
@@ -69,7 +70,7 @@ https://engineer.john-whittington.co.uk/2016/11/raspberry-pi-data-logger-influxd
 
 Feeigaben Dev-Netz 
 
-![Screenshot 2020 01 21 Rpi Dev Netz](pic/Screenshot-2020-01-21_Rpi-DevNetz.png)
+![Screenshot 2020 01 21 Rpi Dev Netz](/pic/Screenshot-2020-01-21_Rpi-DevNetz.png)
 
 
 # memcached 
