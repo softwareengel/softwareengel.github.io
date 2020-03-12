@@ -60,9 +60,9 @@ Message your customers,
 they'll love you for it.
 Monitor and chat with the visitors on your website, mobile app or from a free customizable page.
 
-https://www.tawk.to/
+<https://www.tawk.to/>
 
-http://www.netzmafia.de/skripten/hardware/RasPi/RasPi_GPIO.html 
+
 
 
 
