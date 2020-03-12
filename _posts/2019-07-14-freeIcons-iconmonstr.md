@@ -3,5 +3,5 @@
 https://iconmonstr.com/
 
 
-![Screenshot](./pic/free-icons-on-the-web-iconmonstr.png)
+![Screenshot](/pic/free-icons-on-the-web-iconmonstr.png)
  
