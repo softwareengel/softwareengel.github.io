@@ -23,16 +23,20 @@ Default Login: pi, defaultp Pass: raspberry
 ## Links 
 
 https://elinux.org/RPi_GPIO_Code_Samples
+
 http://cool-web.de/raspberry/den-raspberry-pi-ueber-die-wiringpi-api-in-c-programmieren.htm
+
 http://cool-web.de/raspberry/erste-schritte-mit-gpio-und-led.htm#gpio
+
 https://github.com/WiringPi/WiringPi/blob/master/wiringPi/wiringPi.h
 
 https://bitbucket.org/sbub/raspberry-pi-gpio-web-control/src/master/
-https://pinout.xyz/# Rapi Pinout guide 
 
-https://www.realvnc.com/de/connect/download/viewer/windows/ VPNC Client 
+Raspi Pinout guide:  https://pinout.xyz/# 
 
-https://www.raspberrypi.org/downloads/raspbian/ Raspbian image Download 
+VNC Client: https://www.realvnc.com/de/connect/download/viewer/windows/ 
+
+Raspbian image Download: https://www.raspberrypi.org/downloads/raspbian/ 
 
 https://tutorials-raspberrypi.de/raspberry-pi-einstieg-wie-starte-ich/ 
 
@@ -44,14 +48,17 @@ https://pimylifeup.com/raspberry-pi-ebook-server/
 
 
 https://www.raspberrypi.org/blog/programming-pi-zero-usb/
+
 (Video für Setup)
 
 https://blog.gbaman.info
-https://blog.gbaman.info/?p=699#comment-189547 RASPI ZERO Programming over usb 
 
-https://gist.github.com/gbaman/975e2db164b3ca2b51ae11e45e8fd40a Setting up Pi Zero OTG - The quick way (No USB keyboard, mouse, HDMI monitor needed)
+RASPI ZERO Programming over usb https://blog.gbaman.info/?p=699#comment-189547 
+
+Setting up Pi Zero OTG - The quick way (No USB keyboard, mouse, HDMI monitor needed, WIn - install Bonjour :-( ) https://gist.github.com/gbaman/975e2db164b3ca2b51ae11e45e8fd40a 
 
 https://projects.raspberrypi.org/en/projects/see-like-a-bat
+
 https://curriculum.raspberrypi.org/ 
 
 
