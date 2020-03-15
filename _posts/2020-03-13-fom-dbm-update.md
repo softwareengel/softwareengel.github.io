@@ -9,7 +9,7 @@ Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 g
 * Am Freitag, dem 13. habe ich auch erst von der Schließung des Studienzentrums erfahren. Entsprechend hatte ich keine Vorbereitungszeit für die neue Organisationsform "Teleteaching". 
 * Im Studienzentrum war ich vor Ort, da ich die Infrastruktur schnelles Internet und Tests mit ein paar Web - Konferenz-Tools machen wollte. Das Studienzentrum / alle Räume sind aber auch für Dozenten geschlossen. 
 
-* Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - zu vermitteln. Es wird (Stand heute 14.03.20200) wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich willkommen... aktueller Stand der Tools: s. <2020-03-13-fom-corona-remote-edu.md>
+* Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - zu vermitteln. Es wird (Stand heute 14.03.20200) wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich willkommen... aktueller Stand der Tools: s. </fom-corona-remote-edu>
 
 
 
