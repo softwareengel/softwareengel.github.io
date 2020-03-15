@@ -3,6 +3,8 @@ layout: post
 title: "Project Rqaspberry Pi Zero EDUcation"
 ---
 
+Raspi startup for Education : connected traffic lights 
+
 # Project Rqaspberry Pi Zero EDUcation  
 
     4-5 Gruppen, (Analog-Schalter, Ampel 1-4)

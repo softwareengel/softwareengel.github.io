@@ -1,9 +1,11 @@
----
+﻿---
 layout: post 
 title: "github git blog jekyll-now Quickstart 2"
 ---
 
-Start git blog jekyll-now  search  categories docs V9
+Start git blog jekyll-now  search  categories docs V10
+use UTF8 !!
+
 
 # git blog jekyll-now
 
@@ -28,7 +30,7 @@ Simple Search in Jekyll [https://github.com/christian-fei/Simple-Jekyll-Search](
 
 ## Dev Local 
 
-f�r Dev und OPs Path auf "/" setzten dunrch subst z.B. auf Laufwerk L
+für Dev und OPS Path auf "/" setzten dunrch subst z.B. auf Laufwerk L
 
     subst L: c:\src\git\softwareengel.github.io
 
