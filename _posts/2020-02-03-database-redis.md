@@ -25,6 +25,7 @@ https://www.mongodb.com/mongodb-3.6
 ### commands 
 
     db.enableFreeMonitoring()
+
 Startup -aus Zip: 
  
     mongod --dbpath ./data
