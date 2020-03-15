@@ -21,7 +21,9 @@ Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 
 
 - Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - zu vermitteln. Es wird (Stand heute 14.03.2020) wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich willkommen... aktueller Stand der Tools: s. fom-corona-remote-edu
 
-- 
+- Termine: 
+
+![2020 Termine Dbm](/pic/2020-Termine-dbm.png)
 
 # Bearbeitungsinhalt Termin 13.03.2020: Folie 92 - 124, Foliennummer 118-172 
 
