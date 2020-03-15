@@ -3,11 +3,11 @@ layout: post
 title: OBS Studio - Open Brodcast Studio 
 ---
 
-V2 
+Video / Screen und Audio Bradcasting in Video - File oder Live Stream 
 
 # OBS Studio - Open Brodcast Studio 
 
-Video / Screnn und Audio Bradcasting in Vidio - File oder in Live Streming Plattforo wie Twich / Youtube ...
+Video / Screen und Audio Bradcasting in Video - File oder in Live Streming Plattform wie Twich / Youtube ...
 
 https://obsproject.com/ 
 

@@ -39,6 +39,7 @@ https://mkyong.com/tutorials/java-mongodb-tutorials/
 SQL - Mongo Mapping chart 
 
 https://docs.mongodb.com/manual/reference/sql-comparison/
+
 ## c client 
 
 https://docs.mongodb.com/ecosystem/drivers/c/ 

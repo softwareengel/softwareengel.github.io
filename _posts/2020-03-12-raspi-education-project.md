@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post 
 title: "Project Rqaspberry Pi Zero EDUcation"
 ---
@@ -10,7 +10,7 @@ title: "Project Rqaspberry Pi Zero EDUcation"
     5 x Stromversorgung 
     Netzterkverbindung ,
     1 WLAN - Router + IP + DHCP 
-    5 x 3 LEDs (Rot / Gelb / Grün ) mit Vorwiederstand , 
+    5 x 3 LEDs (Rot / Gelb / GrÃ¼n ) mit Vorwiederstand , 
     3 x 5 Verbindungskabel LED 
     5 x Schalter 
 
@@ -62,7 +62,7 @@ Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWind
 
 ### VS CODE Remote DEv Extension 
 
-(funktioniert leider (noch ) nicht auf Raspi Zero (Arm V6)) soll März 2020 kommen 
+(funktioniert leider (noch ) nicht auf Raspi Zero (Arm V6)) soll MÃ¤rz 2020 kommen 
 
 ![Remote Sev Extension](/pic/remoteSevExtension.png)
 
@@ -124,7 +124,7 @@ Interactive Pinout <https://pinout.xyz/pinout/>
         
             if ("gruen" in self.path):
                 setLED(0,0,1)
-                self.wfile.write(bytes("<p> %s</p>" % "Grün", "utf-8"))
+                self.wfile.write(bytes("<p> %s</p>" % "GrÃ¼n", "utf-8"))
             else:
                 setLED(0,0,0)
                 self.wfile.write(bytes("</body></html>", "utf-8"))
