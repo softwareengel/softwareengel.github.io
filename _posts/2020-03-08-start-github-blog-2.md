@@ -31,3 +31,8 @@ Simple Search in Jekyll [https://github.com/christian-fei/Simple-Jekyll-Search](
 für Dev und OPs Path auf "/" setzten dunrch subst z.B. auf Laufwerk L
 
     subst L: c:\src\git\softwareengel.github.io
+
+## Online Editor 
+
+https://prose.io/
+
