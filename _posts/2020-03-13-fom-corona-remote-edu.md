@@ -27,3 +27,6 @@ Die Hochschulleitung hat heute in Abstimmung mit der Geschäftsführung die Einste
 
 ![Chat Audio Discord](../pic/chat-audio-discord.png)
 
+Audio - Konferenz funktioniert ohne Anmeldung / Screenshare als WebVersion leider nicht. 
+
+
