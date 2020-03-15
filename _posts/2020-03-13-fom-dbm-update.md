@@ -32,5 +32,3 @@ Lernhinweise und Fragen:
 - Erklären sie die Begriffe Schüssel, Schlüsselkandidat, Schüsselattribut und Primärschlüssel
 - Was passiert bei der 2. Normalform(NF)? 
 - Bearbeiten sie die Übung 2. NF 
-
-
