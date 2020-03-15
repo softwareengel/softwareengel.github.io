@@ -15,7 +15,7 @@ Kein Einlass, auch keine Räume zur Verfügung zum Test von schnellem Upload für d
 
 # Suche nach Tools
 
-OBS - Studio / Video -Adio - Aufnahme + Headset
+OBS - Studio / Video -Audio - Aufnahme + Headset
 
 Nginx könnte den Stream von OBS in Netz ohne dritte Intermediäre und Rechteproblematik für kleinen Kreis ins Netz streamen.
 

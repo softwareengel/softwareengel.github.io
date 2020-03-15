@@ -3,7 +3,7 @@ layout: post
 title: OBS Studio - Open Brodcast Studio 
 ---
 
-V1 
+V2 
 
 # OBS Studio - Open Brodcast Studio 
 
