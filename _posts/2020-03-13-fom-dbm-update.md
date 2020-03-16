@@ -10,7 +10,7 @@ Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 
 
 # Modul Datenbankmanagement 
 
-Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 (Dortmund)gebündelt.
+
 
 ## Organisatorisches 
 
@@ -18,17 +18,17 @@ Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 
 
 - Im Studienzentrum war ich vor Ort, da ich die Infrastruktur schnelles Internet und Tests mit ein paar Web - Konferenz-Tools machen wollte. Das Studienzentrum / alle Räume sind aber auch für Dozenten geschlossen. 
 
- - Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - vorzubereiten , zu planen und zu vermitteln. 
+ - Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - vorzubereiten , zu planen und beim Vermitteln zu unterstützen. 
 
 - (Stand 14.03.2020) Es könnte wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich Willkommen... 
 
-- ( Update Stand 16.03.2020) Es sind für Webinare nur die FOM-Server erlaubt. Zum austausch in virtuellen Kleingruppen mit Chat / Voice / Screen ist das m.E. weniger geeignet. Die FOM wird wohl WebEx Räume bereit stellen.
+- (Update Stand 16.03.2020) Es sind für Webinare nur die FOM-Server erlaubt. Zum austausch in virtuellen Kleingruppen mit Chat / Voice / Screen ist das m.E. weniger geeignet. Die FOM wird wohl WebEx Räume bereit stellen. 
 
-- Dementsprechen ist meine Empfehlung zum aktuellen Stand Discord (keine Installation, keine Anmeldung, Chat, Voice-Chat, Screenshare für Referent, mobile Integration, Hosted Server).  
+- Dementsprechen ist meine Empfehlung zum aktuellen Stand Discord (keine Installation, keine Anmeldung, Chat, Voice-Chat, Screenshare für Referent, mobile Integration, Hosted Server). Zum Chat auf den Kanal Datanbankmanagement ist hier die Einladung ab 16.3.2020 10:23h + 24h : https://discord.gg/q4fX3a
+
 
 
 ## Termine: 
-
 ![2020 Termine Dbm](/pic/2020-Termine-dbm.png)
 
 # Bearbeitungsinhalt Termin 13.03.2020: Folie 92 - 124, Foliennummer 118-172 
@@ -54,12 +54,9 @@ Methode: Eigenstudium , Webrecherche, Literaturstudium , wenn möglich (virtuell
 - Was passiert bei der 2. Normalform(NF)? 
 - Bearbeiten sie die Übung 2. NF 
 
-
-
-
 ## Literatur 
 
-Zur Vertiefung lesen sie folgende Kapitel 
+Zur Vertiefung lesen sie folgende Kapitel aus dem u.a. Buch von Steiner: 
 
 * Kap 3.1 das globale ER-Modell
 * Kap 3.2 Der Normalisierungsprozess 
@@ -68,6 +65,11 @@ Zur Vertiefung lesen sie folgende Kapitel
 
 # Nächster Termin 19.03.2020 
 
-Treffpunkt Virtuell, Uhrzeit und virtueller Treffpunkt wird hier noch bekannt gegeben. Inhaltlich werde ich versuchen auf Fragen zu klären. Es wird also keine Online - Vorlesung geben.
+Treffpunkt Virtuell; Uhrzeit und virtueller Treffpunkt wird noch bekannt gegeben. Inhaltlich werde ich versuchen Fragen zu klären. Es wird also keine Online - Vorlesung geben.
 
-Zum Chat auf den Kanal Datanbankmanagement ist hier die Einladung ab 16.3.2020 10:23h + 24h : https://discord.gg/q4fX3a
+## Vorbereitende Aufgaben:
+
+- Installation von Mysql - Server (root- Passwort merken!)
+
+- Installation von MySqlWorkbench 
+
