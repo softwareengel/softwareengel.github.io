@@ -63,5 +63,13 @@ Methode: Eigenstudium, Webrecherche, Literaturstudium, wenn möglich (virtuelle)
 - Lösen sie die Aufgabe auf Folie 69!
 
 
+## Literatur 
+
+- aktuell keine 
 
 
+# nächster Termin 18.03.2020 
+
+Treffpunkt Virtuell; Uhrzeit 18h, https://discord.gg/PByw25 
+ 
+Inhaltlich werde ich versuchen Fragen zu klären und Emails beantworten. Es wird also keine Online - Vorlesung geben. 
