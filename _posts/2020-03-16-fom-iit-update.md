@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Modul Datenbankmanagement 2020 Update
+title: Modul Industrielle Informationstechnik 2020 Update
 
 --- 
 
