@@ -6,11 +6,11 @@ title: Modul Geschäftsprozessmodellierung MS 2020 Update
 
 EDU - WebBasedTeaching 2020 - Improvisation 
 
-Hier werden die aktuellen Informationen für das Modul  Geschäftsprozessmodellierung 2020 gebündelt.
+Hier werden die aktuellen Informationen für das Modul  Geschäftsprozessmodellierung MS 2020 gebündelt.
 
 # Modul Geschäftsprozessmodellierung
 
-Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit dem Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Verfolgen sie bitte die neu eingetellten Hinweise im OC.
+Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit denen Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Verfolgen sie bitte die neu eingetellten Hinweise im OC.
 
 
 # Termine ohne Präsenzveranstaltung 
@@ -72,6 +72,9 @@ Inhaltlich werde ich versuchen konkrete Fragen zu klären und Emails beantworten
 
 # Literaturhinweise
 
- Kap 4 Organisation und Organisationsgestaltung in 
+Kap 4 Organisation und Organisationsgestaltung in 
+
+
+Hungenberg, Harald, and Torsten Wulf. 2015. Grundlagen der Unternehmensführung: Einführung für Bachelorstudierende. https://doi.org/10.1007/978-3-662-46997-2. 
 
 ![2020 Fom Bgp Lieteratur Unternehmensführung](/pic/2020-fom-bgp-lieteratur-unternehmensführung.png)

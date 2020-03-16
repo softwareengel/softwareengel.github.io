@@ -10,7 +10,7 @@ Hier werden die aktuellen Informationen für das Modul Industrielle Informations
 
 # Modul Industrielle Informationstechnik
 
-Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit dem Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Verfolgen sie bitte die neu eingetellten Hinweise im OC.
+Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit denen Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Verfolgen sie bitte die neu eingetellten Hinweise im OC.
 
 
 # Termine ohne Präsenzveranstaltung 
@@ -43,6 +43,7 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
  
 
 # Bearbeitungsinhalt Termin 16.03.2020: Seiten 30-49, Foliennummer 43-69
+Baerbeiten sie bitte die Folien 43 - 69 !
 
 Methode: Eigenstudium, Webrecherche, Literaturstudium, wenn möglich (virtuelle) Kleingruppenarbeit 
 
@@ -55,13 +56,13 @@ Methode: Eigenstudium, Webrecherche, Literaturstudium, wenn möglich (virtuelle)
 - Lösen sie die Übungsaufgabe auf der Folie 45! Was fällt ihnen auf? 
 - Wie werden Festkommazahlen im Dualsystem dargestellt? Wie werden aus Dezimalzahlen Festkomma-Dualzahlen errechnet? 
 - Lösen sie die Aufgabe auf Folie 50 
-- Recherchieren sie, wie Gleitkommazahlen ("IEEE754 ")  in modernen Rechnern dargestellt werden. Warum macht das Sinn, dass Apple und Microsoft, Intel und AMD die Zahlen so darstellen? 
+- Recherchieren sie, wie Gleitkommazahlen ("IEEE754 ")  in modernen Rechnern dargestellt werden. Warum macht es Sinn, dass Apple und Microsoft, Intel und AMD die Zahlen so darstellen? 
 - Erarbeiten sie sich die Gleitkomma-Darstellung (Floating Point IEE754) für einfache Genauigkeit!
 - IEEE754: Was bedeutet Bias? Was Exponent? Was Mantisse? Was ist das "Hidden Bit"? 
 - IEEE754: Was passiert, wenn man 1.1 + 2.2 berechnet? 
 - Lösen sie die Aufgaben auf Folie 62 und auf Folie 65 
 - Experimentieren sie mit dem Floating Point Konverter <https://www.h-schmidt.net/FloatConverter/IEEE754.html> 
-- Wie viele Ziechen hat die ASCII-Tabelle? 
+- Wie viele Zeichen hat die ASCII-Tabelle? wieviel Bit benötigt man zur Darstellung aller Zeichen? 
 - Lösen sie die Aufgabe auf Folie 69!
 
 
