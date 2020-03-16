@@ -18,9 +18,16 @@ Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 
 
 - Im Studienzentrum war ich vor Ort, da ich die Infrastruktur schnelles Internet und Tests mit ein paar Web - Konferenz-Tools machen wollte. Das Studienzentrum / alle Räume sind aber auch für Dozenten geschlossen. 
 
- Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - vorzubereiten , zu planen und zu vermitteln. Es wird (Stand heute 14.03.2020) wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich willkommen... aktueller Stand der Tools: s. </fom-corona-remote-edu>
+ - Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - vorzubereiten , zu planen und zu vermitteln. 
 
-- Termine: 
+- (Stand 14.03.2020) Es könnte wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich Willkommen... 
+
+- ( Update Stand 16.03.2020) Es sind für Webinare nur die FOM-Server erlaubt. Zum austausch in virtuellen Kleingruppen mit Chat / Voice / Screen ist das m.E. weniger geeignet. Die FOM wird wohl WebEx Räume bereit stellen.
+
+- Dementsprechen ist meine Empfehlung zum aktuellen Stand Discord (keine Installation, keine Anmeldung, Chat, Voice-Chat, Screenshare für Referent, mobile Integration, Hosted Server).  
+
+
+## Termine: 
 
 ![2020 Termine Dbm](/pic/2020-Termine-dbm.png)
 
@@ -51,8 +58,8 @@ Methode: Eigenstudium , Webrecherche, Literaturstudium , wenn möglich (virtuell
 
 
 Treffpunkt Virtuell, Uhrzeit und virtueller Treffpunkt wird hier noch bekannt gegeben. 
-## Literatur 
 
+## Literatur 
 
 Zur Vertiefung lesen sie folgende Kapitel 
 
