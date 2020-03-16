@@ -115,3 +115,10 @@ Geben Sie den Studierenden Literatur an die Hand, mit der sie die Vorlesungsthem
     Sie können in einem Webinar auch die Ergebnisse des Literaturstudiums oder anderer ergänzender Lehrmedien von den Studierenden präsentieren lassen. Beginnen Sie damit, sobald Sie sich selbst sicher im Umgang mit der Software fühlen.
 
     Sie finden Volltexte und Literatur(pakete) ggf. in dem Modulstoryboard Ihrer Modulleitung, im PLP-Medienpool und der Online-Literaturrecherche.
+
+
+# Discord 
+
+## Hinweistext 
+
+Willkommen im Kanal für Datenbankmanagement 2020. Hier kann man Chatten, Voice-Meetings machen und auch Fotos / Screens hochladen. Zum Voice-Chat  Lautsprecher einschalten , das Micro bitte nur zum Sprechen einschalten...

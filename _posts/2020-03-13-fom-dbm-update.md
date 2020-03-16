@@ -30,7 +30,7 @@ Hier werden die aktuellen Informationen für das Modul Datenbankmanagement 2020 
 
 - Eine Anleitung von Discord ist leider noch nicht fertig. Vielleicht kann hier jemand helfen... 
 
-- Das (Discord) ist nur eine zusätzliche Option, es steht jedem Frei diese Option zu nutzen. Der Kontakt zu mir per Mail mit konkreter Frage steht ihnen offen. 
+- Das (Discord) ist nur eine zusätzliche Option, es steht jedem frei diese Option zu nutzen. Der Kontakt zu mir per Mail mit konkreter Frage steht ihnen offen. 
 
 ## Termine: 
 ![2020 Termine Dbm](/pic/2020-Termine-dbm.png)
