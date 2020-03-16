@@ -45,7 +45,7 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
 
 # Bearbeitungsinhalt Termin 17.03.2020: Folie 40 - 56, Foliennummer 79 - 109  
 
-Bitte bearbeiten sie die Folien 79 - 109 
+Bitte bearbeiten sie die  Folien 79 - 109 aus dem Skript!
 
 ![2020 03 17 Fom Gpm Ms Bs Folien](/pic/2020-03-17-fom-gpm-ms-bs-folien.png)
 
@@ -69,3 +69,6 @@ Inhaltlich werde ich versuchen konkrete Fragen zu klären und Emails beantworten.
 Prozesskostenrechnung: Buch (s.u.) Kap 7 Prozesskostenrechnung für IT-Controller 
 ![2020 03 17 Fom Gpm Literatur It Controlling Gadatsch](/pic/2020-03-17-fom-gpm-literatur-it-controlling-gadatsch.png)
 
+VDI- Richtlinie VDI 4405 Prozesskosten 
+
+![2020 03 17 Vdi Richtlinie Prozesskostenrechnung](/pic/2020-03-17-vdi-richtlinie-prozesskostenrechnung.png)
