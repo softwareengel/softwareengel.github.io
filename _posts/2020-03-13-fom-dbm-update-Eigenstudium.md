@@ -10,7 +10,7 @@ Hier werden die aktuellen Informationen für das Modul Datenbankmanagement 2020 
 
 # Modul Datenbankmanagement 
 
-Liebe Studierende, ich bin derzeit dabei, Ihnen Hiinweise  zusammenzustellen, mit dem Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Verfolgen sie bitte die neu eingetellten Hinweise im OC.
+Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit dem Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Verfolgen sie bitte die neu eingetellten Hinweise im OC.
 
 
 ## Organisatorisches 
