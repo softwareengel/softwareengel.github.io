@@ -54,10 +54,8 @@ Methode: Eigenstudium , Webrecherche, Literaturstudium , wenn möglich (virtuell
 - Was passiert bei der 2. Normalform(NF)? 
 - Bearbeiten sie die Übung 2. NF 
 
-# Nächster Termin 19.03.2020 
 
 
-Treffpunkt Virtuell, Uhrzeit und virtueller Treffpunkt wird hier noch bekannt gegeben. 
 
 ## Literatur 
 
@@ -67,3 +65,9 @@ Zur Vertiefung lesen sie folgende Kapitel
 * Kap 3.2 Der Normalisierungsprozess 
 
 ![Literatur Grundkurs Datenbanken Steiner](/pic/literatur-grundkurs-datenbanken-steiner.png)
+
+# Nächster Termin 19.03.2020 
+
+Treffpunkt Virtuell, Uhrzeit und virtueller Treffpunkt wird hier noch bekannt gegeben. Inhaltlich werde ich versuchen auf Fragen zu klären. Es wird also keine Online - Vorlesung geben.
+
+Zum Chat auf den Kanal Datanbankmanagement ist hier die Einladung ab 16.3.2020 10:23h + 24h : https://discord.gg/q4fX3a
