@@ -33,7 +33,7 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
 
 - (Update Stand 16.03.2020) Es sind für Webinare nur die FOM-Server erlaubt. Zum Austausch in virtuellen Kleingruppen mit Chat / Voice / Screen ist das m.E. weniger geeignet. Die FOM wird wohl bald WebEx Räume bereitstellen. 
 
-- Dementsprechend lautet meine Empfehlung zum aktuellen Stand Discord (keine Installation(WebApp im Browser), ohne  Anmeldung nutzbar, Text-Chat + Historie, **Voice-Chat**, Screenshare für Referent, **mobile Integration**, Hosted Server). Zum Chat auf den Kanal IIT ist hier die Einladung ab 16.3.2020 10:23h + 24h : <https://discord.gg/C75B9D>
+- Dementsprechend lautet meine Empfehlung zum aktuellen Stand Discord (keine Installation(WebApp im Browser), ohne  Anmeldung nutzbar, Text-Chat + Historie, **Voice-Chat**, Screenshare für Referent, **mobile Integration**, Hosted Server). Zum Chat auf den Kanal GPM MS ist hier die Einladung ab 16.3.2020 10:23h + 24h : <https://discord.gg/6ncWV2>
 
 - Versuchen sie sich in virtuellen Kleingruppen zu organisieren (zeitliche Abstimmung) und sich gegenseitig beim Lernen zu unterstützen. Inbes. beim Erarbeiten von praktischen Themen kommt man m.E. in einer Gruppe schneller zu einem Ergebnis. 
 

@@ -27,7 +27,7 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
 
 - (Update Stand 16.03.2020) Es sind für Webinare nur die FOM-Server erlaubt. Zum Austausch in virtuellen Kleingruppen mit Chat / Voice / Screen ist das m.E. weniger geeignet. Die FOM wird wohl bald WebEx Räume bereitstellen. 
 
-- Dementsprechend lautet meine Empfehlung zum aktuellen Stand Discord (keine Installation(WebApp im Browser), ohne  Anmeldung nutzbar, Text-Chat + Historie, **Voice-Chat**, Screenshare für Referent, **mobile Integration**, Hosted Server). Zum Chat auf den Kanal Datenbankmanagement ist hier die Einladung ab 16.3.2020 10:23h + 24h : https://discord.gg/q4fX3a
+- Dementsprechend lautet meine Empfehlung zum aktuellen Stand Discord (keine Installation(WebApp im Browser), ohne  Anmeldung nutzbar, Text-Chat + Historie, **Voice-Chat**, Screenshare für Referent, **mobile Integration**, Hosted Server). Zum Chat auf den Kanal Datenbankmanagement ist hier die Einladung ab 16.3.2020 10:23h + 24h : <https://discord.gg/K5ssCW>
 
 - Versuchen sie sich in virtuellen Kleingruppen zu organisieren (zeitliche Abstimmung) und sich gegenseitig beim Lernen zu unterstützen. Inbes. beim Erarbeiten von praktischen Themen kommt man m.E. in einer Gruppe schneller zu einem Ergebnis. 
 
@@ -61,7 +61,7 @@ Methode: Eigenstudium , Webrecherche, Literaturstudium , wenn möglich (virtuell
 - Was passiert bei der 2. Normalform(NF)? 
 - Bearbeiten sie die Übung 2. NF 
 
-## Literatur 
+## Literaturhinweise 
 
 Zur Vertiefung lesen sie folgende Kapitel aus dem u.a. Buch von Steiner: 
 
