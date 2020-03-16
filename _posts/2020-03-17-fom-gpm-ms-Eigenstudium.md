@@ -72,6 +72,6 @@ Inhaltlich werde ich versuchen konkrete Fragen zu klären und Emails beantworten
 
 # Literaturhinweise
 
- Kap 4 Organisation und Organisationsgestaltung 
+ Kap 4 Organisation und Organisationsgestaltung in 
 
 ![2020 Fom Bgp Lieteratur Unternehmensführung](/pic/2020-fom-bgp-lieteratur-unternehmensführung.png)
