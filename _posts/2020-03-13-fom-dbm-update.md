@@ -6,7 +6,7 @@ title: Modul Datenbankmanagement 2020 Update
 
 EDU - WebBasedTeaching 2020 - Improvisation 
 
-Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 gebündelt.
+Hier werden die aktuellen Informationen für das Modul Datenbankmanagement 2020 gebündelt.
 
 # Modul Datenbankmanagement 
 
@@ -18,14 +18,17 @@ Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 
 
 - Im Studienzentrum war ich vor Ort, da ich die Infrastruktur schnelles Internet und Tests mit ein paar Web - Konferenz-Tools machen wollte. Das Studienzentrum / alle Räume sind aber auch für Dozenten geschlossen. 
 
- - Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - vorzubereiten , zu planen und beim Vermitteln zu unterstützen. 
+ - Die geplante Kontaktzeit werde ich versuchen zu nutzen, um Inhalte - online - vorzubereiten, zu planen und beim Vermitteln zu unterstützen und  auf konkrete Fragen per Email antworten.
 
 - (Stand 14.03.2020) Es könnte wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich Willkommen... 
 
-- (Update Stand 16.03.2020) Es sind für Webinare nur die FOM-Server erlaubt. Zum austausch in virtuellen Kleingruppen mit Chat / Voice / Screen ist das m.E. weniger geeignet. Die FOM wird wohl WebEx Räume bereit stellen. 
+- (Update Stand 16.03.2020) Es sind für Webinare nur die FOM-Server erlaubt. Zum Austausch in virtuellen Kleingruppen mit Chat / Voice / Screen ist das m.E. weniger geeignet. Die FOM wird wohl bald WebEx Räume bereitstellen. 
 
-- Dementsprechen ist meine Empfehlung zum aktuellen Stand Discord (keine Installation, keine Anmeldung, Chat, Voice-Chat, Screenshare für Referent, mobile Integration, Hosted Server). Zum Chat auf den Kanal Datanbankmanagement ist hier die Einladung ab 16.3.2020 10:23h + 24h : https://discord.gg/q4fX3a
+- Dementsprechend ist meine Empfehlung zum aktuellen Stand ist Discord (keine Installation(WebApp im Browser), ohne  Anmeldung nutzbar, Text-Chat + Historie, **Voice-Chat**, Screenshare für Referent, **mobile Integration**, Hosted Server). Zum Chat auf den Kanal Datenbankmanagement ist hier die Einladung ab 16.3.2020 10:23h + 24h : https://discord.gg/q4fX3a
 
+- Versuchen sie sich in virtuellen Kleingruppen zu organisieren (zeitliche Abstimmung) und sich gegenseitig beim Lernen zu unterstützen. Inbes. beim Erarbeiten von praktischen Themen kommt m.E. man evtl. in einer Gruppe schneller zu einem Ergebnis. 
+
+- Eine Anleitung von Discord ist leider noch nicht fertig. Vielleicht kann hier jemand helfen... 
 
 
 ## Termine: 
@@ -72,4 +75,5 @@ Treffpunkt Virtuell; Uhrzeit und virtueller Treffpunkt wird noch bekannt gegeben
 - Installation von Mysql - Server (root- Passwort merken!)
 
 - Installation von MySqlWorkbench 
+
 
