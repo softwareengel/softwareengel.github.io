@@ -30,7 +30,7 @@ Nginx könnte den Stream von OBS in Netz ohne dritte Intermediäre und Rechtepro
 
 * Standortproblem: Privat ist zu langsames Upload-Internet , also kein Streaming (auch mit weniger Ton / Bild - Qualität) möglich - nur "Standbild" wie Folie 
 
-![2020 03 13 Fom Streaming Poc](../pic/2020-03-13-fom-streaming-poc.png)
+![2020 03 13 Fom Streaming Poc](/pic/2020-03-13-fom-streaming-poc.png)
 
 
 
@@ -43,6 +43,7 @@ Die Hochschulleitung hat heute in Abstimmung mit der Geschäftsführung die Eins
 ![Chat Audio Discord](../pic/chat-audio-discord.png)
 
 Audio - Konferenz funktioniert ohne Anmeldung / Screenshare als WebVersion leider nicht.
+![Discord Video Streming Mit Anwendung](/pic/Discord Video Streming mit Anwendung.png)
 
 # Hinweise FOM 
 ... 
@@ -114,4 +115,3 @@ Geben Sie den Studierenden Literatur an die Hand, mit der sie die Vorlesungsthem
     Sie können in einem Webinar auch die Ergebnisse des Literaturstudiums oder anderer ergänzender Lehrmedien von den Studierenden präsentieren lassen. Beginnen Sie damit, sobald Sie sich selbst sicher im Umgang mit der Software fühlen.
 
     Sie finden Volltexte und Literatur(pakete) ggf. in dem Modulstoryboard Ihrer Modulleitung, im PLP-Medienpool und der Online-Literaturrecherche.
-

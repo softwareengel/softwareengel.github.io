@@ -18,7 +18,7 @@ Hier werden die aktuellen Informationen für das Modul Datanbankmanagement 2020 
 
 - Im Studienzentrum war ich vor Ort, da ich die Infrastruktur schnelles Internet und Tests mit ein paar Web - Konferenz-Tools machen wollte. Das Studienzentrum / alle Räume sind aber auch für Dozenten geschlossen. 
 
-- Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - zu vermitteln. Es wird (Stand heute 14.03.2020) wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich Willkommen... 
+ Die geplante Kontaktzeit werde ich versuchen zu Nutzen, um Inhalte - online - vorzubereiten , zu planen und zu vermitteln. Es wird (Stand heute 14.03.2020) wohl einen Videostream zu Twitch geben und eine Tonspur auf Discord. Hinweise und Hilfe für ein Ad-Hoc-Teleteaching mit Null-Installation und ohne kommerziellen Intermediär für Teilnehmer mit langsamer Internetverbindung sind herzlich willkommen... aktueller Stand der Tools: s. </fom-corona-remote-edu>
 
 - Termine: 
 
@@ -47,7 +47,12 @@ Methode: Eigenstudium , Webrecherche, Literaturstudium , wenn möglich (virtuell
 - Was passiert bei der 2. Normalform(NF)? 
 - Bearbeiten sie die Übung 2. NF 
 
+# Nächster Termin 19.03.2020 
+
+
+Treffpunkt Virtuell, Uhrzeit und virtueller Treffpunkt wird hier noch bekannt gegeben. 
 ## Literatur 
+
 
 Zur Vertiefung lesen sie folgende Kapitel 
 
@@ -55,5 +60,3 @@ Zur Vertiefung lesen sie folgende Kapitel
 * Kap 3.2 Der Normalisierungsprozess 
 
 ![Literatur Grundkurs Datenbanken Steiner](/pic/literatur-grundkurs-datenbanken-steiner.png)
- 
-
