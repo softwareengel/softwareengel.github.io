@@ -116,9 +116,26 @@ Geben Sie den Studierenden Literatur an die Hand, mit der sie die Vorlesungsthem
 
     Sie finden Volltexte und Literatur(pakete) ggf. in dem Modulstoryboard Ihrer Modulleitung, im PLP-Medienpool und der Online-Literaturrecherche.
 
+## FOM Hinweistext 2020-03-16
+
+„Liebe Studierende, ich bin derzeit dabei, Ihnen ein Paket zusammenzustellen, mit dem Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Spätestens beginnend ab dem xx. werden Sie hier Material und Hinweise zu Ihrer Verwendung finden. Mein Ziel ist, Sie notfalls auch rein über Fernlehre auf die in diesem Semester stattfindende Prüfung vorzubereiten, damit Sie das Semester ohne Zeitverzug absolvieren können. Für Fragen erreichen Sie mich über xx (Mailadresse/OC-Forum o.ä.)“
+
+
+Liebe Studierende, ich bin derzeit dabei, Ihnen ein Paket zusammenzustellen, mit dem Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Spätestens beginnend ab dem xx. werden Sie hier Material und Hinweise zu Ihrer Verwendung finden. Mein Ziel ist, Sie notfalls auch rein über Fernlehre auf die in diesem Semester stattfindende Prüfung vorzubereiten, damit Sie das Semester ohne Zeitverzug absolvieren können. Für Fragen erreichen Sie mich über xx (Mailadresse/OC-Forum o.ä.)
+
+
+
+Liebe Studierende, ich bin derzeit dabei, Ihnen Hiinweise  zusammenzustellen, mit dem Sie die Lernziele erreichen können, die in unserem Modul für den Zeitraum vorgesehen waren, in denen die Präsenzveranstaltungen nun entfallen müssen. Die Situation ist für uns alle außergewöhnlich. Bitte haben Sie Verständnis, dass es noch ein wenig dauern wird, bis der Online-Campus vollständig für Ihr Selbstlernen verwendet werden kann. Verfolgen sie bitte die neu eingetellten Hinweise im OC.
+
+
+
+
+
 
 # Discord 
 
 ## Hinweistext 
 
 Willkommen im Kanal für Datenbankmanagement 2020. Hier kann man Chatten, Voice-Meetings machen und auch Fotos / Screens hochladen. Zum Voice-Chat  Lautsprecher einschalten , das Micro bitte nur zum Sprechen einschalten...
+
+
