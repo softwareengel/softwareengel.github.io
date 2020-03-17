@@ -1,11 +1,11 @@
 ﻿---
 layout: post
-title: fom web based teaching hinweise 
+title: Fom Web-Based-Teaching Hinweise 
 
 --- 
 
 Stand: 17.03.2020 (PLP Termine, Link Termine)
-aktuellste Version: <>
+aktuellste Version: <https://softwareengel.github.io/fom-webbasedteaching-hinweise/>
 
 # Web-based-Teaching 
 
