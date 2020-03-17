@@ -22,15 +22,15 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise zusammenzustellen, mit 
 
 # Bearbeitungsinhalte
 
-## Termin 17.03.2020: Folie 40 - 56, Foliennummer 79 - 109  
-
-Bitte bearbeiten sie die  Folien 79 - 109 aus dem Skript!
-
-![2020 03 17 Fom Gpm Ms Bs Folien](/pic/2020-03-17-fom-gpm-ms-bs-folien.png)
-
 Methode: Eigenstudium, Webrecherche, Literaturstudium, wenn möglich (virtuelle) Kleingruppenarbeit <https://discord.gg/Adcm8Ht>
 
 Inhaltlich werde ich versuchen konkrete Fragen zu klären und Emails beantworten. Es wird also keine Online - Vorlesung geben.
+
+
+## Termin 17.03.2020 12.30h: Folie 40 - 56, Foliennummer 79 - 109  
+Bitte bearbeiten sie die  Folien 79 - 109 aus dem Skript!
+
+![2020 03 17 Fom Gpm Ms Bs Folien](/pic/2020-03-17-fom-gpm-ms-bs-folien.png)
 
 Treffpunkt heute, 17.03.2020 um 12.30h: <https://discord.gg/Adcm8Ht>
 
