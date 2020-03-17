@@ -13,11 +13,11 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
 
 ## Organisatorisches 
 
- Am Freitag, dem 13. habe ich auch erst von der Schließung des Studienzentrums erfahren. Entsprechend hatte ich keine Vorbereitungszeit für die neue Organisationsform "Teleteaching".
+ - Am Freitag, dem 13. habe ich auch erst von der Schließung des Studienzentrums erfahren. Entsprechend hatte ich keine Vorbereitungszeit für die neue Organisationsform "Teleteaching".
 
 - Im Studienzentrum war ich vor Ort, da ich die Infrastruktur schnelles Internet und Tests mit ein paar Web - Konferenz-Tools machen wollte. Das Studienzentrum / alle Räume sind aber auch für Dozenten geschlossen. 
 
- - Die geplante Kontaktzeit werde ich versuchen zu nutzen, um Inhalte - online - vorzubereiten, zu planen und beim Vermitteln zu unterstützen und  auf konkrete Fragen per Email antworten.
+- Die geplante Kontaktzeit werde ich versuchen zu nutzen, um Inhalte - online - vorzubereiten, zu planen und beim Vermitteln zu unterstützen und  auf konkrete Fragen per Email antworten.
 
 - Ihre Aufgabe wird es sein sich im Eigenstudium die Themen selbst anzueignen. Dazu gebe ich Ihnen entsprechende Lernhinweise für jeden Termin (s.u.).
 
@@ -31,11 +31,11 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
 
 - Eine Anleitung von Discord ist leider noch nicht fertig. Vielleicht kann hier jemand helfen... 
 
-- Um einfach teilnehmen zu können, ohne Störgeräusche ist ein Headset sehr zu empfehlen. Bitte besorgen sie sich ein Headset mit Mikrofon. Schalten sie ihr Mikrofon auf stumm, wenn sie nichts sagen möchten - dementsprechend sind es weniger Nebengeräusche bei der geneinsamen Arbeitszeit. 
+- Um einfach teilnehmen zu können, ohne Störgeräusche ist ein Headset sehr zu empfehlen. Bitte besorgen sie sich ein Headset mit Mikrofon. Schalten sie ihr Mikrofon auf stumm, wenn sie nichts sagen möchten - dementsprechend sind es weniger Nebengeräusche bei der gemeinsamen Arbeitszeit. 
 
-- Das (Discord) ist nur eine zusätzliche Option, es steht jedem frei diese Option zu nutzen. Der Kontakt zu mir per Mail mit konkreter Frage steht ihnen offen. 
+- Update Stand 17.03.2020 eine Webex-Lizenz ist vohanden, Setup und Tests müssen noch gemacht werden ... Das ist ein Tool , das nur für die Kontaktzeit mit mir zur verfügung steht. eine (virtuelle) Lerngruppe kann (soweit ich weiss) sich darüber nicht organiseren (für jeden Termin muss eine Einladung versendet werden)
 
-
+- Das Discord-Tool ist nur eine zusätzliche Option, es steht jedem frei diese Option zu nutzen. Der Kontakt zu mir per Mail mit konkreter Frage steht ihnen offen. 
 
 ## Geplanter Ablauf 
 
