@@ -33,7 +33,7 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
 
 - Um einfach teilnehmen zu können, ohne Störgeräusche ist ein Headset sehr zu empfehlen. Bitte besorgen sie sich ein Headset mit Mikrofon. Schalten sie ihr Mikrofon auf stumm, wenn sie nichts sagen möchten - dementsprechend sind es weniger Nebengeräusche bei der gemeinsamen Arbeitszeit. 
 
-- Update Stand 17.03.2020 eine Webex-Lizenz ist vohanden, Setup und Tests müssen noch gemacht werden ... Das ist ein Tool , das nur für die Kontaktzeit mit mir zur verfügung steht. eine (virtuelle) Lerngruppe kann (soweit ich weiss) sich darüber nicht organiseren (für jeden Termin muss eine Einladung versendet werden)
+- Update Stand 17.03.2020 eine Webex-Lizenz ist vorhanden, Setup und Tests müssen noch gemacht werden ... Das ist ein Tool , das nur für die Kontaktzeit mit mir zur Verfügung steht. eine (virtuelle) Lerngruppe kann (soweit ich weiß) sich darüber nicht organisieren (für jeden Termin muss eine Einladung versendet werden)
 
 - Das Discord-Tool ist nur eine zusätzliche Option, es steht jedem frei diese Option zu nutzen. Der Kontakt zu mir per Mail mit konkreter Frage steht ihnen offen. 
 
@@ -49,7 +49,8 @@ Das Verfahren lehnt sich an die Methode "Flipped Classroom" bzw. "Blended Learni
 
 - die Methoden zur Aneignung des Stoffs sind: Eigenstudium, Webrecherche, Literaturstudium, wenn möglich (virtuelle) Kleingruppenarbeit, u.a. 
 
-- im darauf folgenden Termin werden wir die Fragen aufgreifen und online besprechen (Voice Chat/ Screenshare). Dazu gebe ich jeweils einen Termin zur Besprechung aus. Das wird in der Regel der Beginn des geplanten Vorlesungs-Termins sein. Achten sie bitte auf die Terminhinweise im OC. Diese sind als Link mit entstrechendem Datum und Uhrzeit versehen. 
+- im darauf folgenden Termin werden wir die Fragen aufgreifen und online besprechen (Voice Chat/ Screenshare). Dazu gebe ich jeweils einen Termin zur Besprechung aus. Das wird in der Regel der Beginn des geplanten Vorlesungs-Termins sein. Achten sie bitte auf die Terminhinweise im OC. Diese sind als Link mit entsprechendem Datum und Uhrzeit versehen. 
 
 - Leider sind im PLP einige Termine der Vorlesung nicht richtig eingetragen. Damit sie die richtigen Aufgaben erkennen können, steht an jedem Eintrag ein Datum.  
+
 
