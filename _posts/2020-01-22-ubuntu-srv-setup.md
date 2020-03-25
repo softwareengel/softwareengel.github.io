@@ -1,4 +1,4 @@
-# Ubuntu ServerSeup
+ï»¿# Ubuntu ServerSeup
 
 - ubuntu 18.04.02 + 1GB Ram , 10 GB HDD
 - keyboard GER 
@@ -7,9 +7,9 @@
 
         sudo apt-get update
         sudo apt-get upgrade 
-- VBox Netzwerk NAT-Brücke - NET 10.0.2.X DHCP 
-- VBox Netzwerk Netzwerkbrücke für lokale Netz IP 
-- 
+- VBox Netzwerk NAT-BrÃ¼cke - NET 10.0.2.X DHCP 
+- VBox Netzwerk NetzwerkbrÃ¼cke fÃ¼r lokale Netz IP 
+ 
 
 ![2020 01 22 Ubuntu Srv Setup1](pic/2020-01-22-ubuntu-srv-setup1.png)
 
@@ -117,49 +117,50 @@ http://192.168.4.26:9090/graph
 
 ## GRaylog 
 
-https://www.graylog.org/ 
-https://hub.docker.com/r/graylog/graylog/
+<https://www.graylog.org/> 
+<https://hub.docker.com/r/graylog/graylog/>
 
-https://docs.graylog.org/en/3.1/pages/installation/docker.html#here
-https://packages.graylog2.org/appliances/ova 
+<https://docs.graylog.org/en/3.1/pages/installation/docker.html#here>
+<https://packages.graylog2.org/appliances/ova>
 
 ## ELK 
 
-https://github.com/pschiffe/rsyslog-elasticsearch-kibana 
+<https://github.com/pschiffe/rsyslog-elasticsearch-kibana> 
 
 ### Kibana
 
-https://www.elastic.co/guide/en/kibana/current/docker.html
+<https://www.elastic.co/guide/en/kibana/current/docker.html>
 
 ### ElasticSearch 
 
-https://hub.docker.com/_/elasticsearch/
+<https://hub.docker.com/_/elasticsearch/>
 
-https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docker.html
-https://github.com/elastic/elasticsearch
+<https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docker.html>
+<https://github.com/elastic/elasticsearch>
 
-https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/
-https://github.com/dockerfile/elasticsearch
-https://elk-docker.readthedocs.io/ 
+<https://opendistro.github.io/for-elasticsearch-docs/docs/install/docker/>
+<https://github.com/dockerfile/elasticsearch>
+<https://elk-docker.readthedocs.io/> 
 
 ### ElasticSearch Docker
 
-https://github.com/bahaaldine/docker-elasticsearch
+<https://github.com/bahaaldine/docker-elasticsearch>
 
 # Creating Your Docker Images
-In this section, I’ll explain in detail how to create one of your architecture application’s Docker image. You
-will see that the overall procedure is the same for every other application, so I’ll describe the creation of
+In this section, I'll explain in detail how to create one of your architecture application's Docker image. You
+will see that the overall procedure is the same for every other application, so I'll describe the creation of
 just one.
 For reference, you can find all the images on my GitHub repositories.
-• Elasticsearch: https://github.com/bahaaldine/docker-elasticsearch
-• Logstash: https://github.com/bahaaldine/docker-logstash
-• Logstash Forwarder: https://github.com/bahaaldine/dockerlogstash-forwarder
-• Kibana: https://github.com/bahaaldine/docker-kibana
-• Zookeeper: https://github.com/bahaaldine/docker-zookeeper
-• Apache Kafka: https://github.com/bahaaldine/docker-kafka
-• Apache Zookeeper for Kafka: https://github.com/bahaaldine/docker-zookeeper
-• Apache Spark: https://github.com/bahaaldine/docker-spark
+* Elasticsearch: https://github.com/bahaaldine/docker-elasticsearch
+* Logstash: https://github.com/bahaaldine/docker-logstash
++ Logstash Forwarder: https://github.com/bahaaldine/dockerlogstash-forwarder
+* Kibana: https://github.com/bahaaldine/docker-kibana
+* Zookeeper: https://github.com/bahaaldine/docker-zookeeper
+* Apache Kafka: https://github.com/bahaaldine/docker-kafka
+* Apache Zookeeper for Kafka: <https://github.com/bahaaldine/docker-zookeeper>
+* Apache Spark: <https://github.com/bahaaldine/docker-spark>
 
-Let’s now focus on creating an Elasticsearch Docker image and walking through the Dockerfile file,
+Let's now focus on creating an Elasticsearch Docker image and walking through the Dockerfile file,
 available here:
-https://github.com/bahaaldine/docker-elasticsearch/blob/master/Dockerfile
+<https://github.com/bahaaldine/docker-elasticsearch/blob/master/Dockerfile>
+
