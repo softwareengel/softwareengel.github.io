@@ -1,4 +1,4 @@
-# ec2 ami mit barefoot 
+﻿# ec2 ami mit barefoot 
 
 # launch ec2-instance - use ubuntu 18 
 ![](/pic/capture_012_18072019_175245.jpg)
@@ -13,7 +13,7 @@
 
 # clone barefoot 
 
-    git clone https://github.com/bmwcarit/barefoot.git 
+    git clone <https://github.com/bmwcarit/barefoot.git> 
 
 # Java 
 
@@ -70,6 +70,7 @@ sudo /etc/init.d/postgresql stop
 ![](/pic/capture_19072019_104949_003.jpg)
 
 # use tunnel in PGAdmin 
+
 ![](/pic/capture_26072019_124739_001.jpg)
 
 # config europe.properies

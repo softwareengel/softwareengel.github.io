@@ -1,5 +1,6 @@
 
 ## dotnet Tool NJsonSchema
+
 (https://github.com/RicoSuter/NJsonSchema)
 
 Tool zum erstellen von JsonSchema aus JsonData 
@@ -37,7 +38,7 @@ Tool zum erstellen von JsonSchema aus JsonData
 
 ## dotnet Tool NSwagStudio 
 
-https://github.com/RicoSuter/NSwag/wiki/NSwagStudio 
+<https://github.com/RicoSuter/NSwag/wiki/NSwagStudio> 
 
 Screenshot from web:
 ![screen from web](/pic/Screenshot_2019-07-17RicoSuterNSwag.png)

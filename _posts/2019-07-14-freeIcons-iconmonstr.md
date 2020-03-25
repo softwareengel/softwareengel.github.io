@@ -1,7 +1,6 @@
-# Free Icons - on the web 
+﻿# Free Icons - on the web 
 
-https://iconmonstr.com/
-
+<https://iconmonstr.com/>
 
 ![Screenshot](/pic/free-icons-on-the-web-iconmonstr.png)
  

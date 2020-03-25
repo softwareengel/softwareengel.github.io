@@ -1,17 +1,18 @@
-# Rail Map Matching - barefoot 
+﻿# Rail Map Matching - barefoot 
 
-https://github.com/bmwcarit/barefoot 
+<https://github.com/bmwcarit/barefoot> 
 
 ## Install 
 
 
 + Oracle VM Virtual Box 
-+ Ubuntu Linux Server: http://releases.ubuntu.com/18.04/ ; http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso 
++ Ubuntu Linux Server: <http://releases.ubuntu.com/18.04/> ; <http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso> 
 
 + VM Settings:
 ![VM Settings](/pic/capture_001_18072019_144944.jpg)
 
 ### config 
+
 #### rail-types.json:
 
     {
@@ -158,10 +159,6 @@ x0001-002-arnsberg.geojson
 #### Result 
 
 
-
-
-
-
 ### File out-track.geojson:
 
 
@@ -173,7 +170,7 @@ x0001-002-arnsberg.geojson
 
 ## Reference
 
-https://github.com/bmwcarit/barefoot 
+<https://github.com/bmwcarit/barefoot> 
 
 ![git barefoot](/pic/Screenshot_2019-07-18_bmwcarit_barefoot.png)
 

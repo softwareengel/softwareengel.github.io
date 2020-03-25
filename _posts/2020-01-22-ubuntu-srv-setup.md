@@ -1,4 +1,10 @@
-﻿# Ubuntu ServerSeup
+﻿---
+layout: post
+title: Ubuntu Server Setup 
+---
+
+
+# Ubuntu Server Setup
 
 - ubuntu 18.04.02 + 1GB Ram , 10 GB HDD
 - keyboard GER 
