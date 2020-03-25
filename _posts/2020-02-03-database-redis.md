@@ -2,7 +2,7 @@
 
 # Mongo 
 
-https://www.mongodb.com/mongodb-3.6
+<https://www.mongodb.com/mongodb-3.6>
 
 ## Docker install 
 
@@ -30,19 +30,19 @@ Startup -aus Zip:
  
     mongod --dbpath ./data
 
-Operators in Queries:  https://docs.mongodb.com/manual/reference/operator/query/
+Operators in Queries:  <https://docs.mongodb.com/manual/reference/operator/query/>
 
 ## Mogo Tutorials 
 
-https://mkyong.com/tutorials/java-mongodb-tutorials/ 
+<https://mkyong.com/tutorials/java-mongodb-tutorials/> 
 
 SQL - Mongo Mapping chart 
 
-https://docs.mongodb.com/manual/reference/sql-comparison/
+<https://docs.mongodb.com/manual/reference/sql-comparison/>
 
 ## c client 
 
-https://docs.mongodb.com/ecosystem/drivers/c/ 
+<https://docs.mongodb.com/ecosystem/drivers/c/> 
 
 ## java client 
 
@@ -72,7 +72,7 @@ https://docs.mongodb.com/ecosystem/drivers/c/
 
 ## Java Client Geo Search 
 
-https://gist.github.com/samklr/dee192f0cde5f322cc2a
+<https://gist.github.com/samklr/dee192f0cde5f322cc2a>
 
 
 
