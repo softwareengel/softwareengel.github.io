@@ -1,6 +1,6 @@
-# Powerpoint VBA 
+ï»¿# Powerpoint VBA 
 
-## Footer einfügen 
+## Footer einfÃ¼gen 
 
 	Option Explicit
 
@@ -26,7 +26,7 @@
 	   ftext1 = "Prof. "
 	   ftext2 = "Prof. "
 
-	   ftext3 = "Geschäftsprozessmodellierung"
+	   ftext3 = "GeschÃ¤ftsprozessmodellierung"
       
 		For Each s In ActivePresentation.Slides
 			'Footer soll erst sichtbar werden

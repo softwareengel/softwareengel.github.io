@@ -1,4 +1,4 @@
-# MySql / MariaDB 
+ï»¿# MySql / MariaDB 
 
 ## install Docker 
     
@@ -465,7 +465,7 @@
     "sync_master_info"	"0"
     "sync_relay_log"	"0"
     "sync_relay_log_info"	"0"
-    "system_time_zone"	"Mitteleuropäische Zeit"
+    "system_time_zone"	"Mitteleuropï¿½ische Zeit"
     "table_definition_cache"	"400"
     "table_open_cache"	"400"
     "thread_cache_size"	"0"
