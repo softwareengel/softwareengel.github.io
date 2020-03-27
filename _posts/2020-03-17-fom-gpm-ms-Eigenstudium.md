@@ -21,7 +21,7 @@ Liebe Studierende, ich bin derzeit dabei, Ihnen Hinweise  zusammenzustellen, mit
 
 # Bearbeitungsinhalt 
 
-## Termin 17.03.2020: Folie 11 - 38, Foliennummer 15-77  
+## Termin 17.03.2020: Seite 11-38, Foliennummer     
 
 Bitte bearbeiten sie die Folien 75 - 77 aus dem Skript!
 ![2020 03 17 Fom Gpm Ms Folien](../pic/2020-03-17-fom-gpm-ms-folien.png)
