@@ -5,7 +5,7 @@ title: "Project Rqaspberry Pi Zero EDUcation"
 
 Raspi startup for Education : connected traffic lights 
 
-# Project Rqaspberry Pi Zero EDUcation  
+# Project Raspberry Pi Zero EDUcation  
 
     4-5 Gruppen, (Analog-Schalter, Ampel 1-4)
     5 Raspi , MicroSD-Karte , 
@@ -43,6 +43,14 @@ Datei mit dem Namen "**wpa_supplicant.conf**" anlegen mit UNIX (LF) mit
     }
 
 
+## ssh putty 
+
+login: pi, pass: raspberry 
+
+## mc
+
+sudo apt-get install mc
+
 
 ## RDP 
 
@@ -62,9 +70,13 @@ Mac OS X <https://itunes.apple.com/de/app/microsoft-remote-desktop/id715768417?m
 
 Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWindowsToARaspberryPiUsingNETCoreOnARM.aspx>
 
-### VS CODE Remote DEv Extension 
+### VS CODE Remote Dev Extension 
 
 (funktioniert leider (noch ) nicht auf Raspi Zero (Arm V6)) soll März 2020 kommen 
+
+https://code.visualstudio.com/docs/remote/remote-overview
+
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
 
 ![Remote Sev Extension](/pic/remoteSevExtension.png)
 
@@ -80,6 +92,11 @@ Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWind
 
 Interactive Pinout <https://pinout.xyz/pinout/>
 
+## Python 2 / 3 
+
+Nicht genutzt: python -> python 2
+
+aktuell benutzt: python3 -> python 3 
 
 
 ### Python WebLed-Code 
