@@ -162,5 +162,7 @@ aktuell benutzt: python3 -> python 3
 ~~~
 ---
 
-![raspiScreen](/pic/screen-raspi-zero-webserver-led.png)
+![Screen Raspi Zero Webserver Led](/pic/screen-raspi-zero-webserver-led.png)
+
+![Screen Raspi Zero Webserver Led Console](/pic/screen-raspi-zero-webserver-led-console.png)
 
