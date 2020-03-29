@@ -1,6 +1,6 @@
 ﻿---
 layout: post 
-title: "Project Rqaspberry Pi Zero EDUcation"
+title: "Project Raspberry Pi Zero EDUcation"
 ---
 
 Raspi startup for Education : connected traffic lights 
