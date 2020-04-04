@@ -11,8 +11,17 @@ Graphql SPEC <http://spec.graphql.org/> , <http://spec.graphql.org/June2018/>
 
 <https://graphql.org/graphql-js/mutations-and-input-types/> 
 
+# Use GraphQL by API Tools
+
+GraphiQL    https://lucasconstantino.github.io/graphiql-online/ 
+
+
+GRaphQL Playground <https://www.graphqlbin.com/>
+
 
 ## Simple GraphQL - Client and Server Apollo JS 
+
+used by airbnb, cnbc
 
 <https://github.com/apollographql/graphql-tools> 
 
