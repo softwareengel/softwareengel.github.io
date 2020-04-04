@@ -1,30 +1,38 @@
 # GraphQL 
 
-https://graphql.org/
-
-https://landscape.graphql.org/
-
-https://graphql.org/learn/queries/ 
-
-https://graphql.org/graphql-js/mutations-and-input-types/ 
+Graphql SPEC <http://spec.graphql.org/> , <http://spec.graphql.org/June2018/>
 
 
-## Simple GraphQL - Server Apollo JS 
+<https://graphql.org/>
 
-https://github.com/apollographql/graphql-tools 
+<https://landscape.graphql.org/>
 
-https://github.com/apollographql/apollo-server/ 
+<https://graphql.org/learn/queries/> 
 
-https://www.apollographql.com/platform 
-
-https://www.apollographql.com/docs/apollo-server/ 
-
-https://www.apollographql.com/docs/tutorial/data-source/ (Add SqLite Data Source)
+<https://graphql.org/graphql-js/mutations-and-input-types/> 
 
 
-![Screenshot 2020 01 06 Apollo Graphql Server](pic/Screenshot_2020-01-06-apollo-graphql-server.png)
+## Simple GraphQL - Client and Server Apollo JS 
 
-![Screenshot 2020 01 06 Apollo Graphql Server Ui](pic/Screenshot-2020-01-06-apollo-graphql-server-ui.png)
+<https://github.com/apollographql/graphql-tools> 
+
+<https://github.com/apollographql/apollo-server/> 
+
+<https://www.apollographql.com/platform>
+
+<https://www.apollographql.com/docs/apollo-server/> 
+
+<https://www.apollographql.com/docs/tutorial/data-source/> (Add SqLite Data Source)
+
+
+![Screenshot 2020 01 06 Apollo Graphql Server](/pic/Screenshot_2020-01-06-apollo-graphql-server.png)
+
+![Screenshot 2020 01 06 Apollo Graphql Server Ui](/pic/Screenshot-2020-01-06-apollo-graphql-server-ui.png)
+
+## Relay GraphQL Client used by FB, Github
+
+https://www.youtube.com/watch?v=9sc8Pyc51uU 
+
 
 # Neo4J
 
