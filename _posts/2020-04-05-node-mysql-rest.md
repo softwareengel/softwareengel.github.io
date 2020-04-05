@@ -1,17 +1,17 @@
-﻿
-# node rest mysql
+﻿Beispiel JSON Response von Sqlite3 Datenbank  
 
+# Node Rest MySQL / Sqlite3
 
-https://www.youtube.com/watch?v=WfCJ3sHnLBM&t=2178s
+<https://www.youtube.com/watch?v=WfCJ3sHnLBM&t=2178s>
 
-https://github.com/Tariqu/REST_API_WITH_MYSQL
+<https://github.com/Tariqu/REST_API_WITH_MYSQL>
     
 
-node project init 
+## node project init 
 
     npm init -y
 
-file package.json
+## File package.json
 
 ```config
 {
@@ -34,15 +34,52 @@ file package.json
 }
 ```
 
-node express 
+## Node Express 
 
     npm install express
 
-auto restart debuging 
+## Auto Restart Debuging 
 
     npm install --save-dev nodemon 
 
-simple mock app: app.js  
+## SQLite 
+
+    npm install --save sqlite3 
+
+
+## Database Create SQL
+
+```sql
+drop table t_lm;
+
+CREATE TABLE T_LM (
+	LM_ID INTEGER,
+	LM_MAT TEXT,	
+	LM_CHARGE TEXT,
+	LM_X INTEGER ,
+	LM_Y INTEGER ,
+	LM_Z INTEGER ,
+	LM_TYP TEXT
+);
+
+select * from t_lm;
+
+drop table t_fauf;
+
+CREATE TABLE T_FAUF (
+	fauf_ID INTEGER,
+	fauf_material TEXT, 
+	fauf_charge text,
+	fauf_anzahl integer,
+	FAUF_X INTEGER,
+	fauf_Y INTEGER,
+-- 	fauf_z INTEGER,
+	fauf_termin	text
+);
+
+``` 
+
+## Simple Mock App: app.js  
 
 ```javascript 
 
@@ -95,14 +132,3 @@ app.listen(3000 , ()=> {
 })
 
 ```
-
-
-## Database JS Hacks 
-
-
-### 1 SQLite 
-
-    npm install --save sqlite3 
-
-
-
