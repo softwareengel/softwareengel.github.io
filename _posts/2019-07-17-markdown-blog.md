@@ -7,6 +7,9 @@ https://docs.microsoft.com/de-de/contribute/how-to-write-use-markdown
 
 https://marketplace.visualstudio.com/items?itemName=njLeonZhang.markdown-image-paste 
 
+## Markdown CheatSheet
+
+<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet> 
 
 # Beispiel 
 
@@ -18,7 +21,7 @@ if (isAwesome){
 }
 ```
 
-## Markierter TExt 
+## Markierter Text 
 
     Beispiel code / Markierter Text durch Einrückung mit <Tab>
 

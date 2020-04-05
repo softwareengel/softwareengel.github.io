@@ -1,12 +1,12 @@
 ﻿# mysql 
 
-# CE Version 
+CE Version 
 
-# unzip install 
+unzip install 
 
-# Setup mysql 8.0.19 
+## Setup mysql 8.0.19 
 
-mysqld --initialize-insecure --console
+	mysqld --initialize-insecure --console
 
 Achtung - MysqlWorkbench V6 und V5 problem 
 

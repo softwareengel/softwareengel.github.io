@@ -11,12 +11,13 @@ Graphql SPEC <http://spec.graphql.org/> , <http://spec.graphql.org/June2018/>
 
 <https://graphql.org/graphql-js/mutations-and-input-types/> 
 
-# Use GraphQL by API Tools
+# Use GraphQL by API Tools GraphiQL
+
 
 GraphiQL    https://lucasconstantino.github.io/graphiql-online/ 
 
 
-GRaphQL Playground <https://www.graphqlbin.com/>
+GraphQL Playground <https://www.graphqlbin.com/>
 
 
 ## Simple GraphQL - Client and Server Apollo JS 
