@@ -1,11 +1,11 @@
-# Markdown Blog 
+﻿# Markdown Blog 
 Hinweise für Markdown Tags:
 
-https://guides.github.com/features/mastering-markdown/
+<https://guides.github.com/features/mastering-markdown/>
 
-https://docs.microsoft.com/de-de/contribute/how-to-write-use-markdown
+<https://docs.microsoft.com/de-de/contribute/how-to-write-use-markdown>
 
-https://marketplace.visualstudio.com/items?itemName=njLeonZhang.markdown-image-paste 
+<https://marketplace.visualstudio.com/items?itemName=njLeonZhang.markdown-image-paste>
 
 ## Markdown CheatSheet
 

@@ -1,9 +1,10 @@
-# installation rdp on ubuntu skript 
+# Installation rdp on ubuntu skript  *tested* 
 
-working skript 
+Working skript 
+
 - Ubuntu 16.X
 - Ubuntu 18.x
 
 
-https://c-nergy.be/products.html
+<https://c-nergy.be/products.html>
 
