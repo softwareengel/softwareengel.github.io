@@ -27,7 +27,7 @@ if (isAwesome){
 
     zweite Zeile 
 
-
+    
 ## Visual Studio Code als Blog editor 
 
 ![VSCode als Blog](/pic/2019-07-17-VSCode-as-Blog-Editor.png)
