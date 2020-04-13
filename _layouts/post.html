@@ -4,8 +4,9 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-  
-  <div class="post-categories">
+
+
+  <div class="post-categories"> CAT: 
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -17,7 +18,7 @@ layout: default
   {% endfor %}
 </div> 
 
-  <div class="post-tags">
+  <div class="post-tags"> TAGS: 
 
   {% if post %}
     {% assign tags = post.tags %}
@@ -25,7 +26,7 @@ layout: default
     {% assign tags = page.tags %}
   {% endif %}
   {% for tag in tags %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{tag}}</a>
+  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div> 
