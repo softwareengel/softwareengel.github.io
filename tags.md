@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /tags/
+title: Tags
 ---
 
 <div id="archives">
