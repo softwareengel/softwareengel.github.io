@@ -1,4 +1,4 @@
-# Big Data �kosysteme - viele Tachnoloie - Links
+﻿# Big Data Ökosysteme - viele Technoloie - Links
 
 https://github.com/zenkay/bigdata-ecosystem#projects-1
 
