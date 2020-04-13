@@ -1,9 +1,16 @@
+﻿---
+layout: post
+title: PlantUML Eclise Plugin für UML-Klassendiagramme
+categories: [IDE]
+tags: [IDE, Eclipse, plugin, UML, plantuml]
+--- 
+
 # PlantUML Eclise Plugin für UML-Klassendiagramme
 
-<http://plantuml.com/de/starting
-<http://plantuml.com/de/eclipse
+<http://plantuml.com/de/starting>
+<http://plantuml.com/de/eclipse>
 
-<https://github.com/hallvard/plantuml
+<https://github.com/hallvard/plantuml>
 
 Update-Site (Eclispe: Help > Install New Software):
 <http://hallvard.github.io/plantuml>
