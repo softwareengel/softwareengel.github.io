@@ -1,6 +1,13 @@
-﻿Beispiel JSON Response von Sqlite3 Datenbank  
+﻿---
+layout: post
+title: Node Rest Server for SQLite 
+categories: [Node]
+tags: [Node, npm, sqlite, JSON, REST, API]
+--- 
 
-# Node Rest MySQL / Sqlite3
+Beispiel JSON Response von Sqlite3 Datenbank  
+
+# Node Rest Sqlite3
 
 <https://www.youtube.com/watch?v=WfCJ3sHnLBM&t=2178s>
 

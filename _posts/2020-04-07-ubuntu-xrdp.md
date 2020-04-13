@@ -1,3 +1,10 @@
+﻿---
+layout: post
+title: RDP Install Skript for Ubuntu *testd* 
+categories: [Linux]
+tags: [Ubuntu, RDP, Skript]
+--- 
+
 # Installation rdp on ubuntu skript  *tested* 
 
 Working skript 
