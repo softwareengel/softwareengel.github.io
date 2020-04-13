@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
 
 
-  <div class="post-categories"> CAT: 
+  <div class="post-categories">Categories:  
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -18,7 +18,7 @@ layout: default
   {% endfor %}
 </div> 
 
-  <div class="post-tags"> TAGS: 
+  <div class="post-tags">Tags: 
 
   {% if post %}
     {% assign tags = post.tags %}
