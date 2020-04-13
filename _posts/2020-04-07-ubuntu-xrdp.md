@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: RDP Install Skript for Ubuntu *testd* 
+title: RDP Install Skript for Ubuntu *tested* 
 categories: [Linux]
 tags: [Ubuntu, RDP, Skript]
 --- 
@@ -9,7 +9,7 @@ tags: [Ubuntu, RDP, Skript]
 
 Working skript 
 
-- Ubuntu 16.X
+- Ubuntu 16.x
 - Ubuntu 18.x
 
 
