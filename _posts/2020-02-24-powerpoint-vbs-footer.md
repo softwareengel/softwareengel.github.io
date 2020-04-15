@@ -1,4 +1,10 @@
-﻿# Powerpoint VBA 
+﻿---
+layout: post
+title: Powerpoint VBA Footer 
+categories: [Office]
+tags: [PPT, VBA, Footer, Skript]
+--- 
+# Powerpoint VBA 
 
 ## Footer einfügen 
 
