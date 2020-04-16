@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Raspi 4 Docker Yacy 
-categories: [Rasbpi]
+categories: [Raspi]
 tags: [raspi, yacy, docker]
 --- 
+
 # Raspi 4 Docker Yacy 
 
     sudo apt-get update
@@ -32,7 +33,7 @@ WebGUI Username/PW: admin/docker
 ## Settings 
 
 Suche nach 
-* ftp://username:Password@127.0.0.1 oder nach 
+* ftp://username:Password@127.0.0.1/Path/  oder nach 
 * smb://username:Password@127.0.0.1/Path/
 
 * Crawl depth: 99 
