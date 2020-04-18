@@ -5,7 +5,7 @@ title: Tags
 ---
 
 <div id="archives">
-{% for tag in (site.tags | sort ) %}
+{% for tag in (site.tags ) %}
   <div class="archive-group">
     {% capture tag_name %}
     {{ tag | first }}{% endcapture %}
