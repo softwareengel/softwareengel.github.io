@@ -11,52 +11,52 @@ tags: [Links]
 
 ### Skripte 
 
-http://www.netzmafia.de/skripten/index.html
+<http://www.netzmafia.de/skripten/index.html>
 
 ### Paper Search 
 
-https://sci-hub.se/
+<https://sci-hub.se/>
 
-https://scholar.google.de/
+<https://scholar.google.de/>
 
 ## IT - Books 
 
-http://www.allitebooks.org/
+<http://www.allitebooks.org/>
 
-https://b-ok.cc/
+<https://b-ok.cc/>
 
 ## Books 
 
-https://www.pdfdrive.com/ 
+<https://www.pdfdrive.com/> 
 
-https://librarygenesis.net/ 
+<https://librarygenesis.net/> 
 
-http://en.bookfi.net/ 
+<http://en.bookfi.net/> 
 
-https://dlfeb.com/ (interneál server err ?!)
+<https://dlfeb.com/> (interneál server err ?!)
 
-https://libgen.pw/ 
+<https://libgen.pw/> 
     
-https://en.booksee.org/ 
+<https://en.booksee.org/> 
 
 # audiobooks 
 
-http://www.audiobookreviews.com/
+<http://www.audiobookreviews.com/>
 
 Key: !cHzM6YY3JU3b65OzxecnmA!P3R21Yba
 
 
 # Share Logins 
 
-http://bugmenot.com/
+<http://bugmenot.com/>
 
 # Web IDE 
 
-https://repl.it/
+<https://repl.it/>
 
-https://www.onlinegdb.com/
+<https://www.onlinegdb.com/>
 
-https://www.onlinegdb.com/online_java_compiler 
+<https://www.onlinegdb.com/online_java_compiler>
 
 
 
@@ -74,17 +74,17 @@ Monitor and chat with the visitors on your website, mobile app or from a free cu
 
 
 # Internet Live Stats 
-https://www.internetlivestats.com/ 
+<https://www.internetlivestats.com/> 
 
 ![Internet Live Stats](pic/internetLiveStats.png)
 
 # statische sites generatoren stats 
 
-https://www.staticgen.com/
+<https://www.staticgen.com/>
 
 # Web UI 
 
-http://madebyevan.com/
+<http://madebyevan.com/>
 
 # Web Mapping 
 
@@ -92,7 +92,7 @@ http://madebyevan.com/
 
 ## overpass API mit grafischem Ergebnis
 
-https://overpass-turbo.eu/ 
+<https://overpass-turbo.eu/> 
 
 ![2019 12 09 Overpas Api Map](pic/2019_12_09_overpas_api_map.png)
 
@@ -172,7 +172,7 @@ https://overpass-turbo.eu/
 
     [out:csv(
   
-             // Art des Gesch�ftes und Name
+             // Art des Geschäftes und Name
              shop,
              name,
   
@@ -190,7 +190,7 @@ https://overpass-turbo.eu/
              // In welcher Etage liegt der Laden
              level,
          
-             // �ffnungszeiten 
+             // Öffnungszeiten 
              opening_hours,
   
              // Infos zur Kontaktaufnahme
@@ -207,14 +207,14 @@ https://overpass-turbo.eu/
              "contact:email",
              "contact:website",
          
-             // Informationen zur Zug�nglichkeit mit Rollst�hlen 
+             // Informationen zur Zugänglichkeit mit Rollstühlen 
              wheelchair,
              "wheelchair:toilets",
              "wheelchair:description",
   
              // Meta-Informationen von OSM
              // Knoten, Weg oder Relation
-             // Individueller OSM-Schl�ssel
+             // Individueller OSM-Schlüssel
              // Wer hat wann zuletzt daran gearbeitet
              // Geokoordinaten
              ::type,
