@@ -1,4 +1,11 @@
-﻿# dotnet und syslog 
+﻿---
+layout: post
+title: dotnet und syslog  
+categories: [Logging]
+tags: [dotnet, rsyslog, ubuntu, dotnet core, greylog, elk]
+--- 
+
+# dotnet und syslog 
 
 ## syslogserver 
 
