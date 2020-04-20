@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raspi 4 Docker Yacy 
+title: OpenCV und Python 
 categories: []
 tags: [opencv, python, ml, video, image, manipulatition]
 --- 
