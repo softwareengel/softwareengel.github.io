@@ -74,9 +74,9 @@ Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWind
 
 (funktioniert leider (noch ) nicht auf Raspi Zero (Arm V6)) soll März 2020 kommen 
 
-https://code.visualstudio.com/docs/remote/remote-overview
+<https://code.visualstudio.com/docs/remote/remote-overview>
 
-https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+<https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
 ![Remote Sev Extension](/pic/remoteSevExtension.png)
 
@@ -165,4 +165,7 @@ aktuell benutzt: python3 -> python 3
 ![Screen Raspi Zero Webserver Led](/pic/screen-raspi-zero-webserver-led.png)
 
 ![Screen Raspi Zero Webserver Led Console](/pic/screen-raspi-zero-webserver-led-console.png)
+
+![Screen Raspi Zero Webserver Led Thonny](/pic/screen-raspi-zero-webserver-led-thonny.png)
+
 
