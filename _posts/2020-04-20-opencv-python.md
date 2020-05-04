@@ -19,10 +19,19 @@ Python openvc tutorial <https://opencv-python-tutroals.readthedocs.io/en/latest/
 
 Python use opencv to save image from video capture 
 
+https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
+
     
 ```bash
-pip install opencv-python 
-pip install numpy 
+# ? 
+sudo pip3 install opencv-python 
+
+sudo pip3 install numpy 
+sudo apt install python3-opencv
+
+# on linux/ Raspi 
+sudo apt install libjasper1
+sudo apt install libqtgui4 
 ```
 
 
@@ -55,3 +64,14 @@ cv2.destroyAllWindows()
 
 
 ```
+
+![2020 05 04 Raspbery Opencv Video Frame](/pic/2020-05-04-raspbery-opencv-video-frame.png)
+
+## VS Code on Raspi 
+
+
+<https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx>
+
+
+![2020 05 04 Raspberry Pi VS Code Opencv Running in RDP](/pic/2020-05-04-raspberry-pi-vscode-opencv-running.png)
+
