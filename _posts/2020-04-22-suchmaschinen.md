@@ -8,6 +8,8 @@ tags: []
 
 https://t3n.de/news/google-alternative-474551/
 
+https://www.nebel.de/projekte/Vortrag-20051021/FreieSuchmaschinensoftware.html
+
 
 CC - Content Search: <https://search.creativecommons.org/>
 
@@ -24,19 +26,17 @@ Meta search saerx: https://searx.space/
 
 Self hosted seach engine: <https://wiki.sgripon.net/doku.php/self_hosted_search_engine>
 
-
 Crawler Apache Nutch <https://cwiki.apache.org/confluence/display/nutch/NutchTutorial>
 
 # Elastic Search 
 
 Search Elastic Search <https://www.elastic.co/de/>
 
-## ui for Elastic Search 
+## UI for Elastic Search 
 
 Suchoberfläche Calaca: <https://github.com/romansanchez/Calaca>
 
-
-# ambar 
+# Ambar 
 
 <https://ambar.cloud/>
 
@@ -46,3 +46,7 @@ Suchoberfläche Calaca: <https://github.com/romansanchez/Calaca>
 
 https://lucene.apache.org/solr/ 
 
+
+# apache nutch 
+
+https://www.apache.org/dyn/closer.lua/nutch/1.16/apache-nutch-1.16-bin.zip
