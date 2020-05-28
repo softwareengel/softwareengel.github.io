@@ -1,3 +1,10 @@
+﻿---
+layout: post
+title: influx Time series Db telefraf grafana 
+categories: [tools]
+tags: [db, ui, graph, data analyse]
+--- 
+
 # InfluxDB 
 
 InfluxDB is a open source time series database
@@ -6,7 +13,7 @@ https://portal.influxdata.com/downloads/
 
 https://hub.docker.com/_/influxdb 
 
-
+ 
 # Telegraf 
 
 Telegraf is the open source server agent to help you collect metrics from your stacks, sensors and systems.
@@ -14,8 +21,6 @@ Telegraf is the open source server agent to help you collect metrics from your s
 https://www.influxdata.com/time-series-platform/telegraf/ 
 
 ![Screenshot 2020 01 17 Influx Db Telefraf](/pic/Screenshot-2020-01-17_influx-db-telefraf.png)
-
-
 
 
 # Grafana
