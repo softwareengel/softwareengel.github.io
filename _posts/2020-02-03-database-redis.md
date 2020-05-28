@@ -1,4 +1,11 @@
-﻿# Database 
+﻿---
+layout: post
+title: mongo redis   
+categories: [db]
+tags: [db, mongo, redis]
+--- 
+
+# Database 
 
 # Mongo 
 

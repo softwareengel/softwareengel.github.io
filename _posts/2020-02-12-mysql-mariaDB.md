@@ -1,10 +1,15 @@
-﻿# MySql / MariaDB 
+﻿---
+layout: post
+title: mysql mariadb docker sql   
+categories: [db]
+tags: [db, mysql, mariadb]
+--- 
+# MySql / MariaDB 
 
 ## install Docker 
     
     mkdir -p ~/data/mariadb
     sudo docker run --name my-mariadb -e MYSQL_ROOT_PASSWORD=p -d mariadb -p 3306:3306 -v ~/data/mariadb:/var/lib/mariadb/data 
-
 
 ## Zeit 
 
@@ -77,7 +82,9 @@
 
     END
 --- 
+
     SHOW GLOBAL VARIABLES;
+
 ---
 
     "aria_block_size"	"8192"
