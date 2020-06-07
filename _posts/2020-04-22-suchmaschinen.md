@@ -2,7 +2,7 @@
 layout: post
 title: Suchmaschinen 
 categories: [search engine]
-tags: []
+tags: [search engine]
 --- 
 
 
@@ -34,7 +34,7 @@ Search Elastic Search <https://www.elastic.co/de/>
 
 ## UI for Elastic Search 
 
-Suchoberfläche Calaca: <https://github.com/romansanchez/Calaca>
+Suchoberflï¿½che Calaca: <https://github.com/romansanchez/Calaca>
 
 # Ambar 
 
