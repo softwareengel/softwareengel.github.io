@@ -37,9 +37,11 @@ Startup -aus Zip:
  
     mongod --dbpath ./data
 
+    mongod --bind_ip_all --dbpath ./data
+
 Operators in Queries:  <https://docs.mongodb.com/manual/reference/operator/query/>
 
-## Mogo Tutorials 
+## Mongo Tutorials 
 
 <https://mkyong.com/tutorials/java-mongodb-tutorials/> 
 

@@ -56,6 +56,21 @@ Webinterface geht nur bis Version 1.5 (?!)
 
 ![Screenshot 2020 01 21 Rpi Influx D B Webinterface](/pic/Screenshot-2020-01-21_Rpi-influxDB-webinterface.png)
 
+## Grafana reset password 
+
+sudo docker exec -it <container> bash 
+
+Show all admin commands
+
+    grafana-cli admin
+
+Reset admin password
+
+    grafana-cli admin reset-admin-password <new password> 
+
+resets the password for the admin user using the CLI. You might need to do this if you lose the admin password.
+
+
 ## Chonograf 
 
 Visualisierung von influx DB data 
@@ -96,3 +111,133 @@ Dokument speicher auch für csv / JSON
 
 OSS Fork von MySQL 
 
+# history 
+
+engels@ubuntu18svr-01:~$ history
+    1  sudo apt-get update
+    2  cls
+    3  clear
+    4  exit
+    5  sudo apt-get update
+    6  sudo apt-get upgrade
+    7  sudo apt-get update
+    8  sudo apt-get upgrade
+    9  sudo reboot now
+   10  sudo shutdown
+   11  sudo shutdown now
+   12  ifconfig
+   13  ping 10.0.2.15
+   14  ifconfig
+   15  ping 192.168.4.1
+   16  ifconfig
+   17  ping 192.168.4.1
+   18  ifconfig
+   19  sudo apt install mc
+   20  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+   21  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+   22  add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+   23  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+   24  apt-get update
+   25  sudo apt-get update
+   26  apt-cache policy docker-ce
+   27  sudo apt install docker-ce
+   28  sudo systemctl status docker
+   29  docker run hello-world
+   30  sudo docker run hello-world
+   31  sudo shutdown now
+   32  cat grafana-socker.sh
+   33  dcker --version
+   34  docker --version
+   35  ps aux
+   36  htop
+   37  exit
+   38  ifconfig
+   39  ps
+   40  mc
+   41  echo docker run -d   -p 3000:3000   --name=grafana   -e "GF_SERVER_ROOT_URL=http://grafana.server.name"   -e "GF_SECURITY_ADMIN_PASSWORD=secret"   grafana/grafana >grafana-socker.sh
+   42  mc
+   43  ls
+   44  chmod +x grafana-socker.sh
+   45  mc
+   46  sudo ./grafana-socker.sh
+   47  sudo shutdown now
+   48  [A
+   49  ./grafana-socker.sh
+   50  docker
+   51  I
+   52  IIIII
+   53  docker container ls -a
+   54  sudo docker container ls -a
+   55  sudo docker container start 055bcc2493ad
+   56  sudo docker container ls -a
+   57  cat ./grafana-docker.sh
+   58  sudo docker container
+   59  sudo docker container ls
+   60  sudo docker container stop 055bcc2493ad
+   61  sudo docker container ls
+   62  sudo docker container rm 055bcc2493ad
+   63  sudo docker container ls -a
+   64  ./grafana-docker.sh
+   65  sudo ./grafana-docker.sh
+   66  java
+   67  java --version
+   68  sudo apt install openjdk-8-jre-headless
+   69  echo "version: '2.4'
+   70
+   71  services:
+   72      nginx:
+   73        image: nginx:latest
+   74        ports:
+   75          - "8080:80"
+   76        volumes:
+   77          - ./log:/var/log/nginx
+   78
+   79      filebeat:
+   80        image: docker.elastic.co/beats/filebeat:7.2.0
+   81        volumes:
+   82          - ./log/:/var/log/nginx
+   83        command: >
+   84          ./filebeat -e -c /etc/motd
+   85          -E "filebeat.inputs=[{type:log,paths:['/var/log/nginx/access.log']}]"
+   86          -E "output.logstash.hosts=['logstash:5044']"
+   87
+   88      logstash:
+   89        image: docker.elastic.co/logstash/logstash:7.2.0
+   90        expose:
+   91          - "5044"
+   92        volumes:
+   93          - ./logstash:/usr/share/logstash/pipeline
+   94
+   95      elasticsearch:
+   96        image: docker.elastic.co/elasticsearch/elasticsearch:7.2.0
+   97        ports:
+   98          - "9200:9200"
+   99        environment:
+  100          http.host: 0.0.0.0
+  101          discovery.type: single-node
+  102          ES_JAVA_OPTS: "-Xms750m -Xmx750m"
+  103
+  104      kibana:
+  105        image: docker.elastic.co/kibana/kibana:7.2.0
+  106        ports:
+  107          - "5601:5601"> docker-compose.yml
+  108  ls
+  109  ls -al
+  110  touch docker-compose.yml
+  111  mc
+  112  docker-compose up -d
+  113  sudo docker-compose up -d
+  114  sudo apt  install docker-compose
+  115  sudo docker-compose up -d
+  116  mc
+  117  sudo docker-compose up -d
+  118  docker ls
+  119  sudo docker container ls
+  120  docker exec -ti  engels_filebeat_1
+  121  docker exec -ti engels_filebeat_1
+  122  docker exec -ti engels_filebeat_1 /bin/bash
+  123  sudo docker exec -ti engels_filebeat_1 /bin/bash
+  124  exit
+  125  sudo docker ls
+  126  sudo docker ps
+  127  history
