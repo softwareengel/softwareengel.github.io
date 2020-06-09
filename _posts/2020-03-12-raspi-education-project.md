@@ -1,8 +1,9 @@
 ﻿---
-layout: post 
+layout: post
 title: "Project Raspberry Pi Zero EDUcation"
----
-
+categories: [search engine]
+tags: [search engine]
+--- 
 Raspi startup for Education : connected traffic lights 
 
 # Project Raspberry Pi Zero EDUcation  

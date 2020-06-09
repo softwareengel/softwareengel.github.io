@@ -9,9 +9,9 @@ tags: [db, ui, graph, data analyse]
 
 InfluxDB is a open source time series database
 
-https://portal.influxdata.com/downloads/ 
+<https://portal.influxdata.com/downloads/> 
 
-https://hub.docker.com/_/influxdb 
+<https://hub.docker.com/_/influxdb> 
 
  
 # Telegraf 
@@ -33,9 +33,9 @@ docker run -d -p 3000:3000 --name=grafana -e "GF_INSTALL_PLUGINS=grafana-clock-p
 
 ## Grafana on Raspi 
 
-https://github.com/fg2it/grafana-on-raspberry/
+<https://github.com/fg2it/grafana-on-raspberry/>
 
-https://bintray.com/fg2it/deb/grafana-on-raspberry/v5.1.4
+<https://bintray.com/fg2it/deb/grafana-on-raspberry/v5.1.4>
 
 ![Screenshot 2020 01 17 Rpi Graphana Select Data Sources](/pic/Screenshot-2020-01-17_Rpi_graphana-select-data-sources.png),
 
@@ -46,11 +46,11 @@ https://bintray.com/fg2it/deb/grafana-on-raspberry/v5.1.4
 
 # Grafana + Telegraf + Influx 
 
-https://www.bjoerns-techblog.de/2017/05/installation-von-influxdb-telegraf-und-grafana-auf-dem-raspberry-pi-3/#data-image-svg-xml-3Csvg-20xmlns-http-www-w3-org-2000-svg-20viewBox-0-200-20400-20197-3E-3C-svg-3E-933317 
+<https://www.bjoerns-techblog.de/2017/05/installation-von-influxdb-telegraf-und-grafana-auf-dem-raspberry-pi-3/#data-image-svg-xml-3Csvg-20xmlns-http-www-w3-org-2000-svg-20viewBox-0-200-20400-20197-3E-3C-svg-3E-933317> 
 
-https://canox.net/2018/01/installation-von-grafana-influxdb-telegraf-auf-einem-raspberry-pi/
+<https://canox.net/2018/01/installation-von-grafana-influxdb-telegraf-auf-einem-raspberry-pi/>
 
-http://padcom13.blogspot.com/2015/12/influxdb-telegraf-and-grafana-on.html
+<http://padcom13.blogspot.com/2015/12/influxdb-telegraf-and-grafana-on.html>
 
 Webinterface geht nur bis Version 1.5 (?!) 
 
@@ -73,7 +73,9 @@ resets the password for the admin user using the CLI. You might need to do this 
 
 ## Chonograf 
 
-https://portal.influxdata.com/downloads/ 
+Visualisierung von influx DB data 
+
+<https://portal.influxdata.com/downloads/> 
 
 ![Screenshot 2020 01 21 Rpi Chohograph Influx D B Hostlist](/pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB-hostlist.png)
 
@@ -86,7 +88,7 @@ https://portal.influxdata.com/downloads/
 
 ## Python logging Skript für influxDB
 
-https://engineer.john-whittington.co.uk/2016/11/raspberry-pi-data-logger-influxdb-grafana/ 
+<https://engineer.john-whittington.co.uk/2016/11/raspberry-pi-data-logger-influxdb-grafana/> 
 
 Feeigaben Dev-Netz 
 

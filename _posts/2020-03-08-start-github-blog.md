@@ -1,14 +1,15 @@
 ﻿---
 layout: post 
 title: "github git blog jekyll-now Quickstart"
+categories: [web, blog]
+tags: [blog, jekyll]
 ---
 
-Start git blog jekyll-now  search  categories docs V10
+Start git Blog jekyll-now  search categories docs V10
 
 use UTF8 !!
 
-
-# git blog jekyll-now
+# Git Blog jekyll-now
 
 <https://github.com/barryclark/jekyll-now>
 

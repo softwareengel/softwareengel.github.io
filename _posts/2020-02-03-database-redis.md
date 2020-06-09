@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title: Mongo Database mongodb rdis db 
+title: mongo redis   
 categories: [db]
-tags: [mongo, db, redis]
+tags: [db, mongo, redis]
 --- 
-# Mongo Database 
+
+# Database 
 
 # Mongo 
 
