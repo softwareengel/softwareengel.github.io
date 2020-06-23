@@ -1,6 +1,6 @@
-﻿# mysql 
+﻿# mysql 8 
 
-CE Version 
+CE Version 8
 
 unzip install 
 
