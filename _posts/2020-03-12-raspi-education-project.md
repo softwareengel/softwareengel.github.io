@@ -1,8 +1,8 @@
 ﻿---
 layout: post
 title: "Project Raspberry Pi Zero EDUcation"
-categories: [search engine]
-tags: [search engine]
+categories: [EDU]
+tags: [Raspi, Education, Onboarding, LED, Coding]
 --- 
 Raspi startup for Education : connected traffic lights 
 
@@ -22,22 +22,22 @@ Raspi startup for Education : connected traffic lights
     ISO Image Config : + Client Wlan zum WLANRouter + SSH-Server + RDP - Server, VPN Server 
     Putty + Winscp + RDP Client / REal - VNC Client 
 
-# Plan B Raspi 3 B 
+# Plan B Raspi 3 B oder Raspi 4 
 
 
 # Plan Story
 
 Messen von Signalen und steuern Ampel - LED - Signal 
 
+## Western electric Rules - Anomalie - Erkennung 
+
+<https://orangematter.solarwinds.com/2013/06/26/4-statistical-process-control-rules-that-detect-anomalies-in-systems/>
+
+<https://www.qimacros.com/control-chart/western-electric-rules/> 
 
 ## 3 LEDs
 
-An Aus - lansam blinken - schnell blinken 
-
-Western electric Rules - Anomalie - Erkennung 
-https://orangematter.solarwinds.com/2013/06/26/4-statistical-process-control-rules-that-detect-anomalies-in-systems/ 
-https://www.qimacros.com/control-chart/western-electric-rules/ 
-
+An / Aus,  langsam blinken / schnell blinken 
 
 ## Sensor 
 
@@ -66,9 +66,12 @@ Raspberry Pi Zero W will remain in production until at least January 2026
   
 Datei mit dem Namen "**SSH**" anlegen 
 
-## WLAN
+## WLAN - Wireless LAN 
 
-### Wlan Router 
+- kein Kabel ebötigt
+- 
+
+### WLAN Router 
 
 Setup Router / UMTS - Router mit Handy und Sim 
 
@@ -80,7 +83,7 @@ Wlan SSID setzen "PIWLAN"  - Passwort setzen "PaSSWoRd" - ignore 5Ghz - use 2.4 
 
 
 
-### Wlan Raspi 
+### WLAN Raspi 
 
 <https://pi-buch.info/wlan-schon-vor-der-installation-konfigurieren/>
 
@@ -236,7 +239,7 @@ Einfacher Echo - Server
 
 
 
-### PYthon Web Socket Client 
+### Python Web Socket Client 
     import socket
 
     #c = socket.socket()
