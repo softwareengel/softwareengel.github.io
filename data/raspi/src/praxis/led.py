@@ -14,12 +14,12 @@ class LED (object):
 
     def turnLEDOn(self):
         self.status = 1
-        print("ON")
+        print(self.name, "ON")
         GPIO.output(self.pin, 1)
 
     def turnLEDOff(self):
         self.status = 0
-        print("OFF")
+        print(self.name, "OFF")
         GPIO.output(self.pin, 0)
 
     def blinkLED(self, count):
@@ -29,8 +29,9 @@ class LED (object):
             self.turnLEDOff()
             time.sleep(0.25)
 
+def testProgramm():
+    ledRot = LED(12, "rot")
+    ledRot.turnLEDOn()
+    time.sleep(1)
+    ledRot.blinkLED(10)
 
-ledRot = LED(12, "rot")
-ledRot.turnLEDOn()
-time.sleep(1)
-ledRot.blinkLED(10)
