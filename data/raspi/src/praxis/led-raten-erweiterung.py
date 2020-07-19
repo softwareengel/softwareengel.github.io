@@ -32,7 +32,7 @@ while (not rateende):
     print("Bitte Raten: ")
     rateversuch = int(input())
     if zahl == rateversuch:
-        # Geraten:
+        # Geraten:          
         led2.blinkLED(zahl)
         rateende = 1
         mittelwert = calc_mittelwert(abstandListe)
