@@ -26,16 +26,6 @@ class Lights(object):
 
 
 
-
-
-
-
-
-
-
-
-
-
     def turn_lights_off(self):
         GPIO.output(self.green_pin, GPIO.LOW)
 

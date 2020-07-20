@@ -13,8 +13,6 @@ class MTTFCalculator:
         pass
 
 
-
-
     def write_to_file(self):
         """Hier wird die failures Liste in eine CSV Datei geschrieben"""
         logfile = open("logfile.csv", 'w', newline='')
