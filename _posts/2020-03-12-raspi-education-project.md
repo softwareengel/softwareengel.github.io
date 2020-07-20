@@ -29,7 +29,7 @@ Raspi startup for Education : connected traffic lights
 
 Messen von Signalen und steuern Ampel - LED - Signal 
 
-## Western electric Rules - Anomalie - Erkennung 
+## Western Electric Rules - Anomalie - Erkennung 
 
 <https://orangematter.solarwinds.com/2013/06/26/4-statistical-process-control-rules-that-detect-anomalies-in-systems/>
 
@@ -100,6 +100,12 @@ Datei mit dem Namen "**wpa_supplicant.conf**" anlegen mit UNIX (LF) mit
     }
 
 
+check - tools
+
+    ifconfig
+    sudo apt-get install iw
+    iwlist chan
+    dmesg
 ### SSH Raspi 
 
 SSH - Enable : Datei .ssh auf dem Image erzeugen

@@ -43,3 +43,18 @@ RFC 7519
 
  
 ![2020 06 23 Keycloak Admin](/pic/2020-06-23-keycloak-admin.png)
+
+<https://stackoverflow.com/questions/55189130/does-nginx-open-source-support-openid-and-jwt> 
+
+<https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-jwt-authentication/#>
+
+
+# python test 
+
+tytest-cov 
+
+# api endpoint Gateway 
+- specify microservices 
+- expose as an api 
+- secure api with key 
+
