@@ -31,6 +31,9 @@ Ecryption rsyslog
 <https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html>
 
 
+## dotnet 
+
+    dotnet new --list  
 
 ## dotnet Logging 
 
@@ -66,9 +69,7 @@ Datensammler
 
 <https://www.fluentd.org/faqs> 
 
-## dotnet 
 
-    dotnet new --list 
 
 ## ELK Stack 
 
