@@ -1,4 +1,4 @@
-# Raspi - ELK - Filebeat
+ï»¿# Raspi - ELK - Filebeat
 
 ## install docker on Raspi 
 
@@ -48,7 +48,7 @@ https://blog.hypriot.com/post/releasing-HypriotOS-1-11/
 
 
 
-he Elasticsearch service should be accessible by accessing http://localhost:9200 using a HTTP client like Postman. Use auth to access it with elastic as the username and changeme as the password, and add application/json for Content-Type header.
+The Elasticsearch service should be accessible by accessing http://localhost:9200 using a HTTP client like Postman. Use auth to access it with elastic as the username and changeme as the password, and add application/json for Content-Type header.
 
 The Kibana app should be accessible by accessing http://localhost:5601 using your favorite browser. When you got something like Kibana server is not ready yet on the browser, it means you really have to wait for the server to be ready. Just wait for about 10-15 minutes, then you can refresh the page and you will see the kibana login screen.
 
@@ -70,7 +70,7 @@ he Logstash server should be accessible in http://localhost:5000 . I'm still new
 
     sudo nano /etc/elasticsearch/elasticsearch.yml
 
-network.host: “0.0.0.0”
+network.host: 0.0.0.0
 
 sudo service elasticsearch restart
 
@@ -80,9 +80,6 @@ sudo service elasticsearch restart
     git clone https://github.com/stefanwalther/rpi-docker-elk.git
 
     docker-compose up
-
-
-
 
 ## Manual Logstah 
 

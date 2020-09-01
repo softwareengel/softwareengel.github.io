@@ -1,8 +1,7 @@
 ---
 layout: post
 title: JSON Web Tokens - JWT 
-categories:
-  - IAM, Authorisation 
+categories: [IAM, Authorisation]
 tags:
   - JWT
   - OAuth
@@ -11,8 +10,6 @@ tags:
   - Java
   - Server
   - OSS
-
-
 
 ---
 # JWT JSON Web Tokens 

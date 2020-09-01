@@ -1,6 +1,6 @@
 # UML - Wasteroute 
 
-## Demops und Anlagen  
+## Depos und Anlagen  
 
 *   es gibt 3 Depots, 2 würden m.E. reichen
     Öffnungszeiten der Depots wären bei mit nicht 0h , möglich wäre 5h (Millis 18000000)
