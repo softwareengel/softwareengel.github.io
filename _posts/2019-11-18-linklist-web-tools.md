@@ -86,6 +86,15 @@ Monitor and chat with the visitors on your website, mobile app or from a free cu
 
 <http://madebyevan.com/>
 
+# WEb Tools owasp Phoenix/Tools
+he free and open software security community
+
+<https://wiki.owasp.org/index.php/Phoenix>
+
+#  Explore Git 
+
+https://resources.oreilly.com/public
+
 # Web Mapping 
 
 
