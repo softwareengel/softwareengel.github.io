@@ -182,62 +182,63 @@ engels@ubuntu18svr-01:~$ history
    66  java
    67  java --version
    68  sudo apt install openjdk-8-jre-headless
-   69  echo "version: '2.4'
-   70
-   71  services:
-   72      nginx:
-   73        image: nginx:latest
-   74        ports:
-   75          - "8080:80"
-   76        volumes:
-   77          - ./log:/var/log/nginx
-   78
-   79      filebeat:
-   80        image: docker.elastic.co/beats/filebeat:7.2.0
-   81        volumes:
-   82          - ./log/:/var/log/nginx
-   83        command: >
-   84          ./filebeat -e -c /etc/motd
-   85          -E "filebeat.inputs=[{type:log,paths:['/var/log/nginx/access.log']}]"
-   86          -E "output.logstash.hosts=['logstash:5044']"
-   87
-   88      logstash:
-   89        image: docker.elastic.co/logstash/logstash:7.2.0
-   90        expose:
-   91          - "5044"
-   92        volumes:
-   93          - ./logstash:/usr/share/logstash/pipeline
-   94
-   95      elasticsearch:
-   96        image: docker.elastic.co/elasticsearch/elasticsearch:7.2.0
-   97        ports:
-   98          - "9200:9200"
-   99        environment:
-  100          http.host: 0.0.0.0
-  101          discovery.type: single-node
-  102          ES_JAVA_OPTS: "-Xms750m -Xmx750m"
-  103
-  104      kibana:
-  105        image: docker.elastic.co/kibana/kibana:7.2.0
-  106        ports:
-  107          - "5601:5601"> docker-compose.yml
-  108  ls
-  109  ls -al
-  110  touch docker-compose.yml
-  111  mc
-  112  docker-compose up -d
-  113  sudo docker-compose up -d
-  114  sudo apt  install docker-compose
-  115  sudo docker-compose up -d
-  116  mc
-  117  sudo docker-compose up -d
-  118  docker ls
-  119  sudo docker container ls
-  120  docker exec -ti  engels_filebeat_1
-  121  docker exec -ti engels_filebeat_1
-  122  docker exec -ti engels_filebeat_1 /bin/bash
-  123  sudo docker exec -ti engels_filebeat_1 /bin/bash
-  124  exit
-  125  sudo docker ls
-  126  sudo docker ps
-  127  history
+   
+  echo "version: '2.4'
+   
+        services:
+         nginx:
+           image: nginx:latest
+           ports:
+             - "8080:80"
+           volumes:
+             - ./log:/var/log/nginx
+   
+         filebeat:
+           image: docker.elastic.co/beats/filebeat:7.2.0
+           volumes:
+             - ./log/:/var/log/nginx
+           command: >
+             ./filebeat -e -c /etc/motd
+             -E "filebeat.inputs=[{type:log,paths:['/var/log/nginx/access.log']}]"
+             -E "output.logstash.hosts=['logstash:5044']"
+   
+         logstash:
+           image: docker.elastic.co/logstash/logstash:7.2.0
+           expose:
+             - "5044"
+           volumes:
+             - ./logstash:/usr/share/logstash/pipeline
+   
+         elasticsearch:
+           image: docker.elastic.co/elasticsearch/elasticsearch:7.2.0
+           ports:
+             - "9200:9200"
+           environment:
+           http.host: 0.0.0.0
+           discovery.type: single-node
+           ES_JAVA_OPTS: "-Xms750m -Xmx750m"
+  
+       kibana:
+         image: docker.elastic.co/kibana/kibana:7.2.0
+         ports:
+           - "5601:5601"> docker-compose.yml
+   ls
+   ls -al
+   touch docker-compose.yml
+   mc
+   docker-compose up -d
+   sudo docker-compose up -d
+   sudo apt  install docker-compose
+   sudo docker-compose up -d
+   mc
+   sudo docker-compose up -d
+    docker ls
+    sudo docker container ls
+    docker exec -ti  engels_filebeat_1
+    docker exec -ti engels_filebeat_1
+    docker exec -ti engels_filebeat_1 /bin/bash
+    sudo docker exec -ti engels_filebeat_1 /bin/bash
+    exit
+    sudo docker ls
+    sudo docker ps
+    history

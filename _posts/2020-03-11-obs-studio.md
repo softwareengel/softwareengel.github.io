@@ -16,4 +16,5 @@ Video / Screen und Audio Broadcasting in Video - File oder in Live Streming Plat
 
 
 # virtual cam 
-
+ 
+Virtuelle Kamera für Zoom und Teams, funktioniert bei WEbEx nicht 
