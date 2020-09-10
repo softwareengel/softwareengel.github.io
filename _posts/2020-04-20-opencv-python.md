@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenCV und Python 
-categories: []
+categories: [computer vision]
 tags: [opencv, python, ml, video, image, manipulatition]
 --- 
 
@@ -9,7 +9,7 @@ tags: [opencv, python, ml, video, image, manipulatition]
 
 <https://de.wikipedia.org/wiki/OpenCV> 
 
-Python openvc tutorial <https://opencv-python-tutroals.readthedocs.io/en/latest/>
+Python opencv tutorial <https://opencv-python-tutroals.readthedocs.io/en/latest/>
 
 <https://opencv.org/>
 
@@ -19,7 +19,7 @@ Python openvc tutorial <https://opencv-python-tutroals.readthedocs.io/en/latest/
 
 Python use opencv to save image from video capture 
 
-https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
+<https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/>
 
     
 ```bash
@@ -67,8 +67,7 @@ cv2.destroyAllWindows()
 
 ![2020 05 04 Raspbery Opencv Video Frame](/pic/2020-05-04-raspbery-opencv-video-frame.png)
 
-## VS Code on Raspi 
-
+## Install VS Code on Raspi4 
 
 <https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx>
 
