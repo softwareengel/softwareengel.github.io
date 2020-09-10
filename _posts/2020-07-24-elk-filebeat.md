@@ -1,6 +1,6 @@
 ﻿# Raspi - ELK - Filebeat
 
-## install docker on Raspi 
+## install docker on Raspi (not working)
 
     sudo apt-get update && sudo apt-get upgrade
 
@@ -59,6 +59,7 @@ he Logstash server should be accessible in http://localhost:5000 . I'm still new
 
 
     systemctl restart elasticsearch
+
 ## Maual ELK Raspi 
 
     sudo apt-get install default-jre
@@ -75,13 +76,13 @@ network.host: 0.0.0.0
 sudo service elasticsearch restart
 
 
-## neuer versuch WORKING
+## neuer Versuch install elk (WORKING)
 
     git clone https://github.com/stefanwalther/rpi-docker-elk.git
 
     docker-compose up
 
-## Manual Logstah 
+## Manual Logstash 
 
 $ sudo apt-get install apt-transport-https
 $ echo "deb https://artifacts.elastic.co/packages/5.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-5.x.list
@@ -127,5 +128,3 @@ restart
 test 
 
     curl -XGET 'localhost:9200/_cat/indices?v&pretty'
-
-
