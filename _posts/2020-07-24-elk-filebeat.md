@@ -106,6 +106,9 @@ $ sudo apt-get update
 $ sudo apt-get install logstash
 $ sudo service logstash start
 
+## Beats 
+
+![2020 09 17 Elk Beats](../pic/2020-09-17-elk-beats.png)
 
 ## MetricBeat 
 Collect metrics from your systems and services. From CPU to memory, Redis to NGINX, and much more, Metricbeat is a lightweight way to send system and service statistics. 
