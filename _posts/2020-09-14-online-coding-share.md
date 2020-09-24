@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title: Muti - User - Online - Development 
 categories: 
@@ -8,11 +8,11 @@ tags:
 
 # Visual Studio Live Share
 
-Für VS Code und VS , 
+FÃ¼r VS Code und VS , 
 
 <https://docs.microsoft.com/en-us/visualstudio/liveshare/quickstart/share> 
 
-Anmeldung bei LiveShare nötig 
+Anmeldung bei LiveShare nÃ¶tig 
 
 https://docs.microsoft.com/en-us/visualstudio/liveshare/troubleshooting#sign-in 
 
@@ -25,7 +25,7 @@ https://docs.microsoft.com/en-us/visualstudio/liveshare/troubleshooting#sign-in
 
 # codesandbox.io
 
-für Web - Anwendungen 
+fÃ¼r  Web - Anwendungen 
 
 
 <https://codesandbox.io/s/>
