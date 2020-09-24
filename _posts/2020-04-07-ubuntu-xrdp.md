@@ -5,7 +5,7 @@ categories: [Linux]
 tags: [Ubuntu, RDP, Skript]
 --- 
 
-# Installation rdp on ubuntu skript  *tested* 
+# Installation RDP on Ubuntu Skript  * tested * 
 
 Working skript 
 
