@@ -4,9 +4,9 @@ title: Raspi Python Dev
 categories: [Raspberry Pi, Python, Dev]
 tags: [Raspberry Pi, Python, Dev]
 ---
+Rasoi 4 mit 4 GB Ram, RDP, Python tests mit Matplatlib, Opencv , Face recognition 
 
-
-# Raspi 4 , 4GB Ram , RDP 
+# Raspi 4 , 4GB Ram, RDP 
 
 
 ## MatplotLib 
