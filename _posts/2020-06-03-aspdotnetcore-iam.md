@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  ASP dot Net core IAM 
 categories: [API, .NET]
@@ -8,7 +8,7 @@ tags: [IAM, DotNet Core, API, OpenId, OAuth2 ]
 
 # ASP dot Net core IAM 
 
-IdentityServer 4 mit OpenId und OAuth2.0 f�r asp.net core 
+IdentityServer 4 mit OpenId und OAuth2.0 für asp.net core 
 
 
 <https://github.com/IdentityServer/IdentityServer4.Quickstart.UI>

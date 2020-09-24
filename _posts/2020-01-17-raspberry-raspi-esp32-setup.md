@@ -1,4 +1,4 @@
-# Check Raspi/ESP for simple Coding Hacks 
+﻿# Check Raspi/ESP for simple Coding Hacks 
 
 Default Login: pi, defaultp Pass: raspberry
 
@@ -50,7 +50,7 @@ Raspbian image Download: <https://www.raspberrypi.org/downloads/raspbian/>
 
 <https://www.raspberrypi.org/blog/programming-pi-zero-usb/>
 
-(Video f�r Setup)
+(Video für Setup)
 
 <https://blog.gbaman.info>
 

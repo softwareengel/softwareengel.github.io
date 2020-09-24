@@ -1,4 +1,4 @@
-# Java here Client 
+﻿# Java here Client 
 
     package de.softwareengel.test.here_api;
 

@@ -1,4 +1,4 @@
-# Google Waze Web Editor JS Toolsset
+﻿# Google Waze Web Editor JS Toolsset
 
 https://www.waze.com/de/editor 
 
