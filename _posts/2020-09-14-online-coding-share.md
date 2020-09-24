@@ -17,22 +17,27 @@ Anmeldung bei LiveShare nötig
 https://docs.microsoft.com/en-us/visualstudio/liveshare/troubleshooting#sign-in 
 
 
+# codeshare.io 
+
+<https://codeshare.io/>
+
+![Codeshare.Io](../pic/codeshare.io.png)
 
 # codesandbox.io
 
 für Web - Anwendungen 
 
 
-https://codesandbox.io/s/
+<https://codesandbox.io/s/>
 
 ![2020 09 14 Codesandbox](../pic/2020-09-14-codesandbox.png)
 
 
 # Atom / Teletype 
 
-https://teletype.atom.io/
+<https://teletype.atom.io/>
 
-https://atom.io/
+<https://atom.io/>
 
 braucht installation (??)
 
