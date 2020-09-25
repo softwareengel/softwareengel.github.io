@@ -1539,3 +1539,161 @@ CarFlagEncoder.java
     http://127.0.0.1:8989/maps/?point=5842368.0,6925753.0&point=5814358.0,6853221.0&point=5814358.0,6853221.0&point=5812145.0,6855013.0&point=5809796.0,6854304.0&point=5806888.0,6854078.0&point=5806623.0,6854707.0&point=5807522.0,6855783.0&point=5803174.51,6857240.44&point=5802839.0,6851283.0&point=5802839.0,6851283.0&point=5802839.0,6851283.0&point=5803014.0,6850925.0&point=5803014.0,6850925.0&point=5803785.0,6848416.0&point=5807539.0,6850657.0&point=5807539.0,6850657.0&point=5808939.0,6850524.0&point=5808891.0,6850053.0&point=5808778.0,6849125.0&point=5808778.0,6849125.0&point=5808778.0,6849125.0&point=5808778.0,6849125.0&point=5808586.0,6848057.0&point=5808521.0,6847685.0&point=5809318.0,6846712.0&point=5810148.0,6845817.0&point=5810148.0,6845817.0&point=5810451.0,6843319.0&point=5811334.0,6845393.0&point=5811103.0,6848951.0&point=5811103.0,6848951.0&point=5814419.0,6846813.0&point=5814419.0,6846813.0&point=5812435.0,6845182.0&point=5812373.0,6843018.0&point=5812373.0,6843018.0&point=5812373.0,6843018.0&point=5812373.0,6843018.0&point=5812373.0,6843018.0&point=5812373.0,6843018.0&point=5812373.0,6843018.0&point=5812369.0,6842923.0&point=5815780.0,6842736.0&point=5815780.0,6842736.0&point=5816022.0,6844593.0&point=5816010.0,6844601.0&point=5816004.0,6844605.0&point=5816017.0,6844669.0&point=5816684.0,6843960.0&point=5820232.0,6841486.0&point=5820232.0,6841486.0&point=5820267.0,6842665.0&point=5820246.0,6845010.0&point=5821126.0,6844223.0&point=5823550.0,6845177.0&point=5828474.0,6840314.0&point=5828475.0,6840328.0&point=5828462.0,6840478.0&point=5852600.28,6878051.43&point=5868623.0,6934149.0&point=5907658.0,7038354.0&point=5907658.0,7038354.0&point=5842368.0,6925753.0&locale=de&vehicle=car&weighting=fastest&elevation=false&use_miles=false&layer=Omniscale
     http://127.0.0.1:8989/maps/?point=5842368.0,6925753.0&point=5803785.0,6848416.0&point=5802864.0,6848659.0&point=5795283.0,6856968.0&point=5810101.0,6938640.0&point=5815084.0,6940152.0&point=5818545.0,6969575.0&point=5848294.0,6982527.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5853872.0,6984798.0&point=5801548.45,6980697.21&point=5800813.0,6980848.0&point=5800338.0,6980947.0&point=5800574.0,6977913.0&point=5809058.0,6973216.0&point=5808962.0,6964058.0&point=5779387.82,6953732.42&point=5791665.0,6949003.0&point=5797366.0,6855960.0&point=5799047.0,6858988.0&point=5799602.0,6859014.0&point=5801071.0,6859234.0&point=5801165.0,6859912.0&point=5801834.0,6856458.0&point=5803174.51,6857240.44&point=5802978.0,6851751.0&point=5802842.0,6851276.0&point=5803014.0,6850925.0&point=5800821.0,6849569.0&point=5803613.0,6849962.0&point=5805030.0,6853439.0&point=5805922.0,6854694.0&point=5805965.0,6854690.0&point=5805869.0,6854727.0&point=5805869.0,6854727.0&point=5805725.0,6855109.0&point=5806829.0,6855520.0&point=5806951.0,6858429.0&point=5808846.0,6859724.0&point=5808846.0,6859724.0&point=5813285.0,6867678.0&point=5820291.0,6872314.0&point=5820291.0,6872314.0&point=5831534.0,6929880.0&point=5833778.0,6930620.0&point=5833778.0,6930620.0&point=5833046.0,6925356.0&point=5832982.0,6924017.0&point=5834174.0,6923991.0&point=5834582.0,6921954.0&point=5834636.0,6924150.0&point=5834636.0,6924150.0&point=5833778.0,6930620.0&point=5833778.0,6930620.0&point=5842368.0,6925753.0&locale=de&vehicle=car&weighting=fastest&elevation=false&use_miles=false&layer=Omniscale
     http://127.0.0.1:8989/maps/?point=5842368.0,6925753.0&point=5832293.0,6935383.0&point=5832294.0,6935386.0&point=5829852.0,6935309.0&point=5827950.0,6935917.0&point=5824949.0,6936714.0&point=5817102.0,6937790.0&point=5815876.0,6946573.0&point=5815660.0,6946873.0&point=5815439.0,6946981.0&point=5813044.0,6962877.0&point=5813044.0,6962877.0&point=5812838.0,6962963.0&point=5808962.0,6964058.0&point=5810839.0,6970326.0&point=5811393.0,6962284.0&point=5814377.0,6947156.0&point=5814802.0,6941902.0&point=5816985.0,6937674.0&point=5819741.0,6935686.0&point=5819764.0,6928154.0&point=5820291.0,6872314.0&point=5822104.0,6873336.0&point=5822104.0,6873336.0&point=5822104.0,6873336.0&point=5823250.0,6857617.0&point=5828445.0,6840063.0&point=5831873.0,6835375.0&point=5831873.0,6835375.0&point=5832046.0,6835562.0&point=5832108.0,6835601.0&point=5832159.0,6835633.0&point=5831805.0,6887148.0&point=5834241.0,6888404.0&point=5848889.0,6902618.0&point=5849690.0,6902625.0&point=5849937.0,6902678.0&point=5851880.0,6904428.0&point=5852501.7,6904942.47&point=5852498.0,6904925.0&point=5855539.0,6906211.0&point=5854671.0,6900000.0&point=5887948.0,6884567.0&point=5887948.0,6884567.0&point=5900841.0,6921551.0&point=5904908.0,6992962.0&point=5906897.0,6991872.0&point=5907658.0,7038354.0&point=5907658.0,7038354.0&point=5842368.0,6925753.0&locale=de&vehicle=car&weighting=fastest&elevation=false&use_miles=false&layer=Omniscale
+
+
+# history 
+
+    login as: engels
+    engels@192.168.2.47's password:
+    Welcome to Ubuntu 18.04.2 LTS (GNU/Linux 4.15.0-54-generic x86_64)
+
+     * Documentation:  https://help.ubuntu.com
+     * Management:     https://landscape.canonical.com
+     * Support:        https://ubuntu.com/advantage
+
+     System information disabled due to load higher than 1.0
+
+
+    243 packages can be updated.
+    165 updates are security updates.
+
+
+    Last login: Tue Sep 22 13:58:26 2020
+    engels@ubuntu-gh:~$ history
+        1  curl
+        2  curl --help+
+        3  curl --help
+        4  curl -url 192.168.2.96:8989
+        5  sudo curl -url 192.168.2.96:8989
+        6  cd OpenRailRouting/
+        7  dir
+        8  sudo bash build.sh
+        9  sudo apt-get install maven
+       10  sudo bash build.sh
+       11  sudo apt-get install java
+       12  sudo apt-get install jdk
+       13  sudo apt-get install openjdk
+       14  cd ..
+       15  pwd
+       16  git clone https://github.com/graphhopper/graphhopper.git
+       17  sudo git clone https://github.com/graphhopper/graphhopper.git
+       18  https://github.com/graphhopper/graphhopper.git
+       19  cd graphhopper/
+       20  git checkout master
+       21  sudo git checkout master
+       22  ./graphhopper.sh -a web europe_germany_berlin.pbf
+       23  ./graphhopper.sh -a web europe_germany_berlin.pbf -o berlin-gh
+       24  ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       25  sudo apt-get install javac
+       26  sudo apt-get install openjdk-8-jdk-headless
+       27  ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       28  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       29  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh -d                                                                                                                                                              --port 8989
+       30  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh --                                                                                                                                                             port 11111
+       31  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh -d                                                                                                                                                              --port 11111
+       32  sudo mc
+       33  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       34  sudo ps
+       35  kill 6857
+       36  sudo kill 6857
+       37  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       38  ifconfig
+       39  sudo mc
+       40  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       41  cd ..
+       42  dir
+       43  cd OpenRailRouting/
+       44  dir
+       45  java -Xmx2500m -Xms50m -Dgraphhopper.prepare.ch.weightings=no   -Dgraphho                                                                                                                                                             pper.datareader.file=$OSMFILE -Dgraphhopper.profiles=freight_diesel   -jar targe                                                                                                                                                             t/railway_routing-0.0.1-SNAPSHOT-jar-with-dependencies.jar $ACTION $CONFIG_FILE                                                                                                                                                              $OPTARG
+       46  sudo bash build.sh
+       47  exit
+       48  sudo apt-get update
+       49  git clone https://github.com/geofabrik/OpenRailRouting.git
+       50  git submodule init
+       51  dir
+       52  cd OpenRailRouting/
+       53  git submodule init
+       54  git submodule update
+       55  sudo apt-get install mc
+       56  sudo mc
+       57  lsof -i
+       58  sudo lsof -i
+       59  ps
+       60  sudo lsof -i
+       61  kill 662
+       62  kill 6628
+       63  sudo kill 6628
+       64  sudo lsof -i
+       65  exit
+       66  ifconfig
+       67  history
+    engels@ubuntu-gh:~$
+    engels@ubuntu-gh:~$ history
+        1  curl
+        2  curl --help+
+        3  curl --help
+        4  curl -url 192.168.2.96:8989
+        5  sudo curl -url 192.168.2.96:8989
+        6  cd OpenRailRouting/
+        7  dir
+        8  sudo bash build.sh
+        9  sudo apt-get install maven
+       10  sudo bash build.sh
+       11  sudo apt-get install java
+       12  sudo apt-get install jdk
+       13  sudo apt-get install openjdk
+       14  cd ..
+       15  pwd
+       16  git clone https://github.com/graphhopper/graphhopper.git
+       17  sudo git clone https://github.com/graphhopper/graphhopper.git
+       18  https://github.com/graphhopper/graphhopper.git
+       19  cd graphhopper/
+       20  git checkout master
+       21  sudo git checkout master
+       22  ./graphhopper.sh -a web europe_germany_berlin.pbf
+       23  ./graphhopper.sh -a web europe_germany_berlin.pbf -o berlin-gh
+       24  ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       25  sudo apt-get install javac
+       26  sudo apt-get install openjdk-8-jdk-headless
+       27  ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       28  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       29  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh -d --port 8989
+       30  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh --port 11111
+       31  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh -d --port 11111
+       32  sudo mc
+       33  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       34  sudo ps
+       35  kill 6857
+       36  sudo kill 6857
+       37  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       38  ifconfig
+       39  sudo mc
+       40  sudo ./graphhopper.sh -a web -i europe_germany_berlin.pbf -o berlin-gh
+       41  cd ..
+       42  dir
+       43  cd OpenRailRouting/
+       44  dir
+       45  java -Xmx2500m -Xms50m -Dgraphhopper.prepare.ch.weightings=no   -Dgraphhopper.datareader.file=$OSMFILE -Dgraphhopper.profiles=freight_diesel   -jar target/railway_routing-0.0.1-SNAPSHOT-jar-with-dependencies.jar $ACTION $CONFIG_FILE $OPTARG
+       46  sudo bash build.sh
+       47  exit
+       48  sudo apt-get update
+       49  git clone https://github.com/geofabrik/OpenRailRouting.git
+       50  git submodule init
+       51  dir
+       52  cd OpenRailRouting/
+       53  git submodule init
+       54  git submodule update
+       55  sudo apt-get install mc
+       56  sudo mc
+       57  lsof -i
+       58  sudo lsof -i
+       59  ps
+       60  sudo lsof -i
+       61  kill 662
+       62  kill 6628
+       63  sudo kill 6628
+       64  sudo lsof -i
+       65  exit
+       66  ifconfig
+       67  history
+    engels@ubuntu-gh:~$
