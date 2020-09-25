@@ -1,12 +1,12 @@
-# Google Waze Web Editor JS Toolsset
+﻿# Google Waze Web Editor JS Toolsset
 
 https://www.waze.com/de/editor 
 
-![Screenshot 2019 11 21 Waze Editor](pic/Screenshot_2019-11-21-waze-editor.png)
+![Screenshot 2019 11 21 Waze Editor](../pic/Screenshot_2019-11-21-waze-editor.png)
 
 ## JS Toolset
-![Screenshot 2019 11 21 J S Tools1](pic/Screenshot_2019-11-21-JS-tools1.png)
-![Screenshot 2019 11 21 J S Tools2](pic/Screenshot_2019-11-21-JS-tools2.png)
+![Screenshot 2019 11 21 J S Tools1](../pic/Screenshot_2019-11-21-JS-tools1.png)
+![Screenshot 2019 11 21 J S Tools2](../pic/Screenshot_2019-11-21-JS-tools2.png)
 
 ### Statistiken
 Google Analytics

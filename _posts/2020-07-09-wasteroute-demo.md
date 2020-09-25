@@ -1,14 +1,14 @@
-# UML - Wasteroute 
+ï»¿# Umleertouren - Wasteroute 
 
 ## Depos und Anlagen  
 
-*   es gibt 3 Depots, 2 würden m.E. reichen
-    Öffnungszeiten der Depots wären bei mit nicht 0h , möglich wäre 5h (Millis 18000000)
- *   Viele  (5) Anlagen befinden sich nahe beieinander, das ist ungewöhnlich, *Anlagen befinden sich eher außerhalb der Stadtgebiete. Hier (Dortmund) wären doch reale Anlagen möglich...
-    * Dass alle / viele Anlagen alle Fraktionen bedienen ist m.e. unüblich, das erschwert auch die "Übersichtlichkeit der Routen", da hier lange Touren über verschiedene Anlagen gefahren werden. Alternativ würde ich hier insgesamt nur 5 Anlagen nutzen , die auch etwas außerhalb liegen, z.B. nur zwei mit allen drei Fraktionen
+*   es gibt 3 Depots, 2 wÃ¼rden m.E. reichen
+    Ã–ffnungszeiten der Depots wÃ¤ren bei mit nicht 0h , mÃ¶glich wÃ¤re 5h (Millis 18000000)
+ *   Viele  (5) Anlagen befinden sich nahe beieinander, das ist ungewÃ¶hnlich, *Anlagen befinden sich eher auÃŸerhalb der Stadtgebiete. Hier (Dortmund) wÃ¤ren doch reale Anlagen mÃ¶glich...
+    * Dass alle / viele Anlagen alle Fraktionen bedienen ist m.e. unÃ¼blich, das erschwert auch die "Ãœbersichtlichkeit der Routen", da hier lange Touren Ã¼ber verschiedene Anlagen gefahren werden. Alternativ wÃ¼rde ich hier insgesamt nur 5 Anlagen nutzen , die auch etwas auÃŸerhalb liegen, z.B. nur zwei mit allen drei Fraktionen
 
 ##  Fahrzeugen:
 
-   * Frontlader (FL) mit Nutzlast mit 5 t sind unüblich; ca. 8.5 t wären ein passender Wert.
-   * HL mit Nutzlast mit 5 t sind unüblich; ca. 9.5t wären ein passender Wert  
+   * Frontlader (FL) mit Nutzlast mit 5 t sind unÃ¼blich; ca. 8.5 t wÃ¤ren ein passender Wert.
+   * HL mit Nutzlast mit 5 t sind unÃ¼blich; ca. 9.5t wÃ¤ren ein passender Wert  
 

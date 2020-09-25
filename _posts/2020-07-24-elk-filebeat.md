@@ -1,4 +1,20 @@
-﻿# Raspi - ELK - Filebeat
+﻿---
+layout: post
+title: ELK Stack: Elasticsearch - Kibana - Logstash 
+categories: [ELK]
+tags: [ELK]
+--- 
+
+# ElasticSearch , AWS — Open Distro Elasticsearch
+
+<https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a>
+
+<https://github.com/opendistro-for-elasticsearch>
+
+<https://www.elastic.co/guide/en/elasticsearch/reference/7.9/docker.html>
+
+
+# Raspi - ELK - Filebeat
 
 ## install docker on Raspi (not working)
 
@@ -31,11 +47,11 @@ Delete containers
 
     sudo rm -rf /var/lib/docker
 
-## install doker ISO Raspi 
+## install docker ISO Raspi 
 
 https://blog.hypriot.com/post/releasing-HypriotOS-1-11/
 
-## Install docker ELK 
+## Install docker ELK - not working 
 
     git clone https://github.com/deviantony/docker-elk.git
     
@@ -60,7 +76,7 @@ he Logstash server should be accessible in http://localhost:5000 . I'm still new
 
     systemctl restart elasticsearch
 
-## Maual ELK Raspi 
+## Maual ELK Raspi - not working 
 
     sudo apt-get install default-jre
 
@@ -82,7 +98,7 @@ sudo service elasticsearch restart
 
     docker-compose up
 
-## Manual Logstash 
+## Manual install Logstash 
 
 $ sudo apt-get install apt-transport-https
 $ echo "deb https://artifacts.elastic.co/packages/5.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-5.x.list
@@ -95,6 +111,9 @@ $ sudo service logstash start
 ![2020 09 17 Elk Beats](../pic/2020-09-17-elk-beats.png)
 
 ## MetricBeat 
+Collect metrics from your systems and services. From CPU to memory, Redis to NGINX, and much more, Metricbeat is a lightweight way to send system and service statistics. 
+
+<https://www.elastic.co/beats/metricbeat>
 
     curl -L -O https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.1.2-darwin-x86_64.tar.gz
 

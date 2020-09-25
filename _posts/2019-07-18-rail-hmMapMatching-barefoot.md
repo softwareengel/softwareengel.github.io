@@ -1,4 +1,6 @@
-﻿# Rail Map Matching - barefoot 
+﻿Rail map matching: pqsql, barefoot, java, virtualbox, ubuntu, osmosis 
+
+# Rail Map Matching - barefoot 
 
 <https://github.com/bmwcarit/barefoot> 
 
@@ -9,6 +11,7 @@
 + Ubuntu Linux Server: <http://releases.ubuntu.com/18.04/> ; <http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso> 
 
 + VM Settings:
+
 ![VM Settings](/pic/capture_001_18072019_144944.jpg)
 
 ### config 
@@ -71,9 +74,9 @@ and update osmosis command, if using .osm-Files
 
 ## Run 
 
-sudo docker ps -a 
-sudo docker stop barefoot-oberbayern
-sudo docker start barefoot-oberbayern
+    sudo docker ps -a 
+    sudo docker stop barefoot-oberbayern
+    sudo docker start barefoot-oberbayern
 
 ![putty shell for docker](/pic/capture_002_18072019_145914.jpg)
 
@@ -85,10 +88,12 @@ Data Table with ways:
 ![PgAdim III](/pic/capture_003_18072019_150333.jpg)
 
 ### View in Qgis 2.18
+
 View Points and Relations from PGSql Data and Track 
 ![Map and Tack calculated with barefoot](/pic/capture_005_18072019_150834.jpg)
 
 ### Eclipse: 
+
 + C:\java\eclipse-jee-2019-03-R-win32-x86_64\eclipse
 
 + Maven build install - skiptests 

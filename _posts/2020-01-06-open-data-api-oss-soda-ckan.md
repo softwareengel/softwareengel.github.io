@@ -1,4 +1,4 @@
-# Socrata Open Data API (SODA)
+﻿# Socrata Open Data API (SODA)
 
 https://dev.socrata.com/ 
 

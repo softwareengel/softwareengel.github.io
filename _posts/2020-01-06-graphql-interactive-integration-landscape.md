@@ -1,4 +1,4 @@
-# GraphQL 
+﻿# GraphQL 
 
 Graphql SPEC <http://spec.graphql.org/> , <http://spec.graphql.org/June2018/>
 

@@ -1,13 +1,8 @@
----
+﻿---
 layout: post
 title: nlp text analyse tools
-categories:
-  - tools
-tags:
-  - text mining
-  - nlp
-  - oss
-published: true
+categories:[ tools]
+tags: [text mining, nlp,  oss]
 ---
  
 
@@ -37,4 +32,4 @@ published: true
 
 # Text Stat 
 
-https://pypi.org/project/textstat/
+<https://pypi.org/project/textstat/>

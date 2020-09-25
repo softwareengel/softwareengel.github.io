@@ -1,4 +1,4 @@
-
+﻿
 ## dotnet Tool NJsonSchema
 
 (https://github.com/RicoSuter/NJsonSchema)

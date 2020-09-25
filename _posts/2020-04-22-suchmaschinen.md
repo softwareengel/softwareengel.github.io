@@ -1,14 +1,14 @@
----
+﻿---
 layout: post
 title: Suchmaschinen 
 categories: [search engine]
 tags: [search engine]
 --- 
+# suchmaschinen 
 
+<https://t3n.de/news/google-alternative-474551/>
 
-https://t3n.de/news/google-alternative-474551/
-
-https://www.nebel.de/projekte/Vortrag-20051021/FreieSuchmaschinensoftware.html
+<https://www.nebel.de/projekte/Vortrag-20051021/FreieSuchmaschinensoftware.html>
 
 
 CC - Content Search: <https://search.creativecommons.org/>
@@ -34,7 +34,7 @@ Search Elastic Search <https://www.elastic.co/de/>
 
 ## UI for Elastic Search 
 
-Suchoberfl�che Calaca: <https://github.com/romansanchez/Calaca>
+Suchoberfläche Calaca: <https://github.com/romansanchez/Calaca>
 
 # Ambar 
 
@@ -44,9 +44,9 @@ Suchoberfl�che Calaca: <https://github.com/romansanchez/Calaca>
 
 # apache solr 
 
-https://lucene.apache.org/solr/ 
+<https://lucene.apache.org/solr/> 
 
 
 # apache nutch 
 
-https://www.apache.org/dyn/closer.lua/nutch/1.16/apache-nutch-1.16-bin.zip
+<https://www.apache.org/dyn/closer.lua/nutch/1.16/apache-nutch-1.16-bin.zip>

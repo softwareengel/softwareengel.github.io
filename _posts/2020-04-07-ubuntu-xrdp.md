@@ -5,7 +5,7 @@ categories: [Linux]
 tags: [Ubuntu, RDP, Skript]
 --- 
 
-# Installation rdp on ubuntu skript  *tested* 
+# Installation RDP on Ubuntu Skript  * tested * 
 
 Working skript 
 
@@ -14,4 +14,5 @@ Working skript
 
 
 <https://c-nergy.be/products.html>
+
 
