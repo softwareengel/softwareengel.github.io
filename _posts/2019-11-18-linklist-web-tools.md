@@ -27,6 +27,9 @@ tags: [Links]
 
 <https://dlfeb.com/>
 
+<https://www.ebooks777.net/>
+ 
+
 ## Books 
 
 <https://www.pdfdrive.com/> 
@@ -40,6 +43,7 @@ tags: [Links]
 <https://libgen.pw/> 
     
 <https://en.booksee.org/> 
+
 
 # audiobooks 
 
