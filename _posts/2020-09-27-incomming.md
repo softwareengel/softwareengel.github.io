@@ -10,3 +10,7 @@ https://carto.com/
 ## google data expolrer 
 
 https://www.google.com/publicdata/directory
+
+## Matplotlib
+
+https://matplotlib.org/gallery.html#statistics 
