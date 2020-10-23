@@ -1,5 +1,4 @@
 ﻿
-
 ## clipboards
 
 https://ditto-cp.sourceforge.io/ 
