@@ -123,9 +123,15 @@ sudo apt-get install mc
 
 ## RDP 
 
+optional: 
+   
     sudo apt-get purge realvnc-vnc-server
 
+xrdp RDP server 
+
     sudo apt-get install xrdp
+
+optional 
 
     sudo reboot
 
@@ -443,7 +449,9 @@ print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))
 GPIO.cleanup()
 ~~~
 
+# SmartSim Anwendung auf Raspi 
 
+![Smartsim Raspi4](/pic/smartsim-raspi4.png)
 
 ---
 
@@ -454,3 +462,6 @@ GPIO.cleanup()
 ![Screen Raspi Zero Webserver Led Thonny](/pic/screen-raspi-zero-webserver-led-thonny.png)
 
 
+# Links
+
+https://developer-blog.net/raspberry-pi-gpio-schnittstelle-teil-1/ 
