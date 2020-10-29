@@ -1,37 +1,60 @@
-﻿## clipborads
+﻿
+## clipboards
 
 https://ditto-cp.sourceforge.io/ 
-## corto 
+
+## carto 
 Unlock the power of spatial analysis
 The world's leading Location Intelligence platform
 
 https://carto.com/ 
 
-## google data expolrer 
+## Google data expolrer 
 
 https://www.google.com/publicdata/directory
 
-## Matplotlib
+## OSS Kan borard
 
-https://matplotlib.org/gallery.html#statistics 
+https://kanboard.org/ 
 
 
-## (un)freies Netz 
+# scrum / kanban for redmine 
 
-<https://www.heise.de/news/Studie-Regierungen-nutzen-Coronakrise-als-Vorwand-fuer-Ueberwachung-und-Zensur-4931353.html>
+https://www.scrumexpert.com/tools/scrum-and-kanban-plugins-for-redmine/ 
 
-<https://freedomhouse.org/country/germany/freedom-net/2020#footnote6_p153bym>
+https://redmine.ociotec.com/attachments/536/scrum-v0.19.0.tar.gz
 
-## Facebook Ad Lib 
+## update docker readmine 3.3.10 + scrum plugin 
 
-Beispiel Donald Trump Usa 
+    sudo docker ps
+    sudo docker exec -it f831edadec99 bash
+    wget https://redmine.ociotec.com/attachments/536/scrum-v0.19.0.tar.gz 
+    chmod -R redmine:redmine *
 
-<https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&page_ids[0]=153080620724&page_ids[1]=113223650193301&page_ids[2]=108103774350322&q=donald%20trump%20&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped>
+restart 
 
-![Facebook Ad Lib File](/pic/facebook_ad_lib-file.png)
+  
+# e7240 cmos battery 
 
-------
-https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&page_ids[0]=153080620724&page_ids[1]=113223650193301&q=donald%20trump%20&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped 
+https://www.youtube.com/watch?v=6acrpAjQ6IU
 
-![Facebook Ad Lib 2020 10 18 Trump](/pic/facebook-ad-lib-2020-10-18-trump.png)
 
+https://www.parts-people.com/blog/2014/11/19/dell-latitude-e7240-cmos-battery-removal-and-installation/ 
+
+https://www.youtube.com/watch?v=zNGfT-b1Ejk
+
+## self diag 
+
+Power + d 
+
+Poser + Fn 
+
+## Locust - An open source load testing tool.
+
+
+Define user behaviour with Python code, and swarm your system with millions of simultaneous users. 
+
+
+<https://locust.io/>
+
+![2020 10 23 Locust Screenfile](/pic/2020-10-23-locust-screenfile.png)
