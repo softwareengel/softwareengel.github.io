@@ -34,7 +34,7 @@ https://redmine.ociotec.com/attachments/536/scrum-v0.19.0.tar.gz
 restart 
 
   
-# e7240 cmos battery 
+# dell e7240 cmos battery 
 
 https://www.youtube.com/watch?v=6acrpAjQ6IU
 
@@ -45,11 +45,11 @@ https://www.youtube.com/watch?v=zNGfT-b1Ejk
 
 ## self diag 
 
-Power + d 
+Power + d (Display Check)
 
 Poser + Fn 
 
-## Locust - An open source load testing tool.
+# Locust - An open source load testing tool.
 
 
 Define user behaviour with Python code, and swarm your system with millions of simultaneous users. 
@@ -58,3 +58,28 @@ Define user behaviour with Python code, and swarm your system with millions of s
 <https://locust.io/>
 
 ![2020 10 23 Locust Screenfile](/pic/2020-10-23-locust-screenfile.png)
+
+# k8s - ingress controllers 
+
+    Kubernetes Documentation
+    Concepts
+    Services, Load Balancing, and Networking
+    Ingress Controllers 
+
+
+https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/ 
+
+# k8s Dashboard Web UI 
+    Kubernetes Documentation
+    Tasks
+    Access Applications in a Cluster
+    Web UI (Dashboard)
+
+
+https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+  
+# python fire  - command line maker 
+
+Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+
+https://github.com/google/python-fire

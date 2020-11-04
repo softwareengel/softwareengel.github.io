@@ -25,13 +25,17 @@ https://www.influxdata.com/time-series-platform/telegraf/
 
 # Grafana
 
-https://github.com/torkelo/grafana
+<https://github.com/torkelo/grafana>
 
-docker run -d -p 3000:3000 --name=grafana -e "GF_INSTALL_PLUGINS=grafana-clock-panel,grafana-simple-json-datasource" -e "GF_SECURITY_ADMIN_PASSWORD=secret" grafana/grafana
+    docker run -d -p 3000:3000 --name=grafana -e "GF_INSTALL_PLUGINS=grafana-clock-panel,grafana-simple-json-datasource" -e "GF_SECURITY_ADMIN_PASSWORD=secret" grafana/grafana
 
+<https://blog.timescale.com/blog/grafana-webinar-1-recap/> : https://youtu.be/oPumWaoNw5s 
 
 
 ## Grafana on Raspi 
+
+
+<https://grafana.com/tutorials/install-grafana-on-raspberry-pi/#3>
 
 <https://github.com/fg2it/grafana-on-raspberry/>
 
@@ -114,6 +118,7 @@ OSS Fork von MySQL
 # history 
 
 engels@ubuntu18svr-01:~$ history
+
     1  sudo apt-get update
     2  cls
     3  clear
@@ -123,122 +128,123 @@ engels@ubuntu18svr-01:~$ history
     7  sudo apt-get update
     8  sudo apt-get upgrade
     9  sudo reboot now
-   10  sudo shutdown
-   11  sudo shutdown now
-   12  ifconfig
-   13  ping 10.0.2.15
-   14  ifconfig
-   15  ping 192.168.4.1
-   16  ifconfig
-   17  ping 192.168.4.1
-   18  ifconfig
-   19  sudo apt install mc
-   20  sudo apt install apt-transport-https ca-certificates curl software-properties-common
-   21  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-   22  add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-   23  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-   24  apt-get update
-   25  sudo apt-get update
-   26  apt-cache policy docker-ce
-   27  sudo apt install docker-ce
-   28  sudo systemctl status docker
-   29  docker run hello-world
-   30  sudo docker run hello-world
-   31  sudo shutdown now
-   32  cat grafana-socker.sh
-   33  dcker --version
-   34  docker --version
-   35  ps aux
-   36  htop
-   37  exit
-   38  ifconfig
-   39  ps
-   40  mc
-   41  echo docker run -d   -p 3000:3000   --name=grafana   -e "GF_SERVER_ROOT_URL=http://grafana.server.name"   -e "GF_SECURITY_ADMIN_PASSWORD=secret"   grafana/grafana >grafana-socker.sh
-   42  mc
-   43  ls
-   44  chmod +x grafana-socker.sh
-   45  mc
-   46  sudo ./grafana-socker.sh
-   47  sudo shutdown now
-   48  [A
-   49  ./grafana-socker.sh
-   50  docker
-   51  I
-   52  IIIII
-   53  docker container ls -a
-   54  sudo docker container ls -a
-   55  sudo docker container start 055bcc2493ad
-   56  sudo docker container ls -a
-   57  cat ./grafana-docker.sh
-   58  sudo docker container
-   59  sudo docker container ls
-   60  sudo docker container stop 055bcc2493ad
-   61  sudo docker container ls
-   62  sudo docker container rm 055bcc2493ad
-   63  sudo docker container ls -a
-   64  ./grafana-docker.sh
-   65  sudo ./grafana-docker.sh
-   66  java
-   67  java --version
-   68  sudo apt install openjdk-8-jre-headless
+
+       10  sudo shutdown
+       11  sudo shutdown now
+       12  ifconfig
+       13  ping 10.0.2.15
+       14  ifconfig
+       15  ping 192.168.4.1
+       16  ifconfig
+       17  ping 192.168.4.1
+       18  ifconfig
+       19  sudo apt install mc
+       20  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+       21  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+       22  add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+       23  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+       24  apt-get update
+       25  sudo apt-get update
+       26  apt-cache policy docker-ce
+       27  sudo apt install docker-ce
+       28  sudo systemctl status docker
+       29  docker run hello-world
+       30  sudo docker run hello-world
+       31  sudo shutdown now
+       32  cat grafana-socker.sh
+       33  dcker --version
+       34  docker --version
+       35  ps aux
+       36  htop
+       37  exit
+       38  ifconfig
+       39  ps
+       40  mc
+       41  echo docker run -d   -p 3000:3000   --name=grafana   -e "GF_SERVER_ROOT_URL=http://grafana.server.name"   -e "GF_SECURITY_ADMIN_PASSWORD=secret"   grafana/grafana >grafana-socker.sh
+       42  mc
+       43  ls
+       44  chmod +x grafana-socker.sh
+       45  mc
+       46  sudo ./grafana-socker.sh
+       47  sudo shutdown now
+       48  [A
+       49  ./grafana-socker.sh
+       50  docker
+       51  I
+       52  IIIII
+       53  docker container ls -a
+       54  sudo docker container ls -a
+       55  sudo docker container start 055bcc2493ad
+       56  sudo docker container ls -a
+       57  cat ./grafana-docker.sh
+       58  sudo docker container
+       59  sudo docker container ls
+       60  sudo docker container stop 055bcc2493ad
+       61  sudo docker container ls
+       62  sudo docker container rm 055bcc2493ad
+       63  sudo docker container ls -a
+       64  ./grafana-docker.sh
+       65  sudo ./grafana-docker.sh
+       66  java
+       67  java --version
+       68  sudo apt install openjdk-8-jre-headless
    
-  echo "version: '2.4'
+      echo "version: '2.4'
    
-        services:
-         nginx:
-           image: nginx:latest
-           ports:
-             - "8080:80"
-           volumes:
-             - ./log:/var/log/nginx
+            services:
+             nginx:
+               image: nginx:latest
+               ports:
+                 - "8080:80"
+               volumes:
+                 - ./log:/var/log/nginx
    
-         filebeat:
-           image: docker.elastic.co/beats/filebeat:7.2.0
-           volumes:
-             - ./log/:/var/log/nginx
-           command: >
-             ./filebeat -e -c /etc/motd
-             -E "filebeat.inputs=[{type:log,paths:['/var/log/nginx/access.log']}]"
-             -E "output.logstash.hosts=['logstash:5044']"
+             filebeat:
+               image: docker.elastic.co/beats/filebeat:7.2.0
+               volumes:
+                 - ./log/:/var/log/nginx
+               command: >
+                 ./filebeat -e -c /etc/motd
+                 -E "filebeat.inputs=[{type:log,paths:['/var/log/nginx/access.log']}]"
+                 -E "output.logstash.hosts=['logstash:5044']"
    
-         logstash:
-           image: docker.elastic.co/logstash/logstash:7.2.0
-           expose:
-             - "5044"
-           volumes:
-             - ./logstash:/usr/share/logstash/pipeline
+             logstash:
+               image: docker.elastic.co/logstash/logstash:7.2.0
+               expose:
+                 - "5044"
+               volumes:
+                 - ./logstash:/usr/share/logstash/pipeline
    
-         elasticsearch:
-           image: docker.elastic.co/elasticsearch/elasticsearch:7.2.0
-           ports:
-             - "9200:9200"
-           environment:
-           http.host: 0.0.0.0
-           discovery.type: single-node
-           ES_JAVA_OPTS: "-Xms750m -Xmx750m"
+             elasticsearch:
+               image: docker.elastic.co/elasticsearch/elasticsearch:7.2.0
+               ports:
+                 - "9200:9200"
+               environment:
+               http.host: 0.0.0.0
+               discovery.type: single-node
+               ES_JAVA_OPTS: "-Xms750m -Xmx750m"
   
-       kibana:
-         image: docker.elastic.co/kibana/kibana:7.2.0
-         ports:
-           - "5601:5601"> docker-compose.yml
-   ls
-   ls -al
-   touch docker-compose.yml
-   mc
-   docker-compose up -d
-   sudo docker-compose up -d
-   sudo apt  install docker-compose
-   sudo docker-compose up -d
-   mc
-   sudo docker-compose up -d
-    docker ls
-    sudo docker container ls
-    docker exec -ti  engels_filebeat_1
-    docker exec -ti engels_filebeat_1
-    docker exec -ti engels_filebeat_1 /bin/bash
-    sudo docker exec -ti engels_filebeat_1 /bin/bash
-    exit
-    sudo docker ls
-    sudo docker ps
-    history
+           kibana:
+             image: docker.elastic.co/kibana/kibana:7.2.0
+             ports:
+               - "5601:5601"> docker-compose.yml
+       ls
+       ls -al
+       touch docker-compose.yml
+       mc
+       docker-compose up -d
+       sudo docker-compose up -d
+       sudo apt  install docker-compose
+       sudo docker-compose up -d
+       mc
+       sudo docker-compose up -d
+        docker ls
+        sudo docker container ls
+        docker exec -ti  engels_filebeat_1
+        docker exec -ti engels_filebeat_1
+        docker exec -ti engels_filebeat_1 /bin/bash
+        sudo docker exec -ti engels_filebeat_1 /bin/bash
+        exit
+        sudo docker ls
+        sudo docker ps
+        history
