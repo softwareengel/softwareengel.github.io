@@ -275,7 +275,9 @@ Log Webserver
 
 
 
+# src 
 
+</src/2020-11-docker/>
 
 
 # Links:
@@ -287,4 +289,10 @@ server.py
 
 https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7
 
+MS VS Code How TO 
+https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/update-your-app 
+
+MS VS Code Docker Debug Python 
+
+https://code.visualstudio.com/docs/containers/debug-python 
 

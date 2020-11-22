@@ -83,3 +83,14 @@ https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 https://github.com/google/python-fire
+
+
+
+
+# Firefox shortcuts 
+
+https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly 
+
+https://developer.mozilla.org/de/docs/Tools/Keyboard_shortcuts 
+
+![2020 11 22 Data Vis List](/pic/2020-11-22-data-vis-list.png)
