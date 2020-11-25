@@ -462,6 +462,11 @@ GPIO.cleanup()
 ![Screen Raspi Zero Webserver Led Thonny](/pic/screen-raspi-zero-webserver-led-thonny.png)
 
 
+# das Netzteil ...
+
+https://www.elektronik-kompendium.de/sites/raspberry-pi/1912111.htm 
+
+
 # Links
 
 https://developer-blog.net/raspberry-pi-gpio-schnittstelle-teil-1/ 

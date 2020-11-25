@@ -288,3 +288,57 @@ server.py
 https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7
 
 
+## rescue 
+### nginx.conf 
+
+events {
+
+}
+http {
+    server {  
+        error_log /etc/nginx/error_log.log warn; 
+        client_max_body_size 20m;
+        ## 
+        server_name 192.168.2.46;
+
+        location /basic_status {
+           stub_status on;
+           allow all;
+        }
+
+        # location 1 
+        location /yourService1 {
+            proxy_pass http://192.168.2.46:8080;
+            rewrite ^/yourService1(.*)$ $1 break;
+        }
+
+        # location cut3d (TODO) 
+        location /cut3d {
+            proxy_pass http://192.168.2.46:8080;
+            rewrite ^/cut3d(.*)$ rewrite-$1 break;
+        }
+    }
+
+}
+
+### promentheus.conf
+
+global:
+  scrape_interval:     2s
+  evaluation_interval: 2s
+
+rule_files:
+  # - "first.rules"
+  # - "second.rules"
+
+scrape_configs:
+  # selbst 
+  - job_name: prometheus
+    static_configs:
+      - targets: ['localhost:9090']
+
+  - job_name: 'node'
+    static_configs:
+      - targets: ['192.168.2.46:9100']
+
+

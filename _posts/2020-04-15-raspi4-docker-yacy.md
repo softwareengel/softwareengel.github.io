@@ -5,7 +5,7 @@ categories: [Raspi]
 tags: [raspi, yacy, docker]
 --- 
 
-Install Yacy in Docker on Raspi 4 - 4GB Ram - 64 GB SD
+Install Yacy in     Docker on Raspi 4 - 4GB Ram - 64 GB SD
 
 # Raspi 4 Docker Yacy 
 
