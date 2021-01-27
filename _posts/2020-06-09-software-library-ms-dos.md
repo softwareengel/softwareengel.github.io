@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:   MS-DOS Games Software Library
+title: MS-DOS Games Software Library
 categories: [Games]
 tags: [DOS, Games, History]
 --- 
