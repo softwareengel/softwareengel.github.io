@@ -10,3 +10,4 @@ node_modules
 package.json
 /data/raspi/src/praxis/QualityAssurance2020/__pycache__
 /data/raspi/src/praxis/__pycache__/*.pyc
+/.vs
