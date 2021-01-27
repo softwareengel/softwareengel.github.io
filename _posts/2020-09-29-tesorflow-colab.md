@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title:  google colab rwnsorflow 
+title:  google colab tensorflow + pre trained modells 
 categories: [google, colab, rwnsorflow ]
 tags:  [google, colab, rwnsorflow ]
 ---
-web python notebook colaboration with CPU 
+web python notebook colaboration tensorflow with CPU 
 ![](/pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub-crop.png)
 
 # google colab 
