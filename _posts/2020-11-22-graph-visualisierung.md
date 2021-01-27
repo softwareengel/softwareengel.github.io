@@ -4,9 +4,7 @@ title:  Graph Visualisation Collection 2020
 categories: [network, graph, visulalisation, oss]
 tags: [network, graph, visulalisation, oss]
 ---
-Examples of Graph Visalisations 
-
-![](/pic/2020-11-22-d3.js-galerie-crop.png)
+Examples of Graph Visalisations ![](/pic/2020-11-22-d3.js-galerie-crop.png)
 
 # graph visualisation 2020
 
