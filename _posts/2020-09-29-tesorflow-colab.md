@@ -18,3 +18,9 @@ web python notebook colaboration with CPU
 <https://www.tensorflow.org/hub/tutorials/tf2_image_retraining> 
 
 ![](/pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub.png)
+
+### TF Pre-Trained TF-Modells: 
+
+<https://github.com/tensorflow/tfjs-models>
+
+![](/pic/Screenshot_2021-01-27%20tensorflow%20tfjs-models.png)
