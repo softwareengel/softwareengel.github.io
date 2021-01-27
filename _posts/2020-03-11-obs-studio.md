@@ -1,9 +1,8 @@
-﻿
----
+﻿---
 layout: post
 title: OBS Studio - Open Brodcast Studio 
-categories: [search engine]
-tags: [search engine]
+categories: [OBS, Video, Broadcast]
+tags: [OBS, Video, Broadcast]
 --- 
 
 Video / Screen und Audio Bradcasting in Video - File oder Live Stream 
