@@ -1,12 +1,11 @@
 ---
 layout: post
-title: ReactOS - Run WIndows Application on open source 
+title: ReactOS - Run Windows Application on open source 
 categories: [ReactOS, OSS, WINDOWS]
 tags: [OSS, WINDOWS]
 --- 
-Imagine running your favorite Windows applications and drivers in an open-source environment you can trust. That's the mission of ReactOS! 
+Imagine running your favorite Windows applications and drivers in an open-source environment you can trust. That's the mission of ReactOS! ![](https://avatars.githubusercontent.com/u/1056157?s=200&v=4)
 
-![](https://avatars.githubusercontent.com/u/1056157?s=200&v=4)
 # ReactOS
 
 Welcome to ReactOS

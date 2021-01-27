@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Raspi Python Dev 
+title: Raspi Python Dev Face Recognition 
 categories: [Raspberry Pi, Python, Dev]
 tags: [Raspberry Pi, Python, Dev]
 ---
