@@ -1,4 +1,11 @@
-﻿Rail map matching: pqsql, barefoot, java, virtualbox, ubuntu, osmosis 
+﻿---
+layout: post
+title: Rail map matching - hmm hidden markow matching 
+categories: [ai, hmm, hidden markow chain, map matchig, rail]
+tags: [ai, hmm, hidden markow chain, map matchig, rail]
+--- 
+![Map and Tack calculated with barefoot](/pic/capture_005_18072019_150834.jpg)
+Rail map matching: pqsql, barefoot, java, virtualbox, ubuntu, osmosis, qgis 
 
 # Rail Map Matching - barefoot 
 
