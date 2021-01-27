@@ -1,4 +1,10 @@
-# ms sql server linux 
+---
+layout: post
+title:   ms sql server linux 
+categories: [MS, SQL, SQL Server, Linux]
+tags:  [MS, SQL, SQL Server, Linux]
+---
+MS SQl Server on Linux - only x86 (!) 
 
 # ms sql server on linux 
 
@@ -57,8 +63,6 @@ https://www.mssqltips.com/sql-server-tip-category/226/sql-server-on-linux/
 
 ## resize partition 
 
-
-
     sudo fdisk /dev/sda2
 
     Created a new DOS disklabel with disk identifier 0x49744b09.
@@ -75,17 +79,16 @@ __
 
     sudo fdisk /dev/sda2
 
-
-
 -- 
 
 # Version MSMS MS SQl Server Management Studio 
 
-SQL Server Management Studio						15.0.18338.0
-SQL Server Management Objects (SMO)						16.100.41011.9
-Microsoft Analysis Services Client Tools						15.0.19205.0
-Microsoft Data Access Components (MDAC)						10.0.19041.1
-Microsoft MSXML						3.0 6.0 
-Microsoft .NET Framework						4.0.30319.42000
-Operating System						10.0.19041
+
+    SQL Server Management Studio						15.0.18338.0
+    SQL Server Management Objects (SMO)						16.100.41011.9
+    Microsoft Analysis Services Client Tools						15.0.19205.0
+    Microsoft Data Access Components (MDAC)						10.0.19041.1
+    Microsoft MSXML						3.0 6.0 
+    Microsoft .NET Framework						4.0.30319.42000
+    Operating System						10.0.19041
 

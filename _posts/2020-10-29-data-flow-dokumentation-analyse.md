@@ -1,42 +1,47 @@
-﻿# Data Flow Analyse Dokumentaion 
+﻿---
+layout: post
+title:  Data Flow Analyse Dokumentation - Visualisation 
+categories: []
+tags: []
+---
 
+# Data Flow Analyse Dokumentaion 
 
 Graph Analyse mit PowerBI und MSSQL Edge + Node 
 
-https://www.mssqltips.com/sqlservertip/5208/graph-analysis-using-force-directed-graphs-in-power-bi-desktop/ 
+<https://www.mssqltips.com/sqlservertip/5208/graph-analysis-using-force-directed-graphs-in-power-bi-desktop/> 
 
 # Neo4J
 
-https://neo4j.com/developer/tools-graph-visualization/#neo4j-vis-vendors
+<https://neo4j.com/developer/tools-graph-visualization/#neo4j-vis-vendors>
 
-https://neo4j.com/developer/relational-to-graph-modeling/
+<https://neo4j.com/developer/relational-to-graph-modeling/>
 
 # OrientDB 
 
-https://orientdb.org/ 
+<https://orientdb.org/> 
 
-https://github.com/orientechnologies/orientdb 
+<https://github.com/orientechnologies/orientdb> 
 
-http://192.168.2.23:2480/studio/index.html 
+<http://192.168.2.23:2480/studio/index.html> 
 
 ## use gremlin with orientdb 
 
-http://orientdb.com/docs/3.1.x/gremlin/Gremlin.html 
+<http://orientdb.com/docs/3.1.x/gremlin/Gremlin.html> 
 
 # Graph Editor Gephi 
 
-gephi tutorial 
+Gephi tutorial 
 
-https://gephi.org/tutorials/gephi-tutorial-visualization.pdf 
+<https://gephi.org/tutorials/gephi-tutorial-visualization.pdf> 
 
 ## graph streming  plugin 
 
-![Graph Streming Plugin File](/pic/graph streming plugin file.png)
+![Graph Streming Plugin File](/pic/graph%20streming%20plugin%20file.png)
 
+<https://gephi.org/users/install/>
 
-https://gephi.org/users/install/
-
-url: 
+# Links
 
 http://192.168.2.23:2480/gephi/demodb/sql/select%20from%20ArchaeologicalSites/-1
 http://192.168.2.23:2480/gephi/demodb/sql/select%20from%20IsFromCountry/-1 
@@ -70,10 +75,7 @@ http://192.168.2.23:2480/gephi/DogewoDB/sql/select%20from%20v/-1
 
 select from (traverse * from #71:60) where $depth <=2
 
-
-
-
-## gephi graph streaming 
+## Gephi graph streaming 
 
 https://github.com/gephi/gephi/wiki/GraphStreaming
 
@@ -85,11 +87,7 @@ https://github.com/gephi/gephi/wiki/GraphStreaming
     ce: Change edge
     de: Delete edge
 
+# Apache tinkerpop 
 
-
-
-# apache tinkerpop 
-
-http://tinkerpop.apache.org/
-
+<http://tinkerpop.apache.org/>
 
