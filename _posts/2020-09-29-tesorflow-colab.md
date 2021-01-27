@@ -5,6 +5,7 @@ categories: [google, colab, rwnsorflow ]
 tags:  [google, colab, rwnsorflow ]
 ---
 web python notebook colaboration with CPU 
+![](/pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub-crop.png)
 
 # google colab 
 
