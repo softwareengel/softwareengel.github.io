@@ -4,7 +4,7 @@ title: Pyhon Selenium Data scapping from complex website (Arcgis + iframe+ ember
 categories: [Python, Web, Scapping ]
 tags: [Python, Web, Scapping, Selenium ]
 --- 
-Pyhon Selenium Data scapping from complex website (Arcgis + iframe+ emberjs)
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Emberjs)
 <figure class="video_container">
   <video width="920"  controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png">
     <source src="/mov/2021-01-28 13-24-07-python-selenium-WebScrapping.mp4" type="video/mp4">
@@ -13,8 +13,7 @@ Pyhon Selenium Data scapping from complex website (Arcgis + iframe+ emberjs)
 
 # Python Web Scapping 
 
-Pyhon Selenium Data scapping from complex website (Arcgis + iframe+ emberjs)
-
+Python Selenium Data scapping from complex website (Arcgis + iframe+ emberjs)
 
 <!-- blank line -->
 <figure class="video_container">
@@ -114,9 +113,6 @@ for x, y in dict_hannover_werte.items():
     print(x + ": " + y)
 
 driver.close()
-
-
-
 
 ```
 
