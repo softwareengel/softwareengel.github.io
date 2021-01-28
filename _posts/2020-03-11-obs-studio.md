@@ -12,8 +12,17 @@ Video / Screen und Audio Broadcasting in Video - File oder in Live Streming Plat
 
 <https://obsproject.com/> 
 
+# OBS install settings 
 
-# Virtual cam 
+![](/pic/2021-01-28-13-16-53-obs-settings.png)
+
+![](/pic/2021-01-28-13-17-00-obs-settings.png)
+
+![](/pic/2021-01-28-13-17-14-obs-testergebnisse.png)
+
+![](/pic/2021-01-28-13-18-49-mp4.png)
+
+# Virtual Cam 
  
 Virtuelle Kamera für Zoom und Teams, funktioniert bei WebEx nicht 
 
@@ -30,8 +39,6 @@ Problems ... use OBS-Studio-26.1.1-Full-Installer-x64 instead : Virual Can ist w
 
 ![](/pic/2021-01-28-12-25-38.png)
 
-
-- 
 
 # Video Cam Filter 
 - GreenScreen Effekt 
