@@ -117,14 +117,18 @@ driver.close()
 
 # Links:
 
-Selenium Dokumentation 
+Selenium Dokumentation
+
 <https://www.selenium.dev/documentation/en/>
 
 Heise Artikel 
+
 <https://www.heise.de/ratgeber/Mit-Python-und-Selenium-Corona-Daten-vom-RKI-Dashboard-scrapen-5032291.html>
 
 Beispiel Selenium 
+
 <https://www.guru99.com/selenium-python.html>
 
 WebDriver Links 
+
 <https://www.selenium.dev/documentation/en/webdriver/driver_requirements/>
