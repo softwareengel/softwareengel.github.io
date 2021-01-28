@@ -18,7 +18,7 @@ Pyhon Selenium Data scapping from complex website (Arcgis + iframe+ emberjs)
 
 <!-- blank line -->
 <figure class="video_container">
-  <video width="640" controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png"> 
+  <video width="800" controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png"> 
     <source src="/mov/2021-01-28 13-24-07-python-selenium-WebScrapping.mp4" type="video/mp4">
   </video>
 </figure>
