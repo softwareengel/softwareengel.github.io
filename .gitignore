@@ -11,3 +11,8 @@ package.json
 /data/raspi/src/praxis/QualityAssurance2020/__pycache__
 /data/raspi/src/praxis/__pycache__/*.pyc
 /.vs
+/_posts/.vs/ProjectSettings.json
+/_posts/.vs/VSWorkspaceState.json
+/_posts/.vs/_posts/v16/.suo
+/_posts/.vs/slnx.sqlite
+/data/raspi/src/.vscode/.ropeproject/objectdb
