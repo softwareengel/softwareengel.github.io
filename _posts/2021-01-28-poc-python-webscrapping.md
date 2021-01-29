@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pyhon Selenium Data scapping from complex website (Arcgis + iframe+ emberjs)
+title: Python Selenium Data scapping from complex website (Arcgis + IFrame + Emberjs)
 categories: [Python, Web, Scapping ]
 tags: [Python, Web, Scapping, Selenium ]
 --- 
