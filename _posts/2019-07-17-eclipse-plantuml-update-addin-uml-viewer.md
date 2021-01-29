@@ -27,6 +27,6 @@ Update-Site (Eclispe: Help > Install New Software):
 Einstelleungen für PlantUML zu Graphviz 
 ![Properties](/pic/capture_005_17072019_162027.jpg)
 
-## Beispiel no Deadly Diamond of Death 
+## Beispiel Deadly Diamond of Death 
 
-![no deadly diamond of death](/pic/capture_007_17072019_162425.jpg)
+![Deadly diamond of death](/pic/capture_007_17072019_162425.jpg)
