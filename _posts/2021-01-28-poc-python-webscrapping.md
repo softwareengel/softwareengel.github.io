@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Python Selenium Data scapping from complex website (Arcgis + IFrame + Emberjs)
+title: Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
 categories: [Python, Web, Scapping ]
 tags: [Python, Web, Scapping, Selenium ]
 --- 
-Python Selenium Data scapping from complex website (Arcgis + IFrame + Emberjs)
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
 <figure class="video_container">
   <video width="920"  controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png">
     <source src="/mov/2021-01-28 13-24-07-python-selenium-WebScrapping.mp4" type="video/mp4">

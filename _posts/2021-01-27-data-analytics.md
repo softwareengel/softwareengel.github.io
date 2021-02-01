@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DAta Analytics - Image Classification on ImageNet (Papers with Code)
+title: Data Analytics - Image Classification on ImageNet (Papers with Code)
 categories: []
 tags: []
 --- 

@@ -7,19 +7,19 @@ tags:  [google, colab, rwnsorflow ]
 web python notebook colaboration tensorflow with CPU 
 ![](/pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub-crop.png)
 
-# google colab 
+# Google Colab 
 
 <https://colab.research.google.com/notebooks/charts.ipynb>
 
 ![](/pic/Screenshot_2021-01-27%20Google%20Colaboratory.png)
 
-## tesorflow 
+## Tesorflow (TF)
 
 <https://www.tensorflow.org/hub/tutorials/tf2_image_retraining> 
 
 ![](/pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub.png)
 
-### TF Pre-Trained TF-Modells: 
+### Tensorflow TF Pre-Trained TF-Modells: 
 
 <https://github.com/tensorflow/tfjs-models>
 

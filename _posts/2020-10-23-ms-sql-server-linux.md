@@ -1,37 +1,37 @@
 ---
 layout: post
-title:   ms sql server linux 
+title: MS SQL Server Linux 
 categories: [MS, SQL, SQL Server, Linux]
 tags:  [MS, SQL, SQL Server, Linux]
 ---
 MS SQl Server on Linux - only x86 (!) 
 
-# ms sql server on linux 
+# MS SQL Server Linux 
 
-install ms sql server 
-install mc
+    install ms sql server 
+    install mc
 
 
 # 2020-10-21 
 
 see: https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ssis?view=sql-server-ver15
 
-sudo add-apt-repository "$(curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2019.list)"
+    sudo add-apt-repository "$(curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2019.list)"
 
-sudo apt-get update
-sudo apt-get install -y mssql-server-is
-sudo /opt/ssis/bin/ssis-conf setup
+    sudo apt-get update
+    sudo apt-get install -y mssql-server-is
+    sudo /opt/ssis/bin/ssis-conf setup
 
-sudo /opt/mssql/bin/mssql-conf set sqlagent.enabled true 
-sudo curl -o /etc/apt/sources.list.d/mssql-server.list https://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2017.list
-sudo /opt/mssql/bin/mssql-conf setup 
+    sudo /opt/mssql/bin/mssql-conf set sqlagent.enabled true 
+    sudo curl -o /etc/apt/sources.list.d/mssql-server.list https://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2017.list
+    sudo /opt/mssql/bin/mssql-conf setup 
 
 
-systemctl status mssql-server
-systemctl status mssql-server --no-pager
-systemctl restart  mssql-server
+    systemctl status mssql-server
+    systemctl status mssql-server --no-pager
+    systemctl restart  mssql-server
 
-https://www.mssqltips.com/sql-server-tip-category/226/sql-server-on-linux/
+<https://www.mssqltips.com/sql-server-tip-category/226/sql-server-on-linux/>
 
 
 ## Ubuntu Version
