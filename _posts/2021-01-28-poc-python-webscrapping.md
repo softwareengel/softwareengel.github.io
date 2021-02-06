@@ -13,7 +13,7 @@ Python Selenium Data scapping from complex website (Arcgis + IFrame + Emberjs)
 
 # Python Web Scapping 
 
-Python Selenium Data scapping from complex website (Arcgis + iframe+ emberjs)
+Python Selenium Data scapping from complex website (Arcgis + IFrame+ Emberjs)
 
 <!-- blank line -->
 <figure class="video_container">
@@ -121,6 +121,10 @@ driver.close()
 Selenium Dokumentation
 
 <https://www.selenium.dev/documentation/en/>
+
+Webdriver 
+
+https://www.selenium.dev/documentation/en/getting_started_with_webdriver/browsers/
 
 Heise Artikel 
 
