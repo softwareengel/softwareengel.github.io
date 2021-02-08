@@ -34,7 +34,6 @@ https://www.influxdata.com/time-series-platform/telegraf/
 
 ## Grafana on Raspi 
 
-
 <https://grafana.com/tutorials/install-grafana-on-raspberry-pi/#3>
 
 <https://github.com/fg2it/grafana-on-raspberry/>

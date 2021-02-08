@@ -28,3 +28,6 @@ tags: [Jekyll, OSS, markdown, theme]
 
 <https://jacobdoescode.com/2020/12/30/super-optimised-static-sites>
 
+# docusaurus 
+
+https://docusaurus.io/docs/en/tutorial-publish-site 
