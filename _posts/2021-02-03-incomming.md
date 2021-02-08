@@ -1,0 +1,49 @@
+
+
+# OmniAuth: Standardized Multi-Provider Authentication
+
+in Ruby 
+
+https://github.com/omniauth/omniauth
+
+
+# open semantic desktop search 
+
+https://opensemanticsearch.org/doc/admin/install
+
+https://github.com/opensemanticsearch
+
+
+# DocFetcher 
+
+https://www.heise.de/download/product/docfetcher-58427
+
+https://sourceforge.net/p/docfetcher/wiki/Source%20code/
+
+http://docfetcher.sourceforge.net/de/index.html
+
+
+![](/pic/2021-02-03-14-18-22.png)
+
+# Filesearch 
+
+Multithread File Search
+
+https://sourceforge.net/projects/file-search/
+
+https://sourceforge.net/projects/file-search/files/v0.3.2/FileSearch-v0.3.2-portable.7z/download
+
+# summa 
+
+https://github.com/statsbiblioteket/summa
+
+# open search server 
+
+https://github.com/jaeksoft/opensearchserver
+
+https://www.opensearchserver.com/#download
+
+
+# Keycloak OSS SSO 
+
+# 

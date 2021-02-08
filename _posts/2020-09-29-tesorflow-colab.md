@@ -13,7 +13,7 @@ web python notebook colaboration tensorflow with CPU
 
 ![](/pic/Screenshot_2021-01-27%20Google%20Colaboratory.png)
 
-## Tesorflow (TF)
+## Tensorflow (TF)
 
 <https://www.tensorflow.org/hub/tutorials/tf2_image_retraining> 
 
