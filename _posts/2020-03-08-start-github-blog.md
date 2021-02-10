@@ -45,3 +45,14 @@ https://prose.io/
 <https://github.com/allejo/jekyll-toc>
 <https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown>
 <https://github.com/allejo/jekyll-toc/blob/master/README.md>
+
+## story of jekyll
+
+<https://www.barryclark.co/starting-an-open-source-project/>
+
+# git cheat sheet
+
+<https://www.git-tower.com/blog/git-cheat-sheet/?utm_source=smashingmagazine&utm_medium=guestpost&utm_campaign=TOM>
+
+![](/pic/git-cheat-sheet-large01.png)
+
