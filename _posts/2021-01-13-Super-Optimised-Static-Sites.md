@@ -31,3 +31,13 @@ tags: [Jekyll, OSS, markdown, theme]
 # docusaurus 
 
 https://docusaurus.io/docs/en/tutorial-publish-site 
+
+# static site generators List 
+
+## <https://jamstack.org/generators/>
+
+![](/pic/Screenshot_2021-02-10%20Static%20Site%20Generators%20-%20Top%20Open%20Source%20SSGs%20Jamstack.png)
+
+## <https://staticsitegenerators.net/>
+
+![](/pic/Screenshot_2021-02-10%20Static%20Site%20Generators.png)
