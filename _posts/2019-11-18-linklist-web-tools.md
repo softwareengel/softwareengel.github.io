@@ -45,6 +45,13 @@ tags: [Links]
     
 <https://en.booksee.org/> 
 
+# Rheinwerk open books 
+
+<https://www.rheinwerk-verlag.de/openbook/>
+
+<http://openbook.rheinwerk-verlag.de/it_handbuch/index.html>
+
+<http://openbook.rheinwerk-verlag.de/python/>
 
 # audiobooks 
 
@@ -69,16 +76,11 @@ Key: !cHzM6YY3JU3b65OzxecnmA!P3R21Yba
 
 # Interesting web technologies 
 
-
 Message your customers,
 they'll love you for it.
 Monitor and chat with the visitors on your website, mobile app or from a free customizable page.
 
 <https://www.tawk.to/>
-
-
-
-
 
 # Internet Live Stats 
 <https://www.internetlivestats.com/> 

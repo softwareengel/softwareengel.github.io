@@ -464,9 +464,9 @@ GPIO.cleanup()
 
 # das Netzteil ...
 
-https://www.elektronik-kompendium.de/sites/raspberry-pi/1912111.htm 
+<https://www.elektronik-kompendium.de/sites/raspberry-pi/1912111.htm >
 
 
 # Links
 
-https://developer-blog.net/raspberry-pi-gpio-schnittstelle-teil-1/ 
+<https://developer-blog.net/raspberry-pi-gpio-schnittstelle-teil-1/ >
