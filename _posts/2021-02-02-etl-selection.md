@@ -1,12 +1,20 @@
+---
+layout: post
+title: ETL Selection 
+categories: [ETL, Tools]
+tags: [talend, rapidminer, halo, penthaho]
+--- 
 
-
-# talend open studio 7
+# Talend Open Studio 7
 
 OSS  
 
-https://kumisystems.dl.sourceforge.net/project/talend-studio/Talend%20Open%20Studio/7.3.1/TOS_DI-20200219_1130-V7.3.1.zip
+<https://kumisystems.dl.sourceforge.net/project/talend-studio/>
+
+<https://kumisystems.dl.sourceforge.net/project/talend-studio/Talend%20Open%20Studio/7.3.1/TOS_DI-20200219_1130-V7.3.1.zip>
 
 # Rapidminer
+
 
 # Halo Studio 
 
