@@ -40,6 +40,8 @@ für Dev und OPS Path auf "/" setzten dunrch subst z.B. auf Laufwerk L
 
 https://prose.io/
 
-## TOC
+## jekyll TOC
 
 <https://github.com/allejo/jekyll-toc>
+<https://stackoverflow.com/questions/38417624/table-of-contents-using-jekyll-and-kramdown>
+<https://github.com/allejo/jekyll-toc/blob/master/README.md>
