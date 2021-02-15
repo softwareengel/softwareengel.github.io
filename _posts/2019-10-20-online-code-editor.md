@@ -1,6 +1,6 @@
 ﻿# Online Code Editor
 
-## Multi -language editor 
+## Multi-language editor 
 https://repl.it (Editor, Debugger, Embed)
 
 ![](/pic/Screenshot_2019-10-29-repl.it.react-demo.png)

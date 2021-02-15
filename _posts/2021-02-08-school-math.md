@@ -12,7 +12,7 @@ https://www.geogebra.org/graphing?lang=de
 
 ![](/pic/Screenshot_2021-02-08%20Grafikrechner%20-%20GeoGebra.png)
 
-# MS math solver 
+# MS Math Solver 
 
 https://math.microsoft.com/de 
 
