@@ -102,3 +102,9 @@ PIBakery <https://www.pibakery.org/>
 ![Screenshot 2020 01 31 Rpi Zero W H Skizze](/pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
 
 
+# Links
+ 
+Book: Raspberry Pi Computing: Monitoring with Prometheus and Grafana
+Raspberry Pi Computing: Monitoring with Prometheus and Grafana
+
+<https://leanpub.com/rpcmonitor/read>

@@ -208,7 +208,7 @@ Dockerfile
     docker build -t jenkins-maven .
 
 
-## prometheus raspi 
+## Prometheus Raspi 
 
 
 <https://devconnected.com/the-definitive-guide-to-prometheus-in-2019/> 
@@ -219,7 +219,7 @@ Dockerfile
 
 
 
-## prometheus node exporter 
+## Prometheus node exporter 
 
 <https://github.com/prometheus/node_exporter>
 

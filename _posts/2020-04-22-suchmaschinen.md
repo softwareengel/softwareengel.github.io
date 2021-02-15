@@ -4,7 +4,7 @@ title: Suchmaschinen
 categories: [search engine]
 tags: [search engine]
 --- 
-# suchmaschinen 
+# Suchmaschinen 
 
 <https://t3n.de/news/google-alternative-474551/>
 
@@ -50,3 +50,32 @@ Suchoberfläche Calaca: <https://github.com/romansanchez/Calaca>
 # apache nutch 
 
 <https://www.apache.org/dyn/closer.lua/nutch/1.16/apache-nutch-1.16-bin.zip>
+
+# Scrapy (Python) 
+
+Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing. 
+<https://scrapy.org/>
+
+
+<https://github.com/scrapy/scrapy>
+
+# Heritrix (Java)
+
+Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
+
+<https://github.com/internetarchive/heritrix3/wiki>
+
+# WebSPHINX (Java)
+
+WebSPHINX ( Website-Specific Processors for HTML INformation eXtraction) is a Java class library and interactive development environment for web crawlers. A web crawler (also called a robot or spider) is a program that browses and processes Web pages automatically.
+
+# openseachserver 
+
+https://www.opensearchserver.com/
+
+<https://github.com/jaeksoft/opensearchserver>
+
+
+# Links
+
+http://www.intellspot.com/open-source-web-crawlers/ 
