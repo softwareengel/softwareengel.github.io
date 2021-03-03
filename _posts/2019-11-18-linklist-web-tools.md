@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: LinkList 
 categories: [Links]
@@ -9,7 +9,7 @@ tags: [Links]
 
 ## Literature 
 
-### Skripte 
+### Skript
 
 <http://www.netzmafia.de/skripten/index.html>
 

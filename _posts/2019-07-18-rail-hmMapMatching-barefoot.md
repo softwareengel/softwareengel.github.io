@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Rail map matching - hmm hidden markow matching 
 categories: [ai, hmm, hidden markow chain, map matchig, rail]
@@ -163,7 +163,7 @@ x0001-002-arnsberg.geojson
     2019-07-18 16:04:30,441 INFO  [main] AbstractServer: listening on port 1234 ...
 
 
-### python client call 
+### Python client call 
 ![call server by python client](/pic/capture_009_18072019_162520.jpg)
 
     C:/Python/Python27/python.exe c:/src/git/barefoot/util/submit/batch.py --host 127.0.0.1 --port 1234 --file C:\src\git\barefoot\src\test\resources\com\bmwcarit\barefoot\matcher\x0001-002-arnsberg.json 

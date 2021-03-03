@@ -1,4 +1,4 @@
-﻿# Check Raspi/ESP for simple Coding Hacks 
+# Check Raspi/ESP for simple Coding Hacks 
 
 Default Login: pi, defaultp Pass: raspberry
 
@@ -15,7 +15,7 @@ Default Login: pi, defaultp Pass: raspberry
 
 ![Screenshot 2020 01 17 Rpi Gpio3](/pic/Screenshot_2020_01_17_Rpi_gpio3.png)
 
-## Raspi ZEro W
+## Raspi Zero W
 
 ![2020 01 22 Raspi Zero W](/pic/2020-01-22-raspi-zero-w.png)
 
