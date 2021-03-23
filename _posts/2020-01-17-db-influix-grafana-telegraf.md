@@ -2,7 +2,7 @@
 layout: post
 title: influx Time series Db telefraf grafana 
 categories: [tools]
-tags: [db, ui, graph, data analyse]
+tags: [db, ui, graph, data analyse, TSDB]
 --- 
 
 # InfluxDB 

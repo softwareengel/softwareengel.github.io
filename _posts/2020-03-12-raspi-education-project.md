@@ -125,7 +125,7 @@ sudo apt-get install mc
 
 optional: 
    
-    sudo apt-get purge realvnc-vnc-server
+    
 
 xrdp RDP server 
 

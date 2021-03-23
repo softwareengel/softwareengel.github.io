@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LinkList 
+title: LinkList - 
 categories: [Links]
 tags: [Links]
 ---
@@ -20,7 +20,6 @@ tags: [Links]
 <https://scholar.google.de/>
 
 ## IT - Books 
-
 
 <https://b-ok.cc/>
 
@@ -79,8 +78,7 @@ Key: !cHzM6YY3JU3b65OzxecnmA!P3R21Yba
 
 # Interesting web technologies 
 
-Message your customers,
-they'll love you for it.
+Message your customers, they'll love you for it.
 Monitor and chat with the visitors on your website, mobile app or from a free customizable page.
 
 <https://www.tawk.to/>
@@ -98,7 +96,7 @@ Monitor and chat with the visitors on your website, mobile app or from a free cu
 
 <http://madebyevan.com/>
 
-# WEb Tools owasp Phoenix/Tools
+# Web Tools owasp Phoenix/Tools
 he free and open software security community
 
 <https://wiki.owasp.org/index.php/Phoenix>
