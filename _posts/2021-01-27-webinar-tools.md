@@ -50,7 +50,7 @@ User: Anon
 
 Funktioniert am besten mit Chrome, Probleme bei FF / Edge / Safari 
 
-# arsnova OSS (ohne Anmeldung)
+# Arsnova OSS (ohne Anmeldung)
 
 Audience Response system 
 
@@ -111,11 +111,31 @@ Use live polls, quizzes, word clouds, Q&As and more to get real-time input - reg
 
 <http://miro.com/>
 
-# mural Whiteboard 
+# mural Multiuser Whiteboard 
 
+Admin : Anmeldung / EDU 
+User: Anon per Link 
+- Abstimmung und Punkte kleben auf Objekte 
+- 
 <https://www.mural.co/>
 
-# https://www.brightful.me/
+https://app.mural.co/t/fom20217484/m/fom20217484/1614764269254/2f493dae80c3f39712279c3f31c158058ec52a22
+
+![](/pic/2021-03-03-10-44-55-mural.png)
+
+
+# https://deon.de/de/ 
+
+Desktop App
+
+# https://www.figma.com 
+
+Login admin:  Anmeldung, Free: nur 2 Colab User 
+
+
+![](/pic/2021-03-03-10-23-14-figma.png)
+
+
 
 # Random Wheel Picker 
 
@@ -127,7 +147,25 @@ Use live polls, quizzes, word clouds, Q&As and more to get real-time input - reg
   </video>
 </figure>
 
+## Beispiel ohne Vorbereitung 
 
-# Lenmethode Inverted Classroom 
+https://tools-unite.com/tools/random-picker-wheel?names=A,B,C,D,E,F
+
+
+# Sonstiges
+
+## Lenmethode Inverted Classroom 
 
 <https://www.e-teaching.org/lehrszenarien/vorlesung/inverted_classroom/index_html>
+
+## https://www.brightful.me/ 
+"Have fun, build trust, boost teamwork.
+
+Just because you've moved your meetings online, it doesn't mean that you have to lose the human connection. Play our games to spark excitement and laughter in your virtual gathering. "
+
+## https://www.workshop-spiele.de/
+
+<https://www.workshop-spiele.de/5-tools-fuer-online-warm-ups/>
+
+![](/pic/2021-03-03-09-52-37-moodmeter.png)
+
