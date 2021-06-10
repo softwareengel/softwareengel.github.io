@@ -37,7 +37,7 @@ Messen von Signalen und steuern Ampel - LED - Signal
 
 ## 3 LEDs
 
-An / Aus,  langsam blinken / schnell blinken 
+An / Aus, langsam blinken / schnell blinken 
 
 ## Sensor 
 
@@ -106,13 +106,12 @@ check - tools
     sudo apt-get install iw
     iwlist chan
     dmesg
+
 ### SSH Raspi 
 
 SSH - Enable : Datei .ssh auf dem Image erzeugen
 
-
-
-## ssh putty 
+## ssh putty
 
 login: pi, pass: raspberry 
 
@@ -163,7 +162,7 @@ Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWind
 
     pinout 
 
-![Raspi Pinbelegung](/pic/raspi-pinbelegung.png)
+![Raspi Pinbelegung](../pic/raspi-pinbelegung.png)
 
 Interactive Pinout <https://pinout.xyz/pinout/>
 

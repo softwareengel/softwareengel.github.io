@@ -30,7 +30,7 @@ tags: [Icons, Free]
 
 ## Screens
 
-![Screenshot](/pic/free-icons-on-the-web-iconmonstr.png)
+![Screenshot](../pic/free-icons-on-the-web-iconmonstr.png)
 
 ![2020 05 29 Pixabay.Com](../pic/2020-05-29-pixabay.com.png)
 
