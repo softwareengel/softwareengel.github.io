@@ -13,9 +13,8 @@ tags: [db, ui, graph, graph]
 
 ## Pre
 
-openjdk-8-jdk
-Oracle Java 8 server Win
-commons-daemon
+* Openjdk-8-jdk or Oracle Java 8 server Win
+* Apache commons-daemon 
 
 ## Windows Service
 
@@ -68,7 +67,6 @@ echo usage:
 echo     installService JVM_DLL_location OrientDB_Home
 EXIT /B
 ```
-
 
 File: uninstallservice.bat
 
