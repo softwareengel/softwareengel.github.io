@@ -65,14 +65,14 @@ cv2.destroyAllWindows()
 
 ```
 
-![2020 05 04 Raspbery Opencv Video Frame](/pic/2020-05-04-raspbery-opencv-video-frame.png)
+![2020 05 04 Raspbery Opencv Video Frame](../pic/2020-05-04-raspbery-opencv-video-frame.png)
 
 ## Install VS Code on Raspi4 
 
 <https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx>
 
 
-![2020 05 04 Raspberry Pi VS Code Opencv Running in RDP](/pic/2020-05-04-raspberry-pi-vscode-opencv-running.png)
+![2020 05 04 Raspberry Pi VS Code Opencv Running in RDP](../pic/2020-05-04-raspberry-pi-vscode-opencv-running.png)
 
 
 ## Beispiel Gesicht und Augen-Erkennung (2020-09-10)

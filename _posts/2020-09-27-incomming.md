@@ -56,7 +56,7 @@ Define user behaviour with Python code, and swarm your system with millions of s
 
 <https://locust.io/>
 
-![2020 10 23 Locust Screenfile](/pic/2020-10-23-locust-screenfile.png)
+![2020 10 23 Locust Screenfile](../pic/2020-10-23-locust-screenfile.png)
 
 # k8s - ingress controllers 
 
@@ -92,7 +92,7 @@ Python Fire is a library for automatically generating command line interfaces (C
 
 <https://developer.mozilla.org/de/docs/Tools/Keyboard_shortcuts>
 
-![2020 11 22 Data Vis List](/pic/2020-11-22-data-vis-list.png)# logistik summit 
+![2020 11 22 Data Vis List](../pic/2020-11-22-data-vis-list.png)# logistik summit 
 
 <https://www.youtube.com/watch?v=q8W5KnmbWBg&feature=youtu.be&t=1388>
 
@@ -213,7 +213,7 @@ Dockerfile
 
 <https://devconnected.com/the-definitive-guide-to-prometheus-in-2019/> 
 
-![Pull Vs Push](/pic/pull-vs-push.png)
+![Pull Vs Push](../pic/pull-vs-push.png)
 
 <http://192.168.2.46:9090/metrics> 
 

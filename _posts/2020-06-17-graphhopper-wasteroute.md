@@ -8,7 +8,7 @@ tags: [Web,API,Map,Route]
 # VM Starten 
 
 
-![Azur V M Start](/pic/azurVMStart.png)
+![Azur V M Start](../pic/azurVMStart.png)
 
 # Test Graphhopper 1.0 
 

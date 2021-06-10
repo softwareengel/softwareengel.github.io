@@ -30,16 +30,16 @@ if (isAwesome){
     
 ## Visual Studio Code als Blog editor 
 
-![VSCode als Blog](/pic/2019-07-17-VSCode-as-Blog-Editor.png)
+![VSCode als Blog](../pic/2019-07-17-VSCode-as-Blog-Editor.png)
 
 Bild einfügen 
 
-[Reference to Markdown Pic](/pic/2019-07-17-md.png)
+[Reference to Markdown Pic](../pic/2019-07-17-md.png)
 
 
 Bild inline:
 
-![Reference to Markdown Pic](/pic/2019-07-17-md.png)
+![Reference to Markdown Pic](../pic/2019-07-17-md.png)
 
 
 

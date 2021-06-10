@@ -14,13 +14,13 @@ Video / Screen und Audio Broadcasting in Video - File oder in Live Streming Plat
 
 # OBS install settings 
 
-![](/pic/2021-01-28-13-16-53-obs-settings.png)
+![](../pic/2021-01-28-13-16-53-obs-settings.png)
 
-![](/pic/2021-01-28-13-17-00-obs-settings.png)
+![](../pic/2021-01-28-13-17-00-obs-settings.png)
 
-![](/pic/2021-01-28-13-17-14-obs-testergebnisse.png)
+![](../pic/2021-01-28-13-17-14-obs-testergebnisse.png)
 
-![](/pic/2021-01-28-13-18-49-mp4.png)
+![](../pic/2021-01-28-13-18-49-mp4.png)
 
 # Virtual Cam 
  
@@ -28,22 +28,22 @@ Virtuelle Kamera für Zoom und Teams, funktioniert bei WebEx nicht
 
 <https://github.com/Fenrirthviti/obs-virtual-cam/releases>
 
-![](/pic/2021-01-28-obs-virtualcamClipboard01.png)
+![](../pic/2021-01-28-obs-virtualcamClipboard01.png)
 
 Problems ... use OBS-Studio-26.1.1-Full-Installer-x64 instead : Virual Can ist working ...
 
 # Screen Capute Problem 
 - Settungs für Desktop Grafikkarte für OBS.exe auf integrierte Grafikkarte Setzen (bei Windows Grafikeinstellungen - GRund bei Nvidia-Control )
   
-![](/pic/2021-01-28-12-24-26.png)
+![](../pic/2021-01-28-12-24-26.png)
 
-![](/pic/2021-01-28-12-25-38.png)
+![](../pic/2021-01-28-12-25-38.png)
 
 
 # Video Cam Filter 
 - GreenScreen Effekt 
 
-![](/pic/2021-01-28-12-32-50.png)
+![](../pic/2021-01-28-12-32-50.png)
 
 - Zuschneiden / Pad 
 

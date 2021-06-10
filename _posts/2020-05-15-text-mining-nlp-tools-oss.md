@@ -27,7 +27,7 @@ tags: [text mining, nlp,  oss]
 <https://github.com/tabulapdf/tabula>
 <https://tabula.technology/>
 
-![2020 05 18 Pdf 2 Text Tabula](/pic/2020-05-18-pdf-2-text-tabula.png)
+![2020 05 18 Pdf 2 Text Tabula](../pic/2020-05-18-pdf-2-text-tabula.png)
 
 
 # Text Stat 

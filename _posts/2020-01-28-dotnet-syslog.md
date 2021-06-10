@@ -77,11 +77,11 @@ sudo apt install openjdk-8-jre-headless
 
 <https://jaxenter.de/elastic-stack-containern-docker-86374> 
 
-![2020 01 28 Elk Stack Jax](/pic/2020-01-28-elk-stack-jax.png)
+![2020 01 28 Elk Stack Jax](../pic/2020-01-28-elk-stack-jax.png)
 
 <https://logz.io/blog/elk-stack-on-docker/>
 
-![2020 01 28 Elk Stack Logx](/pic/2020-01-28-elk-stack-logx.png)
+![2020 01 28 Elk Stack Logx](../pic/2020-01-28-elk-stack-logx.png)
 
 <https://dev.to/dendihandian/elk-stack-local-development-using-docker-elk-6k7>
 

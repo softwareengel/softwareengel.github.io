@@ -5,7 +5,7 @@ categories: [Icons]
 tags: [Icons, Free]
 --- 
 
-![FreeIcons](/pic/free-icons-on-the-web-iconmonstr-crop.png)
+![FreeIcons](../pic/free-icons-on-the-web-iconmonstr-crop.png)
 
 # Free Icons - on the web 
 

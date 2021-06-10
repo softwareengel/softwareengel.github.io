@@ -40,13 +40,13 @@ graphhopper routing & map matching for rail + truck with  java, OSM
 
 Web - View Graphhopper rail:
 Routing Ulm:
-![](/pic/capture_22072019_113652_002.jpg))
+![](../pic/capture_22072019_113652_002.jpg))
 
-![](/pic/capture_22072019_113038_001.jpg)
+![](../pic/capture_22072019_113038_001.jpg)
 Routing Arnsberg:
-![](/pic/capture_22072019_120913_003.jpg)
+![](../pic/capture_22072019_120913_003.jpg)
 Routing Europa:
-![](/pic/capture_22072019_171154_001.jpg)
+![](../pic/capture_22072019_171154_001.jpg)
 
 Requerst für Map:
 
@@ -62,7 +62,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
 
 ## Web Soap UI Client mit POST und XML 
 
-![](/pic/capture_22072019_165705_001.jpg)
+![](../pic/capture_22072019_165705_001.jpg)
 
 ### Request GH Rail Match XML (good request)
 
@@ -474,12 +474,12 @@ Requerst für OSM-Map auf hq.softwareengel.de:
 
 ## Speicher Sysinternals bei Map mit Europa 
 
-![](/pic/capture_22072019_171453_002.jpg)
+![](../pic/capture_22072019_171453_002.jpg)
 
 
 
 # Berechnung Ergebnis des GH Rail Map Matchings
-![](/pic/capture_22072019_131603_004.jpg)
+![](../pic/capture_22072019_131603_004.jpg)
 
 ## Ulm GPX-Track 
     <?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.11" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
@@ -510,7 +510,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
     </gpx>
 # Ergebnis GPX in Qgis 
 
-![](/pic/capture_22072019_131852_005.jpg)
+![](../pic/capture_22072019_131852_005.jpg)
 
 
 ## Beispiel config.yml

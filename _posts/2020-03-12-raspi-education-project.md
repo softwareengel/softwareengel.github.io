@@ -152,7 +152,7 @@ Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWind
 
 <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
-![Remote Sev Extension](/pic/remoteSevExtension.png)
+![Remote Sev Extension](../pic/remoteSevExtension.png)
 
 <https://github.com/microsoft/vscode-remote-release/issues/2493>
 
@@ -459,15 +459,15 @@ GPIO.cleanup()
 
 # SmartSim Anwendung auf Raspi 
 
-![Smartsim Raspi4](/pic/smartsim-raspi4.png)
+![Smartsim Raspi4](../pic/smartsim-raspi4.png)
 
 ---
 
-![Screen Raspi Zero Webserver Led](/pic/screen-raspi-zero-webserver-led.png)
+![Screen Raspi Zero Webserver Led](../pic/screen-raspi-zero-webserver-led.png)
 
-![Screen Raspi Zero Webserver Led Console](/pic/screen-raspi-zero-webserver-led-console.png)
+![Screen Raspi Zero Webserver Led Console](../pic/screen-raspi-zero-webserver-led-console.png)
 
-![Screen Raspi Zero Webserver Led Thonny](/pic/screen-raspi-zero-webserver-led-thonny.png)
+![Screen Raspi Zero Webserver Led Thonny](../pic/screen-raspi-zero-webserver-led-thonny.png)
 
 
 # das Netzteil ...

@@ -10,7 +10,7 @@ Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Revers
 
 Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Reverseproxy in einem VS Code mi Docker Plugin 
 
-![2020 11 05 Docker Reverse Screen Vscode](/pic/2020-11-05-docker-reverse-screen-vscode.png)
+![2020 11 05 Docker Reverse Screen Vscode](../pic/2020-11-05-docker-reverse-screen-vscode.png)
 
 ## docker python webserver für port 8080
 

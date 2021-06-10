@@ -22,11 +22,11 @@ Update-Site (Eclispe: Help > Install New Software):
 
 
 ## Auswahl der Pakete 
-![plantuml Pakete](/pic/capture_004_17072019_161049.jpg)
+![plantuml Pakete](../pic/capture_004_17072019_161049.jpg)
 
 Einstelleungen für PlantUML zu Graphviz 
-![Properties](/pic/capture_005_17072019_162027.jpg)
+![Properties](../pic/capture_005_17072019_162027.jpg)
 
 ## Beispiel Deadly Diamond of Death 
 
-![Deadly diamond of death](/pic/capture_007_17072019_162425.jpg)
+![Deadly diamond of death](../pic/capture_007_17072019_162425.jpg)

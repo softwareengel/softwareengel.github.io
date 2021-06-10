@@ -28,7 +28,7 @@ RFC 7519
 
 <https://jwt.io/introduction>
 
-![Jwt Io Debug](/pic/jwt-io-debug.png)
+![Jwt Io Debug](../pic/jwt-io-debug.png)
 
 <https://www.oose.de/blogpost/oauth-openid-connect-und-jwt-wie-haengt-das-alles-zusammen-teil-2/> 
 
@@ -39,7 +39,7 @@ RFC 7519
 <https://www.keycloak.org/>
 
  
-![2020 06 23 Keycloak Admin](/pic/2020-06-23-keycloak-admin.png)
+![2020 06 23 Keycloak Admin](../pic/2020-06-23-keycloak-admin.png)
 
 <https://stackoverflow.com/questions/55189130/does-nginx-open-source-support-openid-and-jwt> 
 

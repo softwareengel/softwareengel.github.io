@@ -35,9 +35,9 @@ used by airbnb, cnbc
 <https://www.apollographql.com/docs/tutorial/data-source/> (Add SqLite Data Source)
 
 
-![Screenshot 2020 01 06 Apollo Graphql Server](/pic/Screenshot_2020-01-06-apollo-graphql-server.png)
+![Screenshot 2020 01 06 Apollo Graphql Server](../pic/Screenshot_2020-01-06-apollo-graphql-server.png)
 
-![Screenshot 2020 01 06 Apollo Graphql Server Ui](/pic/Screenshot-2020-01-06-apollo-graphql-server-ui.png)
+![Screenshot 2020 01 06 Apollo Graphql Server Ui](../pic/Screenshot-2020-01-06-apollo-graphql-server-ui.png)
 
 ## Relay GraphQL Client used by FB, Github
 

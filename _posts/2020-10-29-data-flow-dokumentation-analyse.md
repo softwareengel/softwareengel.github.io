@@ -37,7 +37,7 @@ Gephi tutorial
 
 ## graph streming  plugin 
 
-![Graph Streming Plugin File](/pic/graph%20streming%20plugin%20file.png)
+![Graph Streming Plugin File](../pic/graph%20streming%20plugin%20file.png)
 
 <https://gephi.org/users/install/>
 

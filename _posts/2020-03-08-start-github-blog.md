@@ -54,5 +54,5 @@ https://prose.io/
 
 <https://www.git-tower.com/blog/git-cheat-sheet/?utm_source=smashingmagazine&utm_medium=guestpost&utm_campaign=TOM>
 
-![](/pic/git-cheat-sheet-large01.png)
+![](../pic/git-cheat-sheet-large01.png)
 

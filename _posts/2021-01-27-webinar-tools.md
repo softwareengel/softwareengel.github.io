@@ -12,7 +12,7 @@ tags: [tweedback, WonderMe, arsnova, partify]
 
 Tools for Webinars 
 
-![](/pic\2021-01-28-14-32-02.png)
+![](../pic\2021-01-28-14-32-02.png)
 
 # Webinar Tools 
 
@@ -24,15 +24,15 @@ ohne Anmeldung Abfragen
 
 <https://tweedback.de/>
 
-![](/pic/Screenshot_2021-01-27%20Tweedback.png)
+![](../pic/Screenshot_2021-01-27%20Tweedback.png)
 
-![](/pic/Screenshot_2021-01-28%20Tweedback.png)
+![](../pic/Screenshot_2021-01-28%20Tweedback.png)
 
-![](/pic/Screenshot_2021-01-28%20Tweedback2.png)
+![](../pic/Screenshot_2021-01-28%20Tweedback2.png)
 
-![](/pic/2021-01-28-14-38-41.png)
+![](../pic/2021-01-28-14-38-41.png)
 
-![](/pic/Screenshot_2021-01-28%20Tweedback3.png)
+![](../pic/Screenshot_2021-01-28%20Tweedback3.png)
 
 # WonderMe 
 Admin: Email - funktioniert auch ohne Verifikation 
@@ -46,7 +46,7 @@ User: Anon
 - chat: lokal, global, privat 
 
 
-![](/pic\2021-01-28-14-32-02.png)
+![](../pic\2021-01-28-14-32-02.png)
 
 Funktioniert am besten mit Chrome, Probleme bei FF / Edge / Safari 
 
@@ -56,9 +56,9 @@ Audience Response system
 
 <https://arsnova.thm.de/blog/arsnova-handbuch/#dozent>
 
-![](/pic/Screenshot_2021-01-28%20ARSnova%20Dozent%20in%20-%20Start.png)
+![](../pic/Screenshot_2021-01-28%20ARSnova%20Dozent%20in%20-%20Start.png)
 
-![](/pic/2021-03-03-08-34-50-arsnova.png)
+![](../pic/2021-03-03-08-34-50-arsnova.png)
 
 <https://youtu.be/K16JN619PVA>
 
@@ -70,12 +70,12 @@ Open Source
 # partify (ohne Anmeldung)
 online chat "Kommentare" mit Bewertung , Abstimmung 
 
-![](/pic/Screenshot_2021-01-28%20Particify%20Audience%20Response%20System.png)
+![](../pic/Screenshot_2021-01-28%20Particify%20Audience%20Response%20System.png)
 
 
 # pingo (Anmeldung)
 
-![](/pic/Screenshot_2021-01-28%20PINGO.png)
+![](../pic/Screenshot_2021-01-28%20PINGO.png)
 
 <https://github.com/PingoUPB>
 (Uni Paderborn) 
@@ -84,7 +84,7 @@ online chat "Kommentare" mit Bewertung , Abstimmung
 
 # socrative (Anmeldung)
 
-![](/pic/Screenshot_2021-01-28%20Socrative.png)
+![](../pic/Screenshot_2021-01-28%20Socrative.png)
 
 # Metimeter (Anmeldung)
 
@@ -95,7 +95,7 @@ online chat "Kommentare" mit Bewertung , Abstimmung
 Use live polls, quizzes, word clouds, Q&As and more to get real-time input - regardless if you’re remote, hybrid or face-to-face
 "
 
-![](/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png)
+![](../pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png)
 
 
 <figure class="video_container">
@@ -121,7 +121,7 @@ User: Anon per Link
 
 https://app.mural.co/t/fom20217484/m/fom20217484/1614764269254/2f493dae80c3f39712279c3f31c158058ec52a22
 
-![](/pic/2021-03-03-10-44-55-mural.png)
+![](../pic/2021-03-03-10-44-55-mural.png)
 
 
 # https://deon.de/de/ 
@@ -133,7 +133,7 @@ Desktop App
 Login admin:  Anmeldung, Free: nur 2 Colab User 
 
 
-![](/pic/2021-03-03-10-23-14-figma.png)
+![](../pic/2021-03-03-10-23-14-figma.png)
 
 
 
@@ -167,5 +167,5 @@ Just because you've moved your meetings online, it doesn't mean that you have to
 
 <https://www.workshop-spiele.de/5-tools-fuer-online-warm-ups/>
 
-![](/pic/2021-03-03-09-52-37-moodmeter.png)
+![](../pic/2021-03-03-09-52-37-moodmeter.png)
 

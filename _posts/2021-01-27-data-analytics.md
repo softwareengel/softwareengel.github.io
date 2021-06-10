@@ -10,7 +10,7 @@ tags: []
 
 https://paperswithcode.com/sota/image-classification-on-imagenet
 
-![](/pic/Screenshot_2021-01-27%20Papers%20with%20Code%20-%20ImageNet%20Benchmark%20Image%20Classification.png)
+![](../pic/Screenshot_2021-01-27%20Papers%20with%20Code%20-%20ImageNet%20Benchmark%20Image%20Classification.png)
 
 
 # Leraning 

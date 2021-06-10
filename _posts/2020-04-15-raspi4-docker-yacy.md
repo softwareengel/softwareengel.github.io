@@ -52,7 +52,7 @@ WebGUI Username/PW: admin/docker
     sudo apt-get install ifstat 
     ifstat 
 
-![Ifstat Raspi Docker Yacy](/pic/ifstat-raspi-docker-yacy.png)
+![Ifstat Raspi Docker Yacy](../pic/ifstat-raspi-docker-yacy.png)
 
 ## Settings 
 

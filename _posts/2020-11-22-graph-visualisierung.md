@@ -4,7 +4,7 @@ title:  Graph Visualisation Collection 2020
 categories: [network, graph, visulalisation, oss]
 tags: [network, graph, visulalisation, oss]
 ---
-Examples of Graph Visalisations ![](/pic/2020-11-22-d3.js-galerie-crop.png)
+Examples of Graph Visalisations ![](../pic/2020-11-22-d3.js-galerie-crop.png)
 
 # graph visualisation 2020
 
@@ -16,11 +16,11 @@ https://observablehq.com/@d3/gallery
 
 https://observablehq.com/@mbostock/voronoi-stippling
 
-![2020 11 22 D3.Js Voronoi Stippling](/pic/2020-11-22-d3.js-voronoi-stippling.png)
+![2020 11 22 D3.Js Voronoi Stippling](../pic/2020-11-22-d3.js-voronoi-stippling.png)
 
 https://observablehq.com/@d3/word-cloud 
 
-![2020 11 22 D3 Word Cloud](/pic/2020-11-22-d3-word-cloud.png)
+![2020 11 22 D3 Word Cloud](../pic/2020-11-22-d3-word-cloud.png)
 
 https://observablehq.com/@d3/mobile-patent-suits
 
@@ -29,7 +29,7 @@ https://observablehq.com/@d3/mobile-patent-suits
 
 https://bl.ocks.org/emeeks
 
-![2020 11 22 D3.Js Visualisation Examples](/pic/2020-11-22-d3.js-visualisation-examples.png)
+![2020 11 22 D3.Js Visualisation Examples](../pic/2020-11-22-d3.js-visualisation-examples.png)
 
 
 # Live Book d3.js in action 
@@ -60,14 +60,14 @@ python
 
 https://graph-tool.skewed.de/
 
-![2020 11 22 Python Graph Tool](/pic/2020-11-22-python-graph-tool.png)
+![2020 11 22 Python Graph Tool](../pic/2020-11-22-python-graph-tool.png)
 
 
 # graph viz 
 
 https://www.graphviz.org/gallery/
 
-![2020 11 22 Graphviz](/pic/2020-11-22-graphviz.png)
+![2020 11 22 Graphviz](../pic/2020-11-22-graphviz.png)
 
 ![2020 11 22 Capture051 Gitlab.Com](../pic/2020-11-22Capture051-gitlab.com.png)
 
@@ -77,7 +77,7 @@ http://yifanhu.net/GALLERY/GRAPHS/index47.html
 
 http://yifanhu.net/GALLERY/GRAPHS/search.html 
 
-![2020 11 22 Examples Large Graphs](/pic/2020-11-22-examples-large-graphs.png)
+![2020 11 22 Examples Large Graphs](../pic/2020-11-22-examples-large-graphs.png)
 
 # three.js
 
@@ -85,9 +85,9 @@ http://yifanhu.net/GALLERY/GRAPHS/search.html
 
 https://anvaka.github.io/pm/#/?_k=rn1q6d
 
-![2020 11 22 Three.Je Data Galaxy](/pic/2020-11-22-three.je-data-galaxy.png)
+![2020 11 22 Three.Je Data Galaxy](../pic/2020-11-22-three.je-data-galaxy.png)
 
-![2020 11 22 Three.Je Data Galaxy Go](/pic/2020-11-22-three.je-data-galaxy-go.png)
+![2020 11 22 Three.Je Data Galaxy Go](../pic/2020-11-22-three.je-data-galaxy-go.png)
 
 # Vis Example NetworkX + d3.js in Python 
 
@@ -127,20 +127,20 @@ https://github.com/dagrejs/dagre-d3
 
 https://dagrejs.github.io/project/dagre-d3/latest/demo/etl-status.html 
 
-![2020 11 22 Capture027 Github.Com](/pic/2020-11-22Capture027-github.com.png)
+![2020 11 22 Capture027 Github.Com](../pic/2020-11-22Capture027-github.com.png)
 
-![2020 11 22 Capture024 Dagrejs.Github.Io](/pic/2020-11-22Capture024-dagrejs.github.io.png)
+![2020 11 22 Capture024 Dagrejs.Github.Io](../pic/2020-11-22Capture024-dagrejs.github.io.png)
 
 # https://github.com/antvis/g6 
 
-![2020 11 22 Capture030 Github.Com](/pic/2020-11-22Capture030-github.com.png)
+![2020 11 22 Capture030 Github.Com](../pic/2020-11-22Capture030-github.com.png)
 
-![2020 11 22 Capture033 Antv G6.Gitee.Io](/pic/2020-11-22Capture033-antv-g6.gitee.io.png)
+![2020 11 22 Capture033 Antv G6.Gitee.Io](../pic/2020-11-22Capture033-antv-g6.gitee.io.png)
 
 https://antv-g6.gitee.io/en/docs/manual/middle/layout/graph-layout
 
 
-![2020 11 22 Capture036 Antv G6.Gitee.Io](/pic/2020-11-22Capture036-antv-g6.gitee.io.png)
+![2020 11 22 Capture036 Antv G6.Gitee.Io](../pic/2020-11-22Capture036-antv-g6.gitee.io.png)
 
 # elGrapho.js 
 

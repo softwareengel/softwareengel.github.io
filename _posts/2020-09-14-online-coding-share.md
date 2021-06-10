@@ -37,7 +37,7 @@ für  Web - Anwendungen
 
 <https://codesandbox.io/s/>
 
-![2020 09 14 Codesandbox](/pic/2020-09-14-codesandbox.png)
+![2020 09 14 Codesandbox](../pic/2020-09-14-codesandbox.png)
 
 
 # Atom / Teletype 

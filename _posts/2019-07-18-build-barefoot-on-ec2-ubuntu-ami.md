@@ -1,11 +1,11 @@
 ﻿# ec2 ami mit barefoot 
 
 # launch ec2-instance - use ubuntu 18 
-![](/pic/capture_012_18072019_175245.jpg)
+![](../pic/capture_012_18072019_175245.jpg)
 
 # connect with putty 
-![](/pic/capture_013_18072019_175657.jpg)
-![](/pic/capture_014_18072019_175704.jpg)
+![](../pic/capture_013_18072019_175657.jpg)
+![](../pic/capture_014_18072019_175704.jpg)
 
 # install docker 
     sudo apt-get update 
@@ -65,13 +65,13 @@ sudo /etc/init.d/postgresql stop
 
 # Putty remote port tunnel 
 
-![](/pic/capture_002_19072019_104407.jpg)
+![](../pic/capture_002_19072019_104407.jpg)
 
-![](/pic/capture_19072019_104949_003.jpg)
+![](../pic/capture_19072019_104949_003.jpg)
 
 # use tunnel in PGAdmin 
 
-![](/pic/capture_26072019_124739_001.jpg)
+![](../pic/capture_26072019_124739_001.jpg)
 
 # config europe.properies
 
@@ -208,4 +208,4 @@ sudo /etc/init.d/postgresql stop
 
     
 
-![](/pic/capture_27072019_002927_001.jpg)
+![](../pic/capture_27072019_002927_001.jpg)

@@ -16,9 +16,9 @@ That's the mission of ReactOS!
 <https://reactos.org/>
 
 
-![ReactOS](/pic/Screenshot_2021-01-27%20REactOS.png)
+![ReactOS](../pic/Screenshot_2021-01-27%20REactOS.png)
 
 
 <https://github.com/reactos>
 
-![ReactOS-git](/pic/Screenshot_2021-01-27%20REactOS-git.png)
+![ReactOS-git](../pic/Screenshot_2021-01-27%20REactOS-git.png)
