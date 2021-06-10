@@ -195,8 +195,17 @@ Interactive Pinout <https://pinout.xyz/pinout/>
         svc 0                       @ Call linux to terminate
     .data                                   @ Data Section
     helloworld: .ascii "Hello World!\n"     @ Ascii - Text - Data 
- 
-![Raspi Asm Code Execute](/pic/raspi-asm-code-execute.png)
+
+``` bash 
+as -o hello.o hello.s
+ld -o hello hello.o 
+.\hello 
+objdump -s -d hello.o
+
+
+```
+
+![Raspi Asm Code Execute](../pic/raspi-asm-code-execute.png)
 
 
 ## USB Video 
@@ -206,7 +215,7 @@ Interactive Pinout <https://pinout.xyz/pinout/>
     fswebcam -r 1280x720 image2.jpg
     fswebcam -r 1280x720 --no-banner image3.jpg
 
-![Raspi Usb Webcam](/pic/raspi-usb-webcam.png)
+![Raspi Usb Webcam](../pic/raspi-usb-webcam.png)
 
 <https://www.raspberrypi.org/documentation/usage/webcams/>
 
