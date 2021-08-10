@@ -1,8 +1,8 @@
 ﻿---
 layout: post
 title:  google colab tensorflow + pre trained modells 
-categories: [google, colab, rwnsorflow ]
-tags:  [google, colab, rwnsorflow ]
+categories: [google, colab, tensorflowsorflow ]
+tags:  [google, colab, tensorflowsorflow ]
 ---
 web python notebook colaboration tensorflow with CPU 
 ![](../pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub-crop.png)
