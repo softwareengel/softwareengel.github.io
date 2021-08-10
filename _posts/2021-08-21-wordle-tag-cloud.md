@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Wordle Tag cloud Generator
-categories: [Wordle, Tag, cloud, Generator]
-tags: [Wordle, Tag, cloud, Generator]
+title: Wordle Tag Cloud Generator
+categories: [Wordle, Tagcloud, Generator]
+tags: [Wordle, Tagcloud, Generator]
 --- 
 
-# Wordle Tag cloud Generator 
+# Wordle Tag-Cloud Generator 
 
-![](../pic/2021-08-10-wordle.png)]
+![Wordle Tag Cloud](../pic/2021-08-10-wordle.png)
 
-Tags und Categories: 
+Tags und Categories:
 
-```
+```txt
 
 Softwareengel
 
