@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: PlantUML Eclise Plugin für UML-Klassendiagramme
+title: PlantUML Eclipse Plugin für UML-Klassendiagramme
 categories: [IDE]
 tags: [IDE, Eclipse, plugin, UML, plantuml]
 --- 

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: influx Time series Db telefraf grafana 
+title: influx Time series Db Telegraf grafana 
 categories: [tools]
 tags: [db, ui, graph, data analyse, TSDB]
 --- 
@@ -20,7 +20,7 @@ Telegraf is the open source server agent to help you collect metrics from your s
 
 https://www.influxdata.com/time-series-platform/telegraf/ 
 
-![Screenshot 2020 01 17 Influx Db Telefraf](../pic/Screenshot-2020-01-17_influx-db-telefraf.png)
+![Screenshot 2020 01 17 Influx Db Telegraf](../pic/Screenshot-2020-01-17_influx-db-Telegraf.png)
 
 
 # Grafana
