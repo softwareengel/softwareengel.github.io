@@ -1,6 +1,12 @@
-# ms sql 
+---
+layout: post
+title: MS SQL Server 
+categories: []
+tags: [MS, SQL, Server, ubuntu, docker]
+---
+# MS SQL Server
 
-setup in ubuntu 
+setup in ubuntu
 
         2  docker 
         3  sudo apt install docker.io 

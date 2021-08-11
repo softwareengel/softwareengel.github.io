@@ -18,7 +18,7 @@ Command line
 
 ![](../pic/2021-01-28-15-25-25.png)
 
-Result 
+Result
 
 ![](../pic/2021-01-28_14-55-24-output.gif)
 

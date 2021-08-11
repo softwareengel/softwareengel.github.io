@@ -2,7 +2,7 @@
 layout: post
 title: ETL Selection 
 categories: [ETL, Tools]
-tags: [talend, rapidminer, halo, penthaho]
+tags: [talend, rapidminer, halo, penthaho, etl]
 --- 
 
 # Talend Open Studio 7
@@ -15,7 +15,6 @@ OSS
 
 # Rapidminer
 
-
 # Halo Studio 
 
 https://alternativeto.net/software/hale-studio/about/
@@ -26,7 +25,6 @@ hale studio is an easy-to-use but powerful open source spatial ETL and data harm
 <https://github.com/halestudio/hale>
 
 <https://www.youtube.com/watch?v=BKNMV-Jp9HM>
-
 
 # Pentaho
 

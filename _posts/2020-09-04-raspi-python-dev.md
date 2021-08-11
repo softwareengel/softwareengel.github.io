@@ -2,7 +2,7 @@
 layout: post
 title: Raspi Python Dev Face Recognition 
 categories: [Raspberry Pi, Python, Dev]
-tags: [Raspberry Pi, Python, Dev]
+tags: [Raspberry Pi, Python, Dev, MatplotLib, OpenCV]
 ---
 Raspi 4 mit 4GB Ram, RDP, Python tests mit Matplotlib, OpenCV , Face recognition 
 ![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.png) 
@@ -119,7 +119,4 @@ https://github.com/ageitgey/face_recognition
     video_capture.release()
     cv2.destroyAllWindows() 
 
-
-![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.png) 
-
-
+![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.png)
