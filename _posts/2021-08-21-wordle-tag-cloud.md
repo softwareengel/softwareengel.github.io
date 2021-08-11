@@ -765,4 +765,22 @@ Java Infos , Links
 
 ## Links
 
-http://www.edwordle.net/create.html#
+http://www.edwordle.net/create.html
+
+https://github.com/bbottema/d3-tag-skills-cloud
+
+https://www.jasondavies.com/wordcloud/
+
+https://www.jqueryscript.net/demo/3D-Interactive-SVG-Tag-Cloud-Plugin-With-jQuery-SVG-3D-Tag-Cloud/
+
+https://www.goat1000.com/tagcanvas.php
+
+https://jsfiddle.net/wr9moazp/112/
+
+https://codepen.io/leonardo-simionatto-de-souza/pen/xzmjOM
+
+https://wordcloud2-js.timdream.org/#love
+
+https://coolinfographics.com/word-clouds
+
+http://techslides.com/over-1000-d3-js-examples-and-demos
