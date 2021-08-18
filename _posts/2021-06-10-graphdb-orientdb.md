@@ -2,7 +2,7 @@
 layout: post
 title: setup und use orientdb 
 categories: [tools]
-tags: [db, ui, graph, graph]
+tags: [db, ui, graph, graph, java]
 --- 
 
 # Install OrientDB

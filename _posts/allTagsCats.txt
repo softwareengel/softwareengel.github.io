@@ -1,0 +1,746 @@
+
+Softwareengel
+
+Notes from IT and SCM DevOps
+Blog Categories Tags About
+Tags
+
+jekyll
+github git blog jekyll-now Quickstart
+You're up and running!
+
+Icons
+Free Icons - on the web
+
+Free
+Free Icons - on the web
+
+Odata
+OData in Asp.net core
+
+ASP.net core
+OData in Asp.net core
+
+IDE
+PlantUML Eclipse Plugin für UML-Klassendiagramme
+
+Eclipse
+PlantUML Eclipse Plugin für UML-Klassendiagramme
+
+plugin
+PlantUML Eclipse Plugin für UML-Klassendiagramme
+
+UML
+PlantUML Eclipse Plugin für UML-Klassendiagramme
+
+plantuml
+PlantUML Eclipse Plugin für UML-Klassendiagramme
+
+ai
+Rail map matching - hmm hidden markow matching
+
+hmm
+Rail map matching - hmm hidden markow matching
+
+hidden markow chain
+Rail map matching - hmm hidden markow matching
+
+map matchig
+Rail map matching - hmm hidden markow matching
+
+rail
+Rail map matching - hmm hidden markow matching
+
+Graphhopper
+Graphhopper Rail, Street + Truck
+
+routing
+Graphhopper Rail, Street + Truck
+
+api
+Phyphox App Python API - Client
+Graphhopper Rail, Street + Truck
+
+web
+web Diagram Editor
+Graphhopper Rail, Street + Truck
+
+JS
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+Vue.js Quickstart
+Vue.js Quickstart
+Web cast DEv JS Learning
+
+React
+Web cast DEv JS Learning
+
+BootStrap
+Web cast DEv JS Learning
+
+vue
+Web cast DEv JS Learning
+
+Tables
+Web cast DEv JS Learning
+
+Links
+LinkList -
+
+db
+setup und use orientdb
+mysql mariadb docker sql
+mongo redis
+influx Time series Db Telegraf grafana
+
+ui
+setup und use orientdb
+influx Time series Db Telegraf grafana
+
+graph
+setup und use orientdb
+setup und use orientdb
+Graph Visualisation Collection 2020
+influx Time series Db Telegraf grafana
+
+data analyse
+influx Time series Db Telegraf grafana
+
+TSDB
+influx Time series Db Telegraf grafana
+
+dotnet
+dotnet und syslog
+
+rsyslog
+dotnet und syslog
+
+ubuntu
+dotnet und syslog
+
+dotnet core
+dotnet und syslog
+
+greylog
+dotnet und syslog
+
+elk
+dotnet und syslog
+
+mongo
+mongo redis
+
+redis
+mongo redis
+
+mysql
+mysql mariadb docker sql
+
+mariadb
+mysql mariadb docker sql
+
+PPT
+Powerpoint VBA Footer
+
+VBA
+Powerpoint VBA Footer
+
+Footer
+Powerpoint VBA Footer
+
+Skript
+RDP Install Skript for Ubuntu *tested*
+Powerpoint VBA Footer
+
+vue.js
+Vue.js Quickstart
+Vue.js Quickstart
+
+blog
+github git blog jekyll-now Quickstart
+
+OBS
+OBS Studio - Open Brodcast Studio
+
+Video
+Video mp4 2 gif animation convert
+OBS Studio - Open Brodcast Studio
+
+Broadcast
+OBS Studio - Open Brodcast Studio
+
+Raspi
+Project Raspberry Pi Zero EDUcation
+
+Education
+Project Raspberry Pi Zero EDUcation
+
+Onboarding
+Project Raspberry Pi Zero EDUcation
+
+LED
+Project Raspberry Pi Zero EDUcation
+
+Coding
+Project Raspberry Pi Zero EDUcation
+
+Node
+Node Rest Server for SQLite
+
+npm
+Node Rest Server for SQLite
+
+sqlite
+Node Rest Server for SQLite
+
+JSON
+Node Rest Server for SQLite
+
+REST
+Java REST Webservice Dropwizard
+Node Rest Server for SQLite
+
+API
+Java REST Webservice Dropwizard
+Graphhopper
+ASP dot Net core IAM
+Node Rest Server for SQLite
+
+Ubuntu
+RDP Install Skript for Ubuntu *tested*
+
+RDP
+RDP Install Skript for Ubuntu *tested*
+
+Jekyll
+Super Optimised Static Sites
+Jekyll Blog
+
+OSS
+Super Optimised Static Sites
+ReactOS - Run Windows Application on open source
+OSM Filter Batch
+JSON Web Tokens - JWT
+Jekyll Blog
+
+markdown
+Super Optimised Static Sites
+Jekyll Blog
+
+theme
+Super Optimised Static Sites
+Jekyll Blog
+
+raspi
+Raspi 4 Docker Yacy
+
+yacy
+Raspi 4 Docker Yacy
+
+docker
+Raspi 4 Docker Yacy
+
+opencv
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+OpenCV und Python
+
+python
+Python tools libs
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+Phyphox App Python API - Client
+OpenCV und Python
+
+ml
+OpenCV und Python
+
+video
+OpenCV und Python
+
+image
+OpenCV und Python
+
+manipulatition
+OpenCV und Python
+
+search engine
+Suchmaschinen
+
+sensor
+Phyphox App Python API - Client
+
+mobile
+Phyphox App Python API - Client
+
+server
+Phyphox App Python API - Client
+
+client
+Phyphox App Python API - Client
+
+rpa
+rpa
+
+IAM
+ASP dot Net core IAM
+
+DotNet Core
+ASP dot Net core IAM
+
+OpenId
+ASP dot Net core IAM
+
+OAuth2
+ASP dot Net core IAM
+
+diagram
+web Diagram Editor
+
+editor
+web Diagram Editor
+
+DOS
+MS-DOS Games Software Library
+
+Games
+MS-DOS Games Software Library
+
+History
+MS-DOS Games Software Library
+
+Web
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
+Graphhopper
+
+Map
+Graphhopper
+
+Route
+Graphhopper
+
+FRAMEWORK
+Java REST Webservice Dropwizard
+
+JWT
+JSON Web Tokens - JWT
+
+OAuth
+JSON Web Tokens - JWT
+
+Identity Management
+JSON Web Tokens - JWT
+
+Authentication
+JSON Web Tokens - JWT
+
+Java
+Java Infos , Links
+JSON Web Tokens - JWT
+
+Server
+JSON Web Tokens - JWT
+
+Raspberry Pi
+Raspi Python Dev Face Recognition
+
+Python
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
+Raspi Python Dev Face Recognition
+
+Dev
+Raspi Python Dev Face Recognition
+
+journals
+IT journals
+
+OSM
+OSM Filter Batch
+
+WINDOWS
+ReactOS - Run Windows Application on open source
+
+google
+google colab tensorflow + pre trained modells
+
+colab
+google colab tensorflow + pre trained modells
+
+tensorflow
+google colab tensorflow + pre trained modells
+
+MS
+MS SQL Server Linux
+
+SQL
+MS SQL Server Linux
+
+SQL Server
+MS SQL Server Linux
+
+Linux
+MS SQL Server Linux
+
+Docker
+Docker Nginx Reverse Proxy
+
+Nginx
+Docker Nginx Reverse Proxy
+
+Reverse Proxy
+Docker Nginx Reverse Proxy
+
+network
+Graph Visualisation Collection 2020
+
+visulalisation
+Graph Visualisation Collection 2020
+
+oss
+Norconex crawler
+Graph Visualisation Collection 2020
+
+Norconex
+Norconex crawler
+
+crawler
+Norconex crawler
+
+netcat
+Netcat send data
+
+log
+Netcat send data
+
+data
+Netcat send data
+
+AI
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+
+Tensorflow
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+
+gif
+Video mp4 2 gif animation convert
+Animated Gifs Collection
+
+tools
+Python tools libs
+
+libs
+Python tools libs
+
+tweedback
+Webinar Tools
+
+WonderMe
+Webinar Tools
+
+arsnova
+Webinar Tools
+
+partify
+Webinar Tools
+
+mp4
+Video mp4 2 gif animation convert
+
+animation
+Video mp4 2 gif animation convert
+
+convert
+Video mp4 2 gif animation convert
+
+Scapping
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
+
+Selenium
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
+
+talend
+ETL Selection
+
+rapidminer
+ETL Selection
+
+halo
+ETL Selection
+
+penthaho
+ETL Selection
+
+geogebra
+school math tools
+
+MS Math Solver
+school math tools
+
+Tools
+Java Infos , Links
+
+Libs
+Java Infos , Links
+
+Code
+Java Infos , Links
+
+Softwareengel
+
+Notes from IT and SCM DevOps
+Blog Categories Tags About
+Categories
+
+blog
+github git blog jekyll-now Quickstart
+You're up and running!
+
+Icons
+Free Icons - on the web
+
+IDE
+PlantUML Eclipse Plugin für UML-Klassendiagramme
+
+ai
+Rail map matching - hmm hidden markow matching
+
+hmm
+Rail map matching - hmm hidden markow matching
+
+hidden markow chain
+Rail map matching - hmm hidden markow matching
+
+map matchig
+Rail map matching - hmm hidden markow matching
+
+rail
+Rail map matching - hmm hidden markow matching
+
+routing
+Graphhopper Rail, Street + Truck
+
+Links
+LinkList -
+
+tools
+setup und use orientdb
+Webinar Tools
+Python tools libs
+rpa
+Phyphox App Python API - Client
+influx Time series Db Telegraf grafana
+
+Logging
+dotnet und syslog
+
+db
+mysql mariadb docker sql
+mongo redis
+
+Office
+Powerpoint VBA Footer
+
+web
+Vue.js Quickstart
+github git blog jekyll-now Quickstart
+Vue.js Quickstart
+
+ui
+Vue.js Quickstart
+Vue.js Quickstart
+
+OBS
+OBS Studio - Open Brodcast Studio
+
+Video
+Video mp4 2 gif animation convert
+OBS Studio - Open Brodcast Studio
+
+Broadcast
+OBS Studio - Open Brodcast Studio
+
+EDU
+Project Raspberry Pi Zero EDUcation
+
+Node
+Node Rest Server for SQLite
+
+Linux
+MS SQL Server Linux
+RDP Install Skript for Ubuntu *tested*
+
+Blog
+Super Optimised Static Sites
+Jekyll Blog
+
+Raspi
+Raspi 4 Docker Yacy
+
+computer vision
+OpenCV und Python
+
+search engine
+Suchmaschinen
+
+API
+Java REST Webservice Dropwizard
+ASP dot Net core IAM
+
+.NET
+ASP dot Net core IAM
+
+diagram
+web Diagram Editor
+
+Games
+MS-DOS Games Software Library
+
+WEB
+Graphhopper
+
+MAP
+Graphhopper
+
+REST
+Java REST Webservice Dropwizard
+
+JAVA
+Java REST Webservice Dropwizard
+
+IAM
+JSON Web Tokens - JWT
+
+Authorisation
+JSON Web Tokens - JWT
+
+Raspberry Pi
+Raspi Python Dev Face Recognition
+
+Python
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
+Raspi Python Dev Face Recognition
+
+Dev
+Java Infos , Links
+Raspi Python Dev Face Recognition
+
+journals
+IT journals
+
+OSM
+OSM Filter Batch
+
+OSS
+ReactOS - Run Windows Application on open source
+OSM Filter Batch
+
+ReactOS
+ReactOS - Run Windows Application on open source
+
+WINDOWS
+ReactOS - Run Windows Application on open source
+
+google
+google colab tensorflow + pre trained modells
+
+colab
+google colab tensorflow + pre trained modells
+
+tensorflowsorflow
+google colab tensorflow + pre trained modells
+
+MS
+MS SQL Server Linux
+
+SQL
+MS SQL Server Linux
+
+SQL Server
+MS SQL Server Linux
+
+Docker
+Docker Nginx Reverse Proxy
+
+Nginx
+Docker Nginx Reverse Proxy
+
+Reverse Proxy
+Docker Nginx Reverse Proxy
+
+network
+Graph Visualisation Collection 2020
+
+graph
+Graph Visualisation Collection 2020
+
+visulalisation
+Graph Visualisation Collection 2020
+
+oss
+Norconex crawler
+Graph Visualisation Collection 2020
+
+Norconex
+Norconex crawler
+
+crawler
+Norconex crawler
+
+netcat
+Netcat send data
+
+log
+Netcat send data
+
+data
+Netcat send data
+
+AI
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+
+opencv
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+
+python
+Python tools libs
+More AI Traffic Speed Detection With TrafficCV, Face emotion detection
+
+GIF
+Animated Gifs Collection
+
+libs
+Python tools libs
+
+webinar
+Webinar Tools
+
+Web
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
+
+Scapping
+Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
+
+ETL
+ETL Selection
+
+Tools
+Java Infos , Links
+ETL Selection
+
+math
+school math tools
+
+tool
+school math tools
+
+Microservices
+Microservices, Devops Tutorial
+
+Devops
+Microservices, Devops Tutorial
+
+Tutorial
+Microservices, Devops Tutorial
+
+Code
+Java Infos , Links
+
+Libs
+Java Infos , Links
