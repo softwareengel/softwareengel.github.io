@@ -11,9 +11,9 @@ tags: [ssh, tunnel, port, forwarding]
     |DBServer:1443|<-|sshTunelPC|-|FW|-|FW|->|443:sshd:2222|<-|DBClient|
 
 - Keygen
-  
+
 ``` bash
-    ssh-keygen ... File dog2
+ssh-keygen ... File dog2
 ```
 
 - SshdServer
@@ -21,7 +21,7 @@ tags: [ssh, tunnel, port, forwarding]
     set password
 
 ``` bash
-    passwd
+passwd
 ```
 
 - Edit ssh - config
