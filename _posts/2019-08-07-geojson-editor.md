@@ -1,10 +1,10 @@
-﻿# GeoJson 
+﻿# GeoJson
 
-## Utilities 
+## Utilities
 
 <https://github.com/tmcw/awesome-geojson>
 
-## Geojson editor 
+## Geojson editor
 
 <http://geojson.io>
 

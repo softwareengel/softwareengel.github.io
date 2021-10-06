@@ -5,9 +5,9 @@ categories: [Links]
 tags: [Links]
 ---
 
-# Research 
+# Research
 
-## Literature 
+## Literature
 
 ### Skript
 

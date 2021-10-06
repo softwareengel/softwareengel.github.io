@@ -22,6 +22,6 @@ Screenshot_2019-08-26-OpenStreetMap.png
 
 ## osm overpass api minining tool
 
-<https://github.com/tyrasd/overpass-turbo> 
+<https://github.com/tyrasd/overpass-turbo>
 <https://wiki.openstreetmap.org/wiki/Talk:Overpass_turbo>
-<http://overpass-turbo.eu/> 
+<http://overpass-turbo.eu/>

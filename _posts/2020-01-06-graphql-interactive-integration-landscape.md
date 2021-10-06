@@ -1,4 +1,4 @@
-﻿# GraphQL 
+# GraphQL 
 
 Graphql SPEC <http://spec.graphql.org/> , <http://spec.graphql.org/June2018/>
 
@@ -10,6 +10,11 @@ Graphql SPEC <http://spec.graphql.org/> , <http://spec.graphql.org/June2018/>
 <https://graphql.org/learn/queries/> 
 
 <https://graphql.org/graphql-js/mutations-and-input-types/> 
+
+https://www.youtube.com/watch?v=etax3aEe2dA
+
+https://www.youtube.com/watch?v=zVNrqo9XGOs
+
 
 # Use GraphQL by API Tools GraphiQL
 
