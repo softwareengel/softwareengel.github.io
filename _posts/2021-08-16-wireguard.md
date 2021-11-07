@@ -1,4 +1,4 @@
 
 # wireguard vpn
 
-Lightweight VPN auch für Mobile 
+Lightweight VPN auch für Mobile
