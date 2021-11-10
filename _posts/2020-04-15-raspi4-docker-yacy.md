@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Raspi 4 Docker Yacy 
-categories: [Raspi]
+title: Raspi 4 Docker Yacy local search engine 
+categories: [Raspi, SEARCH, BOT]
 tags: [raspi, yacy, docker]
 --- 
 

@@ -20,15 +20,13 @@ viral content : <https://app.buzzsumo.com/discover/trending>
 
 Meta search saerx: https://searx.space/ 
 
-
-
-# Self hosted 
+# Self hosted
 
 Self hosted seach engine: <https://wiki.sgripon.net/doku.php/self_hosted_search_engine>
 
 Crawler Apache Nutch <https://cwiki.apache.org/confluence/display/nutch/NutchTutorial>
 
-# Elastic Search 
+# Elastic Search
 
 Search Elastic Search <https://www.elastic.co/de/>
 
@@ -36,18 +34,17 @@ Search Elastic Search <https://www.elastic.co/de/>
 
 Suchoberfläche Calaca: <https://github.com/romansanchez/Calaca>
 
-# Ambar 
+# Ambar
 
 <https://ambar.cloud/>
 
 <https://github.com/RD17/ambar#building-the-images-yourself>
 
-# apache solr 
+# apache solr
 
 <https://lucene.apache.org/solr/> 
 
-
-# apache nutch 
+# apache nutch
 
 <https://www.apache.org/dyn/closer.lua/nutch/1.16/apache-nutch-1.16-bin.zip>
 
@@ -55,7 +52,6 @@ Suchoberfläche Calaca: <https://github.com/romansanchez/Calaca>
 
 Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing. 
 <https://scrapy.org/>
-
 
 <https://github.com/scrapy/scrapy>
 
@@ -69,7 +65,7 @@ Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-
 
 WebSPHINX ( Website-Specific Processors for HTML INformation eXtraction) is a Java class library and interactive development environment for web crawlers. A web crawler (also called a robot or spider) is a program that browses and processes Web pages automatically.
 
-# openseachserver 
+# openseachserver
 
 https://www.opensearchserver.com/
 
