@@ -1,7 +1,11 @@
+---
+layout: post
+title: Google ML Crash Course 
+categories: [ML, Tutorial]
+tags: [ML, Tutorial, Google, Dev]
+--- 
 
-
-# Captura Settungs 
-
+# Captura Settings
 
 ![](../pic/2021-12-08-13-00-10.png)
 
@@ -10,7 +14,6 @@ Quality 62 % (vorher 70%)
 Settings FFmpeg: 
 Pixel Format: yuv420p   
 Preset:medium  (vorher = ultrafast )
-
 
 # alte Video konvertieren mit vlc
 
