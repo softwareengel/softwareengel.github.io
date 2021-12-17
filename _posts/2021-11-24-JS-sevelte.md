@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
-categories: [JS, Sevelte]
-tags: [JA, oss]
+title: Sevelte JS Framework
+categories: [JS, Sevelte, Framework]
+tags: [JS, TS, oss]
 --- 
 
 ![](../pics/2021-12-17-15-16-54-sevelte.png)
