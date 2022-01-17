@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=pzMpwW4ppRM
 
 - solr Frontends 
 
+# opensourceconnections.com for solr 
+<https://opensourceconnections.com/>
+
 https://github.com/Anant/awesome-solr
 
 - solr Admin UI 
