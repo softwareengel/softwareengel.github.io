@@ -6,7 +6,7 @@ Aufgaben
 
 ![](../pics/2021-11-18-12-20-34.png)
 
-Karten 
+Karten
 
 ![](../pics/2021-11-18-12-22-09.png)
 

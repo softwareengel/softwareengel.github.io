@@ -21,7 +21,7 @@ von captura ultrafast auf 30 % Size mit VLC
 
 ![](../pics/2021-12-08-13-02-31.png)
 
-Alle Werte gleich lassen "speichern/konvertieren" 
+Alle Werte gleich lassen "speichern/konvertieren"
 
 ![](../pics/2021-12-08-13-03-47.png)
 
