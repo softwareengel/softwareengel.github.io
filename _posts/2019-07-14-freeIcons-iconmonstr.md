@@ -19,6 +19,10 @@ tags: [Icons, Free]
 
 <https://www.freepik.com/>
 
+## Links to free Icons
+
+<https://wweb.dev/resources/free-icon-sets/
+
 # Free Pics 
 
 <https://unsplash.com/>
