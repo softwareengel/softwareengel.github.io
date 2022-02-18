@@ -13,13 +13,15 @@ tags: [Links]
 
 <http://www.netzmafia.de/skripten/index.html>
 
-### Paper Search 
+### Paper Search
+
+"Schattenbibliotheken" wie Sci-Hub, LibGen, UbuWeb und AAARG  
 
 <https://sci-hub.se/>
 
 <https://scholar.google.de/>
 
-## IT - Books 
+## IT - Books
 
 <https://b-ok.cc/>
 
