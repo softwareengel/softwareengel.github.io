@@ -1,11 +1,11 @@
 ﻿---
 layout: post
-title: ELK Stack: Elasticsearch - Kibana - Logstash 
+title: ELK Stack - Elasticsearch - Kibana - Logstash 
 categories: [ELK]
 tags: [ELK]
 --- 
 
-# ElasticSearch , AWS — Open Distro Elasticsearch
+# ElasticSearch, AWS — Open Distro Elasticsearch
 
 <https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a>
 

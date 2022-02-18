@@ -1,20 +1,17 @@
 ﻿---
 layout: post
 title: nlp text analyse tools
-categories:[ tools]
+categories: [tools]
 tags: [text mining, nlp,  oss]
 ---
  
-
-# Text Mininng Tools 
+# Text Mininng Tools
 
 <https://www.predictiveanalyticstoday.com/top-free-software-for-text-analysis-text-mining-text-analytics/>
 
 <https://gate.ac.uk/download/>
 
-
 <https://gist.github.com/dideler/eae43d3d32e22317d8d7>
-
 
 # PDF to Text 
 
@@ -28,7 +25,6 @@ tags: [text mining, nlp,  oss]
 <https://tabula.technology/>
 
 ![2020 05 18 Pdf 2 Text Tabula](../pic/2020-05-18-pdf-2-text-tabula.png)
-
 
 # Text Stat 
 
