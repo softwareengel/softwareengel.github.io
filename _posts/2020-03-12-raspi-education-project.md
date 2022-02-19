@@ -55,23 +55,21 @@ Raspi Specs  <https://www.reichelt.de/bilder/_LP/LP/2018-02_Entwicklerboards/Tab
 
 <https://www.raspberrypi.org/products/raspberry-pi-zero-w/>
 
-Broadcom BCM2835.  This contains an ARM1176JZFS (ARM11 using an ARMv6-architecture core) with floating point, running at 1GHz, and a Videocore 4 GPU. 
+Broadcom BCM2835.  This contains an ARM1176JZFS (ARM11 using an ARMv6-architecture core) with floating point, running at 1GHz, and a Videocore 4 GPU.
  
     Armv6 - wird leider (noch ) nicht von VS Code unterstützt
 
 Raspberry Pi Zero W will remain in production until at least January 2026
 
-
 ## SSH
   
 Datei mit dem Namen "**SSH**" anlegen 
 
-## WLAN - Wireless LAN 
+## WLAN - Wireless LAN
 
-- kein Kabel ebötigt
-- 
+- kein Kabel benötigt
 
-### WLAN Router 
+### WLAN Router
 
 Setup Router / UMTS - Router mit Handy und Sim 
 
@@ -81,9 +79,7 @@ oder 10.0.0.1 / 255.0.0.0
 
 Wlan SSID setzen "PIWLAN"  - Passwort setzen "PaSSWoRd" - ignore 5Ghz - use 2.4 Ghz - Use WPA-PSK 
 
-
-
-### WLAN Raspi 
+### WLAN Raspi
 
 <https://pi-buch.info/wlan-schon-vor-der-installation-konfigurieren/>
 

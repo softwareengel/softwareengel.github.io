@@ -8,6 +8,7 @@ tags: [ssh, tunnel, port, forwarding]
 # ssh-tunnel-port-forwarding
 
 Enable port forwarding with ssh tunnel
+Example remote MS sql Server connection by ssh-tunnel passing firewall
 
 ## Setup
 
@@ -19,7 +20,7 @@ Enable port forwarding with ssh tunnel
 ssh-keygen ... File dog2
 ```
 
-- SshdServer
+- Sshd-Server
 
     set password
 
@@ -75,4 +76,4 @@ passwd
 
 ## add ssh key to remote
 
-ssh-copy-id
+    ssh-copy-id
