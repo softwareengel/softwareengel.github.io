@@ -5,6 +5,6 @@ categories: [Web Presentations]
 tags: [JS, Web, Pesentation ]
 --- 
 
-# JS Web Pesentation 
+# JS Web Pesentation
 
-https://revealjs.com/
+<https://revealjs.com/>

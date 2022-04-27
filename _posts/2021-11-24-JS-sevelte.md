@@ -35,12 +35,12 @@ We're proud that Svelte was recently voted the most loved web framework with the
     npm run dev
 ```
 
-# Links 
+## Links
 
-https://svelte.dev/
+- <https://svelte.dev/>
 
-https://svelte.dev/blog/the-easiest-way-to-get-started
+- <https://svelte.dev/blog/the-easiest-way-to-get-started>
 
-- Examples 
+Examples
 
-https://svelte.dev/examples/hello-world
+- <https://svelte.dev/examples/hello-world>

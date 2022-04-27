@@ -31,11 +31,11 @@ tags: [Links]
 
 <https://www.ebooks777.net/>
 
-Not working : 
+Not working:
 
 <http://www.allitebooks.org/>
 
- ## Books 
+## Books
 
 <https://www.pdfdrive.com/> 
 
@@ -45,11 +45,11 @@ Not working :
 
 <https://dlfeb.com/> (interneál server err ?!)
 
-<https://libgen.pw/> 
-    
-<https://en.booksee.org/> 
+<https://libgen.pw/>
 
-# Rheinwerk open books 
+<https://en.booksee.org/>
+
+## Rheinwerk open books
 
 <https://www.rheinwerk-verlag.de/openbook/>
 
@@ -57,7 +57,7 @@ Not working :
 
 <http://openbook.rheinwerk-verlag.de/python/>
 
-# audiobooks 
+## audiobooks
 
 <http://www.audiobookreviews.com/>
 
@@ -76,42 +76,39 @@ Key: !cHzM6YY3JU3b65OzxecnmA!P3R21Yba
 
 <https://www.onlinegdb.com/online_java_compiler>
 
-
-
-# Interesting web technologies 
+## Interesting web technologies
 
 Message your customers, they'll love you for it.
 Monitor and chat with the visitors on your website, mobile app or from a free customizable page.
 
 <https://www.tawk.to/>
 
-# Internet Live Stats 
-<https://www.internetlivestats.com/> 
+## Internet Live Stats
+
+<https://www.internetlivestats.com/>
 
 ![Internet Live Stats](pic/internetLiveStats.png)
 
-# statische sites generatoren stats 
+## statische sites generatoren stats 
 
 <https://www.staticgen.com/>
 
-# Web UI 
+## Web UI
 
 <http://madebyevan.com/>
 
-# Web Tools owasp Phoenix/Tools
+## Web Tools owasp Phoenix/Tools
 he free and open software security community
 
 <https://wiki.owasp.org/index.php/Phoenix>
 
-#  Explore Git 
+## Explore Git 
 
 https://resources.oreilly.com/public
 
-# Web Mapping 
+## Web Mapping 
 
-
-
-## overpass API mit grafischem Ergebnis
+### overpass API mit grafischem Ergebnis
 
 <https://overpass-turbo.eu/> 
 
@@ -281,5 +278,4 @@ https://resources.oreilly.com/public
 
 ---
 
-
-![2019 12 09 Overpass Beispiel Laden Daten Csv Export](pic/2019-12-09-overpass-beispiel-laden-daten-csv-export.png)
+![2019 12 09 Overpass Beispiel Laden Daten Csv Export](/pic/2019-12-09-overpass-beispiel-laden-daten-csv-export.png)
