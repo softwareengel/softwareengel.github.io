@@ -10,7 +10,7 @@ graphhopper routing & map matching for rail + truck with  java, OSM
 
 <https://github.com/geofabrik/OpenRailRouting> 
 
-## Start MapMatch 
+## Start MapMatch
     set log4j.configurationFile = log4j2.yaml
     java  -Dgraphhopper.datareader.file=ulm.osm -jar target/railway_routing-0.0.1-SNAPSHOT-jar-with-dependencies.jar import config.yml
     java  -Dgraphhopper.datareader.file=ulm.osm -jar target/railway_routing-0.0.1-SNAPSHOT-jar-with-dependencies.jar match -V alltracks --gpx-location=gpx/gh_track_6TP.gpx  config.yml 
