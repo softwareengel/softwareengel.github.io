@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Google ML Crash Course 
-categories: [ML, Tutorial]
-tags: [ML, Tutorial, Google, Dev]
+title: Screen Recorder web optimized output 
+categories: [Screenrecorder]
+tags: [screen,recorder,tools, captura,TEncoder]
 --- 
 
 # Captura Settings
@@ -15,7 +15,7 @@ Settings FFmpeg:
 Pixel Format: yuv420p   
 Preset:medium  (vorher = ultrafast )
 
-# alte Video konvertieren mit vlc
+# Alte Videos konvertieren mit vlc
 
 von captura ultrafast auf 30 % Size mit VLC 
 
@@ -25,7 +25,7 @@ Alle Werte gleich lassen "speichern/konvertieren"
 
 ![](../pics/2021-12-08-13-03-47.png)
 
-# alternative TEncoder 
+# Alternative TEncoder 
 
 ![](../pic/2021-12-08-13-46-04.png)
 
