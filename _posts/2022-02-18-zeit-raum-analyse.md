@@ -5,7 +5,12 @@ categories: [Web, GeoDB, timeseries, Maps ]
 tags: [Web, GeoDB, timeseries, Maps, Analytics, Data Analytics]
 ---
 
-Grafische Darstellung von Zeit-Raum-Datenreihen 
+# Grafische Darstellung von Zeit-Raum-Datenreihen 
+
+Gleichzeitige (synchrone) Darstellung von Zeitdatan und zugehörigen Raum- (Geo-) daten für ausgewählte Zeitraume 
+ 
+
+
 
 <figure class="video_container">
   <video width="920"  controls="true" allowfullscreen="true" 

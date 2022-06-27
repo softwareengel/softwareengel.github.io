@@ -11,23 +11,25 @@ A Walk Through Electron's Internals - Brendan Forster
 
 https://www.youtube.com/watch?v=oTDjyMTZU1s 
 
-Electron
+# Electron
 
 https://www.electronjs.org/
 
 https://github.com/sindresorhus/awesome-electron#boilerplates
 
-Electron Apps 
+
+
+## Electron Apps 
 https://www.electronjs.org/apps 
 
 
 https://github.com/sindresorhus/awesome-electron 
 
 
-NW.js vs electron 
+# NW.js vs electron 
 
 https://www.electronjs.org/docs/development/electron-vs-nwjs
 
-nw.js 
+# nw.js 
 
 https://nwjs.io/

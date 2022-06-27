@@ -225,6 +225,10 @@ aktuell benutzt: python3 -> python 3 , pip3
 
 pip3 install jupyterlab
 
+- How to create a dashboard in Python with Jupyter Notebook?
+
+https://mljar.com/blog/dashboard-python-jupyter-notebook/
+
 
 ### Python Web Socket Server 
 
