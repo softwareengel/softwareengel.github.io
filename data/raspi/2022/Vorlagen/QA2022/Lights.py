@@ -1,7 +1,8 @@
 #import RPi.GPIO as GPIO #Use for Raspberry Pi GPIO
 import TestRPiGPIO as GPIO
 
-# TODO Implementiere die Logik fuer das gelbe und rote Licht. Tipp: Orientiere dich an der Implementierung des gruenen Lichtes.
+# TODO Implementiere die Logik fuer das gelbe und rote Licht. 
+# Tipp: Orientiere dich an der Implementierung des gruenen Lichtes.
 class Lights(object):
 
     def __init__(self):
