@@ -1,5 +1,3 @@
-
-
 ''' 
 Instanziieren Sie auch für diese LED ein Objekt Ihrer LED Klasse.
 Entwickeln Sie ein Programm, bei dem eine Zahl geraten werden soll, 
