@@ -1,4 +1,4 @@
-# Übung Computergestützte Qualitätskontrollestation 
+# Übung Computergestützte Qualitätskontrollstation 
 
 ## Anwendungsfall
 In eine Produktionskette soll eine Qualitätskontrollstation eingeführt werden. An dieser sollen Werkstücke
