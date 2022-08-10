@@ -11,7 +11,12 @@ https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
 
 https://github.com/byrnereese/mkdocs-minify-plugin
 
+# mkdocs
 https://github.com/mkdocs/mkdocs-redirects
+
+# Docusaurus 
+
+- https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0
 
 # markdown blog 
 
