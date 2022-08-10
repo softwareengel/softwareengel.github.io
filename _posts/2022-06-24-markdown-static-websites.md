@@ -2,6 +2,7 @@
 
 # markdown-static-websites
 
+## mkdocs
 https://www.mkdocs.org/
 
 https://squidfunk.github.io/mkdocs-material/
@@ -11,7 +12,6 @@ https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
 
 https://github.com/byrnereese/mkdocs-minify-plugin
 
-# mkdocs
 https://github.com/mkdocs/mkdocs-redirects
 
 # Docusaurus 
