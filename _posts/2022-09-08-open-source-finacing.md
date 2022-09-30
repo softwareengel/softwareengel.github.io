@@ -3,4 +3,4 @@
 
 https://github.com/nayafia/lemonade-stand
 
-![](pic/20220908140840.png)  
+![](../pic/20220908140840.png)  

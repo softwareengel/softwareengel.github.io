@@ -11,7 +11,7 @@ vue , React, JS, HTML, CSS, Bootstrap, TS <https://scrimba.com/>
 
 Bootstrap 4 course https://scrimba.com/p/pD5KUE/cnbpRU9 
 
-# React
+## React
 
 React.js Examples 
 
@@ -24,23 +24,21 @@ https://revolist.github.io/revogrid/guide/framework.react.overview.html
 <https://github.com/jbetancur/react-data-table-component#readme>
 
 
-# Bootstrap 
+## Bootstrap 
 
 Examples 
 
 <https://getbootstrap.com/docs/5.0/examples/>
 
 
-# vue.js
+## vue.js
 
 Tables
 
 <https://vuejsexamples.com/tag/table/>
 
 
-# JS
-
-## Grid / Table 
+## JS Grid / Table 
 
 ### Revogrid (I am support all famous frameworKs and much more) 
 Frameworks:    JavaScript;    VueJs;    Svelte;    React;    Angular;    Ember.

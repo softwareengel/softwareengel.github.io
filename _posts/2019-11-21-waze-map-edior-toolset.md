@@ -58,12 +58,12 @@ Nginx
 
 # Goole Waze map 
 
-![Screenshot 2019 11 21 Waze Map](pic/Screenshot_2019-11-21-waze-map.png)
+![Screenshot 2019 11 21 Waze Map](../pic/Screenshot_2019-11-21-waze-map.png)
 
 ## Und die Js - Toolchain 
 
-![Screenshot 2019 11 21 Waze J S Tools1](pic/Screenshot_2019-11-21-waze-JS-tools1.png)
-![Screenshot 2019 11 21 Waze J S Tools2](pic/Screenshot_2019-11-21-waze-JS-tools2.png)
+![Screenshot 2019 11 21 Waze J S Tools1](../pic/Screenshot_2019-11-21-waze-JS-tools1.png)
+![Screenshot 2019 11 21 Waze J S Tools2](../pic/Screenshot_2019-11-21-waze-JS-tools2.png)
 
 ### Als TExt 
 

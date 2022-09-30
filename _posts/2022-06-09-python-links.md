@@ -14,7 +14,7 @@ https://www.heise.de/select/ix/2017/06/softlinks/124
 
 https://www.blog.pythonlibrary.org/category/beginner/
 
-![](pic/20220609113803.png)  
+![](../pic/20220609113803.png)  
 
 ## awesome-python
 
@@ -22,4 +22,4 @@ Python Tools and Libs
 
 https://github.com/vinta/awesome-python
 
-![](pic/20220609112523.png)  
+![](../pic/20220609112523.png)  

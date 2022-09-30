@@ -17,7 +17,7 @@ title: Ubuntu Server Setup
 - VBox Netzwerk Netzwerkbrücke für lokale Netz IP 
  
 
-![2020 01 22 Ubuntu Srv Setup1](pic/2020-01-22-ubuntu-srv-setup1.png)
+![2020 01 22 Ubuntu Srv Setup1](../pic/2020-01-22-ubuntu-srv-setup1.png)
 
 ## Tools
 
