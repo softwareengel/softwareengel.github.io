@@ -2,9 +2,15 @@
 layout: post
 title: Super Optimised Static Sites
 categories: [Blog]
-tags: [Jekyll, OSS, markdown, theme]
+tags: [Jekyll, OSS, Markdown, Theme]
 --- 
+<!-- TOC -->
 
+- [Super Optimised Static Sites](#super-optimised-static-sites)
+  - [Docusaurus](#docusaurus)
+  - [Static Site Generators List](#static-site-generators-list)
+
+<!-- /TOC -->
 # Super Optimised Static Sites
 
     Super Optimised Static Sites
@@ -28,16 +34,16 @@ tags: [Jekyll, OSS, markdown, theme]
 
 <https://jacobdoescode.com/2020/12/30/super-optimised-static-sites>
 
-# Docusaurus 
+## Docusaurus
 
-https://docusaurus.io/docs/en/tutorial-publish-site 
+<https://docusaurus.io/docs/en/tutorial-publish-site>
 
-# Static site generators list 
+## Static Site Generators List
 
-## <https://jamstack.org/generators/>
+- <https://jamstack.org/generators/>
 
-![](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators%20-%20Top%20Open%20Source%20SSGs%20Jamstack.png)
+![Static Side Generators 1](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators%20-%20Top%20Open%20Source%20SSGs%20Jamstack.png)
 
-## <https://staticsitegenerators.net/>
+- <https://staticsitegenerators.net/>
 
-![](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators.png)
+![Static Side Generators 2](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators.png)
