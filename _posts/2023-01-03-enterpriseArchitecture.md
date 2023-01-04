@@ -1,3 +1,10 @@
+---
+layout: post
+title: Enterprise Architecure Tool
+categories: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
+tags: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
+--- 
+
 - [EA](#ea)
   - [Enterprise Architect](#enterprise-architect)
   - [Genmymodel](#genmymodel)
