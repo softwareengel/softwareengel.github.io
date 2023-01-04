@@ -1,3 +1,15 @@
+---
+layout: post
+title: ai 
+categories: [Boston Dynamics,  Google AI , KI in NRW ]
+tags: [Boston Dynamics,  Google AI , KI in NRW ]
+--- 
+- [Boston Dynamics](#boston-dynamics)
+- [Google AI](#google-ai)
+- [Deutschlag KI F\&E Karte](#deutschlag-ki-fe-karte)
+- [KI in NRW](#ki-in-nrw)
+- [Dilemma Decision](#dilemma-decision)
+
 # Boston Dynamics 
 
 Boston Dynamics' amazing robots Atlas and Handle 2020
