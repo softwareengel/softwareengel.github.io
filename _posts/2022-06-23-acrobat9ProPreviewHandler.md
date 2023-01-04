@@ -20,4 +20,4 @@ to
 then restart
 
 ## Link: 
-https://community.spiceworks.com/topic/1752934-windows-explorer-pdf-preview-not-working-after-removing-acrobat-8
+<https://community.spiceworks.com/topic/1752934-windows-explorer-pdf-preview-not-working-after-removing-acrobat-8>
