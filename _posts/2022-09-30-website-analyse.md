@@ -6,12 +6,7 @@ tags: [website, technology, Analyse, Tool]
 --- 
 # Website Technology Analyse Tools
 
-- [Website Technology Analyse Tools](#website-technology-analyse-tools)
-- [Survey](#survey)
-- [Build With](#build-with)
-- [Weppalyzer](#weppalyzer)
-- [w3techs Site INfo](#w3techs-site-info)
-- [Netcraft](#netcraft)
+
 
 # Survey 
 - https://geekflare.com/what-technology-website-using/

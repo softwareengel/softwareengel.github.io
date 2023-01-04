@@ -5,16 +5,6 @@ categories: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 tags: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 --- 
 
-- [EA](#ea)
-  - [Enterprise Architect](#enterprise-architect)
-  - [Genmymodel](#genmymodel)
-  - [JBuilderX](#jbuilderx)
-  - [XText DSL](#xtext-dsl)
-  - [Confluence](#confluence)
-  - [PlantUML](#plantuml)
-  - [Exclipse Jbuilder Togethersoft](#exclipse-jbuilder-togethersoft)
-
-
 # EA
 
 ## Enterprise Architect 
