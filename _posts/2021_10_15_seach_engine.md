@@ -1,17 +1,18 @@
-# Search  Engine 
+# Search  Engine
 
 ## YACY
 
-## Docfetcher 
+## Docfetcher
 
-## Linkchecker 
+## Linkchecker
 
     sudo apt install linkchecker
-## Spider 
+
+## Spider
 
     https://www.screamingfrog.co.uk/seo-spider/
 
-## Links 
+## Links
 
 Welcome to the FLOSS Marketing School
 https://floss-marketing-school.com/ 

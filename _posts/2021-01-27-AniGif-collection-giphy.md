@@ -8,14 +8,13 @@ tags: [gif]
 
 ![](../pic/Screenshot_2021-01-27%20Matrix%20GIFs%20-%20Find%20Share%20on%20GIPHY-crop.png)
 
-Sammlung von Ani-Gifs 
+Sammlung von Ani-Gifs
 
-# Animierte Gifs Sammlung 
+# Animierte Gifs Sammlung
 
-<https://giphy.com/> 
+<https://giphy.com/>
 
-<https://giphy.com/search/matrix> 
-
+<https://giphy.com/search/matrix>
 
 ![](../pic/Screenshot_2021-01-27%20Matrix%20GIFs%20-%20Find%20Share%20on%20GIPHY.png)
 

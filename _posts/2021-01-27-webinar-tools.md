@@ -10,17 +10,17 @@ tags: [tweedback, WonderMe, arsnova, partify]
   </video>
 </figure>
 
-Tools for Webinars 
+Tools for Webinars
 
 ![](../pic\2021-01-28-14-32-02.png)
 
-# Webinar Tools 
+# Webinar Tools
 
-# https://tweedback.de 
+# https://tweedback.de
 
 Login: admin + user ohne Anmeldung
 
-ohne Anmeldung Abfragen 
+ohne Anmeldung Abfragen
 
 <https://tweedback.de/>
 
@@ -116,7 +116,7 @@ Use live polls, quizzes, word clouds, Q&As and more to get real-time input - reg
 Admin : Anmeldung / EDU 
 User: Anon per Link 
 - Abstimmung und Punkte kleben auf Objekte 
-- 
+
 <https://www.mural.co/>
 
 https://app.mural.co/t/fom20217484/m/fom20217484/1614764269254/2f493dae80c3f39712279c3f31c158058ec52a22
@@ -130,26 +130,24 @@ Desktop App
 
 # https://www.figma.com 
 
-Login admin:  Anmeldung, Free: nur 2 Colab User 
+Login admin:  Anmeldung, Free: nur 2 Colab User
 
+![figma](../pic/2021-03-03-10-23-14-figma.png)
+<https://www.figma.com>
 
-![](../pic/2021-03-03-10-23-14-figma.png)
-
-
-
-# Random Wheel Picker 
+# Random Wheel Picker
 
 <https://tools-unite.com/tools/random-picker-wheel>
+
 <figure class="video_container">
   <video width="920"  controls="true" allowfullscreen="true" >
-  
     <source src="/mov/2021-03-03-09-16-50-randomwheelpicker.mp4" type="video/mp4">
   </video>
 </figure>
 
-## Beispiel ohne Vorbereitung 
+## Beispiel ohne Vorbereitung
 
-https://tools-unite.com/tools/random-picker-wheel?names=A,B,C,D,E,F
+<https://tools-unite.com/tools/random-picker-wheel?names=A,B,C,D,E,F>
 
 
 # Sonstiges

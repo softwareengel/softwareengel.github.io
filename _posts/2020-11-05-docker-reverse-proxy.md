@@ -4,9 +4,9 @@ title:  Docker Nginx Reverse Proxy
 categories: [Docker, Nginx, Reverse Proxy]
 tags: [Docker, Nginx, Reverse Proxy]
 ---
-Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Reverseproxy in einem VS Code mi Docker Plugin 
+Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Reverseproxy in einem VS Code mi Docker Plugin
 
-# Docker Nginx Reverse Proxy - Simple in VS Code 
+# Docker Nginx Reverse Proxy - Simple in VS Code
 
 Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Reverseproxy in einem VS Code mi Docker Plugin 
 
@@ -14,10 +14,11 @@ Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Revers
 
 ## docker python webserver für port 8080
 
-### webserver.py 
+### webserver.py
 
-webserver.py 
+webserver.py
 
+``` python
     #!/usr/bin/env python3
     """
     Very simple HTTP server in python for logging requests
@@ -72,26 +73,28 @@ webserver.py
             run(port=int(argv[1]))
         else:
             run()
+```
 
-### Webserver Dockerfile 
+### Webserver Dockerfile
 
-Datei Dockerfile    
-    
-    FROM python:3.8-slim-buster
-    WORKDIR /usr/src/app
+Datei Dockerfile
 
-    # COPY requirements.txt ./
-    # RUN pip install --no-cache-dir -r requirements.txt
-    COPY . . 
+``` Dockerfile
+  FROM python:3.8-slim-buster
+  WORKDIR /usr/src/app
 
-    CMD [ "python", "webserver.py" ]
+  # COPY requirements.txt ./
+  # RUN pip install --no-cache-dir -r requirements.txt
+  COPY . . 
 
+  CMD [ "python", "webserver.py" ]
 
+```
 
 ### Webserver docker-compose.yml
 
-Datei docker-compose.yml 
-
+Datei docker-compose.yml
+``` yml
     version: '3.8'
 
     services:
@@ -102,7 +105,7 @@ Datei docker-compose.yml
           dockerfile: ./Dockerfile
         ports:  
           - "8080:8080"
-
+```
 
 ### Erstellen und starten des Webserver Images 
 

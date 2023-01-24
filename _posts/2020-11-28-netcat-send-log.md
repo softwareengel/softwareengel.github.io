@@ -10,4 +10,6 @@ Simple sending log data to Web-Server
 
 Send data from log files to IP with port 5000
 
+``` bash
     tail -f *.log | nc 192.168.2.44 5000
+```
