@@ -63,7 +63,7 @@ See:
 Pushgateway is listening to incoming metrics on port 9091.
 
 
-### startsd, collectd
+### statsd, collectd
 
 https://github.com/statsd/statsd 
 
@@ -121,7 +121,7 @@ http://192.168.4.26:9090/graph
 
     docker run -p 9090:9090 prom/prometheus
 
-## GRaylog 
+## Graylog 
 
 <https://www.graylog.org/> 
 <https://hub.docker.com/r/graylog/graylog/>
