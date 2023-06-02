@@ -82,7 +82,9 @@ git@github.com: Permission denied (publickey).
 
 
 
-Originaler Openssh Private key in id_rsa in User - Ordner C:\Users\xxxxUSERxxx\.ssh
+Originaler Openssh Private key in id_rsa in User - Ordner   
+
+    C:\Users\xxxxUSERxxx\.ssh
 
 ![](pic/20230602103420.png)
 
