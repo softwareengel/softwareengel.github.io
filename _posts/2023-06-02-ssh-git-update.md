@@ -6,7 +6,7 @@ tags: [ssh, git, openssh]
 
 ---
 
-![](../pic/20230602113227_ia_key.png)
+![](../pic/20230602113227_ia_key_filter.png)
 
 # Update Git Pub key for VScode on Windows 
 

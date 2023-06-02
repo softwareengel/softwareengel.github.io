@@ -5,9 +5,16 @@ categories: [Notes]
 tags: [ai, chatgpt, prompthero]
 --- 
 
+- [https://lexica.art/](#httpslexicaart)
 - [prompthero](#prompthero)
-- [models huggingface](#models-huggingface)
+- [Models Huggingface](#models-huggingface)
+- [Stable Diffusion](#stable-diffusion)
+- [Midjourney](#midjourney)
 
+# https://lexica.art/
+
+![](../pic/20230602114559.png)
+![](../pic/20230602114627.png)
 
 # prompthero
 
@@ -21,18 +28,22 @@ https://prompthero.com/chatgpt-prompts
 ![](../pic/20230414120037_prompthero_logoIconDesign.png)
 ![](../pic/20230414120316_promthero_3d-render.png)
 
-# models huggingface 
+# Models Huggingface 
 
 https://huggingface.co/
-
 
 https://huggingface.co/docs/transformers/quicktour
 
 
 
-# stable diffusion 
+# Stable Diffusion 
 
 
 https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb?authuser=2#scrollTo=PjzwxTkPSPHf
 
 
+# Midjourney
+
+![](../pic/20230602114825.png)
+
+<https://docs.midjourney.com/docs/quick-start>
