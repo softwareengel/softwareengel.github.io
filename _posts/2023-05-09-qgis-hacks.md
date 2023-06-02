@@ -1,18 +1,18 @@
 ---
 layout: post
-title: qgis hacks  
+title: Qgis Hacks  
 categories: [qgis, python]
 tags: [qgis, python]
 --- 
 
-# qgis hacks 
-- [qgis hacks](#qgis-hacks)
-  - [qgis2web](#qgis2web)
+# Qgis Hacks 
+- [Qgis Hacks](#qgis-hacks)
+  - [Qgis2web](#qgis2web)
   - [Example Settings](#example-settings)
   - [tutorial webmap](#tutorial-webmap)
   - [insert xyz - Server](#insert-xyz---server)
 
-## qgis2web 
+## Qgis2web 
 https://github.com/tomchadwin/qgis2web
 
 ## Example Settings 
