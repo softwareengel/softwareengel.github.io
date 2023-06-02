@@ -43,7 +43,7 @@ Gephi tutorial
 - Gephi Version 0.1.0:  kein Graph Streaming plugin mehr (2023-01-14)
 - Gephi Version 0.9
 
-![](pic/20230114123118_gephi.png)  
+![](../pic/20230114123118_gephi.png)  
 
 <https://gephi.org/users/install/>
 

@@ -2676,7 +2676,7 @@ Monitor and chat with the visitors on your website, mobile app or from a free cu
 # Internet Live Stats 
 <https://www.internetlivestats.com/> 
 
-![Internet Live Stats](pic/internetLiveStats.png)
+![Internet Live Stats](../pic/internetLiveStats.png)
 
 # statische sites generatoren stats 
 
@@ -2703,7 +2703,7 @@ https://resources.oreilly.com/public
 
 <https://overpass-turbo.eu/> 
 
-![2019 12 09 Overpas Api Map](pic/2019_12_09_overpas_api_map.png)
+![2019 12 09 Overpas Api Map](../pic/2019_12_09_overpas_api_map.png)
 
 ### Beispiele
 
@@ -2870,7 +2870,7 @@ https://resources.oreilly.com/public
 ---
 
 
-![2019 12 09 Overpass Beispiel Laden Daten Csv Export](pic/2019-12-09-overpass-beispiel-laden-daten-csv-export.png)
+![2019 12 09 Overpass Beispiel Laden Daten Csv Export](../pic/2019-12-09-overpass-beispiel-laden-daten-csv-export.png)
 ﻿# Google Waze Web Editor JS Toolsset
 
 https://www.waze.com/de/editor 
@@ -2931,12 +2931,12 @@ Nginx
 
 # Goole Waze map 
 
-![Screenshot 2019 11 21 Waze Map](pic/Screenshot_2019-11-21-waze-map.png)
+![Screenshot 2019 11 21 Waze Map](../pic/Screenshot_2019-11-21-waze-map.png)
 
 ## Und die Js - Toolchain 
 
-![Screenshot 2019 11 21 Waze J S Tools1](pic/Screenshot_2019-11-21-waze-JS-tools1.png)
-![Screenshot 2019 11 21 Waze J S Tools2](pic/Screenshot_2019-11-21-waze-JS-tools2.png)
+![Screenshot 2019 11 21 Waze J S Tools1](../pic/Screenshot_2019-11-21-waze-JS-tools1.png)
+![Screenshot 2019 11 21 Waze J S Tools2](../pic/Screenshot_2019-11-21-waze-JS-tools2.png)
 
 ### Als TExt 
 
@@ -3047,7 +3047,7 @@ https://dev.socrata.com/changelog/ (last update 29.11.2016)
 
 http://socrata.github.io/soda-java/  (This is the Java API for the SODA 2.0 API) 
 
-![Screenshot 2020 01 06 Socrata Java Api](pic/Screenshot_2020-01-06-socrata-java-api.png)
+![Screenshot 2020 01 06 Socrata Java Api](../pic/Screenshot_2020-01-06-socrata-java-api.png)
 
 ## Time Series Analysis with Jupyter Notebooks and Socrata
 
@@ -3055,7 +3055,7 @@ https://dev.socrata.com/blog/2019/10/07/time-series-analysis-with-jupyter-notebo
 
 # ckan 
 
-![Screenshot 2020 01 14 Ckan](pic/Screenshot-2020-01-14-ckan.png)
+![Screenshot 2020 01 14 Ckan](../pic/Screenshot-2020-01-14-ckan.png)
 
 https://docs.ckan.org/en/latest/maintaining/installing/install-from-package.html 
 https://github.com/ckan/ckan
@@ -3469,7 +3469,7 @@ title: Ubuntu Server Setup
 - VBox Netzwerk Netzwerkbrücke für lokale Netz IP 
  
 
-![2020 01 22 Ubuntu Srv Setup1](pic/2020-01-22-ubuntu-srv-setup1.png)
+![2020 01 22 Ubuntu Srv Setup1](../pic/2020-01-22-ubuntu-srv-setup1.png)
 
 ## Tools
 

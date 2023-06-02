@@ -20,7 +20,7 @@
 
 - OSS Filius Netzwerksimulation 
 
-![](pic/20230310135123.png)
+![](../pic/20230310135123.png)
 
 # Clone Wars - Open source clones of popular sites
 

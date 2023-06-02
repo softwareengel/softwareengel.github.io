@@ -13,16 +13,19 @@ tags: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 
 https://app.genmymodel.com/editor/edit/_ioo-4ItvEe29ie0vpi-P5A# 
 ### Class Diagram 
-![](pic/20230103151025_genmymodel.png)  
-![](pic/20230118110721_class_diag_rvp.png)  
+
+![](../pic/20230103151025_genmymodel.png)  
+![](../pic/20230118110721_class_diag_rvp.png)  
 ### Source Generators Java, Python  
-![](pic/20230103151133_genmymodel.png)  
-![](pic/20230103151304_genmymodel.png)  
+
+![](../pic/20230103151133_genmymodel.png)  
+![](../pic/20230103151304_genmymodel.png)  
 ### Generated Source  
-![](pic/20230103151657_py.png)  
-![](pic/20230103151851.png)  
+
+![](../pic/20230103151657_py.png)  
+![](../pic/20230103151851.png)  
 ### Usecase Diagram
-![](pic/20230118110558_genmymodel_rvp.png)  
+![](../pic/20230118110558_genmymodel_rvp.png)  
 
 ## JBuilderX
 
@@ -40,10 +43,10 @@ https://app.genmymodel.com/editor/edit/_ioo-4ItvEe29ie0vpi-P5A#
   - 
 - Eclipse Plugin (installation Graphvis nicht mehr nötig, ist inclusive)
   - https://plantuml.com/eclipse
-  - Eclipse update Site: http://hallvard.github.io/plantuml - http://hallvard.github.io/plantuml ![](pic/20230118105313_ecl_plantuml.png)  
+  - Eclipse update Site: http://hallvard.github.io/plantuml - http://hallvard.github.io/plantuml ![](../pic/20230118105313_ecl_plantuml.png)  
   
 - Forward Engineering  (könnte besser sein ... klappt beim 2. start )
-![](pic/20230118105845_plantuml_formward_error.png)  
+![](../pic/20230118105845_plantuml_formward_error.png)  
 ![](pics/20230118111910_plantuml_okay.png)  
 - 
 - 

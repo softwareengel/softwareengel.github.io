@@ -13,13 +13,13 @@ tags: [ai, chatgpt, prompthero]
 
 https://prompthero.com/chatgpt-prompts
 
-![](pic/20230414114249_prompthero.png)
-![](pic/20230414114357_promthero.png)
-![](pic/20230414115301_prompthero_hot.png)
-![](pic/20230414115653_promptheroNewest.png)
-![](pic/20230414115836_prompthero_top.png)
-![](pic/20230414120037_prompthero_logoIconDesign.png)
-![](pic/20230414120316_promthero_3d-render.png)
+![](../pic/20230414114249_prompthero.png)
+![](../pic/20230414114357_promthero.png)
+![](../pic/20230414115301_prompthero_hot.png)
+![](../pic/20230414115653_promptheroNewest.png)
+![](../pic/20230414115836_prompthero_top.png)
+![](../pic/20230414120037_prompthero_logoIconDesign.png)
+![](../pic/20230414120316_promthero_3d-render.png)
 
 # models huggingface 
 
