@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Gitlab git backup 
+categories: [git, backup]
+tags: [git, checkout, backup]
+--- 
 # Gitlab git backup 
 
 ## Client Raspi 
