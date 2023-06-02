@@ -1,3 +1,9 @@
+---
+layout: post
+title: Update openssh Git Pub key for VScode on Windows 
+categories: [HowTos, ssh, git ]
+tags: [ssh,git, openssh ]
+---
 
 # Update Git Pub key for VScode on Windows 
 
