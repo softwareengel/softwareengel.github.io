@@ -6,6 +6,8 @@ tags: [ssh, git, openssh]
 
 ---
 
+![](../pic/20230602113227_ia_key.png)
+
 # Update Git Pub key for VScode on Windows 
 
 Problem git pull im terminal 
