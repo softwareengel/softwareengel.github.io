@@ -8,7 +8,7 @@ tags: [ssh, git, openssh]
 
 ![](../pic/20230602113227_ia_key_filter.png)
 
-# Update Git Pub key for VScode on Windows 
+# Update Git Pub Key for VScode on Windows 
 
 Problem git pull im terminal 
 ``` bat
