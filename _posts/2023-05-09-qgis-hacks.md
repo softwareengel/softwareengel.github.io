@@ -1,8 +1,8 @@
 ---
 layout: post
-title: qgis 
-categories: [qgis,python]
-tags: [qgis,python]
+title: qgis hacks  
+categories: [qgis, python]
+tags: [qgis, python]
 --- 
 
 # qgis hacks 
