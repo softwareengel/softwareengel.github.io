@@ -1,4 +1,11 @@
-# Train Pothole 
+---
+layout: post
+title: Pothole detection 
+categories: [Pothole, object detection, AI, ML]
+tags: [yolo, python, cudo, pytorch, labelme]
+--- 
+
+# Train Pothole detection 
 
 https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/
 https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/
