@@ -1,4 +1,3 @@
-'''  Vorlage V.0.1 2022 VE '''
 """
 An dieser Datei sollte nichts veraendert werden!
 """
@@ -10,39 +9,33 @@ IN = "in"
 LOW = 0
 HIGH = 1
 
-
-def output(pin, value):
+def output(pin,value):
     if value == 1:
         status = "on"
     else:
         status = "off"
 
-    if pin == 17:
-        print("green", status)
-    elif pin == 27:
-        print("yellow", status)
-    elif pin == 22:
-        print("red", status)
-
-
+    # if pin == 17:
+    #     print("green", status)
+    # elif pin == 27:
+    #     print("yellow", status)
+    # elif pin == 22:
+    #     print("red", status)
+    print (f"setup({pin} , {status})" )
+    
 def setmode(mode):
-    print(mode)
+    print (mode)
 
-
-def setup(pin, value):
+def setup(pin,value):
     if value == 1:
         status = "on"
     else:
         status = "off"
-    if pin == 17:
-        print("green", status)
-    elif pin == 27:
-        print("yellow", status)
-    elif pin == 22:
-        print("red", status)
 
+    print (f"setup({pin} , {status})" )
 
 def cleanup():
-    print("clean-up")
+    print ("clean-up")
 
-# End
+def setwarnings (warn):
+    pass
