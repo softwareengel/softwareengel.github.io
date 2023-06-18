@@ -4,7 +4,7 @@
 
     screen -r 1332
     
-    ctrl a d            -> detach win­dow
+    ctrl a d            -> detach window
 
 
 --

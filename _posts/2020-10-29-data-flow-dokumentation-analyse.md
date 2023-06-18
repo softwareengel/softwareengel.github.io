@@ -2,7 +2,6 @@
 layout: post
 title:  Data Flow Analyse Dokumentation - Visualisation 
 categories: [visualisation]
-marp: true
 tags: [gephi, data, graph,layout]
 ---
 
