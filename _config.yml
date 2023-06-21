@@ -15,7 +15,8 @@ avatar: https://raw.githubusercontent.com/softwareengel/softwareengel.github.io/
 #
 # Flags below are optional
 #
-
+theme: minima
+ 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
