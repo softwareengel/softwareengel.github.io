@@ -1,3 +1,8 @@
+---
+layout: post
+title: Theme Jekyll by github 
+tags: [github]
+---
 
 # Supported themes
 
