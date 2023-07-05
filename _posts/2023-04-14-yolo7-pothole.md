@@ -5,20 +5,22 @@ categories: [Pothole, object detection, AI, ML]
 tags: [yolo, python, cudo, pytorch, labelme]
 --- 
 ![](../pic/20230602125229_ai_pothole.png)
+.. made with Midjouney ;-) 
 
 # Train Pothole Detection 
 
-<https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/>
-<https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/>
-<https://www.youtube.com/watch?v=5nsmXLyDaU4>
-<https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/>
-<https://github.com/WongKinYiu/yolov7>
-<https://learnopencv.com/pothole-detection-using-yolov4-and-darknet/#The-Pothole-Dataset>
-<https://learnopencv.s3.us-west-2.amazonaws.com/pothole-dataset.zip>
-<https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/>
+- <https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/>
+- <https://blog.roboflow.com/- yolov7-custom-dataset-training-tutorial/>
+- <https://www.youtube.com/watch?v=5nsmXLyDaU4>
+- <https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/>
+- <https://github.com/WongKinYiu/yolov7>
+- <https://learnopencv.com/pothole-detection-using-yolov4-and-darknet/#The-Pothole-Dataset>
+- <https://learnopencv.s3.us-west-2.amazonaws.com/pothole-dataset.zip>
+- <https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/>
 
 
 # Dataset
+![](../pics/20230705171221_roboflow_dataset_pothole.png)
 
 <https://public.roboflow.com/object-detection/pothole/1>
 <https://public.roboflow.com/models/object-detection>
@@ -88,14 +90,16 @@ False
 ```
 # Cuda, Conda, Pytorch 
 
-https://pytorch.org/get-started/locally/
+- <https://pytorch.org/get-started/locally/>
 
-https://stackoverflow.com/questions/75505217/unable-to-run-pytorch-using-gpu-windows-10
-
-    conda uninstall pytorch
-    conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+- <https://stackoverflow.com/questions/75505217/unable-to-run-pytorch-using-gpu-windows-10>
+```bash
+conda uninstall pytorch
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+```
 # Results
 ![](../pics/20230705150608_potholeResuilts.png)
+
 # Labeling Tools 
 
 ## Labelme 
