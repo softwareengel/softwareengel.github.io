@@ -1,6 +1,6 @@
 ---
 layout: post
-title: markdown-static-websites and tools
+title: Markdown Static Websites and tools - Jamstack
 categories: [blog, statiswebsites, generator, md]
 tags: [jamstack, hugo, jekyll,md]
 ---
