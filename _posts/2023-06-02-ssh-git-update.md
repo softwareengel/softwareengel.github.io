@@ -3,7 +3,6 @@ layout: post
 title: Update Openssh Git Pub Key for VScode on Windows 
 categories: [HowTos, ssh, git]
 tags: [ssh, git, openssh]
-
 ---
 
 ![](../pic/20230602113227_ia_key_filter.png)
