@@ -4,6 +4,8 @@ title: PlantUML Eclipse Plugin für UML-Klassendiagramme
 categories: [IDE]
 tags: [IDE, Eclipse, plugin, UML, plantuml]
 --- 
+
+![](../pics/20230705180726_planzuml_eclipse.png)
 - [PlantUML Eclipse Plugin für UML-Klassendiagramme](#plantuml-eclipse-plugin-für-uml-klassendiagramme)
   - [Benötigt die Dateien von Graphviz](#benötigt-die-dateien-von-graphviz)
   - [Auswahl der Pakete](#auswahl-der-pakete)

@@ -1,9 +1,12 @@
 ---
 layout: post
 title: A handy guide to financial support for open source
-categories: []
-tags: []
+categories: [financial]
+tags: [financial, oss]
 --- 
+
+"I do open source work, how do I find funding?"
+
 # A handy guide to financial support for open source
 
 "I do open source work, how do I find funding?"

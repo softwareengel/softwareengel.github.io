@@ -1,4 +1,11 @@
-﻿## PostgresSQL ab Version 9.2 als JSON-Datenbank 
+﻿---
+layout: post
+title:  PostgresSQL JSON-Datenbank 
+categories: [JSON]
+tags: [JSON, Schema, dotnet, pqsql]
+---
+
+# PostgresSQL JSON ab Version 9.2 als JSON-Datenbank 
 
 * <http://www.postgresqltutorial.com/postgresql-json/>
 

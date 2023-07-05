@@ -1,11 +1,18 @@
-﻿# Markdown Blog 
-Hinweise für Markdown Tags:
+﻿---
+layout: post
+title: Markdown Blog Tag Hints 
+categories: [JSON]
+tags: [JSON, Schema, dotnet]
+---
+![](../pics/20230705181318_md_cheats.png)
+# Markdown Blog Tag Hints 
+Hinweise für Markdown Tags
 
-<https://guides.github.com/features/mastering-markdown/>
+- <https://guides.github.com/features/mastering-markdown/>
 
-<https://docs.microsoft.com/de-de/contribute/how-to-write-use-markdown>
+- <https://docs.microsoft.com/de-de/contribute/how-to-write-use-markdown>
 
-<https://marketplace.visualstudio.com/items?itemName=njLeonZhang.markdown-image-paste>
+- <https://marketplace.visualstudio.com/items?itemName=njLeonZhang.markdown-image-paste>
 
 ## Markdown CheatSheet
 
