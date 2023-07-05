@@ -1,13 +1,31 @@
 ---
 layout: post
-title: Enterprise Architecure Tool
+title: Enterprise Architecure Tools
 categories: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 tags: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 --- 
+![](../pic/20230118110558_genmymodel_rvp.png)  
+- [EA](#ea)
+  - [Enterprise Architect](#enterprise-architect)
+  - [Genmymodel](#genmymodel)
+    - [Class Diagram](#class-diagram)
+    - [Source Generators Java, Python](#source-generators-java-python)
+    - [Generated Source](#generated-source)
+    - [Usecase Diagram](#usecase-diagram)
+  - [Oracle JDeveoper 12c](#oracle-jdeveoper-12c)
+    - [CD](#cd)
+    - [UC](#uc)
+  - [JBuilderX](#jbuilderx)
+  - [XText DSL](#xtext-dsl)
+  - [PlantUML](#plantuml)
+  - [Eclipse Jbuilder Togethersoft](#eclipse-jbuilder-togethersoft)
 
 # EA
 
+Was ist nur aus den EA Tools geworden? Versuche doch nur eine Schnittstelle von Java in Python zu nutzen ...
+
 ## Enterprise Architect 
+
 <https://www.sparxsystems.de/>
 
 ## Genmymodel
@@ -38,8 +56,6 @@ https://app.genmymodel.com/editor/edit/_ioo-4ItvEe29ie0vpi-P5A#
 
 ## XText DSL
 
-## Confluence 
-
 ## PlantUML
 - VSCode 
   - plugin (Java + Graphvis)
@@ -58,7 +74,7 @@ https://app.genmymodel.com/editor/edit/_ioo-4ItvEe29ie0vpi-P5A#
 ![](pics/20230118111910_plantuml_okay.png)  
  
 
-## Exclipse Jbuilder Togethersoft 
-
+## Eclipse Jbuilder Togethersoft 
+tbd.
 
 

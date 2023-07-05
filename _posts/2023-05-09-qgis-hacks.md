@@ -7,14 +7,14 @@ tags: [qgis, python, Qgis2web]
 
 ![](../pics/20230705143249_Qgis2web_co2example.png)
 
-# Qgis Hacks 
-- [Qgis Hacks](#qgis-hacks)
-  - [Qgis2web](#qgis2web)
+# QGis Hacks 
+- [QGis Hacks](#qgis-hacks)
+  - [QGis2web](#qgis2web)
   - [Example Settings](#example-settings)
-  - [tutorial webmap](#tutorial-webmap)
-  - [insert xyz - Server](#insert-xyz---server)
+  - [Tutorial Web-Map](#tutorial-web-map)
+  - [Insert xyz - Server](#insert-xyz---server)
 
-## Qgis2web 
+## QGis2web 
 
 <https://github.com/tomchadwin/qgis2web>
 
@@ -26,11 +26,11 @@ tags: [qgis, python, Qgis2web]
 ![](/pic/20230509095834_qgis2web4.png)
 
 
-## tutorial webmap 
+## Tutorial Web-Map 
 
 <http://www.qgistutorials.com/de/docs/web_mapping_with_qgis2web.html>
 
-## insert xyz - Server 
+## Insert xyz - Server 
 
 
 Insert Skript in Qgis PYthon console 
