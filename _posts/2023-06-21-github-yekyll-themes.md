@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Theme Jekyll by github 
-tags: [github]
+title: Supported Themes 2
+categories: [github]
+tags: [github, themes]
 ---
 ![](../pics/20230705142037_github_themes.png)
 
