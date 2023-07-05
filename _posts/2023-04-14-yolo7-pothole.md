@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pothole detection 
+title: Yolo 7 Pothole Detection 
 categories: [Pothole, object detection, AI, ML]
 tags: [yolo, python, cudo, pytorch, labelme]
 --- 

@@ -5,9 +5,14 @@ categories: [Raspi, SEARCH, BOT]
 tags: [raspi, yacy, docker]
 --- 
 
-Install Yacy in     Docker on Raspi 4 - 4GB Ram - 64 GB SD
+- [Install Yacy in     Docker on Raspi 4 - 4GB Ram - 64 GB SD](#install-yacy-in-----docker-on-raspi-4---4gb-ram---64-gb-sd)
+  - [1. Versuch](#1-versuch)
+  - [2. Versuch (working)](#2-versuch-working)
+  - [Netzwerk Traffic](#netzwerk-traffic)
+  - [Settings](#settings)
 
-# Raspi 4 Docker Yacy 
+
+# Install Yacy in     Docker on Raspi 4 - 4GB Ram - 64 GB SD
 
 ```bash 
     
