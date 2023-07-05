@@ -37,9 +37,11 @@ It's important to note that while prompt engineering can help guide the model's 
 ![](../pic/20230602114559.png)
 ![](../pic/20230602114627.png)
 
+<https://lexica.art/>
+
 # prompthero
 
-https://prompthero.com/chatgpt-prompts
+<https://prompthero.com/chatgpt-prompts>
 
 ![](../pic/20230414114249_prompthero.png)
 ![](../pic/20230414114357_promthero.png)
@@ -55,10 +57,7 @@ https://prompthero.com/chatgpt-prompts
 
 <https://huggingface.co/docs/transformers/quicktour>
 
-
-
 # Stable Diffusion 
-
 
 <https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb?authuser=2#scrollTo=PjzwxTkPSPHf>
 

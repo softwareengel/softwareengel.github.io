@@ -3,7 +3,6 @@ layout: post
 title: markdown-static-websites and tools
 categories: [blog, statiswebsites, generator, md]
 tags: [jamstack, hugo, jekyll,md]
-
 ---
 # markdown-static-websites
 

@@ -4,6 +4,7 @@ title: OpenCV und Python
 categories: [computer vision]
 tags: [opencv, python, ml, video, image, manipulatition]
 --- 
+![2020 09 10 Face Eye Recognition Opencv4 Python3](../pic/2020_09_10_face_eye_recognition_opencv4_python3.png)
 
 # OpenCV und Python  
 
