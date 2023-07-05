@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: KI-Notes,Filius, OSS-Website-clones, VanillaOS, MINIX
+categories: [Notes]
+tags: [Filius, OSS-Website-clones, VanillaOS, MINIX]
+--- 
 
 - [KI Chatbots](#ki-chatbots)
 - [Netzwerk-Grundlagen](#netzwerk-grundlagen)
@@ -14,13 +19,15 @@
 - DeepL Write
 - LanguageTool 
 - Rytr
-- TExtCortex
+- TextCortex
 
 # Netzwerk-Grundlagen 
 
 - OSS Filius Netzwerksimulation 
 
 ![](../pic/20230310135123.png)
+
+<https://www.lernsoftware-filius.de/>
 
 # Clone Wars - Open source clones of popular sites
 
@@ -29,20 +36,20 @@ Clone Wars - Open source clones of popular sites
     100+ open-source clones and alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, TikTok, Spotify, WhatsApp, YouTube, etc. List contains source code, tutorials, demo links, tech stack, and GitHub stars count. Great for learning purpose!
 
 
-https://github.com/GorvGoyl/Clone-Wars
+<https://github.com/GorvGoyl/Clone-Wars>
 
 
 # To run the Vanilla OS website locally
 
-https://github.com/Vanilla-OS/website
+<https://github.com/Vanilla-OS/website>
 
 To run the Vanilla OS website locally, install Jekyll, the required plugins and clone this repository:
 
-https://github.com/Vanilla-OS/website
+<https://github.com/Vanilla-OS/website>
 
 # MINIX From Scratch 
 
-https://github.com/o-oconnell/minixfromscratch
+<https://github.com/o-oconnell/minixfromscratch>
 
 MINIX From Scratch
 Why MINIX?
@@ -59,16 +66,27 @@ Unlike most of these systems, MINIX:
     Runs quite well on an emulator without melting your CPU (at least since the 2nd edition).
 
 Although xv6 and these other systems have been valuable tools for me (and may have extra features, like threads and NAT), I have found that the MINIX documentation is the most extensive.
-
-https://github.com/o-oconnell/minixfromscratch
+![](../pics/20230705140602_minix.png)
+<https://github.com/o-oconnell/minixfromscratch>
 
 
 # 30-Days-Of-Python
 
-https://github.com/Asabeneh/30-Days-Of-Python
+Learning Python 
+
+![](../pics/20230705140526.png)
+
+<https://github.com/Asabeneh/30-Days-Of-Python>
 
 
 # Engineering-blogs
 
-https://github.com/kilimchoi/engineering-blogs
+Collection of Eningeering Blogs by
+- Companies
+- Individuals
+- Technologies
+
+![](../pics/20230705140447_techbolgs.png)
+
+<https://github.com/kilimchoi/engineering-blogs>
 
