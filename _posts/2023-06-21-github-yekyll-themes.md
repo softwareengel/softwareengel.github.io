@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supported Themes 2
+title: Github Pages Supported Themes 2
 categories: [github]
 tags: [github, themes]
 ---
