@@ -3,6 +3,7 @@ layout: post
 title: Theme Jekyll by github 
 tags: [github]
 ---
+![](../pics/20230705142037_github_themes.png)
 
 # Supported Themes 2
 
