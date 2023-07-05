@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: collection of zero trust topics
