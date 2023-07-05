@@ -1,6 +1,13 @@
-﻿# GeoJson
+﻿---
+layout: post
+title: Geojson Editor
+categories: [JSON]
+tags: [geojson]
+--- 
 
-## Utilities
+![](../pics/20230705182600_geojson_editor.png)
+
+# GeoJson
 
 <https://github.com/tmcw/awesome-geojson>
 
