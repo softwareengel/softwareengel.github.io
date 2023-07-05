@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Qgis Hacks  
+title: Qgis Hacks Qgis2web
 categories: [qgis, python]
-tags: [qgis, python]
+tags: [qgis, python, Qgis2web]
 --- 
+
+![](../pics/20230705143249_Qgis2web_co2example.png)
 
 # Qgis Hacks 
 - [Qgis Hacks](#qgis-hacks)
@@ -13,7 +15,8 @@ tags: [qgis, python]
   - [insert xyz - Server](#insert-xyz---server)
 
 ## Qgis2web 
-https://github.com/tomchadwin/qgis2web
+
+<https://github.com/tomchadwin/qgis2web>
 
 ## Example Settings 
 
@@ -25,7 +28,7 @@ https://github.com/tomchadwin/qgis2web
 
 ## tutorial webmap 
 
-http://www.qgistutorials.com/de/docs/web_mapping_with_qgis2web.html
+<http://www.qgistutorials.com/de/docs/web_mapping_with_qgis2web.html>
 
 ## insert xyz - Server 
 
@@ -112,4 +115,4 @@ iface.reloadConnections()
 
 ```
 Source : 
-https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py
+<https://raw.githubusercontent.com/klakar/QGIS_resources/master/collections/Geosupportsystem/python/qgis_basemaps.py>

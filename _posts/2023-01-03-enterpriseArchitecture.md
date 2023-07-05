@@ -8,6 +8,7 @@ tags: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 # EA
 
 ## Enterprise Architect 
+<https://www.sparxsystems.de/>
 
 ## Genmymodel
 
@@ -27,6 +28,12 @@ https://app.genmymodel.com/editor/edit/_ioo-4ItvEe29ie0vpi-P5A#
 ### Usecase Diagram
 ![](../pic/20230118110558_genmymodel_rvp.png)  
 
+## Oracle JDeveoper 12c
+![](../pics/20230705143018_JDeveloper_Diagrams.png)
+### CD 
+![](../pics/20230705142756_oracleJdeveloperCD.png)
+### UC
+![](../pics/20230705142854_jDeveloperUC.png)
 ## JBuilderX
 
 ## XText DSL

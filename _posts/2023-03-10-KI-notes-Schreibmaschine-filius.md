@@ -1,8 +1,8 @@
 ---
 layout: post
-title: KI-Notes,Filius, OSS-Website-clones, VanillaOS, MINIX
+title: KI-Notes, Filius, OSS-Website-clones, VanillaOS, MINIX
 categories: [Notes]
-tags: [Filius, OSS-Website-clones, VanillaOS, MINIX]
+tags: [Filius, OSS, Website, clones, VanillaOS, MINIX]
 --- 
 
 - [KI Chatbots](#ki-chatbots)
