@@ -5,6 +5,8 @@ categories: [Notes]
 tags: [Filius, OSS, Website, clones, VanillaOS, MINIX]
 --- 
 
+![](../pic/20230310135123.png)
+
 - [KI Chatbots](#ki-chatbots)
 - [Netzwerk-Grundlagen](#netzwerk-grundlagen)
 - [Clone Wars - Open source clones of popular sites](#clone-wars---open-source-clones-of-popular-sites)
