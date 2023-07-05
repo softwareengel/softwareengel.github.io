@@ -1,18 +1,20 @@
 ---
 layout: post
-title: ChatGPT, Stable Diffusion, Prompt Engineering 
+title: New AI Tools, ChatGPT, Stable Diffusion, Prompt Engineering, Lexica 
 categories: [Notes]
-tags: [ai, chatgpt, prompthero]
+tags: [ai, chatgpt, prompthero, Stable Diffusion, Prompt Engineering, lexica ]
 --- 
+![](../pics/20230705171942_lexicaart.png)
 
+- [ChatGPT Stable Diffusion and Prompt Engineering](#chatgpt-stable-diffusion-and-prompt-engineering)
 - [https://lexica.art/](#httpslexicaart)
-- [prompthero](#prompthero)
+- [Prompthero](#prompthero)
 - [Models Huggingface](#models-huggingface)
 - [Stable Diffusion](#stable-diffusion)
 - [Midjourney](#midjourney)
 - [Collection of new AI - Tools](#collection-of-new-ai---tools)
 
-ChatGPT Stable Diffusion and Prompt Engineering
+# ChatGPT Stable Diffusion and Prompt Engineering
 
 1. ChatGPT Stable Diffusion:
 ChatGPT Stable Diffusion is a variant of the ChatGPT language model developed by OpenAI. It builds upon the GPT-3.5 architecture, but with additional techniques to improve the stability and behavior of the model during interactions. The "diffusion" part refers to the use of a technique called "denoising diffusion probabilistic models" to achieve better sample quality and robustness.
@@ -39,7 +41,7 @@ It's important to note that while prompt engineering can help guide the model's 
 
 <https://lexica.art/>
 
-# prompthero
+# Prompthero
 
 <https://prompthero.com/chatgpt-prompts>
 
@@ -72,3 +74,5 @@ It's important to note that while prompt engineering can help guide the model's 
 # Collection of new AI - Tools 
 
 <https://miro.com/app/board/uXjVM5DBzVg=/?share_link_id=988659563177>
+
+![](../pics/20230705172139_ai_powered_miro.png)
