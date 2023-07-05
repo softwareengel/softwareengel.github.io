@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ChatGPT Stable Diffusion, Prompt Engineering 
+title: ChatGPT, Stable Diffusion, Prompt Engineering 
 categories: [Notes]
 tags: [ai, chatgpt, prompthero]
 --- 

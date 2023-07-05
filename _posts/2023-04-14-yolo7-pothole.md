@@ -6,25 +6,25 @@ tags: [yolo, python, cudo, pytorch, labelme]
 --- 
 ![](../pic/20230602125229_ai_pothole.png)
 
-# Train Pothole detection 
+# Train Pothole Detection 
 
-https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/
-https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/
-https://www.youtube.com/watch?v=5nsmXLyDaU4
-https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/
-https://github.com/WongKinYiu/yolov7
-https://learnopencv.com/pothole-detection-using-yolov4-and-darknet/#The-Pothole-Dataset
-https://learnopencv.s3.us-west-2.amazonaws.com/pothole-dataset.zip
-https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/
+<https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/>
+<https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/>
+<https://www.youtube.com/watch?v=5nsmXLyDaU4>
+<https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/>
+<https://github.com/WongKinYiu/yolov7>
+<https://learnopencv.com/pothole-detection-using-yolov4-and-darknet/#The-Pothole-Dataset>
+<https://learnopencv.s3.us-west-2.amazonaws.com/pothole-dataset.zip>
+<https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/>
 
 
 # Dataset
 
-https://public.roboflow.com/object-detection/pothole/1
-https://public.roboflow.com/models/object-detection
+<https://public.roboflow.com/object-detection/pothole/1>
+<https://public.roboflow.com/models/object-detection>
 
 
-# 
+# Training 
 
 ```ps
 python train.py --epochs 100 --workers 4 --device 1 --batch-size 32 --data data/pothole.yaml --img 640 640 --cfg cfg/training/yolov7_pothole-tiny.yaml --weights 'yolov7-tiny.pt' --name yolov7_tiny_pothole_fixed_res --hyp data/hyp.scratch.tiny.yaml
@@ -33,7 +33,7 @@ python train.py --epochs 100 --workers 4 --device 1 --batch-size 32 --data data/
 python train.py --epochs 100 --workers 4 --device 1 --batch-size 16 --data data/pothole.yaml --img 640 640 --cfg cfg/training/yolov7_pothole-tiny.yaml --weights 'yolov7-tiny.pt' --name yolov7_tiny_pothole_fixed_res --hyp data/hyp.scratch.tiny.yaml
 ```
 
-# 
+# Errors 
     Traceback (most recent call last):
     File "C:\data\2023-pothole\down\yolov7\train.py", line 595, in <module>
         device = select_device(opt.device, batch_size=opt.batch_size)
@@ -43,7 +43,7 @@ python train.py --epochs 100 --workers 4 --device 1 --batch-size 16 --data data/
         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     AssertionError: CUDA unavailable, invalid device 1 requested
     (.venv) PS C:\data\2023-pothole\down\yolov7> python train.py --epochs 100 --workers 4 --device 1 --batch-size 32 --data data/pothole.yaml --img 640 640 --cfg cfg/training/yolov7_pothole-tiny.yaml --weights 'yolov7-tiny.pt' --name yolov7_tiny_pothole_fixed_res --hyp data/hyp.scratch.tiny.yaml
-# 
+# New Try 
 
     Starting training for 100 epochs...
 
@@ -72,7 +72,7 @@ python train.py --epochs 100 --workers 4 --device 1 --batch-size 16 --data data/
         return torch.batch_norm(
     RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 4.00 GiB total capacity; 3.40 GiB already allocated; 0 bytes free; 3.46 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 
-#
+# Cuda 
 
 ```ps
 (.venv) PS C:\data\2023-pothole\down\yolov7> python 
@@ -86,7 +86,7 @@ False
 >>> import  torch
 >>> torch.cuda.get_arch_list()
 ```
-# cuda conda pytorch 
+# Cuda, Conda, Pytorch 
 
 https://pytorch.org/get-started/locally/
 
@@ -94,9 +94,10 @@ https://stackoverflow.com/questions/75505217/unable-to-run-pytorch-using-gpu-win
 
     conda uninstall pytorch
     conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+# Results
+![](../pics/20230705150608_potholeResuilts.png)
+# Labeling Tools 
 
-# labeling tools 
+## Labelme 
 
-## labelme 
-
-https://github.com/wkentaro/labelme#installation
+<https://github.com/wkentaro/labelme#installation>
