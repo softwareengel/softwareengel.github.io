@@ -1,12 +1,15 @@
 ﻿---
 layout: post
-title: Graphhopper Rail, Street + Truck
+title: Graphhopper Rail and Street 
 categories: [routing]
-tags: [Graphhopper, routing, api, web]
+tags: [Graphhopper, routing, api, web, java]
 --- 
-graphhopper routing & map matching for rail + truck with  java, OSM 
 
-# Graphhopper Rail, Street + Truck 
+![](../pics/20230705182220_graphhopper_rail.png)
+
+Graphhopper Routing & Map Matching for Rail + Truck with java and OSM 
+
+# Graphhopper Rail and Street
 
 <https://github.com/geofabrik/OpenRailRouting> 
 
