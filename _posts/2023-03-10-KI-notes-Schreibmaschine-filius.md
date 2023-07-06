@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KI-Notes, Filius, OSS-Website-clones, VanillaOS, MINIX
+title: KI-Notes, Filius, OSS-Website-Clones, VanillaOS, MINIX
 categories: [Notes]
 tags: [Filius, OSS, Website, clones, VanillaOS, MINIX]
 --- 
@@ -43,11 +43,13 @@ Clone Wars - Open source clones of popular sites
 
 # To run the Vanilla OS website locally
 
-<https://github.com/Vanilla-OS/website>
+![](../pic/20230706132544_vanillajs_jekyll.png)
 
 To run the Vanilla OS website locally, install Jekyll, the required plugins and clone this repository:
 
 <https://github.com/Vanilla-OS/website>
+
+<https://vanillaos.org/>
 
 # MINIX From Scratch 
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Pandas Cheats 
-categories: [Notes]
-tags: [Pandas, Cheats]
+title: Pandas Cheats  
+categories: [Pandas]
+tags: [Pandas, Cheats, Python]
 --- 
 
 ![](../pics/20230705141110_pandas_cheat_sheet.png)
 
-# Pandas Cheats 
+# Pandas Cheat Sheet 
 
 <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf>
 

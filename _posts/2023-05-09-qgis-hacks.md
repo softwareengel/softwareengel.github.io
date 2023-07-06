@@ -1,14 +1,14 @@
 ---
 layout: post
-title: QGis Hacks - interaktive Karte mit Qgis2web 
+title: QGis Hacks - Interaktive Karte mit Qgis2web 
 categories: [qgis, python]
 tags: [qgis, python, Qgis2web]
 --- 
 
 ![](../pics/20230705143249_Qgis2web_co2example.png)
 
-# QGis Hacks - interaktive Karte mit Qgis2web 
-- [QGis Hacks - interaktive Karte mit Qgis2web](#qgis-hacks---interaktive-karte-mit-qgis2web)
+# QGis Hacks - Interaktive Karte mit Qgis2web 
+- [QGis Hacks - Interaktive Karte mit Qgis2web](#qgis-hacks---interaktive-karte-mit-qgis2web)
   - [QGis2web - Qgis - Plugin](#qgis2web---qgis---plugin)
   - [Example Settings](#example-settings)
   - [Ergebnis: Webbasierte, interaktive Karten](#ergebnis-webbasierte-interaktive-karten)
