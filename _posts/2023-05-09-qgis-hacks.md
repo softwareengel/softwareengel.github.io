@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QGis Hacks - Qgis2web
+title: QGis Hacks - interaktive Karte mit Qgis2web 
 categories: [qgis, python]
 tags: [qgis, python, Qgis2web]
 --- 
