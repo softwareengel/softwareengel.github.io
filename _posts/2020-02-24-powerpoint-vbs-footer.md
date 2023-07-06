@@ -6,8 +6,10 @@ tags: [PPT, VBA, Footer, Skript]
 --- 
 # Powerpoint VBA 
 
-## Footer einfügen 
+Automatisch Footer in Poerpoint via VBA einfügen 
 
+## Footer einfügen 
+```vb
 	Option Explicit
 
 	Sub SetFooterTextForSlides()
@@ -83,3 +85,4 @@ tags: [PPT, VBA, Footer, Skript]
 
 
 	End Sub
+```

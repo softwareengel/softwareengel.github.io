@@ -1,12 +1,12 @@
 ﻿---
 layout: post
-title: Start Amazon ec2 Ami mit Barefoot 
-categories: []
+title: Start Amazon ec2 Ami VM mit Barefoot 
+categories: [VM]
 tags: [ec2, ami, barefoot ]
 ---
 ![](../pics/20230705184554_amazon_ec2_ami_barefoot.png)
 
-# Start Amazon ec2 Ami mit Barefoot Service 
+# Start Amazon ec2 Ami VM mit Barefoot Service 
 
 ## Launch ec2-Instance - Use Ubuntu 18 
 ![](../pic/capture_012_18072019_175245.jpg)

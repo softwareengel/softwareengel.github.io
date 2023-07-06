@@ -1,10 +1,11 @@
 ﻿---
 layout: post
-title: Ubuntu Server Setup 
----
+title: Ubuntu 18 Server Setup in VirualBox
+categories: [ubuntu]
+tags: [ubuntu,server]
+--- 
 
-
-# Ubuntu Server Setup
+# Ubuntu Server Setup in VirualBox
 
 - ubuntu 18.04.02 + 1GB Ram , 10 GB HDD
 - keyboard GER 

@@ -4,6 +4,9 @@ title: OBS Studio - Open Brodcast Studio
 categories: [OBS, Video, Broadcast]
 tags: [OBS, Video, Broadcast]
 --- 
+
+![](../pic/2021-01-28-12-32-50.png)
+
 Video / Screen und Audio Bradcasting in Video - File oder Live Stream 
 
 # OBS Studio - Open Brodcast Studio 
@@ -33,7 +36,7 @@ Virtuelle Kamera für Zoom und Teams, funktioniert bei WebEx nicht
 Problems ... use OBS-Studio-26.1.1-Full-Installer-x64 instead : Virual Can ist working ...
 
 # Screen Capute Problem 
-- Settungs für Desktop Grafikkarte für OBS.exe auf integrierte Grafikkarte Setzen (bei Windows Grafikeinstellungen - GRund bei Nvidia-Control )
+- Settungs für Desktop Grafikkarte für OBS.exe auf integrierte Grafikkarte Setzen (bei Windows Grafikeinstellungen - Grund bei Nvidia-Control )
   
 ![](../pic/2021-01-28-12-24-26.png)
 

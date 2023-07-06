@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Graphhopper Rail and Street 
+title: Graphhopper Rail and Street Routing 
 categories: [routing]
 tags: [Graphhopper, routing, api, web, java]
 --- 
@@ -9,7 +9,7 @@ tags: [Graphhopper, routing, api, web, java]
 
 Graphhopper Routing & Map Matching for Rail + Truck with java and OSM 
 
-# Graphhopper Rail and Street
+# Graphhopper Rail and Street Routing 
 
 <https://github.com/geofabrik/OpenRailRouting> 
 
@@ -42,13 +42,14 @@ Graphhopper Routing & Map Matching for Rail + Truck with java and OSM
     java  -Dgraphhopper.datareader.file=ulm.osm -jar target/railway_routing-0.0.1-SNAPSHOT-jar-with-dependencies.jar serve config.yml 
 
 Web - View Graphhopper rail:
-Routing Ulm:
+- Routing Ulm:
+
 ![](../pic/capture_22072019_113652_002.jpg))
 
 ![](../pic/capture_22072019_113038_001.jpg)
-Routing Arnsberg:
+- Routing Arnsberg:
 ![](../pic/capture_22072019_120913_003.jpg)
-Routing Europa:
+- Routing Europa:
 ![](../pic/capture_22072019_171154_001.jpg)
 
 Requerst für Map:

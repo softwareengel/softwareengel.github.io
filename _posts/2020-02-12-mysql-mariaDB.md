@@ -6,19 +6,20 @@ tags: [db, mysql, mariadb]
 --- 
 # MySql / MariaDB 
 
-## install Docker 
+## Install MariaDB in Docker 
     
     mkdir -p ~/data/mariadb
     sudo docker run --name my-mariadb -e MYSQL_ROOT_PASSWORD=p -d mariadb -p 3306:3306 -v ~/data/mariadb:/var/lib/mariadb/data 
 
-## Zeit 
-
+## Zeit SQL
+```sql
     select current_date, CURRENT_TIME, CURRENT_TIMESTAMP, 
     LOCALTIME, MAKETIME (3,3,3), SEC_TO_TIME(600),
     TIMEDIFF(600600, MAKETIME (3,3,3)),  UTC_TIME , UTC_TIME < LOCALTIME 
+```
 
-
-## Prozedur 
+## Prozedur SQL
+```sql 
     USE `fom_skripts`;
     DROP procedure IF EXISTS `new_procedure`;
 
@@ -30,8 +31,10 @@ tags: [db, mysql, mariadb]
     END$$
 
     DELIMITER ;
+```
 
-## Function
+## Function SQL 
+```sql 
     USE `fom_skripts`;
     DROP function IF EXISTS `new_function`;
 
@@ -45,9 +48,9 @@ tags: [db, mysql, mariadb]
     END$$
 
     DELIMITER ;
-
+```
 ---
- 
+ ```sql 
     CREATE DEFINER=`root`@`localhost` PROCEDURE `create Proc 1`()
     LANGUAGE SQL
     NOT DETERMINISTIC
@@ -67,7 +70,9 @@ tags: [db, mysql, mariadb]
     COMMIT;
 
     END
+```     
 --- 
+```sql 
     CREATE DEFINER=`root`@`localhost` PROCEDURE `proc_call`()
     LANGUAGE SQL
     NOT DETERMINISTIC
@@ -81,11 +86,16 @@ tags: [db, mysql, mariadb]
     CALL `create Proc 1`();
 
     END
+```
 --- 
+```sql 
+    ALTER DATABASE `fom_skripts` COLLATE 'utf8_unicode_ci';
+```
 
+```sql 
     SHOW GLOBAL VARIABLES;
+```
 
----
 
     "aria_block_size"	"8192"
     "aria_checkpoint_interval"	"30"
@@ -499,6 +509,6 @@ tags: [db, mysql, mariadb]
     "wait_timeout"	"28800"
 
 --- 
-    ALTER DATABASE `fom_skripts` COLLATE 'utf8_unicode_ci';
+
 
 

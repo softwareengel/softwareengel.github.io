@@ -15,10 +15,9 @@ tags: [raspi, yacy, docker]
 # Install Yacy in     Docker on Raspi 4 - 4GB Ram - 64 GB SD
 
 ```bash 
-    
-
     curl -fsSL get.docker.com -o get-docker.sh && sh get-docker.sh
 ```
+
 ## 1. Versuch 
 
 ```bash 
@@ -36,6 +35,7 @@ Leider ERROR
     sudo docker run --name yacy -p 8090:8090 -p 8443:8443 --log-opt max-size=200m --log-opt max-file=2 syzygysystems/yacy-arm
 
 ```
+
 Set 2000 MB Ram usage und local Crawl 
 Restart 
 

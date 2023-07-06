@@ -5,9 +5,10 @@ categories: [ai, hmm, hidden markow chain, map matchig, rail]
 tags: [ai, hmm, hidden markow chain, map matchig, rail]
 --- 
 ![Map and Tack calculated with barefoot](../pic/capture_005_18072019_150834.jpg)
-Rail map matching: pqsql, barefoot, java, virtualbox, ubuntu, osmosis, qgis 
+
 
 # Rail Map Matching - Barefoot for Rails
+Rail map matching: pqsql, barefoot, java, virtualbox, ubuntu, osmosis, qgis 
 
 <https://github.com/bmwcarit/barefoot> 
 

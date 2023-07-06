@@ -10,14 +10,14 @@ tags: [db, ui, graph, data analyse, TSDB]
 - [Grafana](#grafana)
   - [Grafana on Raspi](#grafana-on-raspi)
 - [Grafana + Telegraf + Influx](#grafana--telegraf--influx)
-  - [Grafana reset password](#grafana-reset-password)
+  - [Grafana Reset Password](#grafana-reset-password)
   - [Chonograf](#chonograf)
   - [Python Logging Skript für InfluxDB](#python-logging-skript-für-influxdb)
-- [memcached](#memcached)
-- [redis](#redis)
+- [Memcached](#memcached)
+- [Redis](#redis)
 - [Mongo DB](#mongo-db)
 - [Maria DB](#maria-db)
-- [bash history](#bash-history)
+- [Bash History](#bash-history)
 
 # InfluxDB 
 
@@ -72,7 +72,7 @@ Webinterface geht nur bis Version 1.5 (?!)
 
 ![Screenshot 2020 01 21 Rpi Influx D B Webinterface](../pic/Screenshot-2020-01-21_Rpi-influxDB-webinterface.png)
 
-## Grafana reset password 
+## Grafana Reset Password 
 
 sudo docker exec -it <container> bash 
 
@@ -111,11 +111,11 @@ Feigaben Dev-Netz
 ![Screenshot 2020 01 21 Rpi Dev Netz](../pic/Screenshot-2020-01-21_Rpi-DevNetz.png)
 
 
-# memcached 
+# Memcached 
 
 Sessionspeicher 
 
-# redis
+# Redis
 
 in memory db / Key - Val- Store 
 
@@ -127,7 +127,7 @@ Dokument speicher auch für csv / JSON
 
 OSS Fork von MySQL 
 
-# bash history 
+# Bash History 
 
 engels@ubuntu18svr-01:~$ history
 

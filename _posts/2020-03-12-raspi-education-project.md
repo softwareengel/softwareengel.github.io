@@ -31,9 +31,9 @@ Messen von Signalen und steuern Ampel - LED - Signal
 
 ## Western Electric Rules - Anomalie - Erkennung 
 
-<https://orangematter.solarwinds.com/2013/06/26/4-statistical-process-control-rules-that-detect-anomalies-in-systems/>
+- <https://orangematter.solarwinds.com/2013/06/26/4-statistical-process-control-rules-that-detect-anomalies-in-systems/>
 
-<https://www.qimacros.com/control-chart/western-electric-rules/> 
+- <https://www.qimacros.com/control-chart/western-electric-rules/> 
 
 ## 3 LEDs
 
@@ -41,19 +41,20 @@ An / Aus, langsam blinken / schnell blinken
 
 ## Sensor 
 
-- Phyphox  3 Achsen 
+- Phyphox 3 Achsen 
 
 ## Raspberry Pi Spec 
 
-Raspi Specs  <https://www.reichelt.de/bilder/_LP/LP/2018-02_Entwicklerboards/Tabelle_EB.pdf?&trstct=lp_1358_143268>
+Raspi Specs 
+- <https://www.reichelt.de/bilder/_LP/LP/2018-02_Entwicklerboards/Tabelle_EB.pdf?&trstct=lp_1358_143268>
 
 ![Raspi Spec Wikipedia Vergleich](../pic/raspi-spec-wikipedia-vergleich.png)
 
 ### Pi Zero Spec 
 
-<https://raspberry-projects.com/pi/pi-hardware/raspberry-pi-zero/raspberry-pi-zero-hardware-general-specifications>
+- <https://raspberry-projects.com/pi/pi-hardware/raspberry-pi-zero/raspberry-pi-zero-hardware-general-specifications>
 
-<https://www.raspberrypi.org/products/raspberry-pi-zero-w/>
+- <https://www.raspberrypi.org/products/raspberry-pi-zero-w/>
 
 Broadcom BCM2835.  This contains an ARM1176JZFS (ARM11 using an ARMv6-architecture core) with floating point, running at 1GHz, and a Videocore 4 GPU.
  
@@ -120,8 +121,6 @@ sudo apt-get install mc
 
 optional: 
    
-    
-
 xrdp RDP server 
 
     sudo apt-get install xrdp
@@ -132,27 +131,30 @@ optional
 
 ### RDP Clients 
 
-Linux <http://www.rdesktop.org/>
+Linux 
+- <http://www.rdesktop.org/>
 
-Mac OS X <https://itunes.apple.com/de/app/microsoft-remote-desktop/id715768417?mt=12>
+Mac OS X 
+- <https://itunes.apple.com/de/app/microsoft-remote-desktop/id715768417?mt=12>
 
 ## Code 
 
-Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWindowsToARaspberryPiUsingNETCoreOnARM.aspx>
+Remote Debugging 
+- <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWindowsToARaspberryPiUsingNETCoreOnARM.aspx>
 
 ### VS CODE Remote Dev Extension 
 
 (funktioniert leider (noch ) nicht auf Raspi Zero (Arm V6)) soll März 2020 kommen 
 
-<https://code.visualstudio.com/docs/remote/remote-overview>
+- <https://code.visualstudio.com/docs/remote/remote-overview>
 
-<https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
+- <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
 ![Remote Sev Extension](../pic/remoteSevExtension.png)
 
-<https://github.com/microsoft/vscode-remote-release/issues/2493>
+- <https://github.com/microsoft/vscode-remote-release/issues/2493>
 
-<https://github.com/microsoft/vscode-remote-release/issues/669>
+- <https://github.com/microsoft/vscode-remote-release/issues/669>
 
 ### Pinbelegung 
 
@@ -160,9 +162,11 @@ Remote Debugging <https://www.hanselman.com/blog/RemoteDebuggingWithVSCodeOnWind
 
 ![Raspi Pinbelegung](../pic/raspi-pinbelegung.png)
 
-Interactive Pinout <https://pinout.xyz/pinout/>
+Interactive Pinout 
+- <https://pinout.xyz/pinout/>
 
 ## RasPi Asm 
+```asm
     @
     @ Assembler program to print "Hello World!"
     @ to stdout. 
@@ -190,14 +194,13 @@ Interactive Pinout <https://pinout.xyz/pinout/>
         svc 0                       @ Call linux to terminate
     .data                                   @ Data Section
     helloworld: .ascii "Hello World!\n"     @ Ascii - Text - Data 
+```
 
 ``` bash 
 as -o hello.o hello.s
 ld -o hello hello.o 
 .\hello 
 objdump -s -d hello.o
-
-
 ```
 
 ![Raspi Asm Code Execute](../pic/raspi-asm-code-execute.png)
@@ -227,13 +230,13 @@ pip3 install jupyterlab
 
 - How to create a dashboard in Python with Jupyter Notebook?
 
-https://mljar.com/blog/dashboard-python-jupyter-notebook/
+- <https://mljar.com/blog/dashboard-python-jupyter-notebook/>
 
 
 ### Python Web Socket Server 
 
 Einfacher Echo - Server 
-
+```python 
     #!/usr/bin/env python3
 
     ## Working  2020-05-05, https://realpython.com/python-sockets/#tcp-sockets
@@ -256,9 +259,9 @@ Einfacher Echo - Server
                         break
                     print ("Data: " , data)
                     conn.sendall(data)
+```
 
-
-
+```python 
 ### Python Web Socket Client 
     import socket
 
@@ -282,11 +285,11 @@ Einfacher Echo - Server
         print(i, data) 
         if b"</html>" in data:
             break
-
+```
 
 ### Python WebLed-Code 
 
-~~~PY
+```PY
     import RPi.GPIO as GPIO
     import time
 
@@ -344,10 +347,10 @@ Einfacher Echo - Server
     myServer.server_close()
     print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))
     GPIO.cleanup()
-~~~
+```~~~```
 
 
-~~~Python
+```Python
 import RPi.GPIO as GPIO
 import time
 
@@ -455,7 +458,7 @@ except KeyboardInterrupt:
 myServer.server_close()
 print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))
 GPIO.cleanup()
-~~~
+```
 
 # SmartSim Anwendung auf Raspi 
 

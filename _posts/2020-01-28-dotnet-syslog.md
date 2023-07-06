@@ -1,13 +1,13 @@
 ﻿---
 layout: post
-title: dotnet und syslog  
+title: Dotnet und Syslog  
 categories: [Logging]
 tags: [dotnet, rsyslog, ubuntu, dotnet core, greylog, elk]
 --- 
 
-# dotnet und syslog 
+# Dotnet und Syslog 
 
-## syslogserver 
+## Syslogserver 
 
 <https://maxbelkov.github.io/visualsyslog/> 
 
@@ -16,7 +16,7 @@ tags: [dotnet, rsyslog, ubuntu, dotnet core, greylog, elk]
 <https://www.winsyslog.com/> 
 
 
-## Ubuntu rsyslog 
+## Ubuntu Rsyslog 
 
 <https://raymii.org/s/tutorials/Syslog_config_for_remote_logservers_for_syslog-ng_and_rsyslog_client_server.html> 
 
@@ -31,37 +31,37 @@ Ecryption rsyslog
 <https://www.rsyslog.com/doc/v8-stable/configuration/modules/imfile.html>
 
 
-## dotnet 
+## Dotnet 
 
     dotnet new --list  
 
-## dotnet Logging 
+## Dotnet Logging 
 
 <https://docs.microsoft.com/de-de/aspnet/core/fundamentals/logging/?view=aspnetcore-3.1>
 
 <https://michaelscodingspot.com/logging-in-dotnet/> 
 
-## greylog
+## Greylog
 
 <https://www.proudcommerce.com/blog/graylog-logserver-einrichten> 
 
-OVA
+- OVA
 
 <http://docs.graylog.org/en/3.1/pages/installation/virtual_machine_appliances.html>
 
 <https://packages.graylog2.org/appliances/ova> 
 
 
-Docker Image 
+- Docker Image 
 
 <https://hub.docker.com/r/graylog/graylog/>
 
-Docker installation 
+- Docker installation 
 
 <http://docs.graylog.org/en/3.1/pages/installation/docker.html#here>
 
 
-Datensammler 
+- Datensammler 
 
 <https://www.elastic.co/de/downloads/beats/filebeat>
 
@@ -73,7 +73,7 @@ Datensammler
 
 ## ELK Stack 
 
-sudo apt install openjdk-8-jre-headless
+    sudo apt install openjdk-8-jre-headless
 
 <https://jaxenter.de/elastic-stack-containern-docker-86374> 
 
