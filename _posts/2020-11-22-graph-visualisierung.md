@@ -9,7 +9,7 @@ tags: [network, graph, visulalisation, oss]
 - [d3.js Examples](#d3js-examples)
 - [Live Book d3.js in action](#live-book-d3js-in-action)
 - [Python Network Visualisation](#python-network-visualisation)
-  - [Networkx](#networkx)
+  - [NetworkX](#networkx)
   - [JS addon for d3.js](#js-addon-for-d3js)
   - [Graph-Tool](#graph-tool)
 - [Graph Viz](#graph-viz)
@@ -64,7 +64,8 @@ With 200,000+ community examples, Observable is the fastest way to build custom 
 
 # Python Network Visualisation 
 
-## Networkx
+## NetworkX
+NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 
 <https://networkx.org/>
 
