@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Github Pages Supported Themes 2
+title: Github Pages Supported Themes
 categories: [github]
 tags: [github, themes]
 ---
 ![](../pics/20230705142037_github_themes.png)
 
-# Supported Themes 2
+# Supported Themes
 
 Jekyll is a popular static site generator that allows you to build and host websites directly from your GitHub repositories.
 
@@ -19,6 +19,7 @@ A "theme" in Jekyll refers to a collection of layout files, stylesheets, and ass
 GitHub Pages supports Jekyll themes by allowing you to specify a theme in your repository's configuration file. You can choose from a variety of prebuilt Jekyll themes or create your own custom theme.
 
 By using Jekyll and a theme, you can easily create and customize a static website on GitHub Pages without the need for complex web development. It's a popular choice for developers and individuals who want a simple way to host their websites with minimal setup and maintenance.
+![](../pics/20230706122014_github_themes.png)
 
 ## Links 
 

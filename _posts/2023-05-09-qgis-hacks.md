@@ -1,20 +1,22 @@
 ---
 layout: post
-title: Qgis Hacks Qgis2web
+title: QGis Hacks - Qgis2web
 categories: [qgis, python]
 tags: [qgis, python, Qgis2web]
 --- 
 
 ![](../pics/20230705143249_Qgis2web_co2example.png)
 
-# QGis Hacks 
-- [QGis Hacks](#qgis-hacks)
-  - [QGis2web](#qgis2web)
+# QGis Hacks - interaktive Karte mit Qgis2web 
+- [QGis Hacks - interaktive Karte mit Qgis2web](#qgis-hacks---interaktive-karte-mit-qgis2web)
+  - [QGis2web - Qgis - Plugin](#qgis2web---qgis---plugin)
   - [Example Settings](#example-settings)
+  - [Ergebnis: Webbasierte, interaktive Karten](#ergebnis-webbasierte-interaktive-karten)
   - [Tutorial Web-Map](#tutorial-web-map)
   - [Insert xyz - Server](#insert-xyz---server)
 
-## QGis2web 
+## QGis2web - Qgis - Plugin 
+QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server-side software required.
 
 <https://github.com/tomchadwin/qgis2web>
 
@@ -25,6 +27,11 @@ tags: [qgis, python, Qgis2web]
 ![](/pic/20230509095815_qgis2web3.png)
 ![](/pic/20230509095834_qgis2web4.png)
 
+## Ergebnis: Webbasierte, interaktive Karten 
+- Karte 1 
+![](../pics/20230706123553_qgis2webKarte1.png)
+- Karte 2 
+![](../pics/20230706123730_qgis2web_Karte2.png)
 
 ## Tutorial Web-Map 
 
