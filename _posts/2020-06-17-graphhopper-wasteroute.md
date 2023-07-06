@@ -10,5 +10,6 @@ tags: [Web,API,Map,Route]
 ![Azur V M Start](../pic/azurVMStart.png)
 
 # Test Graphhopper 1.0
-
+```bash 
  ./graphhopper.sh -a web -i ./../../src/WasteRoute/osm/nordrhein-westfalen-latest.osm.pbf -d --jar graphhopper-web-1.0.jar
+```

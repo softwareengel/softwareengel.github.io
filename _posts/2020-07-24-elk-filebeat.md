@@ -5,19 +5,21 @@ categories: [ELK]
 tags: [ELK]
 --- 
 
-# ElasticSearch, AWS — Open Distro Elasticsearch
+# ElasticSearch, AWS — Open Distro Elasticsearch - OpenSearch 
 
 <https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a>
 
 <https://github.com/opendistro-for-elasticsearch>
 
+
 <https://www.elastic.co/guide/en/elasticsearch/reference/7.9/docker.html>
 
+<https://opensearch.org/>
 
 # Raspi - ELK - Filebeat
 
 ## install docker on Raspi (not working)
-
+```bash
     sudo apt-get update && sudo apt-get upgrade
 
     sudo curl -fsSL https://get.docker.com | sh
@@ -38,21 +40,21 @@ tags: [ELK]
     sudo apt-get remove python-configparser
 
     sudo pip3 -v install docker-compose
-
+```
 ## uninstall Docker 
 
     sudo apt-get purge docker-ce
 
-Delete containers 
+Delete Containers 
 
     sudo rm -rf /var/lib/docker
 
-## install docker ISO Raspi 
+## Install Docker ISO Raspi 
 
-https://blog.hypriot.com/post/releasing-HypriotOS-1-11/
+<https://blog.hypriot.com/post/releasing-HypriotOS-1-11/>
 
-## Install docker ELK - not working 
-
+## Install Docker ELK - not working 
+```bash 
     git clone https://github.com/deviantony/docker-elk.git
     
     cd /docker-elk
@@ -61,7 +63,7 @@ https://blog.hypriot.com/post/releasing-HypriotOS-1-11/
     docker-compose up -d 
 
     docker-compose ps
-
+```
 
 
 The Elasticsearch service should be accessible by accessing http://localhost:9200 using a HTTP client like Postman. Use auth to access it with elastic as the username and changeme as the password, and add application/json for Content-Type header.
@@ -89,22 +91,23 @@ he Logstash server should be accessible in http://localhost:5000 . I'm still new
 
 network.host: 0.0.0.0
 
-sudo service elasticsearch restart
+    sudo service elasticsearch restart
 
 
-## neuer Versuch install elk (WORKING)
+## neuer Versuch Install ELK (WORKING)
 
     git clone https://github.com/stefanwalther/rpi-docker-elk.git
 
     docker-compose up
 
 ## Manual install Logstash 
-
+```bash 
 $ sudo apt-get install apt-transport-https
 $ echo "deb https://artifacts.elastic.co/packages/5.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-5.x.list
 $ sudo apt-get update
 $ sudo apt-get install logstash
 $ sudo service logstash start
+```
 
 ## Beats 
 
