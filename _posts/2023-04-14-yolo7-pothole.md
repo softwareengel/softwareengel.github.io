@@ -5,7 +5,7 @@ categories: [Pothole, object detection, AI, ML]
 tags: [yolo, python, cudo, pytorch, labelme]
 --- 
 ![](../pic/20230602125229_ai_pothole.png)
-.. made with Midjouney ;-) 
+.. Pic made with Midjouney ;-) 
 
 # Train Pothole Detection 
 

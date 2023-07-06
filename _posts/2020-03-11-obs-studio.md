@@ -12,12 +12,12 @@ Video / Screen und Audio Broadcasting in Video - File oder in Live Streming Plat
 
 <https://obsproject.com/> 
 
-# OBS install settings 
-
+# OBS Install Settings 
+- für Aufnehmen optimieruren 
 ![](../pic/2021-01-28-13-16-53-obs-settings.png)
-
+- Anzeige 1920x1080 , 30 fps
 ![](../pic/2021-01-28-13-17-00-obs-settings.png)
-
+- Ausgabe 
 ![](../pic/2021-01-28-13-17-14-obs-testergebnisse.png)
 
 ![](../pic/2021-01-28-13-18-49-mp4.png)
