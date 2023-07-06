@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  Data Flow Analyse Dokumentation - Visualisation 
-categories: [visualisation]
+title:  Data Flow Analyse - Documentation - Visualisation 
+categories: [Visualisation]
 tags: [gephi, data, graph,layout]
 ---
 
@@ -16,6 +16,9 @@ Graph Analyse mit PowerBI und MSSQL Edge + Node
 <https://neo4j.com/developer/tools-graph-visualization/#neo4j-vis-vendors>
 
 <https://neo4j.com/developer/relational-to-graph-modeling/>
+
+# PowerBI 
+tbd 
 
 # OrientDB - Graph DB
 
@@ -53,9 +56,10 @@ Gephi tutorial
 
 <http://127.0.0.1:2480/gephi/demodb/sql/select%20from%20IsFromCountry>
 <http://192.168.2.23:2480/gephi/demodb/sql/select%20from%20select%20*%20from%20HasFriend>
-
+```sql
     select * from HasFriend 
     select * from `Countries` 
+```
 <http://192.168.2.23:2480/gephi/demodb/sql/>
 
 <http://192.168.2.23:2480/gephi/demodb/sql/select%20from%20Customers/-1>
@@ -71,19 +75,19 @@ add nodes sql
 add nodes gremlin 
 
 add edges 
-http://localhost:2480/gephi/DogewoDB/sql/select%20from%20e/-1
+<http://localhost:2480/gephi/DogewoDB/sql/select%20from%20e/-1>
 
-http://orientdb.com/docs/3.1.x/gremlin/Gremlin.html
+<http://orientdb.com/docs/3.1.x/gremlin/Gremlin.html>
 
-http:///192.168.2.23:2480/gephi/DogewoDB?operation=getGraph
+<http:///192.168.2.23:2480/gephi/DogewoDB?operation=getGraph>
 
-http://192.168.2.23:2480/gephi/DogewoDB/sql/select%20from%20v/-1
-
+<http://192.168.2.23:2480/gephi/DogewoDB/sql/select%20from%20v/-1>
+```sql 
 select from (traverse * from #71:60) where $depth <=2
-
+```
 ## Gephi Graph Streaming 
 
-https://github.com/gephi/gephi/wiki/GraphStreaming
+<https://github.com/gephi/gephi/wiki/GraphStreaming>
 
 
     an: Add node
@@ -93,7 +97,8 @@ https://github.com/gephi/gephi/wiki/GraphStreaming
     ce: Change edge
     de: Delete edge
 
-# Apache tinkerpop 
+# Apache Tinkerpop 
+Apache TinkerPop™ is a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP).
 
 <http://tinkerpop.apache.org/>
 
