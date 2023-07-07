@@ -13,12 +13,14 @@ tags: [Pandas, Cheats, Python]
 
 <https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html>
 
-## convert column to datetime 
-
+## Convert Column to Datetime 
+```py
     df['col'] = pd.to_datetime(df['col'])
+```
+## (Time) Windowing 
 
-## (time) windowing 
+Column "previous_timestamp" with value of previous value (in line -1) of column "timestamp"
 
-nre column "previous_timestamp" with value of previous value (in line -1) of column "timestamp"
+```py
     df['previous_timestamp'] = df['timestamp'].shift(1)
-
+```

@@ -5,6 +5,7 @@ categories: [Revierplanung]
 tags: [Revierplanung, iot, Tourenplanung]
 ---
 ![](../pics/20230707112050.png)
+
 # Revier- und Tourenplanung mit dynamischen IoT-Container-Füllständen
 
 

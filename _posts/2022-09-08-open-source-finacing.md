@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A handy guide to financial support for open source
+title: A Handy Guide to Financial Support for Open Source
 categories: [financial]
 tags: [financial, oss]
 --- 

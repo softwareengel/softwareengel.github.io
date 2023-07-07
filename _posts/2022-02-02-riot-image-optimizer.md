@@ -4,7 +4,10 @@ title: RIOT  Image Optimizer
 categories: [HowTos, Image, Optimisation, compression ]
 tags: [Riot, HowTos, Image, optimisation, compression]
 ---
-# RIOT  Image Optimizer
+
+![](../pics/20230707113552_riot_dll.png)
+
+# RIOT Image Optimizer
 
 Radical Image Optimization Tool (RIOT for short) is a free image optimizer that will let you to visually adjust compression parameters while keeping minimum filesize.
 

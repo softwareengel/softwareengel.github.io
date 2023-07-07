@@ -1,12 +1,12 @@
 ---
 layout: post
-title: collection of zero trust topics
+title: Collection of Zero Trust Topics
 categories: [zerotrust]
-tags: []
+tags: [ZeroTrust]
 --- 
 ![](../pics/20230705155407_zeroTrustMicosoft.png)
 
-# collection of zero trust topics
+# Collection of Zero Trust Topics
 
 ## Tags 
 

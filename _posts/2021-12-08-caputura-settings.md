@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Screen Recorder Web Optimized Output - comparison 
+title: Screen Recorder Web Optimized Output - Comparison 
 categories: [Screenrecorder]
-tags: [screen,recorder,tools, captura,TEncoder]
+tags: [screen,recorder,tools, captura, TEncoder]
 --- 
 
 ![](../pics/2021-12-08-13-16-23.png)
@@ -17,7 +17,6 @@ tags: [screen,recorder,tools, captura,TEncoder]
 - input captura video 
 - vlc
 - TEncoder
-
 
 ##  Captura Settings
 
