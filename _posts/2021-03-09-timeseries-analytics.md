@@ -5,14 +5,14 @@ categories: [3D]
 tags: [ Serenity ]
 --- 
 - [Facebook Prophet](#facebook-prophet)
-- [Rob J Hyndman](#rob-j-hyndman)
+- [Rob J. Hyndman](#rob-j-hyndman)
 - [Using Python on TS](#using-python-on-ts)
 
 # Facebook Prophet
 
 <https://facebook.github.io/prophet/docs/quick_start.html#python-api>
 
-# 	Rob J Hyndman
+# Rob J. Hyndman
 
 <https://cran.r-project.org/web/views/TimeSeries.html>
 
