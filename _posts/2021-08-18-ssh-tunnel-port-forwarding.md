@@ -1,19 +1,19 @@
 ---
 layout: post
-title: ssh-tunnel-port-forwarding
+title: SSH-Tunnel-Port-Forwarding
 categories: [ssh-tunnel, port-forwarding]
 tags: [ssh, tunnel, port, forwarding]
 --- 
 
-# ssh-tunnel-port-forwarding
+# SSH-Tunnel-Port-Forwarding
 
 Enable port forwarding with ssh tunnel
 Example remote MS sql Server connection by ssh-tunnel passing firewall
 
 ## Setup
-
+```
     |DBServer:1443|<-|sshTunelPC|-|FW|-|FW|->|443:sshd:2222|<-|DBClient|
-
+```
 - Keygen
 
 ``` bash
@@ -29,13 +29,13 @@ passwd
 ```
 
 - Edit ssh - config
-
+```bash
         nano /etc/ssh/sshd_config
-
-    and add/update
-
+```
+and add/update
+```
         GatewayPorts yes
-
+```
     Edit
         .ssh/authorized_keys
 

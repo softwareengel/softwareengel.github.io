@@ -1,12 +1,18 @@
 ---
 layout: post
-title: Nextcloud Synology install using Docker 
+title: Install Nextcloud on Synology using Docker 
 categories: [Nextcloud, Synology, Docker]
 tags: [OSS]
 --- 
+![](../pics/20230707115008_netcloud.png)
+
+# Install Nextcloud on Synology using Docker 
 
 
-# Nextcloud Synology 
+- <https://mariushosting.com/synology-how-to-install-nextcloud-using-docker/>
 
+## Nextcloud
+Regain control over your data, Remote collaboration made easy
 
-<https://mariushosting.com/synology-how-to-install-nextcloud-using-docker/>
+- <https://nextcloud.com/>
+
