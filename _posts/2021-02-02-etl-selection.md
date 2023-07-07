@@ -4,6 +4,10 @@ title: ETL Selection
 categories: [ETL, Tools]
 tags: [talend, rapidminer, halo, penthaho, etl]
 --- 
+- [Talend Open Studio 7](#talend-open-studio-7)
+- [Rapidminer](#rapidminer)
+- [Hale Studio](#hale-studio)
+- [Pentaho](#pentaho)
 
 # Talend Open Studio 7
 
@@ -15,11 +19,11 @@ OSS
 
 # Rapidminer
 
-# Halo Studio 
+# Hale Studio 
 
-https://alternativeto.net/software/hale-studio/about/
+<https://alternativeto.net/software/hale-studio/about/>
 
-Hale Studio
+Halo Studio
 hale studio is an easy-to-use but powerful open source spatial ETL and data harmonisation tool. It is primarily used for data migration and harmonisation, as well as to easily create standards-compliant data sets for INSPIRE.
 
 <https://github.com/halestudio/hale>
@@ -28,4 +32,4 @@ hale studio is an easy-to-use but powerful open source spatial ETL and data harm
 
 # Pentaho
 
-https://github.com/pentaho/pentaho-kettle
+<https://github.com/pentaho/pentaho-kettle>

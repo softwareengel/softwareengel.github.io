@@ -1,10 +1,11 @@
 ---
 layout: post
-title: convert bolg from blogspot blogger to markdown 
-categories: []
-tags: []
+title:  Convert Bolg from Blogspot Blogger to Markdown
+categories: [Bolg]
+tags: [Convert, Blogspot, Blogger, Markdown ]
 --- 
 
-# convert bolg from blogspot blogger to markdown
+# Convert Bolg from Blogspot Blogger to Markdown
+Convert Blogger & WordPress backup blog posts to hugo compatible markdown documents
 
-https://github.com/palaniraja/blog2md
+- <https://github.com/palaniraja/blog2md>
