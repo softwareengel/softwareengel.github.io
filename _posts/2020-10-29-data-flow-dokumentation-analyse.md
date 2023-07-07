@@ -4,6 +4,16 @@ title:  Data Flow Analyse - Documentation - Visualisation
 categories: [Visualisation]
 tags: [gephi, data, graph,layout]
 ---
+- [Data Flow Analyse Dokumentation](#data-flow-analyse-dokumentation)
+- [Neo4J - Graph DB](#neo4j---graph-db)
+- [PowerBI](#powerbi)
+- [OrientDB - Graph DB](#orientdb---graph-db)
+  - [use gremlin with orientdb](#use-gremlin-with-orientdb)
+  - [Graph Editor Gephi](#graph-editor-gephi)
+  - [Graph Streming Plugin](#graph-streming-plugin)
+- [Links](#links)
+  - [Gephi Graph Streaming](#gephi-graph-streaming)
+- [Apache Tinkerpop](#apache-tinkerpop)
 
 # Data Flow Analyse Dokumentation
 

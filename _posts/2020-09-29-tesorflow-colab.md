@@ -7,6 +7,9 @@ tags:  [google, colab, tensorflowsorflow ]
 
 
 ![](../pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub-crop.png)
+- [Google Colab Tensorflow + Pre Trained Modells](#google-colab-tensorflow--pre-trained-modells)
+  - [Tensorflow (TF)](#tensorflow-tf)
+    - [Tensorflow TF Pre-Trained TF-Modells](#tensorflow-tf-pre-trained-tf-modells)
 
 # Google Colab Tensorflow + Pre Trained Modells 
 Web python notebook colaboration tensorflow with CPU

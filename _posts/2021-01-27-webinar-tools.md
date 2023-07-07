@@ -11,12 +11,31 @@ tags: [tweedback, WonderMe, arsnova, partify]
 </figure>
 
 Tools for Webinars
+- [Webinar Tools](#webinar-tools)
+- [Tweedback](#tweedback)
+- [WonderMe](#wonderme)
+- [Arsnova OSS (ohne Anmeldung)](#arsnova-oss-ohne-anmeldung)
+- [Partify (ohne Anmeldung)](#partify-ohne-anmeldung)
+- [Pingo (Anmeldung)](#pingo-anmeldung)
+- [Socrative (Anmeldung)](#socrative-anmeldung)
+- [Metimeter (Anmeldung)](#metimeter-anmeldung)
+- [Sprintbetter.de](#sprintbetterde)
+- [miro Whiteboard](#miro-whiteboard)
+- [Mural Multiuser Whiteboard](#mural-multiuser-whiteboard)
+- [https://deon.de/de/](#httpsdeondede)
+- [https://www.figma.com](#httpswwwfigmacom)
+- [Random Wheel Picker](#random-wheel-picker)
+  - [Beispiel ohne Vorbereitung](#beispiel-ohne-vorbereitung)
+- [Sonstiges](#sonstiges)
+  - [Lenmethode Inverted Classroom](#lenmethode-inverted-classroom)
+  - [https://www.brightful.me/](#httpswwwbrightfulme)
+  - [https://www.workshop-spiele.de/](#httpswwwworkshop-spielede)
 
 ![](../pic\2021-01-28-14-32-02.png)
 
 # Webinar Tools
 
-# https://tweedback.de
+# Tweedback
 
 Login: admin + user ohne Anmeldung
 
@@ -67,13 +86,13 @@ Open Source
 <https://github.com/thm-projects/arsnova-backend>
 
 
-# partify (ohne Anmeldung)
+# Partify (ohne Anmeldung)
 online chat "Kommentare" mit Bewertung , Abstimmung 
 
 ![](../pic/Screenshot_2021-01-28%20Particify%20Audience%20Response%20System.png)
 
 
-# pingo (Anmeldung)
+# Pingo (Anmeldung)
 
 ![](../pic/Screenshot_2021-01-28%20PINGO.png)
 
@@ -82,7 +101,7 @@ online chat "Kommentare" mit Bewertung , Abstimmung
 
 <https://pingo.coactum.de/tutorial/tutorial.html>
 
-# socrative (Anmeldung)
+# Socrative (Anmeldung)
 
 ![](../pic/Screenshot_2021-01-28%20Socrative.png)
 
@@ -111,7 +130,7 @@ Use live polls, quizzes, word clouds, Q&As and more to get real-time input - reg
 
 <http://miro.com/>
 
-# mural Multiuser Whiteboard 
+# Mural Multiuser Whiteboard 
 
 Admin : Anmeldung / EDU 
 User: Anon per Link 
