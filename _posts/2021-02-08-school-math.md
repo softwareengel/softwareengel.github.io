@@ -1,18 +1,26 @@
 ---
 layout: post
-title: school math tools 
-categories: [ math ,tool]
+title: School Math Tools 
+categories: [ math, tool]
 tags: [ geogebra, MS Math Solver ]
 --- 
+![](../pics/20230707123015_geogebra.png)
 
-# Geogebra 
+- [School Math Tools](#school-math-tools)
+  - [Geogebra](#geogebra)
+  - [MS Math Solver](#ms-math-solver)
+
+
+# School Math Tools 
+
+## Geogebra 
 
 https://www.geogebra.org/graphing?lang=de
 
 
 ![](../pic/Screenshot_2021-02-08%20Grafikrechner%20-%20GeoGebra.png)
 
-# MS Math Solver 
+## MS Math Solver 
 
 https://math.microsoft.com/de 
 
