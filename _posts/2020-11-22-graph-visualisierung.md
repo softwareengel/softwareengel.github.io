@@ -73,6 +73,11 @@ NetworkX is a Python package for the creation, manipulation, and study of the st
 
 ![2020 11 22 Pyhpn Visualisation](../pic/2020-11-22-pyhpn-visualisation.png)
 
+- Gallery
+
+![](../pics/20230706174536_networkx_gallery.png)
+
+<https://networkx.org/documentation/stable/auto_examples/index.html>
 ## JS addon for d3.js
 
 <https://networkx.org/documentation/stable/auto_examples/javascript/force.html#sphx-glr-auto-examples-javascript-force-py> 
