@@ -1,6 +1,18 @@
-# nextclod Sync cal und card
+---
+layout: post
+title: Nextcloud Sync Calendar und VCard
+categories: [Nextcloud]
+tags: [Nextcloud, Sync, Calendar, VCard ]
+---
+- [Nextcloud Sync Calendar und VCard](#nextcloud-sync-calendar-und-vcard)
+  - [Nextcloud](#nextcloud)
+  - [Check Thunderbird Adressbook Sync   - working](#check-thunderbird-adressbook-sync-----working)
+  - [Check Thunderbird Cal Sync - Working - Very Slow](#check-thunderbird-cal-sync---working---very-slow)
+  - [Links](#links)
 
-## nextcloud 
+# Nextcloud Sync Calendar und VCard
+
+## Nextcloud 
 
 Aufgaben 
 
@@ -23,12 +35,12 @@ Kontakte
 Updates der Module 
 ![](../pics/2021-11-18-12-52-07.png)
 
-## check TB adressbook - working
+## Check Thunderbird Adressbook Sync   - working
 
 ![](../pics/2021-11-18-12-25-10.png)
 
 
-## Check TB CAl sync - working - very slow 
+## Check Thunderbird Cal Sync - Working - Very Slow 
 
 ... large delay in updating data in TB
 
@@ -36,18 +48,18 @@ Updates der Module
 
 ## Links
 
-docker Image Nextcloud 
+Docker Image Nextcloud 
 
-https://hub.docker.com/_/nextcloud/
+- <https://hub.docker.com/_/nextcloud/>
 
 
 Sync Thunderbird CAl + Card
-https://it-ratgeber.com/daten-in-die-eigene-cloud-teil-1/
+- <https://it-ratgeber.com/daten-in-die-eigene-cloud-teil-1/>
 
 Sync PC Foto + Files 
-https://it-ratgeber.com/daten-in-die-eigene-cloud-teil-2-dokumente-und-fotos/
+- <https://it-ratgeber.com/daten-in-die-eigene-cloud-teil-2-dokumente-und-fotos/>
 
 Handy sync mir davdroid
 
-https://www.wolkesicher.de/ufaqs/android-phone-mit-nextcloud-kontakte-und-kalender-synchronisieren/
+- <https://www.wolkesicher.de/ufaqs/android-phone-mit-nextcloud-kontakte-und-kalender-synchronisieren/>
 
