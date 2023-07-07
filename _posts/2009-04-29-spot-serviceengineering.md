@@ -10,4 +10,4 @@ tags: [SPOT, Serviceengineering, Serviceentwicklung ]
 
 ![](../pics/20230707141530_spot_srchiv.png)
 
-![PDF-Download](../data/SPOT-Serviceentwicklung.pdf)
+<../data/SPOT-Serviceentwicklung.pdf>
