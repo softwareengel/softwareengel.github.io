@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SPOT Serviceengineering
-categories: [Archiv]
+categories: [Serviceengineering]
 tags: [SPOT, Serviceengineering, Serviceentwicklung ]
 ---
 ![](../pics/20230707144303_fhg_iml_spot_.png)
@@ -10,13 +10,6 @@ tags: [SPOT, Serviceengineering, Serviceentwicklung ]
 
 ![](../pics/20230707141530_spot_srchiv.png)
 
-<../data/SPOT-Serviceentwicklung.pdf>
+# Links 
+- <https://softwareengel.github.io/data/SPOT-Serviceentwicklung.pdf>
 
-
-<blob:https://github.com/e7134694-ab06-452e-b0cd-4560334e09ed>
-
-<https://github.com/softwareengel/softwareengel.github.io/blob/master/data/SPOT-Serviceentwicklung.pdf>
-
-<https://softwareengel.github.io/data/SPOT-Serviceentwicklung.pdf>
-
-<a href="https://softwareengel.github.io/data/SPOT-Serviceentwicklung.pdf" target="_blank">PDF.</a>

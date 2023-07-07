@@ -8,7 +8,6 @@ tags: [OSS]
 
 # Install Nextcloud on Synology using Docker 
 
-
 - <https://mariushosting.com/synology-how-to-install-nextcloud-using-docker/>
 
 ## Nextcloud
