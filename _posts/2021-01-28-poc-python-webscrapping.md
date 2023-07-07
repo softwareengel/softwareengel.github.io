@@ -11,6 +11,9 @@ tags: [Python, Web, Scapping, Selenium ]
   </video>
 </figure>
 
+- [Python Web Scapping](#python-web-scapping)
+- [Links:](#links)
+
 
 # Python Web Scapping
 Python Selenium Data Scapping from Complex Website (Arcgis + IFrame + Ember.js)
@@ -116,7 +119,7 @@ driver.close()
 
 ```
 
-## Links:
+# Links:
 
 Selenium Dokumentation
 
@@ -124,7 +127,7 @@ Selenium Dokumentation
 
 Webdriver 
 
-https://www.selenium.dev/documentation/en/getting_started_with_webdriver/browsers/
+<https://www.selenium.dev/documentation/en/getting_started_with_webdriver/browsers/>
 
 Heise Artikel 
 

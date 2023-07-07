@@ -1,21 +1,24 @@
 ---
 layout: post
-title: Video mp4 2 gif animation convert 
+title: Video Mp4 2 Gif Animation Convert 
 categories: [Video]
 tags: [Video, mp4, gif, animation, convert ]
 --- 
 ![](../pic/2021-01-28_14-55-24-output.gif)
 
-# Video mp4 2 gif animation convert
+- [Video Mp4 2 Gif Animation Convert](#video-mp4-2-gif-animation-convert)
+- [Links](#links)
 
-create gif from mp4 
+# Video Mp4 2 Gif Animation Convert
+
+Create gif from mp4 
 
 Command line 
-
+```bat
     ffmpeg -ss 30 -t 3 -i input.mp4 -vf "fps=10,scale=320:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 output.gif
 
     ffmpeg -t 3 -i input.mp4 -vf "fps=10,scale=320:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 output.gif
-
+```
 ![](../pic/2021-01-28-15-25-25.png)
 
 Result
@@ -23,7 +26,7 @@ Result
 ![](../pic/2021-01-28_14-55-24-output.gif)
 
 # Links 
-Download windows  binaries 
+Download Windows Binaries 
 
 <https://www.gyan.dev/ffmpeg/>
 
