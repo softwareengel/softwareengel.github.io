@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Webinar Tools 
+title:  Webinar Tools, Tweedback, WonderMe, Miro Whiteboard, ...
 categories: [ webinar, tools ]
 tags: [tweedback, WonderMe, arsnova, partify]
 --- 
@@ -20,7 +20,7 @@ Tools for Webinars
 - [Socrative (Anmeldung)](#socrative-anmeldung)
 - [Metimeter (Anmeldung)](#metimeter-anmeldung)
 - [Sprintbetter.de](#sprintbetterde)
-- [miro Whiteboard](#miro-whiteboard)
+- [Miro Whiteboard](#miro-whiteboard)
 - [Mural Multiuser Whiteboard](#mural-multiuser-whiteboard)
 - [https://deon.de/de/](#httpsdeondede)
 - [https://www.figma.com](#httpswwwfigmacom)
@@ -126,7 +126,7 @@ Use live polls, quizzes, word clouds, Q&As and more to get real-time input - reg
 
 # Sprintbetter.de 
 
-# miro Whiteboard 
+# Miro Whiteboard 
 
 <http://miro.com/>
 
