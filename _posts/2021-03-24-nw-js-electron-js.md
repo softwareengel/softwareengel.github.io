@@ -5,12 +5,13 @@ categories: [Cross Platform]
 tags: [ Cross Platform ]
 --- 
 
+![](../pics/20230713130357_electron.png)
 - [Cross Platform](#cross-platform)
 - [Links](#links)
 - [Electron](#electron)
   - [Electron Apps](#electron-apps)
-- [NW.js vs electron](#nwjs-vs-electron)
-- [nw.js](#nwjs)
+- [NW.js vs. Electron](#nwjs-vs-electron)
+- [Nw.js](#nwjs)
 
 # Cross Platform 
 
@@ -37,10 +38,10 @@ A Walk Through Electron's Internals - Brendan Forster
 <https://github.com/sindresorhus/awesome-electron >
 
 
-# NW.js vs electron 
+# NW.js vs. Electron 
 
 <https://www.electronjs.org/docs/development/electron-vs-nwjs>
 
-# nw.js 
+# Nw.js 
 
 <https://nwjs.io/>
