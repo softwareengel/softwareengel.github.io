@@ -4,20 +4,20 @@ title: Screencapture
 categories: [Screencapture]
 tags: [Screencapture]
 --- 
-- [screen shot / + recorder](#screen-shot---recorder)
-  - [captura - out ouf date](#captura---out-ouf-date)
-  - [obs](#obs)
-  - [vlc \> Portable](#vlc--portable)
+- [Screen-Shot + Recorder](#screen-shot--recorder)
+  - [Captura - out ouf date](#captura---out-ouf-date)
+  - [OBS](#obs)
+  - [VLC \> Portable](#vlc--portable)
   - [Lightscreen \> Portable](#lightscreen--portable)
 
 
-# screen shot / + recorder 
+# Screen-Shot + Recorder 
 
-## captura - out ouf date 
+## Captura - out ouf date 
 
-## obs 
+## OBS 
 
-## vlc > Portable 
+## VLC > Portable 
 
 ## Lightscreen > Portable 
 

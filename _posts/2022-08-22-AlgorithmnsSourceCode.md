@@ -2,7 +2,7 @@
 layout: post
 title: Algorithmns with Code in Python 
 categories: [Algorithmns]
-tags: [Algorithmns, Code, PYthon ]
+tags: [Algorithmns, Code, Python ]
 --- 
 ![](../pics/20230705174525_algo_with_code_py.png)
 
@@ -11,6 +11,7 @@ tags: [Algorithmns, Code, PYthon ]
 All algorithms implemented in Python - for education
 
 ## Algorithms Python
+
 <https://github.com/TheAlgorithms/Python>
 
 

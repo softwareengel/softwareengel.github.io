@@ -15,9 +15,6 @@ tags: [Web, GeoDB, timeseries, Maps, Analytics, Data Analytics]
 
 Gleichzeitige (synchrone) Darstellung von Zeitdatan und zugehörigen Raum- (Geo-) daten für ausgewählte Zeitraume 
  
-
-
-
 <figure class="video_container">
   <video width="920"  controls="true" allowfullscreen="true" 
   poster="/pics/2022-02-18-12-16-30--timeseries-space-map-corelation-diagram-grafana.jpg">

@@ -5,9 +5,11 @@ categories: [Apache Hop]
 tags: [Apache Hop ]
 ---
 
+![](../pics/20230713091841_apache_hop.png)
+
 # Apache Hop
 
-etl ehemals kettle, webbased
+ETL, ehemals Kettle, webbased
 
 - <https://hop.apache.org/>
 
