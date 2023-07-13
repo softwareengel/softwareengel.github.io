@@ -14,3 +14,5 @@ tags: [OSM, Traffic, Simulation ]
 <https://github.com/dabreegster/abstreet>
 
 ![Screenshot 2020 01 06 Osm Traffic Simulation](../pic/Screenshot_2020-01-06-osm-traffic-simulation.png)
+
+![](../pics/20230713102857_osm-simualtion-santa.png)
