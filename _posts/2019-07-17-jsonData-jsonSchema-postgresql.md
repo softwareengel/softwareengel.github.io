@@ -20,3 +20,12 @@ tags: [JSON, Schema, dotnet, pqsql]
 * <https://www.enterprisedb.com/de/blog/crud-json-postgresql>
 
 * <https://www.postgresql.org/docs/9.6/datatype-json.html>
+
+# Create an advanced search engine with PostgreSQL (2023)
+
+<https://xata.io/blog/postgres-full-text-search-engine>
+
+
+# Postgres vs. MySQL: A Complete Comparison in 2023 
+
+<https://www.bytebase.com/blog/postgres-vs-mysql/>
