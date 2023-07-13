@@ -4,7 +4,7 @@ title:  PostgresSQL JSON-Datenbank
 categories: [JSON]
 tags: [JSON, Schema, dotnet, pqsql]
 ---
-
+![](../pics/20230713105441_postgres_json.png)
 # PostgresSQL JSON ab Version 9.2 als JSON-Datenbank 
 
 * <http://www.postgresqltutorial.com/postgresql-json/>
@@ -14,6 +14,8 @@ tags: [JSON, Schema, dotnet, pqsql]
 * <https://stackoverflow.com/questions/39835304/insert-json-string-into-postgres-and-return-field> 
 
 * <https://clarkdave.net/2013/06/what-can-you-do-with-postgresql-and-json/>
+
+How to use the JSON Datatype in PostgreSQL: A Brief Manual
 
 * <https://datavirtuality.de/blog-json-datenformat-in-postgresql-verwenden/>
 
