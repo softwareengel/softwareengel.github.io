@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MS SQL Server 
+title: Ubuntu MS SQL Server 
 categories: [MSSQL]
 tags: [MS, SQL, Server, ubuntu, docker]
 ---
