@@ -4,11 +4,14 @@ title: Here Client
 categories: [web, ui]
 tags: [Java, here, Client]
 ---
-# Here Client
+![](../pics/20230713120921_here.png)
+
+# Here Client in Java 
 
 ![](../pics/20230706164233_here_client.png)
 
-## Java here Client
+## Java Here Client
+
 ```java
     package de.softwareengel.test.here_api;
 
