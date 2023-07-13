@@ -4,7 +4,7 @@ title: VAPLAN - Veranstaltungsplaner 2005
 categories: [VAPLAN]
 tags: [VAPLAN, Veranstaltungsplaner, Client, Server, ]
 ---
-
+![](../pics/20230713103302_vaplan.png)
 # VAPLAN - Veranstaltungsplaner 2005
 
 ## Website 2005 
