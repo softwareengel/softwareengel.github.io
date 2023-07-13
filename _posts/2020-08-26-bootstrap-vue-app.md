@@ -4,6 +4,7 @@ title: Vue.js Quickstart
 categories: [web, ui]
 tags: [vue.js, JS, Bootstrap]
 ---
+![](../pics/20230713120646_vue_bootstrap.png)
 
 # Vue + Bootstrap APP
 
