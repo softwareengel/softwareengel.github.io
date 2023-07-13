@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Powerpoint pptx Slides Generator in Python 
+title: Powerpoint PPTX Slides Generator in Python 
 categories: [Slides, Python, Generator]
 tags: [Slides, Python, Generator, Slides, PPTX,PPT ]
 ---
 
 #  Powerpoint pptx Slides Generator in Python 
 
-https://python-pptx.readthedocs.io/en/latest/index.html
+- <https://python-pptx.readthedocs.io/en/latest/index.html>
 
-https://github.com/scanny/python-pptx
+- <https://github.com/scanny/python-pptx>
 
-https://pypi.org/project/python-pptx/
+- <https://pypi.org/project/python-pptx/>
 

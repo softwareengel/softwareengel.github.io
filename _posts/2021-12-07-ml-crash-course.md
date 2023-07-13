@@ -9,4 +9,4 @@ tags: [ML, Tutorial, Google, Dev]
 
 # Google ML Crash Course
 
-https://developers.google.com/machine-learning/crash-course/ml-intro
+- <https://developers.google.com/machine-learning/crash-course/ml-intro>

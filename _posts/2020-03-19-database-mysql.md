@@ -1,8 +1,15 @@
-﻿# mysql 8 
+﻿---
+layout: post 
+title: setup Mysql 8 by unzip, Problem Mysql Workbench 
+categories: [Mysql]
+tags: [mysql]
+---
 
-CE Version 8
+# Mysql 8 Install by unzip 
 
-unzip install 
+- MYsql CE Version 8
+
+- unzip install 
 
 ## Setup mysql 8.0.19 
 

@@ -1,25 +1,29 @@
 ﻿---
 layout: post
-title: Web cast DEv JS Learning 
-categories: []
+title: Web Cast Development JS Learning 
+categories: [JS]
 tags: [JS, React, BootStrap, vue, Tables]
 ---
 
 # Web Dev Screen Casts
 
-vue , React, JS, HTML, CSS, Bootstrap, TS <https://scrimba.com/>
+vue , React, JS, HTML, CSS, Bootstrap, TS 
 
-Bootstrap 4 course https://scrimba.com/p/pD5KUE/cnbpRU9 
+![](../pics/20230706145917_scimba.png)
+
+<https://scrimba.com/>
+
+Bootstrap 4 course <https://scrimba.com/p/pD5KUE/cnbpRU9> 
 
 ## React
 
-React.js Examples 
+- React.js Examples 
 
 <https://reactjsexample.com/tag/table/>
 
-https://revolist.github.io/revogrid/guide/framework.react.overview.html
+<https://revolist.github.io/revogrid/guide/framework.react.overview.html>
 
-## React Datatable component 
+## React Datatable Component 
 
 <https://github.com/jbetancur/react-data-table-component#readme>
 
@@ -31,7 +35,7 @@ Examples
 <https://getbootstrap.com/docs/5.0/examples/>
 
 
-## vue.js
+## Vue.js
 
 Tables
 
@@ -43,9 +47,9 @@ Tables
 ### Revogrid (I am support all famous frameworKs and much more) 
 Frameworks:    JavaScript;    VueJs;    Svelte;    React;    Angular;    Ember.
 
-
 <https://revolist.github.io/revogrid/> 
-https://github.com/revolist/revogrid
+<https://github.com/revolist/revogrid>
 
 ### Grid JS 
+
 <https://github.com/grid-js/gridjs>

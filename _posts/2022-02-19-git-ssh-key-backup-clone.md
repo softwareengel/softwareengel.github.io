@@ -1,10 +1,17 @@
-# Gitlab git backup 
+---
+layout: post
+title:  Gitlab Git Backup 
+categories: [git, backup]
+tags: [git, checkout, backup]
+--- 
+
+# Gitlab Git Backup 
 
 ## Client Raspi 
 
 - create ssh client key 
 
-```
+```bash
 ssh-keygen 
 ```
 

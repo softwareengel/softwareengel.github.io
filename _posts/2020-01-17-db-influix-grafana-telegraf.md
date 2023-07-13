@@ -1,9 +1,23 @@
 ﻿---
 layout: post
-title: influx Time series Db Telegraf grafana 
+title: Influx Time Series DB, Telegraf, Grafana, ... 
 categories: [tools]
 tags: [db, ui, graph, data analyse, TSDB]
 --- 
+![](../pics/20230705170146_grafana_influx.png)
+- [InfluxDB](#influxdb)
+- [Telegraf](#telegraf)
+- [Grafana](#grafana)
+  - [Grafana on Raspi](#grafana-on-raspi)
+- [Grafana + Telegraf + Influx](#grafana--telegraf--influx)
+  - [Grafana Reset Password](#grafana-reset-password)
+  - [Chonograf](#chonograf)
+  - [Python Logging Skript für InfluxDB](#python-logging-skript-für-influxdb)
+- [Memcached](#memcached)
+- [Redis](#redis)
+- [Mongo DB](#mongo-db)
+- [Maria DB](#maria-db)
+- [Bash History](#bash-history)
 
 # InfluxDB 
 
@@ -18,10 +32,9 @@ InfluxDB is a open source time series database
 
 Telegraf is the open source server agent to help you collect metrics from your stacks, sensors and systems.
 
-https://www.influxdata.com/time-series-platform/telegraf/ 
+<https://www.influxdata.com/time-series-platform/telegraf/>
 
-![Screenshot 2020 01 17 Influx Db Telegraf](../pic/Screenshot-2020-01-17_influx-db-Telegraf.png)
-
+![Screenshot 2020 01 17 Influx Db Telegraf](../pic/../pic/2020-01-17-influx-telegraf.png)
 
 # Grafana
 
@@ -59,7 +72,7 @@ Webinterface geht nur bis Version 1.5 (?!)
 
 ![Screenshot 2020 01 21 Rpi Influx D B Webinterface](../pic/Screenshot-2020-01-21_Rpi-influxDB-webinterface.png)
 
-## Grafana reset password 
+## Grafana Reset Password 
 
 sudo docker exec -it <container> bash 
 
@@ -76,7 +89,7 @@ resets the password for the admin user using the CLI. You might need to do this 
 
 ## Chonograf 
 
-Visualisierung von influx DB data 
+Visualisierung von Influx DB data 
 
 <https://portal.influxdata.com/downloads/> 
 
@@ -89,20 +102,20 @@ Visualisierung von influx DB data
 ![Screenshot 2020 01 21 Rpi Chronograf Influx D B Admin](../pic/Screenshot-2020-01-21_Rpi-chronograf-influxDB-admin.png)
 
 
-## Python logging Skript für influxDB
+## Python Logging Skript für InfluxDB
 
 <https://engineer.john-whittington.co.uk/2016/11/raspberry-pi-data-logger-influxdb-grafana/> 
 
-Feeigaben Dev-Netz 
+Feigaben Dev-Netz 
 
 ![Screenshot 2020 01 21 Rpi Dev Netz](../pic/Screenshot-2020-01-21_Rpi-DevNetz.png)
 
 
-# memcached 
+# Memcached 
 
 Sessionspeicher 
 
-# redis
+# Redis
 
 in memory db / Key - Val- Store 
 
@@ -114,7 +127,7 @@ Dokument speicher auch für csv / JSON
 
 OSS Fork von MySQL 
 
-# history 
+# Bash History 
 
 engels@ubuntu18svr-01:~$ history
 

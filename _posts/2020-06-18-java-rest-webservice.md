@@ -1,8 +1,8 @@
 ﻿---
 layout: post
 title:  Java REST Webservice Dropwizard
-categories: [REST, JAVA, API]
-tags: [REST, API, FRAMEWORK]
+categories: [dropwizard]
+tags: [REST, API, FRAMEWORK, Java]
 --- 
 
 # Dropwizard  

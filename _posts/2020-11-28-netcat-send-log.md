@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Netcat send data 
+title: Send Logs to Server with Netcat  
 categories: [netcat, log, data]
 tags: [netcat, log, data]
 --- 
+
 Simple sending log data to Web-Server
 
-# netcat send log
+# Send Logs to Server with Netcat  
 
 Send data from log files to IP with port 5000
 

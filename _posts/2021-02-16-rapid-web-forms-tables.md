@@ -1,16 +1,24 @@
+---
+layout: post
+title: Serenity - Einfügen von 2. Spalte mit CSS 
+categories: [3D]
+tags: [ Serenity ]
+--- 
 
-# Serenity 
+- [Serenity Einfügen von 2. Spalte mit CSS](#serenity-einfügen-von-2-spalte-mit-css)
+  - [JS und HTML Files](#js-und-html-files)
 
-Serene
+# Serenity Einfügen von 2. Spalte mit CSS 
 
-https://github.com/serenity-is/Serenity/blob/master/INSTALL.md
+- <https://github.com/serenity-is/Serenity/blob/master/INSTALL.md>
 
-http://thucydides.info/docs/serenity-staging/#_writing_serenity_page_objects 
-https://volkanceylan.gitbooks.io/serenity-guide/content/
+- <http://thucydides.info/docs/serenity-staging/#_writing_serenity_page_objects >
+- <https://volkanceylan.gitbooks.io/serenity-guide/content/>
 
-## split.js 
+## JS und HTML Files 
 
-
+split.js 
+```js
 .split {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -53,9 +61,11 @@ https://volkanceylan.gitbooks.io/serenity-guide/content/
     cursor: row-resize;
 }
 
+```
 
-
+html 
+```html 
 <div id="b" class="split">
     <p> bb bb </p>
 </div>
-
+```

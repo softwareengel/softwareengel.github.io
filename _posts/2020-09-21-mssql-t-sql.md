@@ -1,13 +1,14 @@
 ---
 layout: post
-title: MS SQL Server 
-categories: []
+title: Ubuntu MS SQL Server 
+categories: [MSSQL]
 tags: [MS, SQL, Server, ubuntu, docker]
 ---
-# MS SQL Server
+# MS SQL Server Setup in Ubuntu
 
-setup in ubuntu
+Setup in Ubuntu bash History 
 
+``` 
         2  docker 
         3  sudo apt install docker.io 
         4  ls -al
@@ -39,3 +40,4 @@ setup in ubuntu
        30  exit
        31  history 
 
+```

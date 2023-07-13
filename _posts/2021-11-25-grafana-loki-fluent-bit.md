@@ -1,29 +1,29 @@
 ---
 layout: post
-title: grafana loki
+title: Grafana mit Loki, Fluentbit 
 categories: [grafana loki, cncf, oss]
 tags: [grafana loki, cncf, oss]
 --- 
 
 
+![](../pics/20230707114335_loki_grafana.png)
 
-# grafana-loki-fluent-bit
-
+# Grafana mit Loki, Fluentbit
 
 ## Grafana
 
 - Loki Abfrage
-
+```
     {job="winlog"}!="Windows-Security-Auditing" |="Aufgabe"
     
     count_over_time({job="winlog"}[5m])
-    
+```
+
 - leider ünterstützt Loki kein Alert 
 
 ![](../pic/2021-11-25-17-45-17.png)
 
 ## Loki
-
 
 ## Fluent-bit
 
@@ -51,9 +51,9 @@ win-to-loki.conf
 ```
 
 start als Admin
-
+```bat 
 .\bin\fluent-bit.exe -c .\conf\win-to-loki.conf
-
+```` 
 
 
 ## Links 

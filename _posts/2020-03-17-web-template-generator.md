@@ -1,21 +1,20 @@
 ﻿---
 layout: post
 title: Web Template Generator 
-
+categories: [Generator]
+tags: [Web, Template, Generator ]
 --- 
 
-Web Template Generators 
+# Web Template Generators 
 
-# Cheetah3, the Python-Powered Template Engine
+## Cheetah3, the Python-Powered Template Engine
 
-https://cheetahtemplate.org/ 
-in Python 
+<https://cheetahtemplate.org/>
 
-https://github.com/CheetahTemplate3/cheetah3 
+<https://github.com/CheetahTemplate3/cheetah3> 
 
+## Keenthems  
 
-# Keenthems  
-
-https://keenthemes.com/ 
+<https://keenthemes.com/> 
 
 

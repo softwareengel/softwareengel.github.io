@@ -1,15 +1,15 @@
 ﻿---
 layout: post
-title:  Norconex crawler 
+title:  Norconex Crawler 
 categories: [Norconex, crawler, oss]
 tags: [ Norconex, crawler, oss]
 --- 
+![](../pics/20230707130914_norcortex.png)
 Norconex HTTP Collector 
 
 # Norconex crawler 
 
 <https://opensource.norconex.com/collectors/http/>
-
 
 <https://opensource.norconex.com/collectors/http/v2/getting-started>
 

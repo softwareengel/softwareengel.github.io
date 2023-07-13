@@ -1,13 +1,14 @@
 ---
 layout: post
-title: schields - github readme - schilder 
+title: Schields - Github Readme - Schilder 
 categories: [tools, editor, webservice]
 tags: [github, markdown]
 --- 
 
 ![](../pic/2021-12-03-09-11-53.png)
 
-# shileds.io - Github-Schilder
+# Schields - Github Readme - Schilder 
+Concise, consistent, and legible badges 
 
 ![](../pic/2021-12-03-09-11-53.png)
 
@@ -19,4 +20,4 @@ Schilder für Github - Readme
 
 Links:
 
-https://shields.io/
+- <https://shields.io/>

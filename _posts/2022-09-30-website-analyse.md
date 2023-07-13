@@ -4,20 +4,27 @@ title: Website Technology Analyse Tools
 categories: [web, Tool]
 tags: [website, technology, Analyse, Tool]
 --- 
+- [Website Technology Analyse Tools](#website-technology-analyse-tools)
+- [Survey](#survey)
+- [Build With](#build-with)
+- [Weppalyzer](#weppalyzer)
+- [w3techs Site Info](#w3techs-site-info)
+- [Netcraft](#netcraft)
+- [Webtechsurvey](#webtechsurvey)
+- [Rescan (poor)](#rescan-poor)
+
+
 # Website Technology Analyse Tools
 
-
-
 # Survey 
-- https://geekflare.com/what-technology-website-using/
-- 
+- <https://geekflare.com/what-technology-website-using/>
 
 # Build With 
-- https://builtwith.com
+- <https://builtwith.com>
 
 ![](../pic/20220930112146_buildwith_web.png)  
 
-- https://builtwith.com/detailed/mipart.com
+- <https://builtwith.com/detailed/mipart.com>
 
 ![](../pic/20220930111331_build_with.png)  
 
@@ -31,9 +38,9 @@ tags: [website, technology, Analyse, Tool]
 
 ![](../pic/20220930111832_weppalyzer_paywall.png)  
 
-# w3techs Site INfo 
+# w3techs Site Info 
 
-- https://w3techs.com/sites
+- <https://w3techs.com/sites>
 
 ![](../pic/20220930114421_w3techs-sites-info.png)  
 
@@ -41,17 +48,17 @@ tags: [website, technology, Analyse, Tool]
 
 # Netcraft 
 
-https://sitereport.netcraft.com/?url=https%3A%2F%2Fmipart.com
+<https://sitereport.netcraft.com/?url=https%3A%2F%2Fmipart.com>
 
 ![](../pic/20220930114649_netcraft_result.png)  
 
 # Webtechsurvey
 
-https://webtechsurvey.com/website/mipart.com/technologies
+<https://webtechsurvey.com/website/mipart.com/technologies>
 
 ![](../pic/20220930115412_WebTEchSurvey.png)  
 
 # Rescan (poor)
-- https://rescan.io/analysis/mipart.com/
+- <https://rescan.io/analysis/mipart.com/>
   
 ![](../pic/20220930115900_rescan.png)  

@@ -1,9 +1,17 @@
-# apache hop
+---
+layout: post
+title: Apache Hop
+categories: [Apache Hop]
+tags: [Apache Hop ]
+---
 
-etl ehemals kettle
-webbased
+![](../pics/20230713091841_apache_hop.png)
 
-https://hop.apache.org/
+# Apache Hop
+
+ETL, ehemals Kettle, webbased
+
+- <https://hop.apache.org/>
 
 ![pipeline](../pics/2022-02-18-09-24-03.png)
 

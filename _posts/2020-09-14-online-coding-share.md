@@ -4,13 +4,21 @@ title: Muti - User - Online - Development
 categories: []
 tags: [ Visual Studio Live Share]
 ---
+![](../pics/20230713121339_code_share_colab.png)
+- [Github Codespaces](#github-codespaces)
+- [Gitpod](#gitpod)
+- [Visual Studio Live Share](#visual-studio-live-share)
+- [Codeshare.io](#codeshareio)
+- [Codesandbox.io](#codesandboxio)
+- [Atom / Teletype](#atom--teletype)
+- [Links](#links)
 
+# Github Codespaces
 
-https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ 
+<https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/> 
 
-
-https://www.gitpod.io/#get-started 
-
+# Gitpod
+<https://www.gitpod.io/#get-started> 
 
 
 # Visual Studio Live Share
@@ -19,17 +27,17 @@ Für VS Code und VS
 
 <https://docs.microsoft.com/en-us/visualstudio/liveshare/quickstart/share> 
 
-Anmeldung bei LiveShare nötig 
+Anmeldung bei LiveShare / Github nötig 
 
 https://docs.microsoft.com/en-us/visualstudio/liveshare/troubleshooting#sign-in 
 
-# codeshare.io
+# Codeshare.io
 
 <https://codeshare.io/>
 
 ![Codeshare.Io](../pic/codeshare.io.png)
 
-# codesandbox.io
+# Codesandbox.io
 
 für  Web - Anwendungen
 
@@ -45,6 +53,6 @@ für  Web - Anwendungen
 
 braucht installation (??)
 
-# Refs
+# Links
 
-https://webdesign.tutsplus.com/articles/real-time-code-collaboration-tools-for-developers--cms-30494
+<https://webdesign.tutsplus.com/articles/real-time-code-collaboration-tools-for-developers--cms-30494>

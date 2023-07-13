@@ -1,9 +1,16 @@
 ---
 layout: post
-title: setup und use orientdb 
-categories: [tools]
+title: Setup und Use Orientdb 
+categories: [Orientdb]
 tags: [db, ui, graph, graph, java]
 --- 
+![](../pics/20230707122115_orientdb.png)
+
+OrientDB - the first Multi-Model Open Source NoSQL DBMS that brings together the power of graphs and the flexibility of documents into one scalable high-performance operational database
+- [Install OrientDB](#install-orientdb)
+  - [Prepare](#prepare)
+  - [Windows Service](#windows-service)
+  - [Links](#links)
 
 # Install OrientDB
 
@@ -11,7 +18,7 @@ tags: [db, ui, graph, graph, java]
 * V 3.2.x *
 * Graph DB für technische Datenfluss Dokumentation
 
-## Pre
+## Prepare
 
 * Openjdk-8-jdk or Oracle Java 8 server Win
 * Apache commons-daemon 

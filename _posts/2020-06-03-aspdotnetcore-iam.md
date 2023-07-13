@@ -32,4 +32,4 @@ https://www.youtube.com/watch?v=sPbDrqpme_w
 
 # ASP.NEt Core EF 
 
-https://www.codeproject.com/Articles/5269991/Building-an-ASP-NET-Core-Web-API-application-using
+<https://www.codeproject.com/Articles/5269991/Building-an-ASP-NET-Core-Web-API-application-using>

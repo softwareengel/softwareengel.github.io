@@ -1,28 +1,54 @@
-﻿
-## clipboards
+﻿---
+layout: post
+title: Notes on Kanban for Redmine, Locust, KodExplorer, Dell e7240 Cmos Battery, ..
+categories: [Notes]
+tags: [ Serenity ]
+--- 
+- [Scrum / Kanban for Redmine](#scrum--kanban-for-redmine)
+  - [update docker readmine 3.3.10 + scrum plugin](#update-docker-readmine-3310--scrum-plugin)
+- [Dell e7240 Cmos Battery](#dell-e7240-cmos-battery)
+  - [dell Notebook Self Diag](#dell-notebook-self-diag)
+- [Locust - An open source load testing tool.](#locust---an-open-source-load-testing-tool)
+- [k8s - Ingress Controllers](#k8s---ingress-controllers)
+- [k8s Dashboard Web UI](#k8s-dashboard-web-ui)
+- [Python Fire  - Command Line Maker](#python-fire----command-line-maker)
+- [Firefox Shortcuts](#firefox-shortcuts)
+- [KodExplorer - Web](#kodexplorer---web)
+- [Docker ELK on Raspi 4 2020-11-18](#docker-elk-on-raspi-4-2020-11-18)
+  - [remote docker Extension in Raspi with  VS Code - Working](#remote-docker-extension-in-raspi-with--vs-code---working)
+  - [ELK](#elk)
+  - [Logstash Alternativen](#logstash-alternativen)
+  - [USB Drive Raspi](#usb-drive-raspi)
+  - [git install raspi](#git-install-raspi)
+  - [Jenkins on  Raspi](#jenkins-on--raspi)
+  - [Prometheus on Raspi](#prometheus-on-raspi)
+  - [Prometheus node exporter](#prometheus-node-exporter)
+  - [Nginx Basic Status](#nginx-basic-status)
+
+## Clipboards
 
 https://ditto-cp.sourceforge.io/ 
 
-## carto 
+## Carto 
 Unlock the power of spatial analysis
 The world's leading Location Intelligence platform
 
-https://carto.com/ 
+<https://carto.com/ >
 
-## Google data expolrer 
+## Google Data Expolrer 
 
-https://www.google.com/publicdata/directory
+<https://www.google.com/publicdata/directory>
 
-## OSS Kan borard
+## OSS Kanban Borard
 
 https://kanboard.org/ 
 
 
-# scrum / kanban for redmine 
+# Scrum / Kanban for Redmine 
 
-https://www.scrumexpert.com/tools/scrum-and-kanban-plugins-for-redmine/ 
+<https://www.scrumexpert.com/tools/scrum-and-kanban-plugins-for-redmine/ >
 
-https://redmine.ociotec.com/attachments/536/scrum-v0.19.0.tar.gz
+<https://redmine.ociotec.com/attachments/536/scrum-v0.19.0.tar.gz>
 
 ## update docker readmine 3.3.10 + scrum plugin 
 
@@ -34,7 +60,7 @@ https://redmine.ociotec.com/attachments/536/scrum-v0.19.0.tar.gz
 restart 
 
   
-# dell e7240 cmos battery 
+# Dell e7240 Cmos Battery 
 
 <https://www.youtube.com/watch?v=6acrpAjQ6IU>
 
@@ -42,14 +68,13 @@ restart
 
 <https://www.youtube.com/watch?v=zNGfT-b1Ejk>
 
-## dell notebook self diag 
+## dell Notebook Self Diag 
 
 Power + d (Display Check)
 
 Poser + Fn 
 
 # Locust - An open source load testing tool.
-
 
 Define user behaviour with Python code, and swarm your system with millions of simultaneous users. 
 
@@ -58,7 +83,7 @@ Define user behaviour with Python code, and swarm your system with millions of s
 
 ![2020 10 23 Locust Screenfile](../pic/2020-10-23-locust-screenfile.png)
 
-# k8s - ingress controllers 
+# k8s - Ingress Controllers 
 
     Kubernetes Documentation
     Concepts
@@ -75,18 +100,16 @@ Define user behaviour with Python code, and swarm your system with millions of s
     Web UI (Dashboard)
 
 
-https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+<https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/>
   
-# python fire  - command line maker 
+# Python Fire  - Command Line Maker 
 
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 <https://github.com/google/python-fire>
 
 
-
-
-# Firefox shortcuts 
+# Firefox Shortcuts 
 
 <https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly>
 
@@ -97,18 +120,14 @@ Python Fire is a library for automatically generating command line interfaces (C
 <https://www.youtube.com/watch?v=q8W5KnmbWBg&feature=youtu.be&t=1388>
 
 
-# kodexplorer - web 
+# KodExplorer - Web 
 
 KodExplorer is a file manager for web. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run KodExplorer either online or locally,on Linux, Windows or Mac based platforms. The only requirement is to have PHP 5 available.
 
 <https://github.com/kalcaddle/KodExplorer>
 
 
-## fhek - home automation + fritz box  + telegram chat 
-
-
-
-# docker elk on raspi 4 2020-11-18
+# Docker ELK on Raspi 4 2020-11-18
 
 <https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl>
 
@@ -146,7 +165,7 @@ Reboot here or run the next commands with a sudo
 
 ![2020 11 18 Vs Code Docker Addon Raspi](../pic/2020-11-18-vs-code-docker-addon-raspi.png)
 
-## elk 
+## ELK  
 
 <https://logz.io/learn/complete-guide-elk-stack/#installing-elk>
 
@@ -157,28 +176,28 @@ Reboot here or run the next commands with a sudo
 
 https://sematext.com/blog/logstash-alternatives/
 
-## usb drive raspi 
-
+## USB Drive Raspi 
+```bash 
     sudo apt-get install usbmount 
     sudo reboot now 
     sudo lsblk -o UUID,NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL,MODEL 
     sudo blkid
-<https://raspberrypi.stackexchange.com/questions/100312/raspberry-4-usbmount-not-working>
+```
+- <https://raspberrypi.stackexchange.com/questions/100312/raspberry-4-usbmount-not-working>
 
+- <https://www.elektronik-kompendium.de/sites/raspberry-pi/1911271.htm> 
 
-
-<https://www.elektronik-kompendium.de/sites/raspberry-pi/1911271.htm> 
-
+```
     lsblk
     sudo mount /dev/sda1 /media/usb 
-
+```
     
 ## git install raspi 
-
+```bash 
     sudo apt-get install git 
+``` 
 
-
-## Jenkins Raspi 
+## Jenkins on  Raspi 
 
 <https://khushil.io/2020/04/23/jenkins-on-raspberry-pi-4/>
 
@@ -190,14 +209,14 @@ https://sematext.com/blog/logstash-alternatives/
 
 
 <https://www.vogella.com/tutorials/Jenkins/article.html>
-
+```
     docker pull jenkins/jenkins:lts 
 
     docker run -p 8080:8080 -p 50000:50000 -v [yourjenkinshome]:/var/jenkins_home jenkins/jenkins:lts
-
+```
 
 Dockerfile 
-
+```
     FROM jenkins/jenkins:lts
     # if we want to install via apt
     USER root
@@ -206,10 +225,9 @@ Dockerfile
     USER jenkins
 
     docker build -t jenkins-maven .
+```
 
-
-## Prometheus Raspi 
-
+## Prometheus on Raspi 
 
 <https://devconnected.com/the-definitive-guide-to-prometheus-in-2019/> 
 
@@ -218,20 +236,19 @@ Dockerfile
 <http://192.168.2.46:9090/metrics> 
 
 
-
 ## Prometheus node exporter 
 
 <https://github.com/prometheus/node_exporter>
-
+```bash 
     docker run -d \
       --net="host" \
       --pid="host" \
       -v "/:/host:ro,rslave" \
       quay.io/prometheus/node-exporter \
       --path.rootfs=/host
-
+```
 <http://192.168.2.46:9100/metrics> 
 
-## nginx basic status 
+## Nginx Basic Status 
 
 <http://192.168.2.46/basic_status>

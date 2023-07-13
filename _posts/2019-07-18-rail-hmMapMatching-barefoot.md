@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Rail map matching - hmm hidden markow matching 
+title: Rail Map Matching - Hidden Markow Matching  (HMM)
 categories: [ai, hmm, hidden markow chain, map matchig, rail]
 tags: [ai, hmm, hidden markow chain, map matchig, rail]
 --- 
 ![Map and Tack calculated with barefoot](../pic/capture_005_18072019_150834.jpg)
-Rail map matching: pqsql, barefoot, java, virtualbox, ubuntu, osmosis, qgis 
 
-# Rail Map Matching - barefoot 
+
+# Rail Map Matching - Barefoot for Rails
+Rail map matching: pqsql, barefoot, java, virtualbox, ubuntu, osmosis, qgis 
 
 <https://github.com/bmwcarit/barefoot> 
 
 ## Install 
-
 
 + Oracle VM Virtual Box 
 + Ubuntu Linux Server: <http://releases.ubuntu.com/18.04/> ; <http://releases.ubuntu.com/18.04/ubuntu-18.04.2-live-server-amd64.iso> 

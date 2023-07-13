@@ -1,11 +1,10 @@
 ﻿---
 layout: post
-title: mongo redis   
+title: MongoDB und  Redis   
 categories: [db]
 tags: [db, mongo, redis]
 --- 
 
-# Database 
 
 # Mongo 
 
@@ -21,7 +20,7 @@ tags: [db, mongo, redis]
     -v ~/data/mongo:/data/db \
     -d mongo
 
-## mongo cli 
+## Mongo cli 
 
     docker run \
     -it --rm \
@@ -29,7 +28,7 @@ tags: [db, mongo, redis]
     mongo \
     sh -c 'exec mongo --host mongo'
 
-### commands 
+### Commands 
 
     db.enableFreeMonitoring()
 
@@ -49,13 +48,13 @@ SQL - Mongo Mapping chart
 
 <https://docs.mongodb.com/manual/reference/sql-comparison/>
 
-## c client 
+## c Client 
 
 <https://docs.mongodb.com/ecosystem/drivers/c/> 
 
-## java client 
+## Java Client 
 
-
+```java
     // 1. The database for reactive, real-time applications
     MongoClient mongoClient;
 
@@ -76,14 +75,14 @@ SQL - Mongo Mapping chart
 
     // Create the change stream cursor.
     MongoCursor> cursor = collection.watch().iterator();
-
+```
 # Redis 
 
 ## Java Client Geo Search 
 
 <https://gist.github.com/samklr/dee192f0cde5f322cc2a>
 
-
+``` java
 
     import java.util.*;
     import com.lambdaworks.redis.*;
@@ -130,3 +129,4 @@ SQL - Mongo Mapping chart
             redisClient.shutdown();
         }
     }
+```

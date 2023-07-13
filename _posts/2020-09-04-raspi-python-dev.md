@@ -1,17 +1,22 @@
 ﻿---
 layout: post
-title: Raspi Python Dev Face Recognition 
+title: Raspi Python Development Face Recognition 
 categories: [Raspberry Pi, Python, Dev]
 tags: [Raspberry Pi, Python, Dev, MatplotLib, OpenCV]
 ---
-Raspi 4 mit 4GB Ram, RDP, Python tests mit Matplotlib, OpenCV , Face recognition 
+
 ![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.png) 
 
-# Raspi 4 , 4GB Ram, RDP 
+- [Raspi 4 mit 4GB Ram, RDP, Python tests mit Matplotlib, OpenCV , Face recognition](#raspi-4-mit-4gb-ram-rdp-python-tests-mit-matplotlib-opencv--face-recognition)
+  - [MatplotLib](#matplotlib)
+  - [OpenCV](#opencv)
+- [Face recognition](#face-recognition)
+
+# Raspi 4 mit 4GB Ram, RDP, Python tests mit Matplotlib, OpenCV, Face recognition 
 
 
 ## MatplotLib 
-
+```py
     from scipy import interpolate
     import matplotlib.pyplot as plt
     import numpy as np 
@@ -23,12 +28,12 @@ Raspi 4 mit 4GB Ram, RDP, Python tests mit Matplotlib, OpenCV , Face recognition
     ynew = f(xnew)
     plt.plot(x, y, 'o', xnew, ynew, '-')
     plt.show()
-
+```
 ![2020 09 04 R A S P I R D P V S C O D E P Y T H O N Matplatlib](../pic/2020-09-04-RASPI-RDP-VSCODE-PYTHON-matplatlib.png)
 
 
 ## OpenCV 
-
+```py
     # opencv 
     # working on Raspi 4 / 2020-05-04
 
@@ -56,16 +61,17 @@ Raspi 4 mit 4GB Ram, RDP, Python tests mit Matplotlib, OpenCV , Face recognition
     cap.release()
     cv2.destroyAllWindows()
 
-
+```
 ![2020 09 04 Rdp Raspi Python Opencv](../pic/2020-09-04-rdp-raspi-python-opencv.png)
 
 # Face recognition 
 
-https://github.com/ageitgey/face_recognition 
+<https://github.com/ageitgey/face_recognition> 
 
     pip3 install face_recognition
 
-
+---
+```py
     import face_recognition
     import cv2
 
@@ -118,5 +124,6 @@ https://github.com/ageitgey/face_recognition
     # Release handle to the webcam
     video_capture.release()
     cv2.destroyAllWindows() 
+```
 
 ![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.png)

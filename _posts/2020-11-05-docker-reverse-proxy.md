@@ -4,11 +4,28 @@ title:  Docker Nginx Reverse Proxy
 categories: [Docker, Nginx, Reverse Proxy]
 tags: [Docker, Nginx, Reverse Proxy]
 ---
-Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Reverseproxy in einem VS Code mi Docker Plugin
+Beispiel für 2 Docker container. Einen Webserver mit Python, einen Nginx Reverseproxy in einem VS Code mit Docker Plugin
+- [Docker Nginx Reverse Proxy - Simple in VS Code](#docker-nginx-reverse-proxy---simple-in-vs-code)
+  - [docker python webserver für port 8080](#docker-python-webserver-für-port-8080)
+    - [webserver.py](#webserverpy)
+    - [Webserver Dockerfile](#webserver-dockerfile)
+    - [Webserver docker-compose.yml](#webserver-docker-composeyml)
+    - [Erstellen und starten des Webserver Images](#erstellen-und-starten-des-webserver-images)
+    - [Log des Webservers](#log-des-webservers)
+  - [docker compose Nginx reverse Proxy](#docker-compose-nginx-reverse-proxy)
+    - [nginx.config](#nginxconfig)
+    - [nginx docker-compose.yml](#nginx-docker-composeyml)
+    - [bauen und starten von ve-nginx-reverseproxy Image](#bauen-und-starten-von-ve-nginx-reverseproxy-image)
+    - [Test Port 80 log](#test-port-80-log)
+- [src](#src)
+- [Links:](#links)
+  - [rescue](#rescue)
+    - [nginx.conf](#nginxconf)
+    - [promentheus.conf](#promentheusconf)
 
 # Docker Nginx Reverse Proxy - Simple in VS Code
 
-Beispiel für 2 Docker container. Einen Werserver mit Python, einen Nginx Reverseproxy in einem VS Code mi Docker Plugin 
+Beispiel für 2 Docker container. Einen Webserver mit Python, einen Nginx Reverseproxy in einem VS Code mit Docker Plugin
 
 ![2020 11 05 Docker Reverse Screen Vscode](../pic/2020-11-05-docker-reverse-screen-vscode.png)
 
@@ -294,22 +311,22 @@ Log Webserver
 # Links:
 
 
-https://www.domysee.com/blogposts/reverse-proxy-nginx-docker-compose 
+<https://www.domysee.com/blogposts/reverse-proxy-nginx-docker-compose>
 
 server.py
 
-https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7
+<https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7>
 
 MS VS Code How TO 
-https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/update-your-app 
+<https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/update-your-app >
 
 MS VS Code Docker Debug Python 
 
-https://code.visualstudio.com/docs/containers/debug-python 
+<https://code.visualstudio.com/docs/containers/debug-python >
 
 ## rescue 
 ### nginx.conf 
-
+```
 events {
 
 }
@@ -339,9 +356,9 @@ http {
     }
 
 }
-
+```
 ### promentheus.conf
-
+```conf
 global:
   scrape_interval:     2s
   evaluation_interval: 2s
@@ -360,4 +377,4 @@ scrape_configs:
     static_configs:
       - targets: ['192.168.2.46:9100']
 
-
+```

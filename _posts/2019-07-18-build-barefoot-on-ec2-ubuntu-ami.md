@@ -1,26 +1,34 @@
-﻿# ec2 ami mit barefoot 
+﻿---
+layout: post
+title: Start Amazon ec2 Ami VM mit Barefoot 
+categories: [VM]
+tags: [ec2, ami, barefoot ]
+---
+![](../pics/20230705184554_amazon_ec2_ami_barefoot.png)
 
-# launch ec2-instance - use ubuntu 18 
+# Start Amazon ec2 Ami VM mit Barefoot Service 
+
+## Launch ec2-Instance - Use Ubuntu 18 
 ![](../pic/capture_012_18072019_175245.jpg)
 
-# connect with putty 
+## Connect with SSH / Putty 
 ![](../pic/capture_013_18072019_175657.jpg)
 ![](../pic/capture_014_18072019_175704.jpg)
 
-# install docker 
+# Install docker 
     sudo apt-get update 
     sudo apt-get install docker.io
 
-# clone barefoot 
+## Clone barefoot 
 
     git clone <https://github.com/bmwcarit/barefoot.git> 
 
-# Java 
+## install Java Headless 
 
     sudo apt-get install openjdk-8-jdk-headless
 
 
-# build docker image 
+## Build Docker Image 
 
     cd barefoot
     sudo docker build -t barefoot-map ./map
@@ -29,11 +37,11 @@
 
     sudo docker run -it -p 5432:5432 --name="barefoot-europe" -v ${PWD}/map/:/mnt/map barefoot-map
 
-# mc
+## Install mc
 
     sudo apt-get install mc
 
-# docker 
+## Docker 
     sudo docker ls -a 
     sudo docker start barefoot-oberbayern
     sudo docker stop barefoot-oberbayern
@@ -46,7 +54,7 @@ Escape Docker shell:
     crtl-p ctrl-q
 
 
-# psql
+## Pgsql
 
     sudo -u postgres psql
     sudo -u postgres psql -d <database>
@@ -56,24 +64,24 @@ Escape Docker shell:
 
     /etc/postgresql/9.3/main/pg_hba.conf
 
-sudo /etc/init.d/postgresql stop
+    sudo /etc/init.d/postgresql stop
 
 
-# OSM 2 pgSQL in docker container 
+## OSM 2 PgSQL in Docker Container 
     bash /mnt/map/osm/import.sh
     bash /mnt/map/osm/import-rail.sh
 
-# Putty remote port tunnel 
+## Putty Remote Port Tunnel 
 
 ![](../pic/capture_002_19072019_104407.jpg)
 
 ![](../pic/capture_19072019_104949_003.jpg)
 
-# use tunnel in PGAdmin 
+## Use Tunnel in PGAdmin 
 
 ![](../pic/capture_26072019_124739_001.jpg)
 
-# config europe.properies
+## Config europe.properies
 
     database.host=localhost
     database.port=5432
@@ -83,17 +91,17 @@ sudo /etc/init.d/postgresql stop
     database.password=pass
     database.road-types=./map/tools/rail-types.json
 
-# run barefoot Matcher server 
+## Run Barefoot Matcher Server 
 
     mvn package -DskipTests
 
     java -jar target/barefoot-0.1.5-matcher-jar-with-dependencies.jar  --geojson config/server.properties config/europe.properties
 
-# test client 
+## Test Client 
 
     python util/submit/batch.py --host localhost --port 1234  --file src/test/resources/com/bmwcarit/barefoot/matcher/x0001-015.json
 
-## Log test client 
+### Log Test Client 
 
     ubuntu@ip-172-31-18-42:~/barefoot$ python util/submit/batch.py --host localhost --port 1234  --file src/test/resources/com/bmwcarit/barefoot/matcher/x0001-015.json
     SUCCESS
@@ -171,7 +179,7 @@ sudo /etc/init.d/postgresql stop
     java -jar target/barefoot-0.1.5-tracker-jar-with-dependencies.jar config/tracker.properties  config/europe.properties
 
 
-# History 
+## History 
 
     ubuntu@ip-172-31-16-29:~$ history
         1  sudo docker ps -a
@@ -200,7 +208,7 @@ sudo /etc/init.d/postgresql stop
     24  history
 
 
-# startups 
+## Startups 
 
     node util/monitor/monitor.js 3000 127.0.0.1 1235
     

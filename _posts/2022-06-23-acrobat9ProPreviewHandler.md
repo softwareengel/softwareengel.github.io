@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Solved - Use Acrobat 9 Pro as Ms Windows 10+ Explorer Preview Handler in 2022
+title: Solved - Use Acrobat 9 Pro as MS Windows 10+ Explorer Preview Handler in 2022
 categories: [Explorer, MS]
-tags: [Previewhandler,MS, Explorer, Windows]
+tags: [Previewhandler, MS, Explorer, Windows]
 --- 
-
+![](../pics/20230707150114_regedit_acrobatPro.png)
 # [Solved] Use Acrobat 9 Pro as Ms Windows 10+ Explorer Preview Handler (in 2022(!) )
 
 Goto
@@ -20,4 +20,5 @@ to
 then restart
 
 ## Link: 
-<https://community.spiceworks.com/topic/1752934-windows-explorer-pdf-preview-not-working-after-removing-acrobat-8>
+
+- <https://community.spiceworks.com/topic/1752934-windows-explorer-pdf-preview-not-working-after-removing-acrobat-8>

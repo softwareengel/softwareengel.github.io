@@ -4,22 +4,24 @@ title: OpenCV und Python
 categories: [computer vision]
 tags: [opencv, python, ml, video, image, manipulatition]
 --- 
+![2020 09 10 Face Eye Recognition Opencv4 Python3](../pic/2020_09_10_face_eye_recognition_opencv4_python3.png)
 
 # OpenCV und Python  
 
 <https://de.wikipedia.org/wiki/OpenCV> 
 
-Python opencv tutorial <https://opencv-python-tutroals.readthedocs.io/en/latest/>
+Python opencv tutorial 
+- <https://opencv-python-tutroals.readthedocs.io/en/latest/>
 
-<https://opencv.org/>
+- <https://opencv.org/>
 
-<https://github.com/opencv>
+- <https://github.com/opencv>
 
 ## Example
 
 Python use opencv to save image from video capture 
 
-<https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/>
+- <https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/>
 
     
 ```bash
@@ -114,9 +116,6 @@ def generate():
 
 if __name__ == "__main__":
     generate()
-
-
-
 ```
 
 ![2020 09 10 Face Eye Recognition Opencv4 Python3](../pic/2020_09_10_face_eye_recognition_opencv4_python3.png)

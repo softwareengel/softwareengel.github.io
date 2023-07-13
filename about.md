@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Notes from softwareengel DevOps and SCM
+Notes from Softwareengel DevOps and SCM
 
 ## More Information
 
