@@ -1,3 +1,12 @@
+---
+layout: post
+title: Check Raspi/ESP32 for simple Coding Hacks  
+categories: [POC]
+tags: [Raspi, Coding Hacks]
+
+---
+![Foto Rapi Demo](../pic/20200131_123540.jpg)
+
 # Check Raspi/ESP for simple Coding Hacks 
 
 Default Login: pi, defaultp Pass: raspberry
@@ -88,7 +97,7 @@ Setting up Pi Zero OTG - The quick way
 
 ![Foto Rapi Demo](../pic/20200131_123540.jpg)
 
-## Raspi Image Crator 
+## Raspi Image Creator 
 
 PIBakery <https://www.pibakery.org/> 
 

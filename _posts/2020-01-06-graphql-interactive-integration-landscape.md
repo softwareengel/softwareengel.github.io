@@ -1,9 +1,11 @@
-# GraphQL 
+![](../pics/20230713100247_graphql_landscape.png)
 
-Graphql SPEC <http://spec.graphql.org/> , <http://spec.graphql.org/June2018/>
+# GraphQL - Hack - Neo4J - Node Server - JS Client 
 
-
-<https://graphql.org/>
+GraphQL SPEC 
+- <http://spec.graphql.org/> 
+- <http://spec.graphql.org/June2018/>
+- <https://graphql.org/>
 
 <https://landscape.graphql.org/>
 
@@ -19,7 +21,7 @@ https://www.youtube.com/watch?v=zVNrqo9XGOs
 # Use GraphQL by API Tools GraphiQL
 
 
-GraphiQL    https://lucasconstantino.github.io/graphiql-online/ 
+GraphiQL    <https://lucasconstantino.github.io/graphiql-online/> 
 
 
 GraphQL Playground <https://www.graphqlbin.com/>
@@ -51,9 +53,9 @@ https://www.youtube.com/watch?v=9sc8Pyc51uU
 
 # Neo4J
 
-https://neo4j.com/developer/docker-run-neo4j/
+<https://neo4j.com/developer/docker-run-neo4j/>
 
-
+```bash
     docker run \
         --name testneo4j \
         -p7474:7474 -p7687:7687 \
@@ -64,10 +66,12 @@ https://neo4j.com/developer/docker-run-neo4j/
         -v $HOME/neo4j/plugins:/plugins \
         --env NEO4J_AUTH=neo4j/test \
         neo4j:latest
+```
 
-curl http://localhost:7474/db/data/
+```bash 
+    curl http://localhost:7474/db/data/
+```
+<http://localhost:7474/webadmin/>
 
-http://localhost:7474/webadmin/
-
-http://localhost:7474/db/data/relationship/0
+<http://localhost:7474/db/data/relationship/0>
 
