@@ -4,17 +4,19 @@ title: ELK Stack - Elasticsearch - Kibana - Logstash
 categories: [ELK]
 tags: [ELK]
 --- 
-
+![](../pics/20230713120414_opendistro_opensearch.png)
 # ElasticSearch, AWS — Open Distro Elasticsearch - OpenSearch 
 
-<https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a>
+- <https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a>
+![](../pics/20230713120414_opendistro_opensearch.png)
 
-<https://github.com/opendistro-for-elasticsearch>
+
+- <https://github.com/opendistro-for-elasticsearch>
 
 
-<https://www.elastic.co/guide/en/elasticsearch/reference/7.9/docker.html>
+- <https://www.elastic.co/guide/en/elasticsearch/reference/7.9/docker.html>
 
-<https://opensearch.org/>
+- <https://opensearch.org/>
 
 # Raspi - ELK - Filebeat
 
@@ -114,6 +116,7 @@ $ sudo service logstash start
 ![2020 09 17 Elk Beats](../pic/2020-09-17-elk-beats.png)
 
 ## MetricBeat 
+
 Collect metrics from your systems and services. From CPU to memory, Redis to NGINX, and much more, Metricbeat is a lightweight way to send system and service statistics. 
 
 <https://www.elastic.co/beats/metricbeat>
@@ -122,7 +125,7 @@ Collect metrics from your systems and services. From CPU to memory, Redis to NGI
 
     tar xzvf metricbeat-6.1.2-darwin-x86_64.tar.gz
 
-configuration:
+Configuration:
 
     metricbeat.modules:
     - module: system
@@ -144,12 +147,12 @@ configuration:
       # Array of hosts to connect to.
       hosts: ["localhost:9200"]
 
-restart 
+Restart 
 
     sudo chown root metricbeat.yml 
     sudo chown root modules.d/system.yml 
     sudo ./metricbeat -e -c metricbeat.yml -d "publish"
 
-test 
+Test 
 
     curl -XGET 'localhost:9200/_cat/indices?v&pretty'
