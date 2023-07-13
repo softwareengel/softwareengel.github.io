@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revier- und Tourenplanung mit dynamischen IoT-Container-Füllständen
+title: Füllstandsprognose bei dynamischen IoT-Container-Füllständen (CRISP)
 categories: [Revierplanung]
 tags: [Revierplanung, Iot, Tourenplanung, Grafana, Rapidminer, Python]
 ---
