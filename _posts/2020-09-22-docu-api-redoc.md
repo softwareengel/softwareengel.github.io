@@ -1,17 +1,27 @@
-# api doc - spec swagger / open api 
+---
+layout: post
+title: Api Documentation - Spec Swagger, Redoc
+categories: [Swagger]
+tags: [Swagger]
+---
+![](../pics/20230713122155_swagger.png)
 
-https://en.wikipedia.org/wiki/OpenAPI_Specification 
+# Api Documentation - Spec Swagger / Open Api 
 
-https://en.wikipedia.org/wiki/Swagger_(software)
+![](../pics/20230713122155_swagger.png)
 
-https://swagger.io/
+<https://en.wikipedia.org/wiki/OpenAPI_Specification >
+
+<https://en.wikipedia.org/wiki/Swagger_(software)>
+
+<https://swagger.io/>
 
 
+# Redoc 
 
+![](../pics/20230713122057_redoc.png)
 
-# redoc 
-
-https://github.com/Redocly/redoc
+<https://github.com/Redocly/redoc>
 
 
 st29Tum6GpbT9jJ
