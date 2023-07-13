@@ -6,7 +6,7 @@ tags: [SQL, Backup, restore, docker, redmine]
 
 ---
 
-# Redmin Backup and Restore 
+# Redmine Backup and Restore 
 
 # Links 
 - <https://mariushosting.com/how-to-install-redmine-on-your-synology-nas/>
