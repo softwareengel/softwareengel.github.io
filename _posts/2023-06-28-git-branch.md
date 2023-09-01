@@ -5,7 +5,7 @@ categories: [Notes]
 tags: [git]
 --- 
 
-# git branch 
+# Git Branch 
 
 ![](../pic/bracnch-ai-20230628120059.png)
 

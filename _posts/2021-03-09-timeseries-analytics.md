@@ -9,7 +9,7 @@ tags: [ Time Series ]
 - [Time Series Analytics](#time-series-analytics)
   - [Facebook Prophet](#facebook-prophet)
   - [Rob J. Hyndman](#rob-j-hyndman)
-  - [Using Python on TS](#using-python-on-ts)
+  - [Using Python on Timeseries](#using-python-on-timeseries)
 
 # Time Series Analytics 
 
@@ -23,7 +23,9 @@ Prophet: Automatic Forecasting Procedure
 
 <https://cran.r-project.org/web/views/TimeSeries.html>
 
-## Using Python on TS
+## Using Python on Timeseries
 Using python to work with time series data
 
 <https://github.com/MaxBenChrist/awesome_time_series_in_python>
+
+![](../pic/20230901125259.png)
