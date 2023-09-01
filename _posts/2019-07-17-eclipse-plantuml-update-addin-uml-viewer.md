@@ -18,7 +18,7 @@ tags: [IDE, Eclipse, plugin, UML, plantuml]
 
 <https://github.com/hallvard/plantuml>
 
-Update-Site (Eclispe: Help > Install New Software):
+Update-Site (Eclipse: Help > Install New Software):
 <http://hallvard.github.io/plantuml>
 
 
