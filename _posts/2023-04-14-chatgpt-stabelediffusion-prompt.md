@@ -62,7 +62,7 @@ It's important to note that while prompt engineering can help guide the model's 
 ![](../pic/20230414120316_promthero_3d-render.png)
 
 # Models Huggingface 
-The AI community building the future.
+The AI community building the future. 
 
 Build, train and deploy state of the art models powered by the reference open source in machine learning. 
 
