@@ -33,9 +33,13 @@ https://flet.dev/gallery
 ![](pics/20230928114356.png)
 https://elilambnz.github.io/react-py/docs/examples/basic-example
 
+![](pics/20230928114743.png)
+
 ## Links: 
 
 - <https://pyodide.org/en/stable/>
+- Pyodide-kernel  https://github.com/jupyterlite/pyodide-kernel
+
 - Try Pyodide in a REPL directly in your browser (no installation needed) <https://pyodide.org/en/stable/console.html>
 - <https://micropip.pyodide.org/en/stable/project/usage.html>
 
