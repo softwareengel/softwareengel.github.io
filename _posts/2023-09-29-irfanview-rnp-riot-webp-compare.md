@@ -2,7 +2,8 @@
 
 # 2023-09-29-irfanview-rnp-riot-webp-compare.md
 
-Vergleich 
+**Vergleich:**
+
 * png export irfanview  
 * riot jpg
 * webp export irfanview 
