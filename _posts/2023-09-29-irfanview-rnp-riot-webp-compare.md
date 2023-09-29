@@ -13,28 +13,28 @@
 
 ## png
 
-![](pics/20230929123410-png.png)
+![](../pics/20230929123410-png.png)
 
 ## riot jpg + Webp
 
-![](pics/20230929123304-riot-webp.png)
+![](../pics/20230929123304-riot-webp.png)
 
 
 ## riot jpg 
 
-![](pics/20230929123516-riot.png)
+![](../pics/20230929123516-riot.png)
 
 
 ## webp
-![](pics/20230929123611-webp.png)
+![](../pics/20230929123611-webp.png)
 
 ## jpg 
 
-![](pics/20230929124138-jpg.png)
+![](../pics/20230929124138-jpg.png)
 
 ## Result 
 
-![](pics/20230929124452-compare-result.png)
+![](../pics/20230929124452-compare-result.png)
 
 
 | **Format** | **size [kb]** |
