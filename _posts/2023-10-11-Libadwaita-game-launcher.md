@@ -69,3 +69,8 @@ https://archive.org/details/msdos_Bubble_Bobble_1988
     <source src="/mov/2023-10-11-13-09-12-bubble-bobble.mp4" type="video/mp4">
   </video>
 </figure>
+
+Arkanoid II - Revenge of Doh
+https://archive.org/details/msdos_Arkanoid_II_-_Revenge_of_Doh_1989
+
+![](../pics/20231011131544.png)
