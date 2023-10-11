@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Map with Polygon Selector</title>
+    <!-- Include Leaflet CSS and JavaScript -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <!-- Include Leaflet marker cluster library -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.0/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.0/dist/MarkerCluster.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.0/dist/leaflet.markercluster.js"></script>
+    <!-- Include Leaflet-Geoman library -->
+    <link rel="stylesheet" href="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.css" />
+    <script src="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.min.js"></script> 
+    <!-- Include a CSS file for styling -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="map" style="height: 500px;"></div>
+
+    <script>
+        // Create a Leaflet map centered on a specific location
+        var map = L.map('map').setView([51.505, -0.09], 13);
+
+        // Add a tile layer (you can choose different map providers)
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Create an array of points of interest with their coordinates and descriptions
+        var pointsOfInterest = [
+            { lat: 51.505, lon: -0.09, name: 'Point 1', description: 'Description for Point 1', selected: false },
+            { lat: 51.51, lon: -0.1, name: 'Point 2', description: 'Description for Point 2', selected: false },
+            { lat: 51.515, lon: -0.095, name: 'Point 3', description: 'Description for Point 3', selected: false }
+        ];
+
+        // Create a marker cluster group
+        var markers = L.markerClusterGroup();
+
+        // Loop through the points of interest and add markers to the cluster group
+        for (var i = 0; i < pointsOfInterest.length; i++) {
+            var poi = pointsOfInterest[i];
+            var iconColor = poi.selected ? 'green' : 'blue'; // Set the initial icon color
+
+            var marker = L.marker([poi.lat, poi.lon], {
+                icon: L.divIcon({
+                    className: 'custom-icon',
+                    html: '<div style="background-color: ' + iconColor + ';" class="marker-pin"></div>',
+                })
+            }).bindPopup('<b>' + poi.name + '</b><br>' + poi.description);
+
+            markers.addLayer(marker);
+
+            // Add a click event to toggle the selected state and change the marker color
+            marker.on('click', function (e) {
+                var selectedMarker = e.target;
+                var selectedPOI = pointsOfInterest.find(poi => poi.lat === selectedMarker.getLatLng().lat && poi.lon === selectedMarker.getLatLng().lng);
+                if (selectedPOI) {
+                    selectedPOI.selected = !selectedPOI.selected;
+                    var iconColor = selectedPOI.selected ? 'green' : 'blue';
+                    selectedMarker.setIcon(L.divIcon({
+                        className: 'custom-icon',
+                        html: '<div style="background-color: ' + iconColor + ';" class="marker-pin"></div>',
+                    }));
+                }
+            });
+        }
+
+        // Add the marker cluster group to the map
+        map.addLayer(markers);
+
+        // Enable Leaflet-Geoman for polygon selection
+        map.pm.addControls({
+            position: 'topright',
+            drawCircle: false,
+        });
+
+        // Initialize a variable to store the drawn polygon
+        var drawnPolygon;
+
+        // Listen for the 'pm:create' event when a polygon is created
+        map.on('pm:create', function(e) {
+            drawnPolygon = e.layer;
+
+            // Iterate through the markers and check if they are inside the drawn polygon
+            markers.eachLayer(function(marker) {
+                var latlng = marker.getLatLng();
+                if (drawnPolygon.getLatLngs()[0].contains(L.latLng(latlng.lat, latlng.lng))) {
+                    marker.addTo(map); // Add the marker to the map
+                } else {
+                    map.removeLayer(marker); // Remove the marker from the map
+                }
+            });
+        });
+
+        // Listen for the 'pm:remove' event when the drawn polygon is removed
+        map.on('pm:remove', function() {
+            drawnPolygon = undefined; // Clear the reference to the drawn polygon
+
+            // Add all markers back to the map
+            markers.eachLayer(function(marker) {
+                map.addLayer(marker);
+            });
+        });
+    </script>
+</body>
+</html>

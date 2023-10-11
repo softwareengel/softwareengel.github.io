@@ -1,0 +1,23 @@
+/* Add custom CSS styles for markers and map here */
+
+/* Define the marker icon style */
+.custom-icon {
+    width: 25px;
+    height: 41px;
+    margin-left: -12px;
+    margin-top: -41px;
+    position: absolute;
+}
+
+.marker-pin {
+    width: 25px;
+    height: 41px;
+    border-radius: 50%;
+    background-color: blue; /* Default marker color */
+    border: 2px solid #fff;
+}
+
+/* Define the selected marker style */
+.custom-icon.selected {
+    background-color: green; /* Selected marker color */
+}
