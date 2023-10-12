@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag Cloud</title>
+    
+    <script src=" https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js "></script>
+    <!-- <script src="https://cdn.jsdelivr.net/p/wordcloud2/1.0.5/wordcloud2.min.js"></script> -->
+    <!-- Include a CSS file for styling -->
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="wordcloud"></div>
+
+    <script>
+        // Sample data for the word cloud
+        var words = [
+            { text: 'Lorem', weight: 13 },
+            { text: 'ipsum', weight: 10.5 },
+            { text: 'dolor', weight: 9.4 },
+            // Add more words and their weights here
+        ];
+        // WordCloud2 configuration options
+        var options = {
+            list: words,
+            gridSize: 10, // Adjust the size of the grid
+            weightFactor: 5, // Adjust the weight factor
+            fontFamily: 'Arial', // Change the font family
+            color: 'random-light', // Specify the color scheme
+            backgroundColor: '#fff', // Background color
+            rotateRatio: 0.5, // Rotate words
+        };
+
+        // Generate the word cloud
+        WordCloud(document.getElementById('wordcloud'), options);
+    </script>
+</body>
