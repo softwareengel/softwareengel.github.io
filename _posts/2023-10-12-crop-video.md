@@ -1,3 +1,9 @@
+---
+layout: post
+title: Resize Video Screen and Crop - Solved (Gelöst)
+categories: [Video]
+tags: [Video, Crop, Edit, TEncoder, ffmpeg]
+--- 
 
 ![](../pics/20231012111457_TencoderffMpg.png)
 
