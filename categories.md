@@ -20,3 +20,13 @@ title: Categories
   </div>
 {% endfor %}
 </div>
+
+<div id="archives2">
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+  {{ category[0] }} <!-- category name -->
+  {% for post in category[1] %}
+    {{ post.title }} <!-- post title within the category -->
+  {% endfor %}
+{% endfor %}
+</div>
