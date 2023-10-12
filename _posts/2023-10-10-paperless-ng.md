@@ -5,8 +5,12 @@ categories: [CRM]
 tags: [CRM, Docker, PDF, Search]
 --- 
 
+![](../pics/20231012102008.png)
 # Paperless-ngx
 
+Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
+
+![](../pics/20231012102147.png)
 
 # Log
 
