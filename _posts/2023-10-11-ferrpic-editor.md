@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kids and Science 
-categories: [Kids]
-tags: [Kids, HowTo]
+title: Freepik - Create great designs, faster
+categories: [Picture]
+tags: [Lib, Pictures, Web]
 --- 
 ![](../pics/20231011164056.png)
 # Freepik
