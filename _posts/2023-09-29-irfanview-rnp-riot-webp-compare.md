@@ -5,7 +5,7 @@ categories: [compression]
 tags: [png, webp, riot, compression, compare]
 --- 
 
-![](../pics/20230929124452-compare-result.png)
+![compare image file formats](../pics/20230929124452-compare-result.png)
 
 # 2023-09-29-irfanview-png-riot-webp-compare.md
 
