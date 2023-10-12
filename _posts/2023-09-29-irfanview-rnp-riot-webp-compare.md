@@ -1,6 +1,13 @@
+---
+layout: post
+title: irfanview-png-riot-webp-compare
+categories: [compression]
+tags: [png, webp, riot, compression, compare]
+--- 
 
+![](../pics/20230929124452-compare-result.png)
 
-# 2023-09-29-irfanview-rnp-riot-webp-compare.md
+# 2023-09-29-irfanview-png-riot-webp-compare.md
 
 **Vergleich:**
 
@@ -11,24 +18,24 @@
 * jpg export irfanview 
 
 
-## png
+## .png
 
 ![](../pics/20230929123410-png.png)
 
-## riot jpg + Webp
+## .riotjpg + Webp
 
 ![](../pics/20230929123304-riot-webp.png)
 
 
-## riot jpg 
+## .riot jpg 
 
 ![](../pics/20230929123516-riot.png)
 
 
-## webp
+## .webp
 ![](../pics/20230929123611-webp.png)
 
-## jpg 
+## .jpg 
 
 ![](../pics/20230929124138-jpg.png)
 
