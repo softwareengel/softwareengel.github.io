@@ -16,7 +16,7 @@ tags: [Video, Crop, Edit, TEncoder, ffmpeg]
 
 ![](../pics/20231012110333.png)
 
- Video Bitrate: 2000 -> 141  
+Video Bitrate: 2000 -> 141  
 
 <figure class="video_container">
   <video width="100%"  controls="true" 
