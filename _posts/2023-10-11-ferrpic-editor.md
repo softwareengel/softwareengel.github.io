@@ -10,7 +10,7 @@ tags: [Lib, Pictures, Web]
 Create great designs, faster
 Turn ideas into outstanding designs with high-quality vectors, photos, videos, mockups, and more
 
-https://www.freepik.com/free-photo/
+<https://www.freepik.com/free-photo/>
 
 ![](../pics/20231011163914.png)
 
