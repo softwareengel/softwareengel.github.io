@@ -83,7 +83,7 @@ Build, train and deploy state of the art models powered by the reference open so
 
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/2023-07-06-13-00-19.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/2023-07-06-13-00-19.png">
     <source src="/mov/2023-07-06-13-01-29.mp4" type="video/mp4">
   </video>
 </figure>

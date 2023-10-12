@@ -6,7 +6,7 @@ tags: [Python, Web, Scapping, Selenium ]
 --- 
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png">
     <source src="/mov/2021-01-28 13-24-07-python-selenium-WebScrapping.mp4" type="video/mp4">
   </video>
 </figure>
@@ -20,7 +20,7 @@ Python Selenium Data Scapping from Complex Website (Arcgis + IFrame + Ember.js)
 
 <!-- blank line -->
 <figure class="video_container">
-  <video width="920" controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png"> 
+  <video width="100%" controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png"> 
     <source src="/mov/2021-01-28 13-24-07-python-selenium-WebScrapping.mp4" type="video/mp4">
   </video>
 </figure>

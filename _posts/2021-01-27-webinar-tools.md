@@ -5,7 +5,7 @@ categories: [ webinar, tools ]
 tags: [tweedback, WonderMe, arsnova, partify]
 --- 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
     <source src="/mov/2021-03-03-08-11-34-mentimeter.mp4" type="video/mp4">
   </video>
 </figure>
@@ -118,7 +118,7 @@ Use live polls, quizzes, word clouds, Q&As and more to get real-time input - reg
 
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
     <source src="/mov/2021-03-03-08-11-34-mentimeter.mp4" type="video/mp4">
   </video>
 </figure>
@@ -159,7 +159,7 @@ Login admin:  Anmeldung, Free: nur 2 Colab User
 <https://tools-unite.com/tools/random-picker-wheel>
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" >
+  <video width="100%"  controls="true" allowfullscreen="true" >
     <source src="/mov/2021-03-03-09-16-50-randomwheelpicker.mp4" type="video/mp4">
   </video>
 </figure>

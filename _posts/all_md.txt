@@ -7812,7 +7812,7 @@ categories: [ webinar, tools ]
 tags: [tweedback, WonderMe, arsnova, partify]
 --- 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
     <source src="/mov/2021-03-03-08-11-34-mentimeter.mp4" type="video/mp4">
   </video>
 </figure>
@@ -7906,7 +7906,7 @@ Use live polls, quizzes, word clouds, Q&As and more to get real-time input - reg
 
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
     <source src="/mov/2021-03-03-08-11-34-mentimeter.mp4" type="video/mp4">
   </video>
 </figure>
@@ -7948,7 +7948,7 @@ Login admin:  Anmeldung, Free: nur 2 Colab User
 
 <https://tools-unite.com/tools/random-picker-wheel>
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" >
+  <video width="100%"  controls="true" allowfullscreen="true" >
   
     <source src="/mov/2021-03-03-09-16-50-randomwheelpicker.mp4" type="video/mp4">
   </video>
@@ -7984,7 +7984,7 @@ tags: [Python, Web, Scapping, Selenium ]
 --- 
 Python Selenium Data scapping from complex website (Arcgis + IFrame + Ember.js)
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png">
     <source src="/mov/2021-01-28 13-24-07-python-selenium-WebScrapping.mp4" type="video/mp4">
   </video>
 </figure>
@@ -7995,7 +7995,7 @@ Python Selenium Data scapping from complex website (Arcgis + IFrame+ Emberjs)
 
 <!-- blank line -->
 <figure class="video_container">
-  <video width="920" controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png"> 
+  <video width="100%" controls="true" allowfullscreen="true" poster="/pic/2021-01-28-screenshot-scapping-live-sendkeys.png"> 
     <source src="/mov/2021-01-28 13-24-07-python-selenium-WebScrapping.mp4" type="video/mp4">
   </video>
 </figure>
@@ -8167,7 +8167,7 @@ The modern way to build for the web
 ## Onbording Jsprit Java Eclipse 
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true">
+  <video width="100%"  controls="true" allowfullscreen="true">
     <source src="/mov/20200720 1624-1-jsprit%20Java%20Routing.mp4" type="video/mp4">
   </video>
 </figure>

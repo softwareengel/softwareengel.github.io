@@ -6,7 +6,7 @@ tags: [Games]
 --- 
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pics/20231012100623_bubbleBobble.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pics/20231012100623_bubbleBobble.png">
     <source src="/mov/2023-10-11-13-09-12-bubble-bobble.mp4" type="video/mp4">
   </video>
 </figure>
@@ -69,7 +69,7 @@ Bubble Bobble
 https://archive.org/details/msdos_Bubble_Bobble_1988
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pics/20231012100623_bubbleBobble.png">
+  <video width="100%"  controls="true" allowfullscreen="true" poster="/pics/20231012100623_bubbleBobble.png">
     <source src="/mov/2023-10-11-13-09-12-bubble-bobble.mp4" type="video/mp4">
   </video>
 </figure>

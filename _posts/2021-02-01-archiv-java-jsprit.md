@@ -5,7 +5,7 @@ categories: [Routing ]
 tags: [ Java, Jsprit, Routing]
 --- 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true">
+  <video width="100%"  controls="true" allowfullscreen="true">
     <source src="/mov/20200720 1624-1-jsprit%20Java%20Routing.mp4" type="video/mp4">
   </video>
 </figure>
@@ -33,7 +33,7 @@ The jsprit-project is maintained by GraphHopper.
 ## Onbording Jsprit Java Eclipse
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true">
+  <video width="100%"  controls="true" allowfullscreen="true">
     <source src="/mov/20200720 1624-1-jsprit%20Java%20Routing.mp4" type="video/mp4">
   </video>
 </figure>
