@@ -4,11 +4,13 @@ title: Libadwaita game launcher
 categories: [Games]
 tags: [Games]
 --- 
+
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
+  <video width="920"  controls="true" allowfullscreen="true" poster="/pics/20231012100623_bubbleBobble.png">
     <source src="/mov/2023-10-11-13-09-12-bubble-bobble.mp4" type="video/mp4">
   </video>
 </figure>
+
 
 
 # Games
@@ -61,11 +63,13 @@ https://archive.org/details/arcade_pbobble4
 OSComeback - Windows 1.01 (1985)
 https://archive.org/details/ocb_win101
 
+![](../pics/20231012100623_bubbleBobble.png)
+
 Bubble Bobble
 https://archive.org/details/msdos_Bubble_Bobble_1988
 
 <figure class="video_container">
-  <video width="920"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
+  <video width="920"  controls="true" allowfullscreen="true" poster="/pics/20231012100623_bubbleBobble.png">
     <source src="/mov/2023-10-11-13-09-12-bubble-bobble.mp4" type="video/mp4">
   </video>
 </figure>
