@@ -181,3 +181,7 @@ tags: [builders, JS, Tag, generator]
 Beautiful Tag Cloud Generator With Vanilla JS – wordcloud2.js
 
 <https://www.cssscript.com/tag-word-cloud/>
+
+<https://wordcloud2-js.timdream.org/#love>
+
+<https://github.com/timdream/wordcloud2.js>
