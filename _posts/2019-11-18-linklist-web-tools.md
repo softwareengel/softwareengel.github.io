@@ -23,17 +23,15 @@ tags: [Links]
 
 ## IT - Books
 
-<https://b-ok.cc/>
+~~<https://b-ok.cc/>~~
 
-<https://z-lib.org/>
+~~<https://z-lib.org/>~~
 
-<https://www.ebooks777.net/>
+~~<https://www.ebooks777.net/>~~
 
-- Not working:
+~~<https://dlfeb.com/>~~
 
-<https://dlfeb.com/> - not working 2022
-
-<http://www.allitebooks.org/>
+~~<http://www.allitebooks.org/>~~
 
 ## Books
 
@@ -41,13 +39,16 @@ tags: [Links]
 
 <https://librarygenesis.net/> 
 
-<http://en.bookfi.net/> 
+~~<http://en.bookfi.net/>~~
 
-<https://dlfeb.com/> (interneál server err ?!)
+~~<https://dlfeb.com/>~~
 
-<https://libgen.pw/>
+~~<https://libgen.pw/>~~
 
 <https://en.booksee.org/>
+## Audio / Video 
+
+<https://uu.canna.to/>
 
 ## Rheinwerk open books
 
@@ -63,12 +64,11 @@ tags: [Links]
 
 Key: !cHzM6YY3JU3b65OzxecnmA!P3R21Yba
 
-
-# Share Logins 
+## Share Logins 
 
 <http://bugmenot.com/>
 
-# Web IDE 
+## Web IDE 
 
 <https://repl.it/>
 
@@ -102,13 +102,13 @@ he free and open software security community
 
 <https://wiki.owasp.org/index.php/Phoenix>
 
-## Explore Git 
+## Explore Git
 
 https://resources.oreilly.com/public
 
 ## Web Mapping 
 
-### overpass API mit grafischem Ergebnis
+### Overpass API mit grafischem Ergebnis
 
 <https://overpass-turbo.eu/> 
 

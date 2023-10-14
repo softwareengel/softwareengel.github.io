@@ -15,8 +15,6 @@
 
         .tag-cloud-item a {
             color: inherit;
-
-
         }
 
         .placeholder {
@@ -39,137 +37,137 @@
     <a href="#" id="top-link">Back to Top</a>
 
     <div id="html_wordcloud" width="800" height="800" class="canvas"></div>
-    <canvas id="canvas_wordcloud" class="word_cloud" width="800" height="800" </canvas>
+    <canvas id="canvas_wordcloud" class="word_cloud" width="800" height="800"></canvas>
 
-    <script>
-        // show/hide top-link Ref 
-        window.onscroll = function () {
-            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                document.getElementById("top-link").style.display = "block";
-            } else {
-                document.getElementById("top-link").style.display = "none";
+        <script>
+            // show/hide top-link Ref 
+            window.onscroll = function () {
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    document.getElementById("top-link").style.display = "block";
+                } else {
+                    document.getElementById("top-link").style.display = "none";
+                }
+            };
+
+            document.getElementById("top-link").addEventListener("click", function () {
+                document.body.scrollTop = 0; // For Safari
+                document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE, and Opera
+            });
+
+            // Scroll to Div
+            function scrollToSection(sectionId) {
+                var target = document.getElementById(sectionId);
+                console.log('scrollToSection: ' + sectionId);
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
             }
-        };
-
-        document.getElementById("top-link").addEventListener("click", function () {
-            document.body.scrollTop = 0; // For Safari
-            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE, and Opera
-        });
-
-        // Scroll to Div
-        function scrollToSection(sectionId) {
-            var target = document.getElementById(sectionId);
-            console.log('scrollToSection: ' + sectionId);
-            if (target) {
-                target.scrollIntoView({ behavior: 'smooth' });
-            }
-        }
-        // on Click on Word in Wordcloud 
-        function onClick(item) {
-            console.log('onClick: ' + item);
-            scrollToSection(item);
-        }
-        
-        let hovercount = 0
-        // on Hover on Word in Word CLoud 
-        function onWordHover(item) {
-            // Handle the hover event for a word
-            if (Array.isArray(item)) {
-                console.log('Hovered over: ' + item[0]);
+            // on Click on Word in Wordcloud 
+            function onClick(item) {
+                console.log('onClick: ' + item);
+                scrollToSection(item);
             }
 
-        
+            let hovercount = 0
+            // on Hover on Word in Word CLoud 
+            function onWordHover(item) {
+                // Handle the hover event for a word
+                if (Array.isArray(item)) {
+                    console.log('Hovered over: ' + item[0]);
+                }
 
-            // // Get all elements with the class "tag-cloud-item"
-            var tagCloudItems = document.querySelectorAll('.tag-cloud-item');
-            // on first hover 
-            // Add a click event to each "tag-cloud-item"
-            if (hovercount < 1) {
-                 hovercount = 1
-                 tagCloudItems.forEach(
-                     function (tagCloudItem) {
-                         tagCloudItem.addEventListener('click', function () {
-                             // Action to perform when a tag is clicked
-                             scrollToSection(tagCloudItem.textContent);
-                         });
-                     });
+
+
+                // // Get all elements with the class "tag-cloud-item"
+                var tagCloudItems = document.querySelectorAll('.tag-cloud-item');
+                // on first hover 
+                // Add a click event to each "tag-cloud-item"
+                if (hovercount < 1) {
+                    hovercount = 1
+                    tagCloudItems.forEach(
+                        function (tagCloudItem) {
+                            tagCloudItem.addEventListener('click', function () {
+                                // Action to perform when a tag is clicked
+                                scrollToSection(tagCloudItem.textContent);
+                            });
+                        });
+                }
             }
-        }
-        // Array of objects with test and size atrribute 
-        var words = [
-            { text: 'Hello', size: 40 }, { text: 'World', size: 30 },
-            { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'CloudCloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 60 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 90 }, { text: 'World', size: 30 },
-            { text: 'WordWord', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 60 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 90 }, { text: 'World', size: 30 },
-            { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 60 }, { text: 'WordWordWord', size: 20 }, { text: 'Cloud', size: 90 }, { text: 'World', size: 30 },
-            { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
-            { text: 'World', size: 60 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 90 },
-            // Add more words and sizes here
-        ];
+            // Array of objects with test and size atrribute 
+            var words = [
+                { text: 'Hello', size: 40 }, { text: 'World', size: 30 },
+                { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'CloudCloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 60 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 90 }, { text: 'World', size: 30 },
+                { text: 'WordWord', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 60 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 90 }, { text: 'World', size: 30 },
+                { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 60 }, { text: 'WordWordWord', size: 20 }, { text: 'Cloud', size: 90 }, { text: 'World', size: 30 },
+                { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 30 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 10 }, { text: 'Hello', size: 40 },
+                { text: 'World', size: 60 }, { text: 'World', size: 20 }, { text: 'Cloud', size: 90 },
+                // Add more words and sizes here
+            ];
 
-        // options for word cloud 
-        // https://github.com/timdream/wordcloud2.js/blob/gh-pages/API.md
-        var options = {
-            list: words,
-            gridSize: 10, // Adjust the size of the grid
-            weightFactor: 5, // Adjust the weight factor
-            fontFamily: 'Arial', // Change the font family
-            color: 'random-light', // Specify the color scheme
-            // color: color    ,
-            backgroundColor: '#fff', // Background color
-            rotateRatio: 0.5, // Rotate words
-        };
-        WordCloud.minFontSize = "10px"
-        // liste with words with dups 
-        list = [];
-        for (var i in words) {
-            list.push([words[i]["text"], words[i]["size"]])
-        }
-        // Create Word CLoud 
-        WordCloud(
-            [
-                document.getElementById('canvas_wordcloud'), // Canvas WordCloud 
-                document.getElementById('html_wordcloud'), // HTML - WordCloud 
-            ], {
-            list: list,
-            // drawOutOfBound: true,
-            backgroundColor: '#fff', // Background color
-            gridSize: 20, // Adjust the size of the grid
-            rotateRatio: 0.2, // Rotate words
-            color: 'random-light', // Specify the color scheme
-            fontFamily: 'Arial', // Change the font family
-            weightFactor: 1, // Adjust the weight factor
-            classes: 'tag-cloud-item',
-            // drawMask: true,
-            hover: (item) => { onWordHover(item) }, //  canvas and html 
-            // "hover": '',
-            click: (item) => { onClick(item); } // only canvas 
-        });
-        
-    </script>
-    <div id="verticalTab" class="placeholder"> </div>
+            // options for word cloud 
+            // https://github.com/timdream/wordcloud2.js/blob/gh-pages/API.md
+            var options = {
+                list: words,
+                gridSize: 10, // Adjust the size of the grid
+                weightFactor: 5, // Adjust the weight factor
+                fontFamily: 'Arial', // Change the font family
+                color: 'random-light', // Specify the color scheme
+                // color: color    ,
+                backgroundColor: '#fff', // Background color
+                rotateRatio: 0.5, // Rotate words
+            };
+            WordCloud.minFontSize = "10px"
+            // liste with words with dups 
+            list = [];
+            for (var i in words) {
+                list.push([words[i]["text"], words[i]["size"]])
+            }
+            // Create Word CLoud 
+            WordCloud(
+                [
+                    document.getElementById('canvas_wordcloud'), // Canvas WordCloud 
+                    document.getElementById('html_wordcloud'), // HTML - WordCloud 
+                ], {
+                list: list,
+                // drawOutOfBound: true,
+                backgroundColor: '#fff', // Background color
+                gridSize: 20, // Adjust the size of the grid
+                rotateRatio: 0.2, // Rotate words
+                color: 'random-light', // Specify the color scheme
+                fontFamily: 'Arial', // Change the font family
+                weightFactor: 1, // Adjust the weight factor
+                classes: 'tag-cloud-item',
+                // drawMask: true,
+                hover: (item) => { onWordHover(item) }, //  canvas and html 
+                // "hover": '',
+                click: (item) => { onClick(item); } // only canvas 
+            });
 
-    <div id="Hello"> Hello </div>
+        </script>
+        <div id="verticalTab" class="placeholder"> </div>
 
-    <div id="verticalTab" class="placeholder"> </div>
+        <div id="Hello"> Hello </div>
 
-    <div id="World"> World </div>
+        <div id="verticalTab" class="placeholder"> </div>
 
-    <div id="verticalTab" class="placeholder"> </div>
+        <div id="World"> World </div>
 
-    <div id="Cloud"> Cloud </div>
+        <div id="verticalTab" class="placeholder"> </div>
 
-    <div id="verticalTab" class="placeholder"> </div>
-    <div id="verticalTab" class="placeholder"> </div>
-    <div id="verticalTab" class="placeholder"> </div>
-    <div id="verticalTab" class="placeholder"> </div>
-    <div id="verticalTab" class="placeholder"> </div>
+        <div id="Cloud"> Cloud </div>
+
+        <div id="verticalTab" class="placeholder"> </div>
+        <div id="verticalTab" class="placeholder"> </div>
+        <div id="verticalTab" class="placeholder"> </div>
+        <div id="verticalTab" class="placeholder"> </div>
+        <div id="verticalTab" class="placeholder"> </div>
 </body>
 
 </html>

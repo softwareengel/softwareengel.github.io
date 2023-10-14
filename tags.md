@@ -5,6 +5,8 @@ title: Tags
 ---
 
 <div id="archives">
+
+
 {% for tag in site.tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
@@ -21,3 +23,13 @@ title: Tags
   </div>
 {% endfor %}
 </div>
+
+<script type="text/javascript">>
+
+let tags = '['
+{% for tag in site.tags %}
+tags += "'" + tag + "'"
+{% endfor %}
+tags += ']'
+
+</script>
