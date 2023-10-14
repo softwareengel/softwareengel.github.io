@@ -6,8 +6,13 @@ title: Tags
 
 <div id="archives">
 
-
+{% assign sortedTags = site.tags | sort %}
+{% for tag in sortedTags %}
+{% capture my_comment %}
+{{
 {% for tag in site.tags %}
+}}
+{% endcapture %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
@@ -28,8 +33,15 @@ title: Tags
 
 let tags = '['
 {% for tag in site.tags %}
-tags += "'" + tag + "'"
+tags += "'" + {{ tag }} + "' ,"
 {% endfor %}
 tags += ']'
 
 </script>
+console.log(tags);
+
+<script>
+  var jekyllTags = {{ site.tags | jsonify }};
+</script>
+
+console.log(jekyllTags);
