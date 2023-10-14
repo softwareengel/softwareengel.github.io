@@ -3,17 +3,9 @@ layout: page
 permalink: /tags/
 title: Tags
 ---
-{% comment %}
-Allows you to leave un-rendered code inside a Liquid template. Any text within the opening and closing comment blocks will not be printed, and any Liquid code within will not be executed.
-{% assign verb = "converted" %}
-{% endcomment %}
+
 
 <div id="archives">
-  
-  {% comment %}
-  {% assign sortedTags = site.tags | sort %}
-  {% for tag in sortedTags %}
-  {% endcomment %}
   
 {% for tag in site.tags %}
   <div class="archive-group">
@@ -32,25 +24,3 @@ Allows you to leave un-rendered code inside a Liquid template. Any text within t
 {% endfor %}
 </div>
 
-{% comment %}
-<script type="text/javascript">
-<!-- 
-  let tags = '['
-  {% for tag in site.tags %}
-  tags += "'" + {{ tag }} + "' ,"
-  {% endfor %}
-  tags += ']'
-
-  console.log(tags);
--->
-</script>
-
-<script type="text/javascript">
-  <!-- 
-  var jekyllTags = {{ site.tags | jsonify }};
-
-  console.log(jekyllTags);
-  -->
-
-</script>
-{% endcomment %}
