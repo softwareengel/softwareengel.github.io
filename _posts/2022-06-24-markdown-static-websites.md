@@ -12,7 +12,7 @@ tags: [jamstack, hugo, jekyll,md]
   - [Jamstack Themes](#jamstack-themes)
   - [Pandoc a universal document converter](#pandoc-a-universal-document-converter)
   - [https://www.gatsbyjs.com/](#httpswwwgatsbyjscom)
-  - [Pelican](#pelican)
+  - [Pelican - Python](#pelican---python)
   - [Hedgedoc](#hedgedoc)
   - [Hugo](#hugo)
   - [Jekyll](#jekyll)
@@ -70,15 +70,19 @@ Themes für Static Sites
 - <https://www.gatsbyjs.com/>
 - <https://www.gatsbyjs.com/docs/quick-start/>
 
+## Pelican - Python
 
-## Pelican 
-
-Python based md Websitegenerator 
+Python based md Websitegenerator
 
 <https://docs.getpelican.com/en/latest/tips.html#publishing-to-github>
 <https://github.com/getpelican/pelican>
 
+- Plugins:
+
+<https://github.com/pelican-plugins>
+
 ## Hedgedoc
+
 <https://hedgedoc.org/>
 <https://github.com/hedgedoc>
 <https://github.com/hedgedoc/hedgedoc>
