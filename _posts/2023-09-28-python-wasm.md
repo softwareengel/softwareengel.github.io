@@ -5,7 +5,17 @@ categories: [Python , WASM]
 tags: [Python , WASM]
 ---
 
-# Python and WASM 
+![](../pics/20230928111641.png)
+
+- [Python and WASM](#python-and-wasm)
+  - [Pyodide](#pyodide)
+  - [Deploy your first JupyterLite website on GitHub Pages](#deploy-your-first-jupyterlite-website-on-github-pages)
+  - [Python Web Consonle WASM](#python-web-consonle-wasm)
+  - [Flet](#flet)
+  - [React Py wasm in Browser](#react-py-wasm-in-browser)
+  - [Links](#links)
+
+# Python and WASM
 
 ![](../pics/20230928111641.png)
 
@@ -29,16 +39,19 @@ https://flet.dev/docs/guides/python/getting-started
 https://flet.dev/gallery
 
 ![](pics/20230928114113.png)
-## React Py wasm in Browser 
+
+## React Py wasm in Browser
+
 ![](../pics/20230928114356.png)
-https://elilambnz.github.io/react-py/docs/examples/basic-example
+
+<https://elilambnz.github.io/react-py/docs/examples/basic-example>
 
 ![](../pics/20230928114743.png)
 
-## Links: 
+## Links
 
 - <https://pyodide.org/en/stable/>
-- Pyodide-kernel  https://github.com/jupyterlite/pyodide-kernel
+- Pyodide-kernel  <https://github.com/jupyterlite/pyodide-kernel>
 
 - Try Pyodide in a REPL directly in your browser (no installation needed) <https://pyodide.org/en/stable/console.html>
 - <https://micropip.pyodide.org/en/stable/project/usage.html>
