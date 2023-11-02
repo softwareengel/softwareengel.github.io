@@ -77,10 +77,11 @@ bundle exec jekyll serve
 
 ## V2
 
+```bash
 sudo apt-get update -y && sudo apt-get upgrade -y
+```
 
 https://kreativ-anders.de/blog/jekyll-fur-wsl/
-
 
 ## Liquid template engine
 
