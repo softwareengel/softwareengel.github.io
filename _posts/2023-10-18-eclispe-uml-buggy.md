@@ -1,3 +1,11 @@
+---
+layout: post
+title: Eclipse Papyrus Diagram
+categories: [uml, Generator]
+tags: [oss, uml, generator, java, Papyrus, Eclipse ]
+--- 
+
+![Eclipse Papyrus Diagram](../pics/20231018194719.png)
 
 # Eclipse UML Papyrus Working .... nearly impossible ...
 
