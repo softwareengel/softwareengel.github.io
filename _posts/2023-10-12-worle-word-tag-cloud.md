@@ -5,12 +5,12 @@ categories: [JS, Tagcloud]
 tags: [builders, JS, Tag, generator]
 --- 
 
-![](../pics/20231013125122.png)
+![Wordle Tag Cloud Vanilla JS](../pics/20231013125122.png)
+
 - [Vanilla JS Wordcloud](#vanilla-js-wordcloud)
-- [Links](#links)
+  - [Links](#links)
 
-
-# Vanilla JS Wordcloud 
+# Vanilla JS Wordcloud
 
 <https://softwareengel.github.io/html/testword.html>
 
@@ -171,8 +171,7 @@ tags: [builders, JS, Tag, generator]
 
 ```
 
-# Links
-
+## Links
 
 <https://www.jasondavies.com/wordcloud/>
 

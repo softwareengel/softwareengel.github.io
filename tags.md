@@ -4,13 +4,10 @@ permalink: /tags/
 title: Tags
 ---
 
-
 <div id="archives">
-{% assign sortedTags = site.tags | sort %}
-
 {% for tag in site.tags %}
   <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }} {% endcapture %}
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
     <p></p>
 
@@ -24,4 +21,3 @@ title: Tags
   </div>
 {% endfor %}
 </div>
-

@@ -1,31 +1,37 @@
+---
+layout: post
+title: Eclipse Papyrus Diagram
+categories: [uml, Generator]
+tags: [oss, uml, generator, java, Papyrus, Eclipse ]
+--- 
 
-# Eclipse UML Papyrus Working .... nearly impossible ... 
+![Eclipse Papyrus Diagram](../pics/20231018194719.png)
+
+# Eclipse UML Papyrus Working .... nearly impossible ...
 
 ## About
 
-![](../pics/20231018193054.png)
+![Eclipse Verion About](../pics/20231018193054.png)
 
-```
+```txt
 Eclipse Modeling Tools
 
 Version: 2022-03 (4.23.0)
 Build id: 20220310-1457
 ```
 
-## Papyrus new Diagrams 
+## Papyrus new Diagrams
 
-![](../pics/20231018194719.png)
+![Eclipse Papyrus Diagram](../pics/20231018194719.png)
 
-## installed Software 
+## Installed Software - Working
 
-![](../pics/20231018192851.png)
-
+![Eclipse Papyrus Installed Software List Working](../pics/20231018192851.png)
 
 ## Links
 
-https://www.youtube.com/watch?v=6_HY2u-EeE0
+<https://www.youtube.com/watch?v=6_HY2u-EeE0>
 
-https://www.youtube.com/watch?v=Z3u5fSWkP-A
+<https://www.youtube.com/watch?v=Z3u5fSWkP-A>
 
-https://www.youtube.com/watch?v=FtRUrACUUsU
-
+<https://www.youtube.com/watch?v=FtRUrACUUsU>
