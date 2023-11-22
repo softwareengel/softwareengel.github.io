@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: IOT Behälter in der Entsorgung
+categories: [Iot]
+tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
+--- 
 - [IOT Behälter in der Entsorgung](#iot-behälter-in-der-entsorgung)
   - [Auftrasabwicklung Presscontainer ohne IOT](#auftrasabwicklung-presscontainer-ohne-iot)
   - [Auftrasabwicklung Presscontainer mit IOT](#auftrasabwicklung-presscontainer-mit-iot)
@@ -72,7 +77,6 @@
 ![](../pics/20231116153259.png)
 
 - aktive Behältersensoren...
-
 
 ![](../pics/20231116153327_bde_aktivesensoren.png)
 
