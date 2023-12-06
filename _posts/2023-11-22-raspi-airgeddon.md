@@ -14,7 +14,15 @@ tags: [Raspi, Airgeddon, Kali]
 - Cards and Chipsets:
     <https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets>
 
-# Links
+# Kali 
 - Kali Linux 4 Arm (Raspi): <https://www.kali.org/get-kali/#kali-arm>
 - Welcome to RasPwn OS, The intentionally vulnerable image for the Raspberry Pi: <http://raspwn.org/install>
 - Kali Tools: <https://www.kali.org/tools/>
+
+Set german keybord layout 
+  
+``` bash
+ setxkbmap -layout <countrycode>
+ ```
+ See: <https://mayadevbe.me/posts/linux_keyboard_layout/>
+ #
