@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Research TheTuring Way 
+title: Research The Turing Way 
 categories: []
 tags: [R&D]
 --- 
 
 ![](../pics/20240115121518_turingWay.png)
+
+# The Turing Way 
+
+![](../pics/20240115121820.png)
 
 # Guide for Reproducible Research
 
