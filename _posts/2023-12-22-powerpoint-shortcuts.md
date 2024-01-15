@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Powerpoint 2013 Shortcuts - Presentation
-categories: []
-tags: [Powerpoint,ppt, shotcuts]
+categories: [Office]
+tags: [Powerpoint, ppt, shotcuts]
 --- 
+![](../pics/20231222143306_ppt_shortcut.png)
+
+
+# Powerpoint Shortcuts 
 
 <https://nutsandboltsspeedtraining.com/powerpoint-tutorials/powerpoint-shortcuts/>
 
