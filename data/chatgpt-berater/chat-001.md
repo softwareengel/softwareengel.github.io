@@ -58,7 +58,7 @@ Informatikprofessoren können außerhalb der Hochschule eine breite Palette von 
 Die Dienstleistungen von Informatikprofessoren außerhalb der Hochschule sind oft stark nachgefragt, da ihre Fachkenntnisse und ihre Fähigkeiten in der Informations- und Kommunikationstechnologie in vielen Branchen und Sektoren benötigt werden.
 
 ---
-# vorgehensweise für erfolgreiche aquise einzelner diesnstleidungen  
+# vorgehensweise für erfolgreiche aquise einzelner dienstleidungen  
 ---
 
 Die Akquise von Dienstleistungen erfordert eine strukturierte Vorgehensweise, um erfolgreich neue Kunden oder Aufträge zu gewinnen. Hier ist eine Schritt-für-Schritt-Anleitung für eine erfolgreiche Akquise von Dienstleistungen:
