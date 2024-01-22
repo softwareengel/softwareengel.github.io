@@ -2,9 +2,11 @@
 layout: post
 title: Machbarkeit und Einsparung bei automatischer Depot-Container Revier- und Tourenplanung
 categories: []
-tags: [Revierplanung, Tourenplanung, Depotcontiner, Behälter, Prognose, Karten]
+tags: [Revierplanung, Tourenplanung, Depotcontiner, Behälter, Prognose, Karten, Glas, Depotcontainer]
 --- 
 
+
+![](../pics/20240122153217_glassammlung.png)
 ## IoT - Integrierte Analyse und Planung von Glas - Depot - Sammelcontanern 
 Verschidene Module spielen automatisiert Zusammen 
 
