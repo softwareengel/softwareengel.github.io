@@ -1,0 +1,1923 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+	class=" is-full hasPageActions hasBreadcrumb moduleunit has-default-focus theme-light"
+	lang="en-us"
+	dir="ltr"
+	data-authenticated="false"
+	data-auth-status-determined="false"
+	data-target="docs"
+	x-ms-format-detection="none">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta property="og:title" content="Exercise - Data manipulation part 3 - Impute missing values by using machine learning - Training" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://learn.microsoft.com/en-us/training/modules/predict-basketball-player-efficiency-ratings/10-impute-missing-data-part-2" />
+			<meta property="og:description" content="Use a linear regression machine learning model to impute data in complex columns." />
+
+	<meta property="og:image" content="https://learn.microsoft.com/en-us/media/open-graph-image.png" />
+
+	<meta property="og:image:alt" content="Microsoft Learn" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+
+	<meta name="twitter:site" content="@MicrosoftLearn" />
+
+	<meta name="color-scheme" content="light dark">
+
+
+	<meta name="author" content="softchris" />
+<meta name="azure_sandbox" content="false" />
+<meta name="breadcrumb_path" content="/learn/breadcrumb/toc.json" />
+<meta name="clicktale" content="true" />
+<meta name="depot_name" content="Docs.learn-pr" />
+<meta name="description" content="Use a linear regression machine learning model to impute data in complex columns." />
+<meta name="document_id" content="a99abcbe-022b-46e2-b4d2-44f0ff67b83f" />
+<meta name="document_version_independent_id" content="780f4b34-e18d-1edd-07b9-d547fec813bd" />
+<meta name="feedback_help_link_type" content="" />
+<meta name="feedback_help_link_url" content="" />
+<meta name="feedback_product_url" content="" />
+<meta name="feedback_system" content="GitHub" />
+<meta name="git_commit_id" content="abd2aec540ddcd6bf02aff0af870433061fb1c46" />
+<meta name="gitcommit" content="https://github.com/MicrosoftDocs/learn-pr/blob/abd2aec540ddcd6bf02aff0af870433061fb1c46/learn-pr/sports-machine-learning/predict-basketball-player-efficiency-ratings/10-impute-missing-data-part-2.yml" />
+<meta name="locale" content="en-us" />
+<meta name="localization_scopes" content="ar-sa" />
+<meta name="localization_scopes" content="de-de" />
+<meta name="localization_scopes" content="es-es" />
+<meta name="localization_scopes" content="fr-fr" />
+<meta name="localization_scopes" content="it-it" />
+<meta name="localization_scopes" content="ja-jp" />
+<meta name="localization_scopes" content="ko-kr" />
+<meta name="localization_scopes" content="pt-br" />
+<meta name="localization_scopes" content="ru-ru" />
+<meta name="localization_scopes" content="zh-tw" />
+<meta name="localization_scopes" content="cs-cz" />
+<meta name="localization_scopes" content="pl-pl" />
+<meta name="localization_scopes" content="tr-tr" />
+<meta name="localization_scopes" content="hu-hu" />
+<meta name="localization_scopes" content="nl-nl" />
+<meta name="localization_scopes" content="pt-pt" />
+<meta name="localization_scopes" content="sv-se" />
+<meta name="ms.author" content="chnoring" />
+<meta name="ms.custom" content="team=nextgen" />
+<meta name="ms.date" content="03/10/2021" />
+<meta name="ms.topic" content="unit" />
+<meta name="original_content_git_url" content="https://github.com/MicrosoftDocs/learn-pr/blob/live/learn-pr/sports-machine-learning/predict-basketball-player-efficiency-ratings/10-impute-missing-data-part-2.yml" />
+<meta name="page_kind" content="unit" />
+<meta name="page_type" content="learn" />
+<meta name="ROBOTS" content="noindex" />
+<meta name="sandbox" content="false" />
+<meta name="schema" content="ModuleUnit" />
+<meta name="site_name" content="Docs" />
+<meta name="uhfHeaderId" content="MSDocsHeader-Learn" />
+<meta name="uid" content="learn.student-evangelism.predict-basketball-player-efficiency-ratings.10-impute-missing-data-part-2" />
+<meta name="unit_completion_type" content="view" />
+<meta name="updated_at" content="2023-11-17 12:03 AM" />
+
+
+	<meta name="persistent_id" content="65ee6a48-c90e-5a32-fd00-6afff72b0582" />
+	
+
+
+
+
+	<meta name="github_feedback_content_git_url" content="https://github.com/MicrosoftDocs/learn/blob/main/learn-pr/sports-machine-learning/predict-basketball-player-efficiency-ratings/10-impute-missing-data-part-2.yml" />
+<link href="https://learn.microsoft.com/en-us/training/modules/predict-basketball-player-efficiency-ratings/10-impute-missing-data-part-2" rel="canonical">
+	<title>Exercise - Data manipulation part 3 - Impute missing values by using machine learning - Training | Microsoft Learn</title>
+
+		<link rel="stylesheet" href="/_themes/docs.theme/master/en-us/_themes/styles/14bfc24e.site-ltr.css ">
+
+	
+
+	<script id="msdocs-script">
+	var msDocs = {
+		data: {
+			timeOrigin: Date.now(),
+			contentLocale: 'en-us',
+			contentDir: 'ltr',
+			userLocale: 'en-us',
+			userDir: 'ltr',
+			pageTemplate: 'ModuleUnit',
+			brand: '',
+			context: {
+			},
+			hasBinaryRating: false,
+			hasGithubIssues: false,
+			feedbackHelpLinkType:'',
+			feedbackHelpLinkUrl:'',
+			standardFeedback: false,
+			showFeedbackReport: false,
+			enableTutorialFeedback: false,
+			contentWellNotification: '',
+			feedbackSystem: 'GitHub',
+			feedbackGitHubRepo: 'MicrosoftDocs/learn',
+			feedbackProductUrl: '',
+			extendBreadcrumb: false,
+			isEditDisplayable: false,
+			hideViewSource: false,
+			hasPageActions: true,
+			hasPrintButton: false,
+			hasBookmark: true,
+			hasShare: false,
+			isPermissioned: false,
+			isPrivateUnauthorized: false,
+			hasRecommendations: false,
+			contributors: [
+						{ name: "MelanieHom", url: "https://github.com/MelanieHom" },
+						{ name: "v-trisshores", url: "https://github.com/v-trisshores" },
+						{ name: "v-andreaco", url: "https://github.com/v-andreaco" }
+],
+			mathjax: {
+			},
+		},
+		functions:{}
+	};
+	</script>
+	<script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+	<script src="https://js.monitor.azure.com/scripts/c/ms.jsll-3.min.js"></script>
+
+	<script src="/_themes/docs.theme/master/en-us/_themes/global/67a45209.deprecation.js"></script>
+
+		<link rel="preconnect" href="//mscom.demdex.net" crossorigin>
+		<link rel="dns-prefetch" href="//target.microsoft.com">
+		<link rel="dns-prefetch" href="//microsoftmscompoc.tt.omtrdc.net">
+		<link
+			rel="preload"
+			as="script"
+			href="/static/third-party/adobe-target/at-js/2.9.0/at.js"
+			integrity="sha384-1/viVM50hgc33O2gOgkWz3EjiD/Fy/ld1dKYXJRUyjNYVEjSUGcSN+iPiQF7e4cu"
+			crossorigin="anonymous"
+			id="adobe-target-script"
+			type="application/javascript"
+		/>
+		<script src="/_themes/docs.theme/master/en-us/_themes/scripts/f9070d94.index-docs.js"></script>
+</head>
+
+<body lang="en-us" dir="ltr">
+	<div class="header-holder has-default-focus">
+		<a href="#main" class="skip-to-main-link has-outline-color-text visually-hidden-until-focused position-fixed has-inner-focus focus-visible top-0 left-0 right-0 padding-xs has-text-centered has-body-background" tabindex="1">Skip to main content</a>
+
+		<div hidden id="cookie-consent-holder" data-test-id="cookie-consent-container"></div>
+
+		<div id="unsupported-browser" style="
+			background-color: white;
+			color: black;
+			padding: 16px;
+			border-bottom: 1px solid grey;"
+			hidden
+		>
+			<div style="max-width: 800px; margin: 0 auto;">
+				<p style="font-size: 24px">This browser is no longer supported.</p>
+				<p style="font-size: 16px; margin-top: 16px;">Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.</p>
+				<div style="margin-top: 12px;">
+					<a href="https://go.microsoft.com/fwlink/p/?LinkID=2092881 "
+						style="
+						background-color: #0078d4;
+						border: 1px solid #0078d4;
+						color: white;
+						padding: 6px 12px;
+						border-radius: 2px;
+						display: inline-block;
+						">
+Download Microsoft Edge					</a>
+					<a href="https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge"
+						style="
+							background-color: white;
+							padding: 6px 12px;
+							border: 1px solid #505050;
+							color: #171717;
+							border-radius: 2px;
+							display: inline-block;
+							">
+More info about Internet Explorer and Microsoft Edge					</a>
+				</div>
+			</div>
+		</div>
+		<!-- liquid-tag banners global -->
+
+		<!-- site header -->
+		<header id="ms--site-header" class="display-none" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization"></header>
+
+		<div id="headerAreaHolder" data-bi-name="header">
+<header role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+	<div id="ms--primary-nav" class="nav-bar">
+		<div class="nav-bar-brand">
+			<a itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" class="nav-bar-button">
+				<div class="nav-bar-logo has-background-image theme-display is-light" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+				<div class="nav-bar-logo has-background-image theme-display is-dark is-high-contrast" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+			</a>
+		</div>
+	</div>
+	<div id="ms--secondary-nav" class="nav-bar border-bottom is-hidden-mobile"></div>
+</header>
+		</div>
+
+
+			<div id="content-header" class="content-header uhf-container has-padding has-default-focus border-bottom-none" data-bi-name="content-header">
+				<div class="content-header-controls margin-xxs margin-inline-sm-tablet">
+					<button type="button" class="contents-button button button-sm margin-right-xxs" data-bi-name="contents-expand" aria-haspopup="true" data-contents-button>
+						<span class="icon"><span class="docon docon-menu" aria-hidden="true"></span></span>
+						<span class="contents-expand-title">
+Table of contents						</span>
+					</button>
+					<button type="button" class="ap-collapse-behavior ap-expanded button button-sm" data-bi-name="ap-collapse" aria-controls="action-panel">
+						<span class="icon"><span class="docon docon-exit-mode" aria-hidden="true"></span></span>
+						<span>Exit focus mode</span>
+					</button>
+				</div>
+			</div>
+
+		<div id="disclaimer-holder" class="has-overflow-hidden has-default-focus">
+			<!-- liquid-tag banners sectional -->
+		</div>
+	</div>
+
+	<div class="mainContainer  uhf-container has-body-background-dark uhf-container is-full  has-default-focus" data-bi-name="body">
+
+		<div class="columns has-large-gaps is-gapless-mobile  is-gapless">
+
+
+			<!-- .primary-holder -->
+			<section class="primary-holder column  is-full ">
+				<!--div.columns -->
+				<div class="columns is-gapless-mobile has-large-gaps  is-gapless">
+
+
+					<div id="main-column" class="column  is-full ">
+
+						<main id="main" class="" role="main" data-bi-name="content" lang="en-us" dir="ltr">
+							<!-- article-header -->
+							<div id="article-header" class="background-color-body  display-none-print">
+								<div class="display-flex align-items-center uhf-container">
+									<details id="article-header-breadcrumbs-overflow-popover" class="popover" data-for="article-header-breadcrumbs">
+										<summary class="button button-clear button-primary button-sm inner-focus" aria-label="All breadcrumbs">
+											<span class="icon">
+												<span class="docon docon-more"></span>
+											</span>
+										</summary>
+										<div id="article-header-breadcrumbs-overflow" class="popover-content padding-none">
+
+										</div>
+									</details>
+
+									<bread-crumbs id="article-header-breadcrumbs" data-test-id="article-header-breadcrumbs" class="overflow-hidden flex-grow-1 margin-right-sm margin-right-md-tablet margin-right-lg-desktop margin-left-negative-xxs padding-left-xxs"></bread-crumbs>
+
+									<div id="article-header-page-actions"  class="opacity-none margin-left-auto display-flex flex-wrap-no-wrap align-items-stretch">
+
+										<a
+											id="lang-link-tablet"
+											class="button button-primary button-clear button-sm display-none display-inline-flex-tablet"
+											title="Read in English" data-bi-name="language-toggle"
+											data-read-in-link
+											hidden>
+											<span class="icon margin-none" aria-hidden="true" data-read-in-link-icon>
+												<span class="docon docon-locale-globe"></span>
+											</span>
+											<span class="is-visually-hidden" data-read-in-link-text>Read in English</span>
+										</a>
+
+											<button
+												type="button"
+												class="collection button button-clear button-sm button-primary display-none display-inline-flex-tablet"
+												data-list-type="collection"
+												data-bi-name="collection"
+												title="Add to collection">
+												<span class="icon margin-none" aria-hidden="true">
+													<span class="docon docon-circle-addition"></span>
+												</span>
+												<span class="collection-status is-visually-hidden">Save</span>
+											</button>
+										
+
+										
+
+
+										
+										<details class="popover popover-right" id="article-header-page-actions-overflow">
+											<summary class="justify-content-flex-start button button-clear button-sm button-primary" aria-label="More actions">
+												<span class="icon" aria-hidden="true">
+													<span class="docon docon-more-vertical"></span>
+												</span>
+											</summary>
+											<div class="popover-content padding-none">
+
+												<a
+													id="lang-link-overflow"
+													class="justify-content-flex-start button-sm has-inner-focus button button-clear button-block display-none-tablet"
+													title="Read in English" data-bi-name="language-toggle"
+													data-page-action-item="overflow-mobile"
+													data-check-hidden="true"
+													data-read-in-link
+													hidden
+													>
+													<span class="icon" aria-hidden="true" data-read-in-link-icon>
+														<span class="docon docon-locale-globe"></span>
+													</span>
+													<span data-read-in-link-text>Read in English</span>
+												</a>
+
+													<button
+														type="button"
+														class="collection justify-content-flex-start button button-clear button-sm has-inner-focus button-block display-none-tablet"
+														data-list-type="collection"
+														data-bi-name="collection"
+														title="Add to collection"
+														data-page-action-item="overflow-mobile"
+														data-check-hidden="true"
+														data-popover-close>
+														<span class="icon" aria-hidden="true">
+															<span class="docon docon-circle-addition"></span>
+														</span>
+														<span class="collection-status">Save</span>
+													</button>
+
+
+
+												
+											</div>
+										</details>
+										
+									</div>
+								</div>
+							</div>
+							<!-- end article-header -->
+
+
+							<div>
+								<button type="button" class="border contents-button button button-clear button-sm is-hidden-tablet has-inner-focus" data-bi-name="contents-expand" data-contents-button hidden>
+									<span class="icon">
+										<span class="docon docon-editor-list-bullet" aria-hidden="true"></span>
+									</span>
+										<span class="contents-expand-title">Table of contents</span>
+								</button>
+							</div>
+
+							<!-- end mobile-contents button  -->
+
+							<div class="content ">
+
+<div class="modular-content-container" data-target="docs">
+    <nav class="pagination is-centered is-wide" role="navigation" aria-label="pagination" data-bi-name="module-nav">
+        <a class="is-invisible pagination-previous button button-clear text-decoration-none is-hidden-portrait has-inner-focus" data-bi-name="previous-unit" id="previous-unit-link">
+            <span aria-hidden="true" class="icon docon docon-chevron-left-light"></span>
+            <span>Previous</span>
+        </a>
+        <ul class="pagination-list" id="unit-nav-dropdown">
+            <li class="dropdown has-centered-menu has-caret" data-bi-name="unit-menu">
+                <button aria-controls="module-menu" aria-expanded="false" class="pagination-link margin-inline-auto button button-clear text-decoration-none button-sm dropdown-trigger" data-bi-name="dropdown-trigger" title="Module menu">
+                    <span id="unit-place"></span>
+                    <span aria-hidden="true" class="icon">
+                        <span class="docon docon-chevron-down-light expanded-indicator"></span>
+                    </span>
+                </button>
+                <div class="dropdown-menu width-300 width-450-desktop" id="module-menu"></div>
+            </li>
+        </ul>
+		<div id="completion-nav" class="pagination-list is-hidden font-weight-semibold">
+Achievements        </div>
+        <a class="is-invisible pagination-next button button-clear text-decoration-none is-hidden-portrait has-inner-focus" data-bi-name="next-unit" id="next-unit-link">
+            <span>Next</span>
+            <span aria-hidden="true" class="icon docon docon-chevron-right-light"></span>
+        </a>
+    </nav>
+</div>
+<div class="columns is-mobile is-gapless is-fixed-bottom is-hidden-tablet is-hidden-landscape has-body-background margin-none" id="mobile-nav">
+    <div class="column is-hidden" id="previous-unit-link-mobile-col">
+        <a class="button button-block button-filled is-radiusless button-lg margin-none has-inner-focus" data-bi-name="previous-unit" id="previous-unit-link-mobile">
+            <span aria-hidden="true" class="icon docon docon-chevron-left-light"></span>
+            <span>Previous</span>
+        </a>
+    </div>
+    <div class="column is-hidden" id="next-unit-link-mobile-col">
+        <a class="button button-block button-filled button-primary button-lg is-radiusless margin-none has-inner-focus" data-bi-name="next-unit" id="next-unit-link-mobile">
+            <span>Next</span>
+            <span aria-hidden="true" class="icon docon docon-chevron-right-light"></span>
+        </a>
+    </div>
+</div>
+
+								
+
+
+
+								<!-- <content> -->
+									<div class="modular-content-container has-body-background box">
+	<div id="unit-inner-section" class="section is-uniform position-relative">
+		<h1 class="margin-right-xxl-desktop">Exercise - Data manipulation part 3 - Impute missing values by using machine learning</h1>
+		<div data-progress-uid="learn.student-evangelism.predict-basketball-player-efficiency-ratings.10-impute-missing-data-part-2" class="xp-tag position-absolute top-0 right-0 margin-top-xs margin-top-sm-tablet margin-top-lg-desktop margin-top-xs-interactive margin-right-sm margin-right-lg-tablet margin-right-sm-interactive">
+			<div class="xp-tag-hexagon">
+				<span class="xp-tag-icon is-shown-complete docon docon-check">
+					<span class="visually-hidden">Completed</span>
+				</span>
+				<span class="xp-tag-xp"></span>
+			</div>
+		</div>
+		<ul class="metadata page-metadata">
+			<li>8 minutes</li>
+		</ul>
+			<p>As <code>player_df.isna().sum()</code> confirmed in the previous unit, only nine missing values remain in <code>PER</code>. You can't use a simple average to impute values in that column. But little domain expertise can help.</p>
+<p>PER is computed from the values of the nine columns that precede it in the DataFrame (<code>GP</code> through <code>REBR</code>). However, PER is a complicated statistic to compute (see details at <a href="https://www.basketball-reference.com/about/per.html?azure-portal=true" data-linktype="external">basketball-reference.com</a>). So you'll do what data scientists do: build a model to give a good approximation!</p>
+<p>It would be nice to build a simple linear regression model to estimate the missing <code>PER</code> values. However, as with any estimate, you have to ask yourself how accurate it is.</p>
+<p>To get some sense of a model's accuracy, you could use machine learning to split your data into two subsets: test and training. The training subset is the portion of the data you use to train the model. You use the other subset to test the model. Commonly, 75 percent of the data is used to train the model, and 25 percent is used to test the model.</p>
+<p>But what if you get unusually lucky or unlucky with your random split of test and training data? For example, what if you chose all human players to train the model, but then you tested the accuracy of the model on the Tune Squad players? This setup is unlikely to yield accurate results.</p>
+<p>To avoid this problem, statisticians and data scientists use a technique called cross-validation. The idea is to iterate through the dataset, splitting the data in different ways between training data and test data. Using this technique multiple times should give you a reasonable idea of how the model will work with new data, even if you have only limited data to work with.</p>
+<p>This image provides a visualization of the cross-validation process:</p>
+<p><span class="mx-imgBorder">
+<img src="media/k-fold-cross-validation.png" alt="Screenshot showing a k-fold cross-validation." data-linktype="relative-path">
+</span>
+</p>
+<h2 id="cross-validate-the-r2-scores-for-the-model">Cross-validate the R2 scores for the model</h2>
+<p>Here you'll use a <em>10-fold</em> cross validation. That is, Python will iterate through the data 10 times, reserving 10 percent of the data for testing and training on the other 90 percent of the data each time. You'll also plot a histogram of the results.</p>
+<div class="NOTE">
+<p>Note</p>
+<p>As you read the Python code, keep in mind that you define the  predictors as <code>X</code> by longstanding convention. For the purposes of building your model, you should use only rows that contain <code>NaN</code> values (<code>player_df.dropna(how='any')</code>). Then use the <code>iloc</code> DataFrame attribute to select columns by number rather than name (<code>iloc[:, 4:-1]</code>). Finally, use only the values from the resulting DataFrame slice rather than the slice in DataFrame form. (Here, the <code>to_numpy()</code> method is preferred over the DataFrame <code>values</code> attribute, per the <code>pandas.DataFrame.values</code> <a href="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.values.html?azure-portal=true" data-linktype="external">documentation</a>).</p>
+</div>
+<p>The code of the predicted value (<code>y</code>) is similar to the code for <code>X</code>, except that you don't have to scrape out just the values.</p>
+<pre><code class="lang-python">from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+from sklearn.model_selection import cross_val_score
+
+# Define the variables for the regression model as those rows that have no missing values.
+X = player_df.dropna(how='any').iloc[:, 5:-1].to_numpy()
+y = player_df.dropna(how='any').iloc[:, -1]
+
+# Define the regression model.
+lin_reg = LinearRegression()
+
+# Use the scikit-learn cross-validation function to fit this model 10 times and return the R2 scores.
+scores = cross_val_score(lin_reg, X, y, cv=10, scoring='r2')
+
+# Define the histogram of the scores and copy out information from the histogram.
+entries, bin_edges, patches = plt.hist(scores, bins=10);
+
+# Print out the mean and the results from the histogram.
+print('Mean r2 score: {:.4f}'.format(scores.mean()))
+for i in range(len(entries)):
+    if entries[i] &gt; 0:
+        print('{:.0f}% of r2 scores are between {:.4f} and {:.4f}'.format(entries[i]*100/len(entries), 
+        bin_edges[i], 
+        bin_edges[i+1]))
+</code></pre>
+<pre><code class="lang-output">Mean r2 score: 0.9995
+10% of r2 scores are between 0.9985 and 0.9987
+10% of r2 scores are between 0.9987 and 0.9988
+10% of r2 scores are between 0.9995 and 0.9996
+10% of r2 scores are between 0.9996 and 0.9997
+60% of r2 scores are between 0.9997 and 0.9998
+</code></pre>
+<p><span class="mx-imgBorder">
+<img src="media/cross-validation.png" alt="Screenshot showing a histogram of R2 scores." data-linktype="relative-path">
+</span>
+</p>
+<div class="NOTE">
+<p>Note</p>
+<p>If you get an error when you run this code, make sure you've <a href="https://scikit-learn.org/stable/install.html?azure-portal=true" data-linktype="external">installed the scitkit-learn library</a>.</p>
+</div>
+<p>In short, your model is good. Your R2 score is 99.95 percent. The <em>R2</em> (meaning, R squared) score tells you how much data variance your model captures. For your purposes, this score serves as a loose proxy for the model's accuracy. Your lowest R2 scores are still good, and most of them are close to the maximum value of 1. So you should feel confident applying this model to your missing <code>PER</code> values.</p>
+<div class="NOTE">
+<p>Note</p>
+<p>Your exact R2 scores might differ slightly. Each time you run this model, you'll get a different random sampling of data per cut across the 10 cuts. So the model might be slightly better or slightly worse from run to run. Your numbers should be fairly close to the example numbers, however.</p>
+</div>
+<h2 id="fit-the-regression-model-for-the-player-data">Fit the regression model for the player data</h2>
+<p>Now you fit the regression model to all of your data. (The general rule is that you use cross-validation for model selection or evaluation, but you use all of your data for model building.)</p>
+<pre><code class="lang-python"># Fit the same regression model, this time using all of the available data.
+lin_reg.fit(X, y)
+</code></pre>
+<pre><code class="lang-output">LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)
+</code></pre>
+<h2 id="create-a-mask-of-rows-that-use-missing-values-in-the-dataframe">Create a mask of rows that use missing values in the DataFrame</h2>
+<p>There isn't an elegant way for <code>fillna()</code> to use the results from your model to fill in the missing <code>PER</code> values. So you'll have to use a mask.</p>
+<p>A <em>mask</em> in pandas is a Boolean map of values that fulfill a certain condition or set of conditions. To fill in just your remaining values, your mask should look like this:</p>
+<pre><code class="lang-python"># Create and display a mask of rows in the DataFrame. Rows should contain at least one NaN value.
+mask = player_df.isnull().any(axis=1)
+mask
+</code></pre>
+<pre><code class="lang-output">0     False
+1     False
+2      True
+3     False
+4     False
+5     False
+6     False
+7      True
+8      True
+9     False
+10    False
+11     True
+12    False
+13    False
+14    False
+15     True
+16    False
+17    False
+18    False
+19    False
+20     True
+21    False
+22    False
+23    False
+24     True
+25    False
+26    False
+27    False
+28    False
+29     True
+30    False
+31    False
+32    False
+33    False
+34    False
+35    False
+36    False
+37     True
+38    False
+39    False
+40    False
+dtype: bool
+</code></pre>
+<p>Now apply that mask to just the columns that you used as <code>X</code> in your model. Use the <code>loc</code> DataFrame method:</p>
+<pre><code class="lang-python"># Apply the mask defined earlier to show the contents of specific columns of rows that contain NaN values.
+player_df.loc[mask].iloc[:, 5:-1]
+</code></pre>
+<p><strong>Output</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>GP</th>
+<th>MPG</th>
+<th>TS%</th>
+<th>AST</th>
+<th>TO</th>
+<th>USG</th>
+<th>ORR</th>
+<th>DRR</th>
+<th>REBR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2</strong></td>
+<td>55.000000</td>
+<td>36.300000</td>
+<td>0.605</td>
+<td>25.7</td>
+<td>13.9</td>
+<td>28.1</td>
+<td>4.5</td>
+<td>4.9</td>
+<td>1.8</td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td>57.000000</td>
+<td>35.272973</td>
+<td>0.574</td>
+<td>24.4</td>
+<td>11.3</td>
+<td>26.3</td>
+<td>5.5</td>
+<td>5.8</td>
+<td>-2.2</td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td>61.000000</td>
+<td>35.600000</td>
+<td>0.547</td>
+<td>22.9</td>
+<td>12.2</td>
+<td>22.7</td>
+<td>5.8</td>
+<td>6.4</td>
+<td>-2.9</td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td>59.972222</td>
+<td>31.700000</td>
+<td>0.584</td>
+<td>32.4</td>
+<td>14.7</td>
+<td>16.5</td>
+<td>3.2</td>
+<td>19.0</td>
+<td>4.1</td>
+</tr>
+<tr>
+<td><strong>15</strong></td>
+<td>59.972222</td>
+<td>34.900000</td>
+<td>0.603</td>
+<td>26.2</td>
+<td>11.1</td>
+<td>36.7</td>
+<td>3.0</td>
+<td>14.3</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td><strong>20</strong></td>
+<td>61.000000</td>
+<td>35.272973</td>
+<td>0.645</td>
+<td>20.6</td>
+<td>13.1</td>
+<td>31.5</td>
+<td>4.0</td>
+<td>12.0</td>
+<td>5.2</td>
+</tr>
+<tr>
+<td><strong>24</strong></td>
+<td>48.000000</td>
+<td>35.100000</td>
+<td>0.569</td>
+<td>19.0</td>
+<td>10.9</td>
+<td>29.2</td>
+<td>4.6</td>
+<td>17.7</td>
+<td>5.2</td>
+</tr>
+<tr>
+<td><strong>29</strong></td>
+<td>64.000000</td>
+<td>36.300000</td>
+<td>0.619</td>
+<td>30.9</td>
+<td>15.6</td>
+<td>34.5</td>
+<td>5.9</td>
+<td>18.9</td>
+<td>14.8</td>
+</tr>
+<tr>
+<td><strong>37</strong></td>
+<td>64.000000</td>
+<td>36.500000</td>
+<td>0.618</td>
+<td>31.3</td>
+<td>14.0</td>
+<td>34.9</td>
+<td>5.9</td>
+<td>21.3</td>
+<td>14.5</td>
+</tr>
+</tbody>
+</table>
+<p>Now you've identified the nine rows that have a <code>NaN</code> value in the <code>PER</code> column and have the columns that can be used in the machine learning model to predict the PER value.</p>
+<h2 id="use-the-mask-and-the-fitted-mask-to-impute-the-final-missing-values-in-the-dataframe">Use the mask and the fitted mask to impute the final missing values in the DataFrame</h2>
+<p>A mask is useful here because it lets you use a <em>view</em> of the <code>player_df</code> DataFrame rather than a <em>slice</em> of it. When you defined <code>X</code>, you used <code>player_df.dropna(how='any').iloc[:, 5:-1].to_numpy()</code>. The <code>dropna()</code> method creates a new DataFrame object by default when it's called. (This feature is the reason you used the method's <code>inplace</code> parameter on the original DataFrame.) So any changes to values that you might make in the <code>X</code> DataFrame wouldn't change values in the <code>player_df</code> DataFrame.</p>
+<p>Your mask is different. It simply enables you to work with a subset of the <code>player_df</code> DataFrame. So any changes you make to the DataFrame while you're applying the mask will also apply to the <code>player_df</code> DataFrame as a whole.</p>
+<pre><code class="lang-python"># Impute the missing values in 'PER' by using the regression model and mask.
+player_df.loc[mask, 'PER'] = lin_reg.predict(player_df.loc[mask].iloc[:, 5:-1])
+
+# Recheck the DataFrame for rows that have missing values.
+player_df.isna().sum()
+</code></pre>
+<pre><code class="lang-output">ID             0
+player         0
+points         0
+possessions    0
+team_pace      0
+GP             0
+MPG            0
+TS%            0
+AST            0
+TO             0
+USG            0
+ORR            0
+DRR            0
+REBR           0
+PER            0
+dtype: int64
+</code></pre>
+<p>Next, review the entire DataFrame to check for any missing values.</p>
+<pre><code class="lang-python"># Display the entire DataFrame.
+player_df
+</code></pre>
+<p><strong>Output</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>ID</th>
+<th>player</th>
+<th>points</th>
+<th>possessions</th>
+<th>team_pace</th>
+<th>GP</th>
+<th>MPG</th>
+<th>TS%</th>
+<th>AST</th>
+<th>TO</th>
+<th>USG</th>
+<th>ORR</th>
+<th>DRR</th>
+<th>REBR</th>
+<th>PER</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0</strong></td>
+<td>1</td>
+<td>player1</td>
+<td>1893.0</td>
+<td>1251.8</td>
+<td>97.8</td>
+<td>63.000000</td>
+<td>33.900000</td>
+<td>0.569</td>
+<td>17.2</td>
+<td>11.5</td>
+<td>26.1</td>
+<td>4.7</td>
+<td>23.3</td>
+<td>7.8</td>
+<td>10.900000</td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td>2</td>
+<td>player2</td>
+<td>1386.0</td>
+<td>1282.5</td>
+<td>110.5</td>
+<td>58.000000</td>
+<td>32.500000</td>
+<td>0.511</td>
+<td>24.8</td>
+<td>9.7</td>
+<td>26.9</td>
+<td>6.1</td>
+<td>0.9</td>
+<td>10.7</td>
+<td>27.300000</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>3</td>
+<td>player3</td>
+<td>1405.0</td>
+<td>1252.3</td>
+<td>105.8</td>
+<td>55.000000</td>
+<td>36.300000</td>
+<td>0.605</td>
+<td>25.7</td>
+<td>13.9</td>
+<td>28.1</td>
+<td>4.5</td>
+<td>4.9</td>
+<td>1.8</td>
+<td>16.585893</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>4</td>
+<td>player4</td>
+<td>1282.0</td>
+<td>1235.9</td>
+<td>100.7</td>
+<td>54.000000</td>
+<td>37.600000</td>
+<td>0.636</td>
+<td>29.5</td>
+<td>11.0</td>
+<td>22.3</td>
+<td>4.8</td>
+<td>4.6</td>
+<td>5.6</td>
+<td>22.350000</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>5</td>
+<td>player5</td>
+<td>1721.0</td>
+<td>1254.0</td>
+<td>105.7</td>
+<td>59.000000</td>
+<td>30.500000</td>
+<td>0.589</td>
+<td>22.8</td>
+<td>9.9</td>
+<td>24.6</td>
+<td>1.2</td>
+<td>8.4</td>
+<td>12.1</td>
+<td>28.380000</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>6</td>
+<td>player6</td>
+<td>1004.0</td>
+<td>1322.4</td>
+<td>102.1</td>
+<td>57.000000</td>
+<td>36.300000</td>
+<td>0.574</td>
+<td>20.3</td>
+<td>13.5</td>
+<td>31.0</td>
+<td>1.2</td>
+<td>20.5</td>
+<td>3.4</td>
+<td>9.830000</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>7</td>
+<td>player7</td>
+<td>1920.0</td>
+<td>1207.6</td>
+<td>109.8</td>
+<td>55.000000</td>
+<td>37.000000</td>
+<td>0.573</td>
+<td>26.0</td>
+<td>13.1</td>
+<td>30.7</td>
+<td>0.0</td>
+<td>10.3</td>
+<td>-2.6</td>
+<td>8.710000</td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td>8</td>
+<td>player8</td>
+<td>1353.0</td>
+<td>1348.1</td>
+<td>112.2</td>
+<td>57.000000</td>
+<td>35.272973</td>
+<td>0.574</td>
+<td>24.4</td>
+<td>11.3</td>
+<td>26.3</td>
+<td>5.5</td>
+<td>5.8</td>
+<td>-2.2</td>
+<td>8.708429</td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td>10</td>
+<td>player10</td>
+<td>1468.0</td>
+<td>1400.9</td>
+<td>93.7</td>
+<td>61.000000</td>
+<td>35.600000</td>
+<td>0.547</td>
+<td>22.9</td>
+<td>12.2</td>
+<td>22.7</td>
+<td>5.8</td>
+<td>6.4</td>
+<td>-2.9</td>
+<td>3.104597</td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td>11</td>
+<td>player11</td>
+<td>1856.0</td>
+<td>1303.8</td>
+<td>93.4</td>
+<td>55.000000</td>
+<td>33.600000</td>
+<td>0.563</td>
+<td>28.9</td>
+<td>14.7</td>
+<td>26.7</td>
+<td>1.4</td>
+<td>17.3</td>
+<td>4.3</td>
+<td>9.670000</td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td>12</td>
+<td>player12</td>
+<td>1058.0</td>
+<td>1231.5</td>
+<td>99.4</td>
+<td>63.000000</td>
+<td>32.800000</td>
+<td>0.550</td>
+<td>25.1</td>
+<td>12.9</td>
+<td>27.2</td>
+<td>2.1</td>
+<td>12.1</td>
+<td>11.4</td>
+<td>22.97000</td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td>13</td>
+<td>player13</td>
+<td>1452.0</td>
+<td>1246.1</td>
+<td>103.6</td>
+<td>59.972222</td>
+<td>31.700000</td>
+<td>0.584</td>
+<td>32.4</td>
+<td>14.7</td>
+<td>16.5</td>
+<td>3.2</td>
+<td>19.0</td>
+<td>4.1</td>
+<td>3.387587</td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td>14</td>
+<td>player14</td>
+<td>1438.0</td>
+<td>1499.6</td>
+<td>108.1</td>
+<td>60.000000</td>
+<td>35.000000</td>
+<td>0.569</td>
+<td>28.6</td>
+<td>12.2</td>
+<td>36.2</td>
+<td>4.9</td>
+<td>6.0</td>
+<td>7.4</td>
+<td>27.570000</td>
+</tr>
+<tr>
+<td><strong>13</strong></td>
+<td>15</td>
+<td>player15</td>
+<td>1782.0</td>
+<td>1329.0</td>
+<td>104.6</td>
+<td>51.000000</td>
+<td>35.272973</td>
+<td>0.590</td>
+<td>26.5</td>
+<td>9.9</td>
+<td>29.7</td>
+<td>3.1</td>
+<td>29.4</td>
+<td>5.5</td>
+<td>9.380000</td>
+</tr>
+<tr>
+<td><strong>14</strong></td>
+<td>16</td>
+<td>player16</td>
+<td>1276.0</td>
+<td>1257.5</td>
+<td>89.7</td>
+<td>58.000000</td>
+<td>32.800000</td>
+<td>0.572</td>
+<td>15.5</td>
+<td>16.2</td>
+<td>23.8</td>
+<td>3.4</td>
+<td>15.4</td>
+<td>6.0</td>
+<td>9.490000</td>
+</tr>
+<tr>
+<td><strong>15</strong></td>
+<td>17</td>
+<td>player17</td>
+<td>1486.0</td>
+<td>1343.6</td>
+<td>100.6</td>
+<td>59.972222</td>
+<td>34.900000</td>
+<td>0.603</td>
+<td>26.2</td>
+<td>11.1</td>
+<td>36.7</td>
+<td>3.0</td>
+<td>14.3</td>
+<td>5.3</td>
+<td>22.612442</td>
+</tr>
+<tr>
+<td><strong>16</strong></td>
+<td>18</td>
+<td>player18</td>
+<td>1326.0</td>
+<td>1542.0</td>
+<td>107.8</td>
+<td>52.000000</td>
+<td>31.800000</td>
+<td>0.583</td>
+<td>25.3</td>
+<td>11.7</td>
+<td>30.6</td>
+<td>3.3</td>
+<td>9.9</td>
+<td>5.3</td>
+<td>19.780000</td>
+</tr>
+<tr>
+<td><strong>17</strong></td>
+<td>19</td>
+<td>player19</td>
+<td>1535.0</td>
+<td>1336.2</td>
+<td>104.0</td>
+<td>56.000000</td>
+<td>35.400000</td>
+<td>0.636</td>
+<td>27.2</td>
+<td>10.8</td>
+<td>29.9</td>
+<td>0.7</td>
+<td>5.6</td>
+<td>7.9</td>
+<td>30.440000</td>
+</tr>
+<tr>
+<td><strong>18</strong></td>
+<td>21</td>
+<td>player21</td>
+<td>1276.0</td>
+<td>1354.9</td>
+<td>101.2</td>
+<td>50.000000</td>
+<td>35.272973</td>
+<td>0.560</td>
+<td>21.4</td>
+<td>12.4</td>
+<td>28.6</td>
+<td>2.6</td>
+<td>9.3</td>
+<td>10.3</td>
+<td>24.230000</td>
+</tr>
+<tr>
+<td><strong>19</strong></td>
+<td>22</td>
+<td>player22</td>
+<td>1784.0</td>
+<td>1287.1</td>
+<td>101.3</td>
+<td>59.000000</td>
+<td>33.800000</td>
+<td>0.601</td>
+<td>27.2</td>
+<td>12.4</td>
+<td>21.8</td>
+<td>2.9</td>
+<td>5.2</td>
+<td>9.9</td>
+<td>25.150000</td>
+</tr>
+<tr>
+<td><strong>20</strong></td>
+<td>23</td>
+<td>player23</td>
+<td>1729.0</td>
+<td>1205.0</td>
+<td>103.8</td>
+<td>61.000000</td>
+<td>35.272973</td>
+<td>0.645</td>
+<td>20.6</td>
+<td>13.1</td>
+<td>31.5</td>
+<td>4.0</td>
+<td>12.0</td>
+<td>5.2</td>
+<td>21.262780</td>
+</tr>
+<tr>
+<td><strong>21</strong></td>
+<td>24</td>
+<td>player24</td>
+<td>1639.0</td>
+<td>1287.4</td>
+<td>105.2</td>
+<td>52.000000</td>
+<td>35.400000</td>
+<td>0.570</td>
+<td>32.7</td>
+<td>15.0</td>
+<td>26.6</td>
+<td>1.6</td>
+<td>5.0</td>
+<td>9.4</td>
+<td>25.120000</td>
+</tr>
+<tr>
+<td><strong>22</strong></td>
+<td>26</td>
+<td>player26</td>
+<td>1370.0</td>
+<td>1384.7</td>
+<td>103.3</td>
+<td>59.972222</td>
+<td>34.200000</td>
+<td>0.571</td>
+<td>14.8</td>
+<td>9.9</td>
+<td>33.1</td>
+<td>2.4</td>
+<td>16.3</td>
+<td>3.7</td>
+<td>15.040000</td>
+</tr>
+<tr>
+<td><strong>23</strong></td>
+<td>27</td>
+<td>player27</td>
+<td>1497.0</td>
+<td>1410.9</td>
+<td>98.3</td>
+<td>57.000000</td>
+<td>34.100000</td>
+<td>0.613</td>
+<td>15.4</td>
+<td>10.0</td>
+<td>29.3</td>
+<td>3.8</td>
+<td>5.7</td>
+<td>6.7</td>
+<td>25.350000</td>
+</tr>
+<tr>
+<td><strong>24</strong></td>
+<td>28</td>
+<td>player28</td>
+<td>1313.0</td>
+<td>1420.5</td>
+<td>105.0</td>
+<td>48.000000</td>
+<td>35.100000</td>
+<td>0.569</td>
+<td>19.0</td>
+<td>10.9</td>
+<td>29.2</td>
+<td>4.6</td>
+<td>17.7</td>
+<td>5.2</td>
+<td>12.920786</td>
+</tr>
+<tr>
+<td><strong>25</strong></td>
+<td>29</td>
+<td>player29</td>
+<td>1464.0</td>
+<td>1353.4</td>
+<td>103.3</td>
+<td>63.000000</td>
+<td>34.400000</td>
+<td>0.595</td>
+<td>17.9</td>
+<td>9.2</td>
+<td>29.3</td>
+<td>1.0</td>
+<td>8.7</td>
+<td>4.1</td>
+<td>20.490000</td>
+</tr>
+<tr>
+<td><strong>26</strong></td>
+<td>31</td>
+<td>tune_squad1</td>
+<td>2049.0</td>
+<td>1434.0</td>
+<td>110.0</td>
+<td>64.000000</td>
+<td>38.800000</td>
+<td>0.619</td>
+<td>31.5</td>
+<td>14.9</td>
+<td>35.5</td>
+<td>8.3</td>
+<td>17.6</td>
+<td>12.8</td>
+<td>28.440000</td>
+</tr>
+<tr>
+<td><strong>27</strong></td>
+<td>32</td>
+<td>tune_squad2</td>
+<td>1795.0</td>
+<td>1481.8</td>
+<td>112.1</td>
+<td>62.000000</td>
+<td>35.400000</td>
+<td>0.608</td>
+<td>31.9</td>
+<td>14.5</td>
+<td>32.0</td>
+<td>6.5</td>
+<td>22.5</td>
+<td>12.9</td>
+<td>23.340000</td>
+</tr>
+<tr>
+<td><strong>28</strong></td>
+<td>33</td>
+<td>tune_squad3</td>
+<td>1805.0</td>
+<td>1509.9</td>
+<td>108.6</td>
+<td>64.000000</td>
+<td>35.400000</td>
+<td>0.622</td>
+<td>27.9</td>
+<td>13.9</td>
+<td>36.0</td>
+<td>5.9</td>
+<td>27.7</td>
+<td>12.2</td>
+<td>22.410000</td>
+</tr>
+<tr>
+<td><strong>29</strong></td>
+<td>34</td>
+<td>tune_squad4</td>
+<td>1743.0</td>
+<td>1422.4</td>
+<td>112.9</td>
+<td>64.000000</td>
+<td>36.300000</td>
+<td>0.619</td>
+<td>30.9</td>
+<td>15.6</td>
+<td>34.5</td>
+<td>5.9</td>
+<td>18.9</td>
+<td>14.8</td>
+<td>29.858714</td>
+</tr>
+<tr>
+<td><strong>30</strong></td>
+<td>35</td>
+<td>tune_squad5</td>
+<td>1963.0</td>
+<td>1539.1</td>
+<td>117.4</td>
+<td>59.972222</td>
+<td>35.272973</td>
+<td>0.633</td>
+<td>32.3</td>
+<td>16.2</td>
+<td>34.0</td>
+<td>5.9</td>
+<td>19.8</td>
+<td>13.1</td>
+<td>27.160000</td>
+</tr>
+<tr>
+<td><strong>31</strong></td>
+<td>36</td>
+<td>tune_squad6</td>
+<td>2062.0</td>
+<td>1505.7</td>
+<td>111.5</td>
+<td>59.972222</td>
+<td>37.000000</td>
+<td>0.620</td>
+<td>29.8</td>
+<td>15.6</td>
+<td>36.2</td>
+<td>4.9</td>
+<td>23.9</td>
+<td>14.7</td>
+<td>27.860000</td>
+</tr>
+<tr>
+<td><strong>32</strong></td>
+<td>37</td>
+<td>tune_squad7</td>
+<td>1845.0</td>
+<td>1435.7</td>
+<td>113.1</td>
+<td>69.000000</td>
+<td>36.900000</td>
+<td>0.634</td>
+<td>33.2</td>
+<td>14.0</td>
+<td>36.5</td>
+<td>4.1</td>
+<td>21.5</td>
+<td>16.4</td>
+<td>34.260000</td>
+</tr>
+<tr>
+<td><strong>33</strong></td>
+<td>38</td>
+<td>tune_squad8</td>
+<td>1778.0</td>
+<td>1526.4</td>
+<td>109.3</td>
+<td>66.000000</td>
+<td>34.900000</td>
+<td>0.612</td>
+<td>30.6</td>
+<td>15.9</td>
+<td>35.9</td>
+<td>5.5</td>
+<td>18.8</td>
+<td>13.7</td>
+<td>28.650000</td>
+</tr>
+<tr>
+<td><strong>34</strong></td>
+<td>39</td>
+<td>tune_squad9</td>
+<td>1901.0</td>
+<td>1444.1</td>
+<td>109.7</td>
+<td>67.000000</td>
+<td>36.500000</td>
+<td>0.609</td>
+<td>27.2</td>
+<td>14.8</td>
+<td>35.5</td>
+<td>5.0</td>
+<td>21.8</td>
+<td>8.9</td>
+<td>20.120000</td>
+</tr>
+<tr>
+<td><strong>35</strong></td>
+<td>41</td>
+<td>tune_squad11</td>
+<td>2030.0</td>
+<td>1431.0</td>
+<td>112.3</td>
+<td>68.000000</td>
+<td>37.000000</td>
+<td>0.618</td>
+<td>32.5</td>
+<td>15.3</td>
+<td>34.5</td>
+<td>5.7</td>
+<td>15.7</td>
+<td>13.2</td>
+<td>30.070000</td>
+</tr>
+<tr>
+<td><strong>36</strong></td>
+<td>42</td>
+<td>tune_squad12</td>
+<td>1631.0</td>
+<td>1465.7</td>
+<td>110.1</td>
+<td>66.000000</td>
+<td>37.500000</td>
+<td>0.613</td>
+<td>28.4</td>
+<td>14.4</td>
+<td>35.7</td>
+<td>6.5</td>
+<td>20.7</td>
+<td>14.0</td>
+<td>28.400000</td>
+</tr>
+<tr>
+<td><strong>37</strong></td>
+<td>43</td>
+<td>tune_squad13</td>
+<td>1828.0</td>
+<td>1507.2</td>
+<td>112.7</td>
+<td>64.000000</td>
+<td>36.500000</td>
+<td>0.618</td>
+<td>31.3</td>
+<td>14.0</td>
+<td>34.9</td>
+<td>5.9</td>
+<td>21.3</td>
+<td>14.5</td>
+<td>29.102157</td>
+</tr>
+<tr>
+<td><strong>38</strong></td>
+<td>44</td>
+<td>tune_squad14</td>
+<td>1821.0</td>
+<td>1443.7</td>
+<td>118.8</td>
+<td>66.000000</td>
+<td>36.600000</td>
+<td>0.609</td>
+<td>27.3</td>
+<td>13.5</td>
+<td>35.8</td>
+<td>7.0</td>
+<td>23.8</td>
+<td>11.5</td>
+<td>22.960000</td>
+</tr>
+<tr>
+<td><strong>39</strong></td>
+<td>45</td>
+<td>tune_squad15</td>
+<td>1740.0</td>
+<td>1443.9</td>
+<td>114.1</td>
+<td>68.000000</td>
+<td>37.100000</td>
+<td>0.611</td>
+<td>26.6</td>
+<td>15.2</td>
+<td>29.3</td>
+<td>8.3</td>
+<td>17.7</td>
+<td>11.1</td>
+<td>21.220000</td>
+</tr>
+<tr>
+<td><strong>40</strong></td>
+<td>46</td>
+<td>tune_squad16</td>
+<td>1993.0</td>
+<td>1459.0</td>
+<td>112.5</td>
+<td>59.972222</td>
+<td>36.900000</td>
+<td>0.627</td>
+<td>30.4</td>
+<td>15.0</td>
+<td>33.7</td>
+<td>6.3</td>
+<td>19.3</td>
+<td>14.1</td>
+<td>28.760000</td>
+</tr>
+</tbody>
+</table>
+<p>Finally, save this DataFrame to a CSV file. You'll use this dataset to make pregame and in-game decisions based on the team players, the players who are currently in the game, and the current game stats.</p>
+<pre><code class="lang-python">player_df.to_csv('player_data_final.csv', index=False)
+</code></pre>
+<div class="NOTE">
+<p>Note</p>
+<p>The <code>index=False</code> parameter ensures that the index that was added to the DataFrame when pandas initially read the CSV file isn't written to the CSV file.</p>
+</div>
+<p>You should now see a new CSV file in your <em>space-jam-anl</em> folder.</p>
+<p><span class="mx-imgBorder">
+<img src="media/output-csv.png" alt="Screenshot showing the final cleansed dataset ready for use." data-linktype="relative-path">
+</span>
+</p>
+<p>© 2021 Warner Bros. Ent. All Rights Reserved.</p>
+
+		<div id="next-section" class="modular-content-container is-hidden is-hidden-portrait">
+			<p id="next-module" class="margin-top-none"></p>
+			<p>
+				<a href="/en-us/" class="button button-primary button-clear" data-linktype="absolute-path">
+				<span>Continue </span>
+				<span class="docon docon-chevron-right-light"></span>
+				</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+							</div>
+
+							<div id="assertive-live-region" role="alert" aria-live="assertive" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<div id="polite-live-region" role="status" aria-live="polite" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<!-- </content> -->
+
+						</main>
+
+<div class="modular-content-container margin-block-xs">
+	<section class="feedback-section section is-full-height is-uniform padding-block-none position-relative">
+		<p class="font-weight-semibold">
+Need help? See our <a id="troubleshooting-guide" class="has-text-primary" data-bi-name="troubleshooting">troubleshooting guide</a> or provide specific feedback by <a id="module-unit-feedback-link" class="has-text-primary" data-bi-name="feedback">reporting an issue</a>.		</p>
+		<div id="ms--unit-user-feedback">
+<section id="site-user-feedback-footer" class="font-size-sm margin-top-md" data-test-id="site-user-feedback-footer" data-bi-name="site-feedback-section">
+	<hr class="hr" />
+	<h2 id="feedback" class="title is-3">Feedback</h2>
+	<div class="display-flex flex-wrap-wrap align-items-center">
+		<p class="font-weight-semibold margin-xxs margin-left-none">Was this page helpful?</p>
+		<div class="buttons">
+			<button
+				class="thumb-rating-button like button button-primary button-sm"
+				data-test-id="footer-rating-yes"
+				data-binary-rating-response="rating-yes"
+				type="button"
+				title="This article is helpful"
+				data-bi-name="button-rating-yes"
+				aria-pressed="false"
+			>
+				<span class="icon" aria-hidden="true">
+					<span class="docon docon-like"></span>
+				</span>
+				<span>Yes</span>
+			</button>
+			<button
+				class="thumb-rating-button dislike button button-primary button-sm"
+				data-test-id="footer-rating-no"
+				data-binary-rating-response="rating-no"
+				type="button"
+				title="This article is not helpful"
+				data-bi-name="button-rating-no"
+				aria-pressed="false"
+			>
+				<span class="icon" aria-hidden="true">
+					<span class="docon docon-dislike"></span>
+				</span>
+				<span>No</span>
+			</button>
+		</div>
+	</div>
+
+
+<div class="display-flex flex-wrap-wrap margin-top-xxs">
+</div>
+</section>
+		</div>
+	</section>
+</div>
+
+
+
+						<!-- recommendations section -->
+						<!-- end recommendations section -->
+
+						<!-- feedback section -->
+						<!-- end feedback section -->
+
+						<!-- feedback report section -->
+						<!-- end feedback report section -->
+
+
+						<div class="border-top is-visible-interactive has-default-focus margin-top-sm  margin-top-none">
+
+
+
+	<footer id="footer-interactive" data-bi-name="footer" class="footer-layout">
+	<div class="display-flex gap-xs flex-wrap-wrap is-full-height padding-right-lg-desktop">
+			<a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-sm button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a>
+		<div class="ccpa-privacy-link flex-shrink-0" hidden>
+<a
+	href="https://aka.ms/yourcaliforniaprivacychoices"
+	class="button button-sm button-clear"
+	data-mscc-ic="false"
+	data-bi-name="your-privacy-choices"
+>
+	<svg
+		role="img"
+		aria-label="California Consumer Privacy Act (CCPA) Opt-Out Icon"
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 30 14"
+		xml:space="preserve"
+		height="16"
+		width="43"
+		focusable="false"
+	>
+		<title>California Consumer Privacy Act (CCPA) Opt-Out Icon</title>
+		<path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"></path>
+		<path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"></path>
+		<path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"></path>
+		<path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"></path>
+	</svg>
+	<span>Your Privacy Choices</span>
+</a>
+		</div>
+		<div class="flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu-interactive" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+		<span class="icon expanded-indicator" aria-hidden="true">
+			<span class="docon docon-chevron-down-light"></span>
+		</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu-interactive" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Light					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/previous-versions/" data-bi-name="archivelink">Previous Versions</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">Blog</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/contribute/" data-bi-name="contributorGuide">Contribute</a></li>
+					<li><a class="external-link-indicator" data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://www.microsoft.com/legal/intellectualproperty/Trademarks/" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2023</li>
+	</ul>
+</footer>
+						</div>
+
+					</div>
+
+
+				</div>
+				<!--end of div.columns -->
+
+			</section>
+			<!--end of .primary-holder -->
+
+			<!-- interactive container -->
+			<aside id="interactive-container" class="interactive-container is-visible-interactive column has-body-background-dark ">
+			</aside>
+			<!-- end of interactive container -->
+		</div>
+
+	</div>
+	<!--end of .mainContainer -->
+
+	<section class="border-top has-default-focus is-hidden-interactive margin-top-sm  margin-top-none">
+
+
+
+	<footer id="footer" data-bi-name="footer" class="footer-layout uhf-container has-padding" role="contentinfo">
+	<div class="display-flex gap-xs flex-wrap-wrap is-full-height padding-right-lg-desktop">
+			<a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-sm button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a>
+		<div class="ccpa-privacy-link flex-shrink-0" hidden>
+<a
+	href="https://aka.ms/yourcaliforniaprivacychoices"
+	class="button button-sm button-clear"
+	data-mscc-ic="false"
+	data-bi-name="your-privacy-choices"
+>
+	<svg
+		role="img"
+		aria-label="California Consumer Privacy Act (CCPA) Opt-Out Icon"
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 30 14"
+		xml:space="preserve"
+		height="16"
+		width="43"
+		focusable="false"
+	>
+		<title>California Consumer Privacy Act (CCPA) Opt-Out Icon</title>
+		<path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"></path>
+		<path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"></path>
+		<path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"></path>
+		<path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"></path>
+	</svg>
+	<span>Your Privacy Choices</span>
+</a>
+		</div>
+		<div class="flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+		<span class="icon expanded-indicator" aria-hidden="true">
+			<span class="docon docon-chevron-down-light"></span>
+		</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Light					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/previous-versions/" data-bi-name="archivelink">Previous Versions</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">Blog</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/contribute/" data-bi-name="contributorGuide">Contribute</a></li>
+					<li><a class="external-link-indicator" data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://www.microsoft.com/legal/intellectualproperty/Trademarks/" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2023</li>
+	</ul>
+</footer>
+	</section>
+
+		<script src="/static/third-party/MathJax/3.2.2/tex-mml-chtml.js" integrity="sha384-Wuix6BuhrWbjDBs24bXrjf4ZQ5aFeFWBuKkFekO2t8xFU0iNaLQfp2K6/1Nxveei" crossorigin="anonymous"></script>
+	<div id="action-panel" role="region" aria-label="Action Panel" class="action-panel has-default-focus" tabindex="-1"></div>
+</body>
+</html>

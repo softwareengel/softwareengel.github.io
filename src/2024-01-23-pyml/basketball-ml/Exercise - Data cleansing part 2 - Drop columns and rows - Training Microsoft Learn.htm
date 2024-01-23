@@ -1,0 +1,2010 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+	class=" is-full hasPageActions hasBreadcrumb moduleunit has-default-focus theme-light"
+	lang="en-us"
+	dir="ltr"
+	data-authenticated="false"
+	data-auth-status-determined="false"
+	data-target="docs"
+	x-ms-format-detection="none">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta property="og:title" content="Exercise - Data cleansing part 2 - Drop columns and rows - Training" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://learn.microsoft.com/en-us/training/modules/predict-basketball-player-efficiency-ratings/4-drop-data" />
+			<meta property="og:description" content="Drop columns and rows depending on the number of null values to create a more accurate dataset." />
+
+	<meta property="og:image" content="https://learn.microsoft.com/en-us/media/open-graph-image.png" />
+
+	<meta property="og:image:alt" content="Microsoft Learn" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+
+	<meta name="twitter:site" content="@MicrosoftLearn" />
+
+	<meta name="color-scheme" content="light dark">
+
+
+	<meta name="author" content="softchris" />
+<meta name="azure_sandbox" content="false" />
+<meta name="breadcrumb_path" content="/learn/breadcrumb/toc.json" />
+<meta name="clicktale" content="true" />
+<meta name="depot_name" content="Docs.learn-pr" />
+<meta name="description" content="Drop columns and rows depending on the number of null values to create a more accurate dataset." />
+<meta name="document_id" content="790374af-e7f9-7cba-752e-c509a35845ae" />
+<meta name="document_version_independent_id" content="da8833fd-bbcf-2535-3565-458bb6188daa" />
+<meta name="feedback_help_link_type" content="" />
+<meta name="feedback_help_link_url" content="" />
+<meta name="feedback_product_url" content="" />
+<meta name="feedback_system" content="GitHub" />
+<meta name="git_commit_id" content="c4f6b5783be2aaf9cf8ba00722f9551750927c8b" />
+<meta name="gitcommit" content="https://github.com/MicrosoftDocs/learn-pr/blob/c4f6b5783be2aaf9cf8ba00722f9551750927c8b/learn-pr/sports-machine-learning/predict-basketball-player-efficiency-ratings/4-drop-data.yml" />
+<meta name="locale" content="en-us" />
+<meta name="localization_scopes" content="ar-sa" />
+<meta name="localization_scopes" content="de-de" />
+<meta name="localization_scopes" content="es-es" />
+<meta name="localization_scopes" content="fr-fr" />
+<meta name="localization_scopes" content="it-it" />
+<meta name="localization_scopes" content="ja-jp" />
+<meta name="localization_scopes" content="ko-kr" />
+<meta name="localization_scopes" content="pt-br" />
+<meta name="localization_scopes" content="ru-ru" />
+<meta name="localization_scopes" content="zh-tw" />
+<meta name="localization_scopes" content="cs-cz" />
+<meta name="localization_scopes" content="pl-pl" />
+<meta name="localization_scopes" content="tr-tr" />
+<meta name="localization_scopes" content="hu-hu" />
+<meta name="localization_scopes" content="nl-nl" />
+<meta name="localization_scopes" content="pt-pt" />
+<meta name="localization_scopes" content="sv-se" />
+<meta name="ms.author" content="chnoring" />
+<meta name="ms.custom" content="team=nextgen" />
+<meta name="ms.date" content="03/10/2021" />
+<meta name="ms.topic" content="unit" />
+<meta name="original_content_git_url" content="https://github.com/MicrosoftDocs/learn-pr/blob/live/learn-pr/sports-machine-learning/predict-basketball-player-efficiency-ratings/4-drop-data.yml" />
+<meta name="page_kind" content="unit" />
+<meta name="page_type" content="learn" />
+<meta name="ROBOTS" content="noindex" />
+<meta name="sandbox" content="false" />
+<meta name="schema" content="ModuleUnit" />
+<meta name="site_name" content="Docs" />
+<meta name="uhfHeaderId" content="MSDocsHeader-Learn" />
+<meta name="uid" content="learn.student-evangelism.predict-basketball-player-efficiency-ratings.4-drop-data" />
+<meta name="unit_completion_type" content="view" />
+<meta name="updated_at" content="2023-11-16 08:02 PM" />
+
+
+	<meta name="persistent_id" content="eafaeb02-154a-2e67-6c43-4891b12fd212" />
+	
+
+
+
+
+	<meta name="github_feedback_content_git_url" content="https://github.com/MicrosoftDocs/learn/blob/main/learn-pr/sports-machine-learning/predict-basketball-player-efficiency-ratings/4-drop-data.yml" />
+<link href="https://learn.microsoft.com/en-us/training/modules/predict-basketball-player-efficiency-ratings/4-drop-data" rel="canonical">
+	<title>Exercise - Data cleansing part 2 - Drop columns and rows - Training | Microsoft Learn</title>
+
+		<link rel="stylesheet" href="/_themes/docs.theme/master/en-us/_themes/styles/14bfc24e.site-ltr.css ">
+
+	
+
+	<script id="msdocs-script">
+	var msDocs = {
+		data: {
+			timeOrigin: Date.now(),
+			contentLocale: 'en-us',
+			contentDir: 'ltr',
+			userLocale: 'en-us',
+			userDir: 'ltr',
+			pageTemplate: 'ModuleUnit',
+			brand: '',
+			context: {
+			},
+			hasBinaryRating: false,
+			hasGithubIssues: false,
+			feedbackHelpLinkType:'',
+			feedbackHelpLinkUrl:'',
+			standardFeedback: false,
+			showFeedbackReport: false,
+			enableTutorialFeedback: false,
+			contentWellNotification: '',
+			feedbackSystem: 'GitHub',
+			feedbackGitHubRepo: 'MicrosoftDocs/learn',
+			feedbackProductUrl: '',
+			extendBreadcrumb: false,
+			isEditDisplayable: false,
+			hideViewSource: false,
+			hasPageActions: true,
+			hasPrintButton: false,
+			hasBookmark: true,
+			hasShare: false,
+			isPermissioned: false,
+			isPrivateUnauthorized: false,
+			hasRecommendations: false,
+			contributors: [
+						{ name: "MelanieHom", url: "https://github.com/MelanieHom" },
+						{ name: "v-trisshores", url: "https://github.com/v-trisshores" },
+						{ name: "v-andreaco", url: "https://github.com/v-andreaco" }
+],
+			mathjax: {
+			},
+		},
+		functions:{}
+	};
+	</script>
+	<script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+	<script src="https://js.monitor.azure.com/scripts/c/ms.jsll-3.min.js"></script>
+
+	<script src="/_themes/docs.theme/master/en-us/_themes/global/67a45209.deprecation.js"></script>
+
+		<link rel="preconnect" href="//mscom.demdex.net" crossorigin>
+		<link rel="dns-prefetch" href="//target.microsoft.com">
+		<link rel="dns-prefetch" href="//microsoftmscompoc.tt.omtrdc.net">
+		<link
+			rel="preload"
+			as="script"
+			href="/static/third-party/adobe-target/at-js/2.9.0/at.js"
+			integrity="sha384-1/viVM50hgc33O2gOgkWz3EjiD/Fy/ld1dKYXJRUyjNYVEjSUGcSN+iPiQF7e4cu"
+			crossorigin="anonymous"
+			id="adobe-target-script"
+			type="application/javascript"
+		/>
+		<script src="/_themes/docs.theme/master/en-us/_themes/scripts/f9070d94.index-docs.js"></script>
+</head>
+
+<body lang="en-us" dir="ltr">
+	<div class="header-holder has-default-focus">
+		<a href="#main" class="skip-to-main-link has-outline-color-text visually-hidden-until-focused position-fixed has-inner-focus focus-visible top-0 left-0 right-0 padding-xs has-text-centered has-body-background" tabindex="1">Skip to main content</a>
+
+		<div hidden id="cookie-consent-holder" data-test-id="cookie-consent-container"></div>
+
+		<div id="unsupported-browser" style="
+			background-color: white;
+			color: black;
+			padding: 16px;
+			border-bottom: 1px solid grey;"
+			hidden
+		>
+			<div style="max-width: 800px; margin: 0 auto;">
+				<p style="font-size: 24px">This browser is no longer supported.</p>
+				<p style="font-size: 16px; margin-top: 16px;">Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.</p>
+				<div style="margin-top: 12px;">
+					<a href="https://go.microsoft.com/fwlink/p/?LinkID=2092881 "
+						style="
+						background-color: #0078d4;
+						border: 1px solid #0078d4;
+						color: white;
+						padding: 6px 12px;
+						border-radius: 2px;
+						display: inline-block;
+						">
+Download Microsoft Edge					</a>
+					<a href="https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge"
+						style="
+							background-color: white;
+							padding: 6px 12px;
+							border: 1px solid #505050;
+							color: #171717;
+							border-radius: 2px;
+							display: inline-block;
+							">
+More info about Internet Explorer and Microsoft Edge					</a>
+				</div>
+			</div>
+		</div>
+		<!-- liquid-tag banners global -->
+
+		<!-- site header -->
+		<header id="ms--site-header" class="display-none" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization"></header>
+
+		<div id="headerAreaHolder" data-bi-name="header">
+<header role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+	<div id="ms--primary-nav" class="nav-bar">
+		<div class="nav-bar-brand">
+			<a itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" class="nav-bar-button">
+				<div class="nav-bar-logo has-background-image theme-display is-light" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+				<div class="nav-bar-logo has-background-image theme-display is-dark is-high-contrast" role="presentation" aria-hidden="true" itemprop="logo" itemscope="itemscope"></div>
+			</a>
+		</div>
+	</div>
+	<div id="ms--secondary-nav" class="nav-bar border-bottom is-hidden-mobile"></div>
+</header>
+		</div>
+
+
+			<div id="content-header" class="content-header uhf-container has-padding has-default-focus border-bottom-none" data-bi-name="content-header">
+				<div class="content-header-controls margin-xxs margin-inline-sm-tablet">
+					<button type="button" class="contents-button button button-sm margin-right-xxs" data-bi-name="contents-expand" aria-haspopup="true" data-contents-button>
+						<span class="icon"><span class="docon docon-menu" aria-hidden="true"></span></span>
+						<span class="contents-expand-title">
+Table of contents						</span>
+					</button>
+					<button type="button" class="ap-collapse-behavior ap-expanded button button-sm" data-bi-name="ap-collapse" aria-controls="action-panel">
+						<span class="icon"><span class="docon docon-exit-mode" aria-hidden="true"></span></span>
+						<span>Exit focus mode</span>
+					</button>
+				</div>
+			</div>
+
+		<div id="disclaimer-holder" class="has-overflow-hidden has-default-focus">
+			<!-- liquid-tag banners sectional -->
+		</div>
+	</div>
+
+	<div class="mainContainer  uhf-container has-body-background-dark uhf-container is-full  has-default-focus" data-bi-name="body">
+
+		<div class="columns has-large-gaps is-gapless-mobile  is-gapless">
+
+
+			<!-- .primary-holder -->
+			<section class="primary-holder column  is-full ">
+				<!--div.columns -->
+				<div class="columns is-gapless-mobile has-large-gaps  is-gapless">
+
+
+					<div id="main-column" class="column  is-full ">
+
+						<main id="main" class="" role="main" data-bi-name="content" lang="en-us" dir="ltr">
+							<!-- article-header -->
+							<div id="article-header" class="background-color-body  display-none-print">
+								<div class="display-flex align-items-center uhf-container">
+									<details id="article-header-breadcrumbs-overflow-popover" class="popover" data-for="article-header-breadcrumbs">
+										<summary class="button button-clear button-primary button-sm inner-focus" aria-label="All breadcrumbs">
+											<span class="icon">
+												<span class="docon docon-more"></span>
+											</span>
+										</summary>
+										<div id="article-header-breadcrumbs-overflow" class="popover-content padding-none">
+
+										</div>
+									</details>
+
+									<bread-crumbs id="article-header-breadcrumbs" data-test-id="article-header-breadcrumbs" class="overflow-hidden flex-grow-1 margin-right-sm margin-right-md-tablet margin-right-lg-desktop margin-left-negative-xxs padding-left-xxs"></bread-crumbs>
+
+									<div id="article-header-page-actions"  class="opacity-none margin-left-auto display-flex flex-wrap-no-wrap align-items-stretch">
+
+										<a
+											id="lang-link-tablet"
+											class="button button-primary button-clear button-sm display-none display-inline-flex-tablet"
+											title="Read in English" data-bi-name="language-toggle"
+											data-read-in-link
+											hidden>
+											<span class="icon margin-none" aria-hidden="true" data-read-in-link-icon>
+												<span class="docon docon-locale-globe"></span>
+											</span>
+											<span class="is-visually-hidden" data-read-in-link-text>Read in English</span>
+										</a>
+
+											<button
+												type="button"
+												class="collection button button-clear button-sm button-primary display-none display-inline-flex-tablet"
+												data-list-type="collection"
+												data-bi-name="collection"
+												title="Add to collection">
+												<span class="icon margin-none" aria-hidden="true">
+													<span class="docon docon-circle-addition"></span>
+												</span>
+												<span class="collection-status is-visually-hidden">Save</span>
+											</button>
+										
+
+										
+
+
+										
+										<details class="popover popover-right" id="article-header-page-actions-overflow">
+											<summary class="justify-content-flex-start button button-clear button-sm button-primary" aria-label="More actions">
+												<span class="icon" aria-hidden="true">
+													<span class="docon docon-more-vertical"></span>
+												</span>
+											</summary>
+											<div class="popover-content padding-none">
+
+												<a
+													id="lang-link-overflow"
+													class="justify-content-flex-start button-sm has-inner-focus button button-clear button-block display-none-tablet"
+													title="Read in English" data-bi-name="language-toggle"
+													data-page-action-item="overflow-mobile"
+													data-check-hidden="true"
+													data-read-in-link
+													hidden
+													>
+													<span class="icon" aria-hidden="true" data-read-in-link-icon>
+														<span class="docon docon-locale-globe"></span>
+													</span>
+													<span data-read-in-link-text>Read in English</span>
+												</a>
+
+													<button
+														type="button"
+														class="collection justify-content-flex-start button button-clear button-sm has-inner-focus button-block display-none-tablet"
+														data-list-type="collection"
+														data-bi-name="collection"
+														title="Add to collection"
+														data-page-action-item="overflow-mobile"
+														data-check-hidden="true"
+														data-popover-close>
+														<span class="icon" aria-hidden="true">
+															<span class="docon docon-circle-addition"></span>
+														</span>
+														<span class="collection-status">Save</span>
+													</button>
+
+
+
+												
+											</div>
+										</details>
+										
+									</div>
+								</div>
+							</div>
+							<!-- end article-header -->
+
+
+							<div>
+								<button type="button" class="border contents-button button button-clear button-sm is-hidden-tablet has-inner-focus" data-bi-name="contents-expand" data-contents-button hidden>
+									<span class="icon">
+										<span class="docon docon-editor-list-bullet" aria-hidden="true"></span>
+									</span>
+										<span class="contents-expand-title">Table of contents</span>
+								</button>
+							</div>
+
+							<!-- end mobile-contents button  -->
+
+							<div class="content ">
+
+<div class="modular-content-container" data-target="docs">
+    <nav class="pagination is-centered is-wide" role="navigation" aria-label="pagination" data-bi-name="module-nav">
+        <a class="is-invisible pagination-previous button button-clear text-decoration-none is-hidden-portrait has-inner-focus" data-bi-name="previous-unit" id="previous-unit-link">
+            <span aria-hidden="true" class="icon docon docon-chevron-left-light"></span>
+            <span>Previous</span>
+        </a>
+        <ul class="pagination-list" id="unit-nav-dropdown">
+            <li class="dropdown has-centered-menu has-caret" data-bi-name="unit-menu">
+                <button aria-controls="module-menu" aria-expanded="false" class="pagination-link margin-inline-auto button button-clear text-decoration-none button-sm dropdown-trigger" data-bi-name="dropdown-trigger" title="Module menu">
+                    <span id="unit-place"></span>
+                    <span aria-hidden="true" class="icon">
+                        <span class="docon docon-chevron-down-light expanded-indicator"></span>
+                    </span>
+                </button>
+                <div class="dropdown-menu width-300 width-450-desktop" id="module-menu"></div>
+            </li>
+        </ul>
+		<div id="completion-nav" class="pagination-list is-hidden font-weight-semibold">
+Achievements        </div>
+        <a class="is-invisible pagination-next button button-clear text-decoration-none is-hidden-portrait has-inner-focus" data-bi-name="next-unit" id="next-unit-link">
+            <span>Next</span>
+            <span aria-hidden="true" class="icon docon docon-chevron-right-light"></span>
+        </a>
+    </nav>
+</div>
+<div class="columns is-mobile is-gapless is-fixed-bottom is-hidden-tablet is-hidden-landscape has-body-background margin-none" id="mobile-nav">
+    <div class="column is-hidden" id="previous-unit-link-mobile-col">
+        <a class="button button-block button-filled is-radiusless button-lg margin-none has-inner-focus" data-bi-name="previous-unit" id="previous-unit-link-mobile">
+            <span aria-hidden="true" class="icon docon docon-chevron-left-light"></span>
+            <span>Previous</span>
+        </a>
+    </div>
+    <div class="column is-hidden" id="next-unit-link-mobile-col">
+        <a class="button button-block button-filled button-primary button-lg is-radiusless margin-none has-inner-focus" data-bi-name="next-unit" id="next-unit-link-mobile">
+            <span>Next</span>
+            <span aria-hidden="true" class="icon docon docon-chevron-right-light"></span>
+        </a>
+    </div>
+</div>
+
+								
+
+
+
+								<!-- <content> -->
+									<div class="modular-content-container has-body-background box">
+	<div id="unit-inner-section" class="section is-uniform position-relative">
+		<h1 class="margin-right-xxl-desktop">Exercise - Data cleansing part 2 - Drop columns and rows</h1>
+		<div data-progress-uid="learn.student-evangelism.predict-basketball-player-efficiency-ratings.4-drop-data" class="xp-tag position-absolute top-0 right-0 margin-top-xs margin-top-sm-tablet margin-top-lg-desktop margin-top-xs-interactive margin-right-sm margin-right-lg-tablet margin-right-sm-interactive">
+			<div class="xp-tag-hexagon">
+				<span class="xp-tag-icon is-shown-complete docon docon-check">
+					<span class="visually-hidden">Completed</span>
+				</span>
+				<span class="xp-tag-xp"></span>
+			</div>
+		</div>
+		<ul class="metadata page-metadata">
+			<li>10 minutes</li>
+		</ul>
+			<p>One of the quickest ways to cleanse data is to drop columns and rows that don't add value to your data-discovery goals. In the previous unit, you discovered two columns that have only <code>NaN</code> values for each row. They were unnamed columns, so they were probably included in the original dataset by mistake. Those columns are straightforward to drop.</p>
+<h2 id="drop-columns">Drop columns</h2>
+<p>To drop columns, you'll use the <code>dropna()</code> method. Like <code>isna()</code>, <code>dropna()</code> looks for <code>NaN</code> values. But it goes a step further and removes either the rows or the columns that contain <code>NaN</code> values. Start by setting some parameters to the method:</p>
+<ul>
+<li>By default, <code>dropna()</code> removes rows, so specify that you want to remove columns by using the <code>axis</code> parameter.</li>
+<li>The <code>dropna()</code> method usually returns a new DataFrame. Use the <code>inplace</code> parameter to tell it to drop these columns in the original <code>player_df</code> DataFrame.</li>
+<li>You also want <code>dropna()</code> to remove only columns in which all of the values are missing. So set the <code>how</code> parameter to <code>'all'</code>.</li>
+</ul>
+<pre><code class="lang-python"># Drop columns that have no values.
+player_df.dropna(axis='columns', inplace=True, how='all')
+player_df.isna().sum()
+</code></pre>
+<pre><code class="lang-output">ID              0
+points          3
+possessions     3
+team_pace       3
+GP              7
+MPG             6
+TS%             1
+AST             1
+TO              1
+USG             1
+ORR             1
+DRR             1
+REBR            1
+PER            10
+dtype: int64
+</code></pre>
+<p>You successfully removed the empty columns. You see that if you call <code>.info()</code> again:</p>
+<pre><code class="lang-python">player_df.info()
+</code></pre>
+<pre><code class="lang-output">&lt;class 'pandas.core.frame.DataFrame'&gt;
+RangeIndex: 46 entries, 0 to 45
+Data columns (total 14 columns):
+ #   Column       Non-Null Count  Dtype  
+---  ------       --------------  -----  
+ 0   ID           46 non-null     int64  
+ 1   points       43 non-null     float64
+ 2   possessions  43 non-null     float64
+ 3   team_pace    43 non-null     float64
+ 4   GP           39 non-null     float64
+ 5   MPG          40 non-null     float64
+ 6   TS%          45 non-null     float64
+ 7   AST          45 non-null     float64
+ 8   TO           45 non-null     float64
+ 9   USG          45 non-null     float64
+ 10  ORR          45 non-null     float64
+ 11  DRR          45 non-null     float64
+ 12  REBR         45 non-null     float64
+ 13  PER          36 non-null     float64
+dtypes: float64(13), int64(1)
+memory usage: 5.2 KB
+</code></pre>
+<p>You now have only 14 columns instead of 16. Most of the rows have data for each column.</p>
+<h2 id="drop-rows">Drop rows</h2>
+<p>You should also address the possibility that an entire row is missing values. That is, one of the players in the DataFrame might have no stats. You can try to address this missing row as you did last time, by using <code>dropna()</code>. But this time, use the method's default row-based behavior.</p>
+<pre><code class="lang-python"># Drop rows that have no values.
+player_df.dropna(inplace=True, how='all')
+player_df.isna().sum()
+</code></pre>
+<pre><code class="lang-output">ID              0
+points          3
+possessions     3
+team_pace       3
+GP              7
+MPG             6
+TS%             1
+AST             1
+TO              1
+USG             1
+ORR             1
+DRR             1
+REBR            1
+PER            10
+dtype: int64
+</code></pre>
+<p>Hmmm. No change. So you know that no row has all <code>NaN</code> values. That's great!</p>
+<p>Now look at the DataFrame itself. It's large enough that you wouldn't want to print all of the rows all the time. But it's not so large that it's unmanageable to print it here once.</p>
+<pre><code class="lang-python"># Show the entire DataFrame.
+player_df
+</code></pre>
+<p><strong>Output</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>ID</th>
+<th>points</th>
+<th>possessions</th>
+<th>team_pace</th>
+<th>GP</th>
+<th>MPG</th>
+<th>TS%</th>
+<th>AST</th>
+<th>TO</th>
+<th>USG</th>
+<th>ORR</th>
+<th>DRR</th>
+<th>REBR</th>
+<th>PER</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0</strong></td>
+<td>1</td>
+<td>1893.0</td>
+<td>1251.8</td>
+<td>97.8</td>
+<td>63.0</td>
+<td>33.9</td>
+<td>0.569</td>
+<td>17.2</td>
+<td>11.5</td>
+<td>26.1</td>
+<td>4.7</td>
+<td>23.3</td>
+<td>7.8</td>
+<td>10.90</td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td>2</td>
+<td>1386.0</td>
+<td>1282.5</td>
+<td>110.5</td>
+<td>58.0</td>
+<td>32.5</td>
+<td>0.511</td>
+<td>24.8</td>
+<td>9.7</td>
+<td>26.9</td>
+<td>6.1</td>
+<td>0.9</td>
+<td>10.7</td>
+<td>27.30</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>3</td>
+<td>1405.0</td>
+<td>1252.3</td>
+<td>105.8</td>
+<td>55.0</td>
+<td>36.3</td>
+<td>0.605</td>
+<td>25.7</td>
+<td>13.9</td>
+<td>28.1</td>
+<td>4.5</td>
+<td>4.9</td>
+<td>1.8</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>4</td>
+<td>1282.0</td>
+<td>1235.9</td>
+<td>100.7</td>
+<td>54.0</td>
+<td>37.6</td>
+<td>0.636</td>
+<td>29.5</td>
+<td>11.0</td>
+<td>22.3</td>
+<td>4.8</td>
+<td>4.6</td>
+<td>5.6</td>
+<td>22.35</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>5</td>
+<td>1721.0</td>
+<td>1254.0</td>
+<td>105.7</td>
+<td>59.0</td>
+<td>30.5</td>
+<td>0.589</td>
+<td>22.8</td>
+<td>9.9</td>
+<td>24.6</td>
+<td>1.2</td>
+<td>8.4</td>
+<td>12.1</td>
+<td>28.38</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>6</td>
+<td>1004.0</td>
+<td>1322.4</td>
+<td>102.1</td>
+<td>57.0</td>
+<td>36.3</td>
+<td>0.574</td>
+<td>20.3</td>
+<td>13.5</td>
+<td>31.0</td>
+<td>1.2</td>
+<td>20.5</td>
+<td>3.4</td>
+<td>9.83</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>7</td>
+<td>1920.0</td>
+<td>1207.6</td>
+<td>109.8</td>
+<td>55.0</td>
+<td>37.0</td>
+<td>0.573</td>
+<td>26.0</td>
+<td>13.1</td>
+<td>30.7</td>
+<td>0.0</td>
+<td>10.3</td>
+<td>-2.6</td>
+<td>8.71</td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td>8</td>
+<td>1353.0</td>
+<td>1348.1</td>
+<td>112.2</td>
+<td>57.0</td>
+<td>NaN</td>
+<td>0.574</td>
+<td>24.4</td>
+<td>11.3</td>
+<td>26.3</td>
+<td>5.5</td>
+<td>5.8</td>
+<td>-2.2</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td>9</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>54.0</td>
+<td>31.7</td>
+<td>0.577</td>
+<td>24.6</td>
+<td>14.4</td>
+<td>35.7</td>
+<td>2.5</td>
+<td>14.1</td>
+<td>-4.6</td>
+<td>4.68</td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td>10</td>
+<td>1468.0</td>
+<td>1400.9</td>
+<td>93.7</td>
+<td>61.0</td>
+<td>35.6</td>
+<td>0.547</td>
+<td>22.9</td>
+<td>12.2</td>
+<td>22.7</td>
+<td>5.8</td>
+<td>6.4</td>
+<td>-2.9</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td>11</td>
+<td>1856.0</td>
+<td>1303.8</td>
+<td>93.4</td>
+<td>55.0</td>
+<td>33.6</td>
+<td>0.563</td>
+<td>28.9</td>
+<td>14.7</td>
+<td>26.7</td>
+<td>1.4</td>
+<td>17.3</td>
+<td>4.3</td>
+<td>9.67</td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td>12</td>
+<td>1058.0</td>
+<td>1231.5</td>
+<td>99.4</td>
+<td>63.0</td>
+<td>32.8</td>
+<td>0.550</td>
+<td>25.1</td>
+<td>12.9</td>
+<td>27.2</td>
+<td>2.1</td>
+<td>12.1</td>
+<td>11.4</td>
+<td>22.97</td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td>13</td>
+<td>1452.0</td>
+<td>1246.1</td>
+<td>103.6</td>
+<td>NaN</td>
+<td>31.7</td>
+<td>0.584</td>
+<td>32.4</td>
+<td>14.7</td>
+<td>16.5</td>
+<td>3.2</td>
+<td>19.0</td>
+<td>4.1</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>13</strong></td>
+<td>14</td>
+<td>1438.0</td>
+<td>1499.6</td>
+<td>108.1</td>
+<td>60.0</td>
+<td>35.0</td>
+<td>0.569</td>
+<td>28.6</td>
+<td>12.2</td>
+<td>36.2</td>
+<td>4.9</td>
+<td>6.0</td>
+<td>7.4</td>
+<td>27.57</td>
+</tr>
+<tr>
+<td><strong>14</strong></td>
+<td>15</td>
+<td>1782.0</td>
+<td>1329.0</td>
+<td>104.6</td>
+<td>51.0</td>
+<td>NaN</td>
+<td>0.590</td>
+<td>26.5</td>
+<td>9.9</td>
+<td>29.7</td>
+<td>3.1</td>
+<td>29.4</td>
+<td>5.5</td>
+<td>9.38</td>
+</tr>
+<tr>
+<td><strong>15</strong></td>
+<td>16</td>
+<td>1276.0</td>
+<td>1257.5</td>
+<td>89.7</td>
+<td>58.0</td>
+<td>32.8</td>
+<td>0.572</td>
+<td>15.5</td>
+<td>16.2</td>
+<td>23.8</td>
+<td>3.4</td>
+<td>15.4</td>
+<td>6.0</td>
+<td>9.49</td>
+</tr>
+<tr>
+<td><strong>16</strong></td>
+<td>17</td>
+<td>1486.0</td>
+<td>1343.6</td>
+<td>100.6</td>
+<td>NaN</td>
+<td>34.9</td>
+<td>0.603</td>
+<td>26.2</td>
+<td>11.1</td>
+<td>36.7</td>
+<td>3.0</td>
+<td>14.3</td>
+<td>5.3</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>17</strong></td>
+<td>18</td>
+<td>1326.0</td>
+<td>1542.0</td>
+<td>107.8</td>
+<td>52.0</td>
+<td>31.8</td>
+<td>0.583</td>
+<td>25.3</td>
+<td>11.7</td>
+<td>30.6</td>
+<td>3.3</td>
+<td>9.9</td>
+<td>5.3</td>
+<td>19.78</td>
+</tr>
+<tr>
+<td><strong>18</strong></td>
+<td>19</td>
+<td>1535.0</td>
+<td>1336.2</td>
+<td>104.0</td>
+<td>56.0</td>
+<td>35.4</td>
+<td>0.636</td>
+<td>27.2</td>
+<td>10.8</td>
+<td>29.9</td>
+<td>0.7</td>
+<td>5.6</td>
+<td>7.9</td>
+<td>30.44</td>
+</tr>
+<tr>
+<td><strong>19</strong></td>
+<td>20</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>57.0</td>
+<td>34.0</td>
+<td>0.526</td>
+<td>28.3</td>
+<td>11.7</td>
+<td>25.6</td>
+<td>3.1</td>
+<td>4.7</td>
+<td>1.0</td>
+<td>11.57</td>
+</tr>
+<tr>
+<td><strong>20</strong></td>
+<td>21</td>
+<td>1276.0</td>
+<td>1354.9</td>
+<td>101.2</td>
+<td>50.0</td>
+<td>NaN</td>
+<td>0.560</td>
+<td>21.4</td>
+<td>12.4</td>
+<td>28.6</td>
+<td>2.6</td>
+<td>9.3</td>
+<td>10.3</td>
+<td>24.23</td>
+</tr>
+<tr>
+<td><strong>21</strong></td>
+<td>22</td>
+<td>1784.0</td>
+<td>1287.1</td>
+<td>101.3</td>
+<td>59.0</td>
+<td>33.8</td>
+<td>0.601</td>
+<td>27.2</td>
+<td>12.4</td>
+<td>21.8</td>
+<td>2.9</td>
+<td>5.2</td>
+<td>9.9</td>
+<td>25.15</td>
+</tr>
+<tr>
+<td><strong>22</strong></td>
+<td>23</td>
+<td>1729.0</td>
+<td>1205.0</td>
+<td>103.8</td>
+<td>61.0</td>
+<td>NaN</td>
+<td>0.645</td>
+<td>20.6</td>
+<td>13.1</td>
+<td>31.5</td>
+<td>4.0</td>
+<td>12.0</td>
+<td>5.2</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>23</strong></td>
+<td>24</td>
+<td>1639.0</td>
+<td>1287.4</td>
+<td>105.2</td>
+<td>52.0</td>
+<td>35.4</td>
+<td>0.570</td>
+<td>32.7</td>
+<td>15.0</td>
+<td>26.6</td>
+<td>1.6</td>
+<td>5.0</td>
+<td>9.4</td>
+<td>25.12</td>
+</tr>
+<tr>
+<td><strong>24</strong></td>
+<td>25</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>59.0</td>
+<td>34.9</td>
+<td>0.578</td>
+<td>16.9</td>
+<td>11.8</td>
+<td>28.7</td>
+<td>2.8</td>
+<td>14.1</td>
+<td>3.0</td>
+<td>12.27</td>
+</tr>
+<tr>
+<td><strong>25</strong></td>
+<td>26</td>
+<td>1370.0</td>
+<td>1384.7</td>
+<td>103.3</td>
+<td>NaN</td>
+<td>34.2</td>
+<td>0.571</td>
+<td>14.8</td>
+<td>9.9</td>
+<td>33.1</td>
+<td>2.4</td>
+<td>16.3</td>
+<td>3.7</td>
+<td>15.04</td>
+</tr>
+<tr>
+<td><strong>26</strong></td>
+<td>27</td>
+<td>1497.0</td>
+<td>1410.9</td>
+<td>98.3</td>
+<td>57.0</td>
+<td>34.1</td>
+<td>0.613</td>
+<td>15.4</td>
+<td>10.0</td>
+<td>29.3</td>
+<td>3.8</td>
+<td>5.7</td>
+<td>6.7</td>
+<td>25.35</td>
+</tr>
+<tr>
+<td><strong>27</strong></td>
+<td>28</td>
+<td>1313.0</td>
+<td>1420.5</td>
+<td>105.0</td>
+<td>48.0</td>
+<td>35.1</td>
+<td>0.569</td>
+<td>19.0</td>
+<td>10.9</td>
+<td>29.2</td>
+<td>4.6</td>
+<td>17.7</td>
+<td>5.2</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>28</strong></td>
+<td>29</td>
+<td>1464.0</td>
+<td>1353.4</td>
+<td>103.3</td>
+<td>63.0</td>
+<td>34.4</td>
+<td>0.595</td>
+<td>17.9</td>
+<td>9.2</td>
+<td>29.3</td>
+<td>1.0</td>
+<td>8.7</td>
+<td>4.1	20.49</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>29</strong></td>
+<td>30</td>
+<td>1645.0</td>
+<td>1415.7</td>
+<td>109.8</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>30</strong></td>
+<td>31</td>
+<td>2049.0</td>
+<td>1434.0</td>
+<td>110.0</td>
+<td>64.0</td>
+<td>38.8</td>
+<td>0.619</td>
+<td>31.5</td>
+<td>14.9</td>
+<td>35.5</td>
+<td>8.3</td>
+<td>17.6</td>
+<td>12.8</td>
+<td>28.44</td>
+</tr>
+<tr>
+<td><strong>31</strong></td>
+<td>32</td>
+<td>1795.0</td>
+<td>1481.8</td>
+<td>112.1</td>
+<td>62.0</td>
+<td>35.4</td>
+<td>0.608</td>
+<td>31.9</td>
+<td>14.5</td>
+<td>32.0</td>
+<td>6.5</td>
+<td>22.5</td>
+<td>12.9</td>
+<td>23.34</td>
+</tr>
+<tr>
+<td><strong>32</strong></td>
+<td>33</td>
+<td>1805.0</td>
+<td>1509.9</td>
+<td>108.6</td>
+<td>64.0</td>
+<td>35.4</td>
+<td>0.622</td>
+<td>27.9</td>
+<td>13.9</td>
+<td>36.0</td>
+<td>5.9</td>
+<td>27.7</td>
+<td>12.2</td>
+<td>22.41</td>
+</tr>
+<tr>
+<td><strong>33</strong></td>
+<td>34</td>
+<td>1743.0</td>
+<td>1422.4</td>
+<td>112.9</td>
+<td>64.0</td>
+<td>36.3</td>
+<td>0.619</td>
+<td>30.9</td>
+<td>15.6</td>
+<td>34.5</td>
+<td>5.9</td>
+<td>18.9</td>
+<td>14.8</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>34</strong></td>
+<td>35</td>
+<td>1963.0</td>
+<td>1539.1</td>
+<td>117.4</td>
+<td>NaN</td>
+<td>NaN</td>
+<td>0.633</td>
+<td>32.3</td>
+<td>16.2</td>
+<td>34.0</td>
+<td>5.9</td>
+<td>19.8</td>
+<td>13.1</td>
+<td>27.16</td>
+</tr>
+<tr>
+<td><strong>35</strong></td>
+<td>36</td>
+<td>2062.0</td>
+<td>1505.7</td>
+<td>111.5</td>
+<td>NaN</td>
+<td>37.0</td>
+<td>0.620</td>
+<td>29.8</td>
+<td>15.6</td>
+<td>36.2</td>
+<td>4.9</td>
+<td>23.9</td>
+<td>14.7</td>
+<td>27.86</td>
+</tr>
+<tr>
+<td><strong>36</strong></td>
+<td>37</td>
+<td>1845.0</td>
+<td>1435.7</td>
+<td>113.1</td>
+<td>69.0</td>
+<td>36.9</td>
+<td>0.634</td>
+<td>33.2</td>
+<td>14.0</td>
+<td>36.5</td>
+<td>4.1</td>
+<td>21.5</td>
+<td>16.4</td>
+<td>34.26</td>
+</tr>
+<tr>
+<td><strong>37</strong></td>
+<td>38</td>
+<td>1778.0</td>
+<td>1526.4</td>
+<td>109.3</td>
+<td>66.0</td>
+<td>34.9</td>
+<td>0.612</td>
+<td>30.6</td>
+<td>15.9</td>
+<td>35.9</td>
+<td>5.5</td>
+<td>18.8</td>
+<td>13.7</td>
+<td>28.65</td>
+</tr>
+<tr>
+<td><strong>38</strong></td>
+<td>39</td>
+<td>1901.0</td>
+<td>1444.1</td>
+<td>109.7</td>
+<td>67.0</td>
+<td>36.5</td>
+<td>0.609</td>
+<td>27.2</td>
+<td>14.8</td>
+<td>35.5</td>
+<td>5.0</td>
+<td>21.8</td>
+<td>8.9</td>
+<td>20.12</td>
+</tr>
+<tr>
+<td><strong>39</strong></td>
+<td>40</td>
+<td>183.0</td>
+<td>147.3</td>
+<td>118.1</td>
+<td>63.0</td>
+<td>37.5</td>
+<td>0.623</td>
+<td>31.2</td>
+<td>13.5</td>
+<td>34.7</td>
+<td>6.3</td>
+<td>18.7</td>
+<td>13.6</td>
+<td>29.81</td>
+</tr>
+<tr>
+<td><strong>40</strong></td>
+<td>41</td>
+<td>2030.0</td>
+<td>1431.0</td>
+<td>112.3</td>
+<td>68.0</td>
+<td>37.0</td>
+<td>0.618</td>
+<td>32.5</td>
+<td>15.3</td>
+<td>34.5</td>
+<td>5.7</td>
+<td>15.7</td>
+<td>13.2</td>
+<td>30.07</td>
+</tr>
+<tr>
+<td><strong>41</strong></td>
+<td>42</td>
+<td>1631.0</td>
+<td>1465.7</td>
+<td>110.1</td>
+<td>66.0</td>
+<td>37.5</td>
+<td>0.613</td>
+<td>28.4</td>
+<td>14.4</td>
+<td>35.7</td>
+<td>6.5</td>
+<td>20.7</td>
+<td>14.0</td>
+<td>28.40</td>
+</tr>
+<tr>
+<td><strong>42</strong></td>
+<td>43</td>
+<td>1828.0</td>
+<td>1507.2</td>
+<td>112.7</td>
+<td>64.0</td>
+<td>36.5</td>
+<td>0.618</td>
+<td>31.3</td>
+<td>14.0</td>
+<td>34.9</td>
+<td>5.9</td>
+<td>21.3</td>
+<td>14.5</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>43</strong></td>
+<td>44</td>
+<td>1821.0</td>
+<td>1443.7</td>
+<td>118.8</td>
+<td>66.0</td>
+<td>36.6</td>
+<td>0.609</td>
+<td>27.3</td>
+<td>13.5</td>
+<td>35.8</td>
+<td>7.0</td>
+<td>23.8</td>
+<td>11.5</td>
+<td>22.96</td>
+</tr>
+<tr>
+<td><strong>44</strong></td>
+<td>45</td>
+<td>1740.0</td>
+<td>1443.9</td>
+<td>114.1</td>
+<td>68.0</td>
+<td>37.1</td>
+<td>0.611</td>
+<td>26.6</td>
+<td>15.2</td>
+<td>29.3</td>
+<td>8.3</td>
+<td>17.7</td>
+<td>11.1</td>
+<td>21.22</td>
+</tr>
+<tr>
+<td><strong>45</strong></td>
+<td>46</td>
+<td>1993.0</td>
+<td>1459.0</td>
+<td>112.5</td>
+<td>NaN</td>
+<td>36.9</td>
+<td>0.627</td>
+<td>30.4</td>
+<td>15.0</td>
+<td>33.7</td>
+<td>6.3</td>
+<td>19.3</td>
+<td>14.1</td>
+<td>28.76</td>
+</tr>
+</tbody>
+</table>
+<p>Now you see that three rows are missing the same three values. Another row is missing 10 values. This information indicates two things:</p>
+<ul>
+<li>The dataset likely comes from two datasets that were joined together, and both of these earlier datasets had missing rows.</li>
+<li>You'll need to use critical thinking to determine how to remove these rows.</li>
+</ul>
+<p>The dataset is small enough that you could manually drop the problem rows. But that shortcut wouldn't give you practice dealing with larger datasets, where manual removal isn't practical. So use the built-in pandas methods instead.</p>
+<p>The <code>how</code> parameter in <code>dropna()</code> can be set to only <code>'any'</code> or <code>'all'</code>. Neither of those settings will get you what you need. Instead, use the <code>thresh</code> parameter.</p>
+<p>The <code>thresh</code> parameter refers to <em>threshold</em>. This parameter lets you set the minimum number of non-<code>NaN</code> values a row or column needs to avoid being dropped by <code>dropna()</code>. To remove specific rows from the DataFrame, set <code>thresh</code> to <code>12</code>.</p>
+<pre><code class="lang-python"># Drop all rows that don't have at least 12 non-NaN values.
+player_df.dropna(inplace=True, thresh=12)
+player_df.isna().sum()
+</code></pre>
+<pre><code class="lang-output">ID             0
+points         0
+possessions    0
+team_pace      0
+GP             6
+MPG            5
+TS%            0
+AST            0
+TO             0
+USG            0
+ORR            0
+DRR            0
+REBR           0
+PER            9
+dtype: int64
+</code></pre>
+<p>Now only three columns are missing values. But the rows have so few missing values that it's best to keep the rows and fill in the missing values with likely numbers. You'll address these rows in another unit.</p>
+<h2 id="reset-the-dataframe-index">Reset the DataFrame index</h2>
+<p>Because you've dropped rows, the index in the DataFrame is compromised. You see this problem if you print out the first 10 rows of the DataFrame:</p>
+<pre><code class="lang-python"># Print the first 10 rows of the player_df DataFrame.
+player_df.head(10)
+</code></pre>
+<p><strong>Output</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>ID</th>
+<th>points</th>
+<th>possessions</th>
+<th>team_pace</th>
+<th>GP</th>
+<th>MPG</th>
+<th>TS%</th>
+<th>AST</th>
+<th>TO</th>
+<th>USG</th>
+<th>ORR</th>
+<th>DRR</th>
+<th>REBR</th>
+<th>PER</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0</strong></td>
+<td>1</td>
+<td>1893.0</td>
+<td>1251.8</td>
+<td>97.8</td>
+<td>63.0</td>
+<td>33.9</td>
+<td>0.569</td>
+<td>17.2</td>
+<td>11.5</td>
+<td>26.1</td>
+<td>4.7</td>
+<td>23.3</td>
+<td>7.8</td>
+<td>10.90</td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td>2</td>
+<td>1386.0</td>
+<td>1282.5</td>
+<td>110.5</td>
+<td>58.0</td>
+<td>32.5</td>
+<td>0.511</td>
+<td>24.8</td>
+<td>9.7</td>
+<td>26.9</td>
+<td>6.1</td>
+<td>0.9</td>
+<td>10.7</td>
+<td>27.30</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>3</td>
+<td>1405.0</td>
+<td>1252.3</td>
+<td>105.8</td>
+<td>55.0</td>
+<td>36.3</td>
+<td>0.605</td>
+<td>25.7</td>
+<td>13.9</td>
+<td>28.1</td>
+<td>4.5</td>
+<td>4.9</td>
+<td>1.8</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>4</td>
+<td>1282.0</td>
+<td>1235.9</td>
+<td>100.7</td>
+<td>54.0</td>
+<td>37.6</td>
+<td>0.636</td>
+<td>29.5</td>
+<td>11.0</td>
+<td>22.3</td>
+<td>4.8</td>
+<td>4.6</td>
+<td>5.6</td>
+<td>22.35</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>5</td>
+<td>1721.0</td>
+<td>1254.0</td>
+<td>105.7</td>
+<td>59.0</td>
+<td>30.5</td>
+<td>0.589</td>
+<td>22.8</td>
+<td>9.9</td>
+<td>24.6</td>
+<td>1.2</td>
+<td>8.4</td>
+<td>12.1</td>
+<td>28.38</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>6</td>
+<td>1004.0</td>
+<td>1322.4</td>
+<td>102.1</td>
+<td>57.0</td>
+<td>36.3</td>
+<td>0.574</td>
+<td>20.3</td>
+<td>13.5</td>
+<td>31.0</td>
+<td>1.2</td>
+<td>20.5</td>
+<td>3.4</td>
+<td>9.83</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>7</td>
+<td>1920.0</td>
+<td>1207.6</td>
+<td>109.8</td>
+<td>55.0</td>
+<td>37.0</td>
+<td>0.573</td>
+<td>26.0</td>
+<td>13.1</td>
+<td>30.7</td>
+<td>0.0</td>
+<td>10.3</td>
+<td>-2.6</td>
+<td>8.71</td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td>8</td>
+<td>1353.0</td>
+<td>1348.1</td>
+<td>112.2</td>
+<td>57.0</td>
+<td>NaN</td>
+<td>0.574</td>
+<td>24.4</td>
+<td>11.3</td>
+<td>26.3</td>
+<td>5.5</td>
+<td>5.8</td>
+<td>-2.2</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td>10</td>
+<td>1468.0</td>
+<td>1400.9</td>
+<td>93.7</td>
+<td>61.0</td>
+<td>35.6</td>
+<td>0.547</td>
+<td>22.9</td>
+<td>12.2</td>
+<td>22.7</td>
+<td>5.8</td>
+<td>6.4</td>
+<td>-2.9</td>
+<td>NaN</td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td>11</td>
+<td>1856.0</td>
+<td>1303.8</td>
+<td>93.4</td>
+<td>55.0</td>
+<td>33.6</td>
+<td>0.563</td>
+<td>28.9</td>
+<td>14.7</td>
+<td>26.7</td>
+<td>1.4</td>
+<td>17.3</td>
+<td>4.3</td>
+<td>9.67</td>
+</tr>
+</tbody>
+</table>
+<p>You see that the index counts 0 through 10, skipping 8. The row that had the index of 8 was dropped because it had more than two <code>NaN</code> values. In the 14 columns, the rows that had three or more <code>NaN</code> values didn't meet the threshold of 12 you set when you dropped rows earlier.</p>
+<p>To fix this problem, reset the index for the DataFrame. This fix saves you from problems down the road when you're working with the DataFrame. While you're at it, take a look at the now smaller DataFrame.</p>
+<pre><code class="lang-python"># Renumber the DataFrame index to account for the dropped rows.
+player_df.reset_index(drop=True, inplace=True)
+player_df.info()
+</code></pre>
+<pre><code class="lang-output">&lt;class 'pandas.core.frame.DataFrame'&gt;
+RangeIndex: 42 entries, 0 to 41
+Data columns (total 14 columns):
+ #   Column       Non-Null Count  Dtype  
+---  ------       --------------  -----  
+ 0   ID           42 non-null     int64  
+ 1   points       42 non-null     float64
+ 2   possessions  42 non-null     float64
+ 3   team_pace    42 non-null     float64
+ 4   GP           36 non-null     float64
+ 5   MPG          37 non-null     float64
+ 6   TS%          42 non-null     float64
+ 7   AST          42 non-null     float64
+ 8   TO           42 non-null     float64
+ 9   USG          42 non-null     float64
+ 10  ORR          42 non-null     float64
+ 11  DRR          42 non-null     float64
+ 12  REBR         42 non-null     float64
+ 13  PER          33 non-null     float64
+dtypes: float64(13), int64(1)
+memory usage: 4.7 KB
+</code></pre>
+<p>You see that you now have only 42 players in the DataFrame. Only three columns are missing some values.</p>
+<p>© 2021 Warner Bros. Ent. All Rights Reserved.</p>
+
+		<div id="next-section" class="modular-content-container is-hidden is-hidden-portrait">
+			<p id="next-module" class="margin-top-none"></p>
+			<p>
+				<a href="/en-us/" class="button button-primary button-clear" data-linktype="absolute-path">
+				<span>Continue </span>
+				<span class="docon docon-chevron-right-light"></span>
+				</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+							</div>
+
+							<div id="assertive-live-region" role="alert" aria-live="assertive" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<div id="polite-live-region" role="status" aria-live="polite" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<!-- </content> -->
+
+						</main>
+
+<div class="modular-content-container margin-block-xs">
+	<section class="feedback-section section is-full-height is-uniform padding-block-none position-relative">
+		<p class="font-weight-semibold">
+Need help? See our <a id="troubleshooting-guide" class="has-text-primary" data-bi-name="troubleshooting">troubleshooting guide</a> or provide specific feedback by <a id="module-unit-feedback-link" class="has-text-primary" data-bi-name="feedback">reporting an issue</a>.		</p>
+		<div id="ms--unit-user-feedback">
+<section id="site-user-feedback-footer" class="font-size-sm margin-top-md" data-test-id="site-user-feedback-footer" data-bi-name="site-feedback-section">
+	<hr class="hr" />
+	<h2 id="feedback" class="title is-3">Feedback</h2>
+	<div class="display-flex flex-wrap-wrap align-items-center">
+		<p class="font-weight-semibold margin-xxs margin-left-none">Was this page helpful?</p>
+		<div class="buttons">
+			<button
+				class="thumb-rating-button like button button-primary button-sm"
+				data-test-id="footer-rating-yes"
+				data-binary-rating-response="rating-yes"
+				type="button"
+				title="This article is helpful"
+				data-bi-name="button-rating-yes"
+				aria-pressed="false"
+			>
+				<span class="icon" aria-hidden="true">
+					<span class="docon docon-like"></span>
+				</span>
+				<span>Yes</span>
+			</button>
+			<button
+				class="thumb-rating-button dislike button button-primary button-sm"
+				data-test-id="footer-rating-no"
+				data-binary-rating-response="rating-no"
+				type="button"
+				title="This article is not helpful"
+				data-bi-name="button-rating-no"
+				aria-pressed="false"
+			>
+				<span class="icon" aria-hidden="true">
+					<span class="docon docon-dislike"></span>
+				</span>
+				<span>No</span>
+			</button>
+		</div>
+	</div>
+
+
+<div class="display-flex flex-wrap-wrap margin-top-xxs">
+</div>
+</section>
+		</div>
+	</section>
+</div>
+
+
+
+						<!-- recommendations section -->
+						<!-- end recommendations section -->
+
+						<!-- feedback section -->
+						<!-- end feedback section -->
+
+						<!-- feedback report section -->
+						<!-- end feedback report section -->
+
+
+						<div class="border-top is-visible-interactive has-default-focus margin-top-sm  margin-top-none">
+
+
+
+	<footer id="footer-interactive" data-bi-name="footer" class="footer-layout">
+	<div class="display-flex gap-xs flex-wrap-wrap is-full-height padding-right-lg-desktop">
+			<a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-sm button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a>
+		<div class="ccpa-privacy-link flex-shrink-0" hidden>
+<a
+	href="https://aka.ms/yourcaliforniaprivacychoices"
+	class="button button-sm button-clear"
+	data-mscc-ic="false"
+	data-bi-name="your-privacy-choices"
+>
+	<svg
+		role="img"
+		aria-label="California Consumer Privacy Act (CCPA) Opt-Out Icon"
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 30 14"
+		xml:space="preserve"
+		height="16"
+		width="43"
+		focusable="false"
+	>
+		<title>California Consumer Privacy Act (CCPA) Opt-Out Icon</title>
+		<path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"></path>
+		<path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"></path>
+		<path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"></path>
+		<path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"></path>
+	</svg>
+	<span>Your Privacy Choices</span>
+</a>
+		</div>
+		<div class="flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu-interactive" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+		<span class="icon expanded-indicator" aria-hidden="true">
+			<span class="docon docon-chevron-down-light"></span>
+		</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu-interactive" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Light					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/previous-versions/" data-bi-name="archivelink">Previous Versions</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">Blog</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/contribute/" data-bi-name="contributorGuide">Contribute</a></li>
+					<li><a class="external-link-indicator" data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://www.microsoft.com/legal/intellectualproperty/Trademarks/" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2023</li>
+	</ul>
+</footer>
+						</div>
+
+					</div>
+
+
+				</div>
+				<!--end of div.columns -->
+
+			</section>
+			<!--end of .primary-holder -->
+
+			<!-- interactive container -->
+			<aside id="interactive-container" class="interactive-container is-visible-interactive column has-body-background-dark ">
+			</aside>
+			<!-- end of interactive container -->
+		</div>
+
+	</div>
+	<!--end of .mainContainer -->
+
+	<section class="border-top has-default-focus is-hidden-interactive margin-top-sm  margin-top-none">
+
+
+
+	<footer id="footer" data-bi-name="footer" class="footer-layout uhf-container has-padding" role="contentinfo">
+	<div class="display-flex gap-xs flex-wrap-wrap is-full-height padding-right-lg-desktop">
+			<a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-sm button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a>
+		<div class="ccpa-privacy-link flex-shrink-0" hidden>
+<a
+	href="https://aka.ms/yourcaliforniaprivacychoices"
+	class="button button-sm button-clear"
+	data-mscc-ic="false"
+	data-bi-name="your-privacy-choices"
+>
+	<svg
+		role="img"
+		aria-label="California Consumer Privacy Act (CCPA) Opt-Out Icon"
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 30 14"
+		xml:space="preserve"
+		height="16"
+		width="43"
+		focusable="false"
+	>
+		<title>California Consumer Privacy Act (CCPA) Opt-Out Icon</title>
+		<path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"></path>
+		<path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"></path>
+		<path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"></path>
+		<path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"></path>
+	</svg>
+	<span>Your Privacy Choices</span>
+</a>
+		</div>
+		<div class="flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu" aria-expanded="false" title="Theme" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>Theme</span>
+		<span class="icon expanded-indicator" aria-hidden="true">
+			<span class="docon docon-chevron-down-light"></span>
+		</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Light					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+Dark					</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>
+High contrast					</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/previous-versions/" data-bi-name="archivelink">Previous Versions</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">Blog</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/contribute/" data-bi-name="contributorGuide">Contribute</a></li>
+					<li><a class="external-link-indicator" data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">Privacy</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/en-us/legal/termsofuse" data-bi-name="termsofuse">Terms of Use</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://www.microsoft.com/legal/intellectualproperty/Trademarks/" data-bi-name="trademarks">Trademarks</a></li>
+		<li>&copy; Microsoft 2023</li>
+	</ul>
+</footer>
+	</section>
+
+		<script src="/static/third-party/MathJax/3.2.2/tex-mml-chtml.js" integrity="sha384-Wuix6BuhrWbjDBs24bXrjf4ZQ5aFeFWBuKkFekO2t8xFU0iNaLQfp2K6/1Nxveei" crossorigin="anonymous"></script>
+	<div id="action-panel" role="region" aria-label="Action Panel" class="action-panel has-default-focus" tabindex="-1"></div>
+</body>
+</html>

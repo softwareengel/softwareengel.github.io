@@ -60,10 +60,11 @@ Jeder
 bekommt einen Abfuhrrhythmus auf Basis der historischen Sensordaten und der Befüllungsgeschwindigkeit 
 
 ![](../pics/20240122150807_FF-Verfahren.png)
-
+<!-- 
 ![](../pics/20240122142033-FF.png)
+-->
 
-## Routing-Karten - Vorbereitung (einmalig)
+## VorbereitungRoutingfähige -Karten (einmalig)
 - aufbereiten Kartenmaterial pro Planungsgebiet, Straßenabschnitte  
 - verheiraten von Behältern und Stellpülätzen
 - verheiraten von Stellplätzen und Geo-Positionen (Adressen/ POIs)
@@ -71,13 +72,13 @@ bekommt einen Abfuhrrhythmus auf Basis der historischen Sensordaten und der Bef�
 
 ![](../pics/20240122142120_Map.png)
 
-### Analyse der IST - Situation 
+### Aufnahme und Analyse der IST - Situation 
 
 ![](../pics/20240122142242_IST-RVP.png)
 
-## Erstellung einer Revierplanung mit Revieren mit Reviergrenzen (Revierplanung - wabenförmige Struktur)
+## Erstellung einer Revierplanung mit Revieren mit Reviergrenzen (wabenförmige Struktur)
 
-Automatisches Revierplanungs- Verfahren (RVP- Verfahren)
+Automatisches Revierplanungs- Verfahren (RVP- Verfahren):
 - automatisches Zuweisen von Behältern zu PLanungsbebieten (sog. Revieren)
 - Auswahl: Behälter oder Stelplatzplanung 
 - optische Revierprgrenzen, gut für den Planuner und Fahrer erkennbar  
@@ -86,7 +87,7 @@ Automatisches Revierplanungs- Verfahren (RVP- Verfahren)
 
 
 ## Tageszuweisung der Behälter zu Wochentagen (Tages-Revierplanung: RBP ) 
-- Rhytmusbasierendes Partitionieren (RBP - Verfahren)
+Rhytmusbasierendes Partitionieren (RBP - Verfahren):
 - Auswahl des Planunghorizonts (1,2,3 oder 4 Wochen)
 - jeder Behälter wird auf Wochentage im PLanungshorizont verteilt
 - Berücksichtigung des Zeitlichen Abstands zwischnen den Bedienungen 
@@ -110,6 +111,6 @@ Umleer-Tourenplanung-Verfahren (UML):
 
 ## Tourenoptimierung 
 
-- Aufzeichung der Fahrzeuge je WOchentag im Planungshorizont 
+- Aufzeichung der Fahrzeuge je Wochentag im Tagesrevier im Planungshorizont 
 - Follow-Me als Vorschlag für Fahrer mit wenig Revier-Kenntnis
 
