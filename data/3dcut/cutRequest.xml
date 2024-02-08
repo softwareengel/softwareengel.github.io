@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OptimierungsErgebnis ID="" INFO="">
+    <OptimierungsAuftrag ID="CR-ShowCase0-ID2024-01-31_14-19-37">
+        <startCalcTimeMillis>1706707177374</startCalcTimeMillis>
+        <FAUF FAUF-LNR="0" FAUF-ID="ID_0_0" X="100" Y="40" Z="200"/>
+<FAUF FAUF-LNR="1" FAUF-ID="ID_0_1" X="100" Y="40" Z="200"/>
+<FAUF FAUF-LNR="2" FAUF-ID="ID_1_0" X="200" Y="45" Z="300"/>
+<FAUF FAUF-LNR="3" FAUF-ID="ID_1_1" X="200" Y="45" Z="300"/>
+<FAUF FAUF-LNR="4" FAUF-ID="ID_2_0" X="200" Y="40" Z="300"/>
+<FAUF FAUF-LNR="5" FAUF-ID="ID_2_1" X="200" Y="40" Z="300"/>
+<FAUF FAUF-LNR="6" FAUF-ID="ID_2_2" X="200" Y="40" Z="300"/>
+<FAUF FAUF-LNR="7" FAUF-ID="ID_3_0" X="100" Y="35" Z="100"/>
+<FAUF FAUF-LNR="8" FAUF-ID="ID_4_0" X="40" Y="35" Z="50"/>
+<FAUF FAUF-LNR="9" FAUF-ID="ID_4_1" X="40" Y="35" Z="50"/>
+<FAUF FAUF-LNR="10" FAUF-ID="ID_5_0" X="30" Y="30" Z="35"/>
