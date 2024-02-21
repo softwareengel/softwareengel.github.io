@@ -19,7 +19,7 @@ https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator
 
 ![](../pics/20231107120819_eurostat_nuts.png)
 
-<video src="2023-11-07-12-06-23.mp4" controls title="Title"></video>
+<video src="../mov/2023-11-07-12-06-23.mp4" controls title="Title"></video>
 
 # dekart
 
