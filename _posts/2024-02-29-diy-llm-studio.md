@@ -1,12 +1,13 @@
 ---
 layout: post
-title: DIY Lokales LLM  --  *Working* --
+title: DIY Lokales LLM 
 categories: []
-tags: [LLM, LM Studio, ]
+tags: [LLM, LM Studio, DIY]
 --- 
 
 
-![](pics/20240229093603.png)
+![](../pics/20240229093603.png)
+
 #  DIY Lokales LLM  --  *Working* --
 ```
 TheBloke/Mistral-7B-Instruct-v0.1-GGUF/mistral-7b-instruct-v0.1.Q8_0.gguf
@@ -16,7 +17,7 @@ heBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF/wizardlm-1.0-uncensored-llama2-1
 
 - Select LLM 
 
-![](pics/20240229093532.png)
+![](../pics/20240229093532.png)
 
 ## Results Mistral-7B-Instruct-v0.1-GGUF/
 ```
