@@ -2,10 +2,16 @@
 layout: post
 title: Quick XML Data Analytics 
 categories: []
-tags: [XML, Analytics, openAI, knime, sqlite, ETL]
+tags: [XML, Analytics, openAI, knime, sqlite, ETL, copilot]
 --- 
 
-# XML Data Analytics 
+![](../pics/20240306175251.png)
+# XML Data Analytics with Knime -- working -- 
+- [XML Data Analytics with Knime -- working --](#xml-data-analytics-with-knime----working---)
+  - [Input Data](#input-data)
+  - [(Nicht erfolgreicher) Versuch 1 ChatGPT 4 + Copilot](#nicht-erfolgreicher-versuch-1-chatgpt-4--copilot)
+  - [(Erfolgreicher) Versuch 2: Knime XML - ETL - Sqlite](#erfolgreicher-versuch-2-knime-xml---etl---sqlite)
+  - [DBeaver Data Analysis](#dbeaver-data-analysis)
 
 
 ## Input Data 
@@ -316,14 +322,14 @@ py read following xml file and store in sqlite db
 ```
 - Error 
   
-![](pics/20240221165651.png)
+![](../pics/20240221165651.png)
 
 ## (Erfolgreicher) Versuch 2: Knime XML - ETL - Sqlite 
 - XmlReader + XPath + DBWriter 
 
 
-![](pics/20240221165816.png)
+![](../pics/20240221165816.png)
 
 ## DBeaver Data Analysis 
 
-![](pics/20240221165915.png)
+![](../pics/20240221165915.png)
