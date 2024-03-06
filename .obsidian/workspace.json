@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "34fa67fc1839e0d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff82bd0e416ae4ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2c97924f3978d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b08aafd81af3337a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a7ecd975070916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "495689b11f515e3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e46a94cf911a64d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "image-",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a109bdd915f883a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "c5067092a0110c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "69a67a45f6daa4ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6cb38d8da733597",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97e7693474ff155f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb40cacbd7fd620a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d046cb836dd04207",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b2c97924f3978d0",
+  "lastOpenFiles": [
+    "_posts/2022-09-21_notizen_09.md",
+    "about.md",
+    "404.md",
+    "s/20231207163408_githubCopilotPricing.png",
+    "_posts/image.png",
+    "_posts/Duplicating-Objects-Shortcuts-Image2.png",
+    "_posts/image-7.png",
+    "_posts/2005-06-06-vaplan-veranstaltungsplaner.md"
+  ]
+}
