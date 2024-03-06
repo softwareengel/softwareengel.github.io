@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DIY Lokales LLM -- Working --
+title: DIY Lokales LLM mit LM Studio -- Working --
 categories: []
 tags: [LLM, LM Studio, DIY]
 --- 
