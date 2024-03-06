@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DIY Lokales LLM 
+title: DIY Lokales LLM -- Working --
 categories: []
 tags: [LLM, LM Studio, DIY]
 --- 
