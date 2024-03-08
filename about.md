@@ -10,7 +10,6 @@ Notes from Softwareengel DevOps and SCM
 
 We are some senior experts in development and operations in softwareengineering. We are building POCs and operational concepts for using new it technologies and offer know-how for technolgy transfer, consulting and workshops.
 
-
 ## History of Technology Checks
 
 We are testing technologies - and give advice for bringing it in operations and saving time and money - but looking on technical debt 😀🙄
