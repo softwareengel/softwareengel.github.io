@@ -11,8 +11,12 @@
             "id": "0dac543e455936dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-12-09_superduper.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-12-09_superduper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-12-09_superduper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "broken links output.md"
+                "file": "_posts/2023-12-09_superduper.md"
               }
             }
           }
@@ -141,10 +147,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "495689b11f515e3f",
+  "active": "0dac543e455936dd",
   "lastOpenFiles": [
-    "_posts/2022-02-02-riot-image-optimizer.md",
+    "pics/2023-12-09_superduper_image_2.png",
+    "pics/2023-12-09_superduper_image_1.png",
     "broken links output.md",
+    "_posts/2022-02-02-riot-image-optimizer.md",
     "_posts/2021-11-18-nextcloud-kontakte-kalender-sync.md",
     "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_5.png",
     "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_4.png",
@@ -156,7 +164,6 @@
     "pic/2021-01-28-12-47-50-captura.png",
     "pic/2021-01-28-13-16-53-obs-settings.png",
     "pic/2021-01-28-13-17-00-obs-settings.png",
-    "pic/2021-01-28-13-17-14-obs-testergebnisse.png",
     "_posts/2021-01-28-anigif mit ffmpg.md",
     "_posts/2021-01-28-poc-python-webscrapping.md",
     "_posts/2020-01-17-db-influix-grafana-telegraf.md",
@@ -179,7 +186,6 @@
     "_posts/2019-08-07-geojson-editor.md",
     "README.md",
     "about.md",
-    "404.md",
     "pics/2019-08-07-geojson-editor",
     "pics/_posts/2019-08-07-geojson-editor",
     "pics/_posts",
