@@ -1,17 +1,21 @@
 ---
 layout: post
-title: Quick XML Data Analytics 
-categories: []
-tags: [XML, Analytics, openAI, knime, sqlite, ETL, copilot]
---- 
+title: Quick XML Data Analytics - Knime ETL
+categories: 
+tags:
+  - XML
+  - Analytics
+  - openAI
+  - knime
+  - sqlite
+  - ETL
+  - copilot
+---
 
 ![](../pics/20240306175251.png)
 # XML Data Analytics with Knime -- working -- 
-- [XML Data Analytics with Knime -- working --](#xml-data-analytics-with-knime----working---)
-  - [Input Data](#input-data)
-  - [(Nicht erfolgreicher) Versuch 1 ChatGPT 4 + Copilot](#nicht-erfolgreicher-versuch-1-chatgpt-4--copilot)
-  - [(Erfolgreicher) Versuch 2: Knime XML - ETL - Sqlite](#erfolgreicher-versuch-2-knime-xml---etl---sqlite)
-  - [DBeaver Data Analysis](#dbeaver-data-analysis)
+
+
 
 
 ## Input Data 
@@ -316,7 +320,7 @@ knap    =       4
 
 ```
 
-## (Nicht erfolgreicher) Versuch 1 ChatGPT 4 + Copilot
+## Versuch 1 ChatGPT 4 + Copilot (Nicht erfolgreiche) 
 ```User
 py read following xml file and store in sqlite db 
 ```
@@ -324,7 +328,7 @@ py read following xml file and store in sqlite db
   
 ![](../pics/20240221165651.png)
 
-## (Erfolgreicher) Versuch 2: Knime XML - ETL - Sqlite 
+## Versuch 2: Knime XML - ETL - Sqlite (Erfolgreiche) 
 - XmlReader + XPath + DBWriter 
 
 
