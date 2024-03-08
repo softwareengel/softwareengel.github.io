@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Web Cast Development JS Learning 
 categories: [JS]
@@ -9,7 +9,7 @@ tags: [JS, React, BootStrap, vue, Tables]
 
 vue , React, JS, HTML, CSS, Bootstrap, TS 
 
-![](../pics/20230706145917_scimba.png)
+![](../pics/2019-11-15-web-cast-web-Coding-learning_image_1.png)
 
 <https://scrimba.com/>
 

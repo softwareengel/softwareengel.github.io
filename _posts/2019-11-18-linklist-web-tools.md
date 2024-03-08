@@ -88,7 +88,7 @@ Monitor and chat with the visitors on your website, mobile app or from a free cu
 
 <https://www.internetlivestats.com/>
 
-![Internet Live Stats](../pic/internetLiveStats.png)
+![Internet Live Stats](../pics/2019-11-18-linklist-web-tools_image_1.png)
 
 ## statische sites generatoren stats 
 
@@ -113,7 +113,7 @@ https://resources.oreilly.com/public
 
 <https://overpass-turbo.eu/> 
 
-![2019 12 09 Overpas Api Map](../pic/2019_12_09_overpas_api_map.png)
+![2019 12 09 Overpas Api Map](../pics/2019-11-18-linklist-web-tools_image_2.png)
 
 ### Beispiele
 
@@ -279,4 +279,4 @@ https://resources.oreilly.com/public
 
 ---
 
-![2019 12 09 Overpass Beispiel Laden Daten Csv Export](/pic/2019-12-09-overpass-beispiel-laden-daten-csv-export.png)
+![2019 12 09 Overpass Beispiel Laden Daten Csv Export](../pics/2019-11-18-linklist-web-tools_image_3.png)
