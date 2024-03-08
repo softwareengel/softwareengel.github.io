@@ -3,10 +3,10 @@ layout: post
 title: Machbarkeit und Einsparung bei automatischer Depot-Container Revier- und Tourenplanung
 categories: []
 tags: [Revierplanung, Tourenplanung, Depotcontiner, Behälter, Prognose, Karten, Glas, Depotcontainer]
---- 
+---
 
 
-![](../pics/20240122153217_glassammlung.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_1.png)
 ## IoT - Integrierte Analyse und Planung von Glas - Depot - Sammelcontanern 
 Verschidene Module spielen automatisiert Zusammen 
 
@@ -18,15 +18,15 @@ Verschidene Module spielen automatisiert Zusammen
 
 ### Skizzen der umgesetzten Idee
 
-![](../pics/20240122145938_Skizze_Idee.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_2.png)
 
 ### Komponenten des Systems 
 
-![](../pics/20240122141633_rvp2.0-architektur_komponenten.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_3.png)
 
 ### Ablauf des Systems
 
-![](../pics/20240122141952.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_4.png)
 
 Alle Module sind automatisierbar (CMM - Level 3)  und auch soweit entwickelt, dass sie über einen "Regler" (Parameter - Tuning) gesteuert werden können (CMM Level 4)!
 
@@ -41,7 +41,7 @@ Alle Module sind automatisierbar (CMM - Level 3)  und auch soweit entwickelt, da
 - Jeder Behälter ist mit einem IoT-Sensor versehen 
 - jeder Sensor meldet GeoPostion und Füllstand 
 
-![](../pics/20240122150426_sensordaten.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_5.png)
 
 ## Prognoseverfahren für Befüllungsgeschwindigkeit 
 
@@ -51,7 +51,7 @@ Berücksichtigen von:
 - Standortveränderungen der Sensoren und Behälter 
 - Bauchtum, besondere Abweichungen der Befüllung von Containern 
 
-![](../pics/20240122150555_Prognose.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_6.png)
 ## Individuelle Leerungs-Rhythmen pro Behälter / Container 
 
 Jeder
@@ -59,7 +59,7 @@ Jeder
 - oder jede Container - Sammelinsel (Variante B: Stellplatzbasierte Planung) 
 bekommt einen Abfuhrrhythmus auf Basis der historischen Sensordaten und der Befüllungsgeschwindigkeit 
 
-![](../pics/20240122150807_FF-Verfahren.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_7.png)
 <!-- 
 ![](../pics/20240122142033-FF.png)
 -->
@@ -70,11 +70,11 @@ bekommt einen Abfuhrrhythmus auf Basis der historischen Sensordaten und der Bef�
 - verheiraten von Stellplätzen und Geo-Positionen (Adressen/ POIs)
 - klären von unschärfen und unplausibilitäten
 
-![](../pics/20240122142120_Map.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_8.png)
 
 ### Aufnahme und Analyse der IST - Situation 
 
-![](../pics/20240122142242_IST-RVP.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_9.png)
 
 ## Erstellung einer Revierplanung mit Revieren mit Reviergrenzen (wabenförmige Struktur)
 
@@ -83,7 +83,7 @@ Automatisches Revierplanungs- Verfahren (RVP- Verfahren):
 - Auswahl: Behälter oder Stelplatzplanung 
 - optische Revierprgrenzen, gut für den Planuner und Fahrer erkennbar  
 - Prozentuale Verteilung der Arbeitslast auf die Reviere 
-![](../pics/20240122150336.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_10.png)
 
 
 ## Tageszuweisung der Behälter zu Wochentagen (Tages-Revierplanung: RBP ) 
@@ -93,9 +93,9 @@ Rhytmusbasierendes Partitionieren (RBP - Verfahren):
 - Berücksichtigung des Zeitlichen Abstands zwischnen den Bedienungen 
 - Im Ergebnis sind alle Wochentage im Planungshorizont und die an diesem Tag zu bedienenden Behälter 
  
-![](../pics/20240122150925_rbp-Verfahren.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_11.png)
 
-![RBP mit nur 5 Werktagen ](../pics/20240122145555_rbp_5tage.png)
+![RBP mit nur 5 Werktagen ](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_12.png)
 
 ## Reihenfolge- Vorschlag für die Anfahrt der Behälter jedes Wochentages im Planungshorizont 
 
@@ -105,9 +105,9 @@ Umleer-Tourenplanung-Verfahren (UML):
 - Bestimmung Planzeiten je Wochentag 
 - Vorschlag für den Fahrer
 
-![](../pics/20240122151004_uml-Verfahren.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_13.png)
 
-![](../pics/20240122145744_Tagestouren.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_14.png)
 
 ## Tourenoptimierung 
 

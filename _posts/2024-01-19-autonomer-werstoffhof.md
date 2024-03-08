@@ -3,12 +3,12 @@ layout: post
 title: Autonomer Wertstoffhof
 categories: []
 tags: [Digitalisierung, Entsorgungslogistik]
---- 
-![](../pics/20240119172105.png)
+---
+![](../pics/2024-01-19-autonomer-werstoffhof_image_1.png)
 
 ## Wissenschaftliche Begleitung Autonomer Wertstoffhof in Ahlen 
 
 <https://www.autonomer-wertstoffhof.de/>
 
 
-![](../pics/20240119172026_autonomerWertstoffhof.png)
+![](../pics/2024-01-19-autonomer-werstoffhof_image_2.png)

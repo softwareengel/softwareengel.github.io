@@ -3,15 +3,15 @@ layout: post
 title: OpenAI Eigener Wissenschaftlicher Bericht GPT, 1-Stop - Wissenschftlicher Bericht 
 categories: [openAI, GPT, Text,Generation]
 tags: [openAI, TExt, Generation]
---- 
-![](../pics/20240214092149_ai_wissBericht.png)
+---
+![](../pics/2024-02-14-chatgpr-wissArbeit_image_1.png)
 
 # OpenAI Eigener Wissenschaftlicher Bericht GPT, 1-Stop - Wissenschftlicher Bericht 
 
 autonomer betriebshof mit Bezahlung und bürgerfreundlichen öffnungszeiten sowie Tor Steuerung 
 
 
-![](../pics/20240214091801.png)
+![](../pics/2024-02-14-chatgpr-wissArbeit_image_2.png)
 
 
 Um einen wissenschaftlichen Bericht über die Konzeption eines autonomen Betriebshofs mit Bezahlung und bürgerfreundlichen Öffnungszeiten sowie Torsteuerung zu erstellen, werde ich die Struktur gemäß den wissenschaftlichen Standards für Projektberichte aufbauen. Hier ist ein Entwurf der Gliederung und Inhalte, die für jeden Abschnitt berücksichtigt werden können:

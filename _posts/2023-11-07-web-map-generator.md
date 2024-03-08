@@ -1,10 +1,18 @@
+---
+layout: post
+title: web-map-generator
+categories: 
+tags: web, map, generator 
+lastupdate: 
+date: 2023-11-07
+---
 
 # Gisco
 
 
 https://gisco-services.ec.europa.eu/image/screen/home
 
-![](../pics/20231107115514_image_gisco.png)
+![](../pics/2023-11-07-web-map-generator_image_1.png)
 
 https://ec.europa.eu/eurostat/web/gisco/overview
 
@@ -17,7 +25,7 @@ Eurostat Map Generator
 https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator
 
 
-![](../pics/20231107120819_eurostat_nuts.png)
+![](../pics/2023-11-07-web-map-generator_image_2.png)
 
 <video src="../mov/2023-11-07-12-06-23.mp4" controls title="Title"></video>
 

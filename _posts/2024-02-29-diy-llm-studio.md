@@ -3,10 +3,10 @@ layout: post
 title: DIY Lokales LLM mit LM Studio -- Working --
 categories: []
 tags: [LLM, LM Studio, DIY]
---- 
+---
 
 
-![](../pics/20240229093603.png)
+![](../pics/2024-02-29-diy-llm-studio_image_1.png)
 
 #  DIY Lokales LLM  --  *Working* --
 ```
@@ -17,7 +17,7 @@ heBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF/wizardlm-1.0-uncensored-llama2-1
 
 - Select LLM 
 
-![](../pics/20240229093532.png)
+![](../pics/2024-02-29-diy-llm-studio_image_2.png)
 
 ## Results Mistral-7B-Instruct-v0.1-GGUF/
 ```

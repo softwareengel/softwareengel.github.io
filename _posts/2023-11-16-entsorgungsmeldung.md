@@ -3,7 +3,8 @@ layout: post
 title: IOT Behälter in der Entsorgung
 categories: [Iot]
 tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
---- 
+---
+
 - [IOT Behälter in der Entsorgung](#iot-behälter-in-der-entsorgung)
   - [Auftrasabwicklung Presscontainer ohne IOT](#auftrasabwicklung-presscontainer-ohne-iot)
   - [Auftrasabwicklung Presscontainer mit IOT](#auftrasabwicklung-presscontainer-mit-iot)
@@ -21,21 +22,21 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
 
 
 ## Auftrasabwicklung Presscontainer ohne IOT
-![](../pics/20231116144821.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_1.png)
 
 ## Auftrasabwicklung Presscontainer mit IOT
-![](../mit/20231116145012.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_2.png)
 
 ## Zeiten bei Presscontainern 
 
 - Begriffe Zeiten Presscontainer
-![](../pics/20231116145113.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_3.png)
 
 - mit IOT
-![](../pics/20231116145309.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_4.png)
 
 - ohne IOT
-![](../pics/20231116145342.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_5.png)
 
 ## Auftrasabwicklung Umleer IOT
 
@@ -47,10 +48,10 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
 
 ### mit IOT 
 - Sensordaten - Historie 
-  ![](../pics/20231116150932_dc_hisorie.png)
+  ![](../pics/2023-11-16-entsorgungsmeldung_image_6.png)
 - Verwiegungsdaten Historie 
 - Analyse Befüllungsgeschwindigkeit IOT - Behälter
-![](../pics/20231116150747_dc_analyse.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_7.png)
 - Füllstandsvorhersage je Behälter 
 - dynamische Revier- und Tourenplanung
   - gleichartige,zusammenhängende Fahrzeugreviere wie bisher 
@@ -59,7 +60,7 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
   - durchschnittlich 2 Leerungen je Stellplatz / Sammelinsel
 
 - resiliente Planung und trotzdem Einsparung Anfahrten 
-![](../pics/20231116151825_dc_rechnerischeErgebnisse.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_8.png)
   - Anzahl TagesTouren 32-39 
     - (je nach Zielbefüllung (80 oder 90 %))
     - je nach optimistischer oder passimistischer Vorherage 
@@ -70,16 +71,16 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
 
 <https://www.bde.de/documents/11/BDE-VKU-Mobile-IT-Systeme1.pdf>
 
-![](../pics/20231116152944_bde.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_9.png)
 
 - Behältermanagement
 
-![](../pics/20231116153259.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_10.png)
 
 - aktive Behältersensoren...
 
-![](../pics/20231116153327_bde_aktivesensoren.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_11.png)
 
 <https://www.google.com/search?q=site%253Abde.de+filetype%253Apdf+aktive+Beh%C3%A4ltersensoren>
 
-![](../pics/20231116153659_bde_aktiveSensoren.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_12.png)

@@ -3,8 +3,8 @@ layout: post
 title: Powerpoint 2013 Shortcuts - Presentation
 categories: [Office]
 tags: [Powerpoint, ppt, shotcuts]
---- 
-![](../pics/20231222143306_ppt_shortcut.png)
+---
+![](../pics/2023-12-22-powerpoint-shortcuts_image_1.png)
 
 
 # Powerpoint Shortcuts 

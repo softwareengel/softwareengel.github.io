@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07128af1269f01f9",
+        "id": "a27fab1be060c568",
         "type": "tabs",
         "children": [
           {
-            "id": "0dac543e455936dd",
+            "id": "c5628194842403a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-09_superduper.md",
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-09_superduper.md",
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-09_superduper.md",
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-09_superduper.md"
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,45 +147,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0dac543e455936dd",
+  "active": "c5628194842403a1",
   "lastOpenFiles": [
+    "_posts/2023-10-12-SiteGenerator.md",
+    "_posts/2023-10-12-worle-word-tag-cloud.md",
+    "_posts/2023-10-12-crop-video.md",
+    "_posts/2023-10-14-liquid-jekyll.md",
+    "_posts/2023-10-18-eclispe-uml-buggy.md",
+    "_posts/2023-10-30-plantuml.md",
+    "_posts/2023-10-30-scad.md",
+    "_posts/2023-11-03-yacy.md",
+    "_posts/2023-11-07.md",
+    "_posts/2023-11-07-web-map-generator.md",
+    "_posts/2023-11-09-digitalisierung-krw.md",
+    "_posts/2023-11-09-ki-code.md",
+    "_posts/2023-11-09-osm-street_mapping.md",
+    "_posts/2023-11-10-qgis.md",
+    "_posts/2023-11-16-entsorgungsmeldung.md",
+    "_posts/2023-11-22-raspi-airgeddon.md",
+    "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md",
+    "_posts/2023-11-30-ki-update.md",
+    "_posts/2023-12-06-ki-hacks.md",
+    "_posts/2023-12-07_phind.md",
+    "_posts/2023-12-07-ide-hacks.md",
+    "_posts/2023-12-09_superduper.md",
+    "_posts/2023-12-22-powerpoint-shortcuts.md",
+    "_posts/2024-01-15-turing_way.md",
+    "_posts/2024-01-19-autonomer-werstoffhof.md",
+    "_posts/2024-01-20-raspiCar.md",
+    "pics/2023-12-07_phind_image_1.png",
+    "_posts/logo_engels_4P.jpg",
     "pics/2023-12-09_superduper_image_2.png",
     "pics/2023-12-09_superduper_image_1.png",
-    "broken links output.md",
-    "_posts/2022-02-02-riot-image-optimizer.md",
-    "_posts/2021-11-18-nextcloud-kontakte-kalender-sync.md",
     "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_5.png",
     "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_4.png",
-    "_posts/2021-01-27-webinar-tools.md",
     "pics/2021-01-27-webinar-tools_image_6.png",
     "pic/2021-01-28-12-24-26.png",
     "pic/2021-01-28-12-25-38.png",
     "pic/2021-01-28-12-32-50.png",
-    "pic/2021-01-28-12-47-50-captura.png",
-    "pic/2021-01-28-13-16-53-obs-settings.png",
-    "pic/2021-01-28-13-17-00-obs-settings.png",
-    "_posts/2021-01-28-anigif mit ffmpg.md",
-    "_posts/2021-01-28-poc-python-webscrapping.md",
-    "_posts/2020-01-17-db-influix-grafana-telegraf.md",
-    "_posts/2019-07-22-graphhopper-rail.md",
     "mov/2019-07-22_12-15-32.flv.webm",
-    "empty files.md",
-    "_posts/2021-11-13-typescript-start.md",
-    "orphaned files output.md",
-    "_posts/2023-12-07-ide-hacks.md",
-    "_posts/2023-12-06-ki-hacks.md",
-    "_posts/2019-11-21-waze-map-edior-toolset.md",
-    "_template/sse-template.md.md",
-    "_posts/2019-11-18-linklist-web-tools.md",
-    "_posts/2019-11-15-web-cast-web-Coding-learning.md",
-    "_posts/2019-11-07-terminator-2019-boston-dynamics.md",
-    "_posts/2019-10-20-online-code-editor.md",
-    "_posts/2019-08-26-railway-tools-links.md",
-    "_posts/2020-09-18-Data-Analytics.md",
-    "_posts/2024-02-21-xml-data-analsyis.md",
-    "_posts/2019-08-07-geojson-editor.md",
-    "README.md",
-    "about.md",
     "pics/2019-08-07-geojson-editor",
     "pics/_posts/2019-08-07-geojson-editor",
     "pics/_posts",

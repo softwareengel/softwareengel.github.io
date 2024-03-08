@@ -3,7 +3,7 @@ layout: post
 title: Digitalisierung in der Kreislaufwirtschaft 
 categories: [KI, AI, Digitalisierung]
 tags: [KI, AI, Code, Digitalisierung, KRW, Circular Economy]
---- 
+---
 
 # Digitalisierung in der Kreislaufwirtschaft 
 

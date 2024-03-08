@@ -3,18 +3,18 @@ layout: post
 title: Resize Video Screen and Crop - Solved (Gelöst)
 categories: [Video]
 tags: [Video, Crop, Edit, TEncoder, ffmpeg,compression]
---- 
+---
 
-![](../pics/20231012111457_TencoderffMpg.png)
+![](../pics/2023-10-12-crop-video_image_1.png)
 
 # Crop Videos ffmpeg Tencoder - Resize Video Screen and Crop - Solved (Gelöst)
 
-![](../pics/20231012110303-tencoder.png)
+![](../pics/2023-10-12-crop-video_image_2.png)
 
 
 - Codec options 
 
-![](../pics/20231012110333.png)
+![](../pics/2023-10-12-crop-video_image_3.png)
 
 Video Bitrate: 2000 -> 141  
 

@@ -1,5 +1,23 @@
+---
+layout: post
+title: Liquid - Jekyll
+categories: 
+tags:
+  - Liquid
+  - Markdown
+  - jekyll
+lastupdate: 
+date: 2023-10-14
+---
 
-# Liquid
+# # Liquid template engine
+## Liquid template engine
+
+<https://github.com/Shopify/liquid>
+
+<https://shopify.github.io/liquid/>
+
+<https://github.com/Shopify/liquid/wiki>
 
 ## Jekyll
 
@@ -75,7 +93,7 @@ und dann
 bundle exec jekyll serve
 ```
 
-## V2
+## Jekyll V2
 
 ```bash
 sudo apt-get update -y && sudo apt-get upgrade -y
@@ -83,11 +101,4 @@ sudo apt-get update -y && sudo apt-get upgrade -y
 
 https://kreativ-anders.de/blog/jekyll-fur-wsl/
 
-## Liquid template engine
-
-<https://github.com/Shopify/liquid>
-
-<https://shopify.github.io/liquid/>
-
-<https://github.com/Shopify/liquid/wiki>
 
