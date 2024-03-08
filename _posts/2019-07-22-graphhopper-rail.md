@@ -5,7 +5,7 @@ categories: [routing]
 tags: [Graphhopper, routing, api, web, java]
 ---
 
-![](../pics/20230705182220_graphhopper_rail.png)
+![](../pics/2019-07-22-graphhopper-rail_image_1.png)
 
 Graphhopper Routing & Map Matching for Rail + Truck with java and OSM 
 
@@ -44,13 +44,13 @@ Graphhopper Routing & Map Matching for Rail + Truck with java and OSM
 Web - View Graphhopper rail:
 - Routing Ulm:
 
-![](../pic/capture_22072019_113652_002.jpg))
+![](../pics/2019-07-22-graphhopper-rail_image_2.jpg))
 
-![](../pic/capture_22072019_113038_001.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_3.jpg)
 - Routing Arnsberg:
-![](../pic/capture_22072019_120913_003.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_4.jpg)
 - Routing Europa:
-![](../pic/capture_22072019_171154_001.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_5.jpg)
 
 Requerst für Map:
 
@@ -66,7 +66,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
 
 ## Web Soap UI Client mit POST und XML 
 
-![](../pic/capture_22072019_165705_001.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_6.jpg)
 
 ### Request GH Rail Match XML (good request)
 
@@ -474,16 +474,16 @@ Requerst für OSM-Map auf hq.softwareengel.de:
 
 ## Graphhopper Routig Detail-Ansicht-Video 
 
-[./mov/2019-07-22_12-15-32.flv.webm](./mov/2019-07-22_12-15-32.flv.webm)
+[./mov/2019-07-22_12-15-32.flv.webm](../mov/2019-07-22_12-15-32.flv.webm)
 
 ## Speicher Sysinternals bei Map mit Europa 
 
-![](../pic/capture_22072019_171453_002.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_7.jpg)
 
 
 
 # Berechnung Ergebnis des GH Rail Map Matchings
-![](../pic/capture_22072019_131603_004.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_8.jpg)
 
 ## Ulm GPX-Track 
     <?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.11" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
@@ -514,7 +514,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
     </gpx>
 # Ergebnis GPX in Qgis 
 
-![](../pic/capture_22072019_131852_005.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_9.jpg)
 
 
 ## Beispiel config.yml

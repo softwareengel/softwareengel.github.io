@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 title: Influx Time Series DB, Telegraf, Grafana, ... 
 categories: [tools]
 tags: [db, ui, graph, data analyse, TSDB]
---- 
-![](../pics/20230705170146_grafana_influx.png)
+---
+![](../pics/2020-01-17-db-influix-grafana-telegraf_image_1.png)
 - [InfluxDB](#influxdb)
 - [Telegraf](#telegraf)
 - [Grafana](#grafana)
@@ -34,7 +34,7 @@ Telegraf is the open source server agent to help you collect metrics from your s
 
 <https://www.influxdata.com/time-series-platform/telegraf/>
 
-![Screenshot 2020 01 17 Influx Db Telegraf](../pic/../pic/2020-01-17-influx-telegraf.png)
+![Screenshot 2020 01 17 Influx Db Telegraf](../pics/2020-01-17-db-influix-grafana-telegraf_image_2.png)
 
 # Grafana
 
@@ -53,11 +53,11 @@ Telegraf is the open source server agent to help you collect metrics from your s
 
 <https://bintray.com/fg2it/deb/grafana-on-raspberry/v5.1.4>
 
-![Screenshot 2020 01 17 Rpi Graphana Select Data Sources](../pic/Screenshot-2020-01-17_Rpi_graphana-select-data-sources.png),
+![Screenshot 2020 01 17 Rpi Graphana Select Data Sources](../pics/2020-01-17-db-influix-grafana-telegraf_image_3.png),
 
-![Screenshot 2020 01 17 Rpi Grafana Dashboard](../pic/Screenshot-2020-01-17_Rpi_grafana-dashboard.png)
+![Screenshot 2020 01 17 Rpi Grafana Dashboard](../pics/2020-01-17-db-influix-grafana-telegraf_image_4.png)
 
-![Screenshot 2020 01 17 Rpi Grafana Explore](../pic/Screenshot-2020-01-17_Rpi_grafana-explore.png)
+![Screenshot 2020 01 17 Rpi Grafana Explore](../pics/2020-01-17-db-influix-grafana-telegraf_image_5.png)
 
 
 # Grafana + Telegraf + Influx 
@@ -70,7 +70,7 @@ Telegraf is the open source server agent to help you collect metrics from your s
 
 Webinterface geht nur bis Version 1.5 (?!) 
 
-![Screenshot 2020 01 21 Rpi Influx D B Webinterface](../pic/Screenshot-2020-01-21_Rpi-influxDB-webinterface.png)
+![Screenshot 2020 01 21 Rpi Influx D B Webinterface](../pics/2020-01-17-db-influix-grafana-telegraf_image_6.png)
 
 ## Grafana Reset Password 
 
@@ -93,13 +93,13 @@ Visualisierung von Influx DB data
 
 <https://portal.influxdata.com/downloads/> 
 
-![Screenshot 2020 01 21 Rpi Chohograph Influx D B Hostlist](../pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB-hostlist.png)
+![Screenshot 2020 01 21 Rpi Chohograph Influx D B Hostlist](../pics/2020-01-17-db-influix-grafana-telegraf_image_7.png)
 
-![Screenshot 2020 01 21 Rpi Chohograph Influx D B](../pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB.png)
+![Screenshot 2020 01 21 Rpi Chohograph Influx D B](../pics/2020-01-17-db-influix-grafana-telegraf_image_8.png)
 
-![Screenshot 2020 01 21 Rpi Chohograph Influx D B Data Graph](../pic/Screenshot-2020-01-21_Rpi_chohograph-influxDB-data-graph.png)
+![Screenshot 2020 01 21 Rpi Chohograph Influx D B Data Graph](../pics/2020-01-17-db-influix-grafana-telegraf_image_9.png)
 
-![Screenshot 2020 01 21 Rpi Chronograf Influx D B Admin](../pic/Screenshot-2020-01-21_Rpi-chronograf-influxDB-admin.png)
+![Screenshot 2020 01 21 Rpi Chronograf Influx D B Admin](../pics/2020-01-17-db-influix-grafana-telegraf_image_10.png)
 
 
 ## Python Logging Skript für InfluxDB
@@ -108,7 +108,7 @@ Visualisierung von Influx DB data
 
 Feigaben Dev-Netz 
 
-![Screenshot 2020 01 21 Rpi Dev Netz](../pic/Screenshot-2020-01-21_Rpi-DevNetz.png)
+![Screenshot 2020 01 21 Rpi Dev Netz](../pics/2020-01-17-db-influix-grafana-telegraf_image_11.png)
 
 
 # Memcached 
@@ -128,6 +128,7 @@ Dokument speicher auch für csv / JSON
 OSS Fork von MySQL 
 
 # Bash History 
+
 
 engels@ubuntu18svr-01:~$ history
 

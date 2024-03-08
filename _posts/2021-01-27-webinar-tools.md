@@ -3,7 +3,7 @@ layout: post
 title:  Webinar Tools, Tweedback, WonderMe, Miro Whiteboard, ...
 categories: [ webinar, tools ]
 tags: [tweedback, WonderMe, arsnova, partify]
---- 
+---
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" poster="/pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png">
     <source src="/mov/2021-03-03-08-11-34-mentimeter.mp4" type="video/mp4">
@@ -31,7 +31,7 @@ Tools for Webinars
   - [https://www.brightful.me/](#httpswwwbrightfulme)
   - [https://www.workshop-spiele.de/](#httpswwwworkshop-spielede)
 
-![](../pic\2021-01-28-14-32-02.png)
+![](../pics/2021-01-27-webinar-tools_image_1.png)
 
 # Webinar Tools
 
@@ -43,15 +43,15 @@ ohne Anmeldung Abfragen
 
 <https://tweedback.de/>
 
-![](../pic/Screenshot_2021-01-27%20Tweedback.png)
+![](../pics/2021-01-27-webinar-tools_image_2.png)
 
-![](../pic/Screenshot_2021-01-28%20Tweedback.png)
+![](../pics/2021-01-27-webinar-tools_image_3.png)
 
-![](../pic/Screenshot_2021-01-28%20Tweedback2.png)
+![](../pics/2021-01-27-webinar-tools_image_4.png)
 
-![](../pic/2021-01-28-14-38-41.png)
+![](../pics/2021-01-27-webinar-tools_image_5.png)
 
-![](../pic/Screenshot_2021-01-28%20Tweedback3.png)
+![](../pics/2021-01-27-webinar-tools_image_6.png)
 
 # WonderMe 
 Admin: Email - funktioniert auch ohne Verifikation 
@@ -65,8 +65,6 @@ User: Anon
 - chat: lokal, global, privat 
 
 
-![](../pic\2021-01-28-14-32-02.png)
-
 Funktioniert am besten mit Chrome, Probleme bei FF / Edge / Safari 
 
 # Arsnova OSS (ohne Anmeldung)
@@ -75,9 +73,9 @@ Audience Response system
 
 <https://arsnova.thm.de/blog/arsnova-handbuch/#dozent>
 
-![](../pic/Screenshot_2021-01-28%20ARSnova%20Dozent%20in%20-%20Start.png)
+![](../pics/2021-01-27-webinar-tools_image_7.png)
 
-![](../pic/2021-03-03-08-34-50-arsnova.png)
+![](../pics/2021-01-27-webinar-tools_image_8.png)
 
 <https://youtu.be/K16JN619PVA>
 
@@ -89,12 +87,12 @@ Open Source
 # Partify (ohne Anmeldung)
 online chat "Kommentare" mit Bewertung , Abstimmung 
 
-![](../pic/Screenshot_2021-01-28%20Particify%20Audience%20Response%20System.png)
+![](../pics/2021-01-27-webinar-tools_image_9.png)
 
 
 # Pingo (Anmeldung)
 
-![](../pic/Screenshot_2021-01-28%20PINGO.png)
+![](../pics/2021-01-27-webinar-tools_image_10.png)
 
 <https://github.com/PingoUPB>
 (Uni Paderborn) 
@@ -103,7 +101,7 @@ online chat "Kommentare" mit Bewertung , Abstimmung
 
 # Socrative (Anmeldung)
 
-![](../pic/Screenshot_2021-01-28%20Socrative.png)
+![](../pics/2021-01-27-webinar-tools_image_11.png)
 
 # Metimeter (Anmeldung)
 
@@ -114,7 +112,7 @@ online chat "Kommentare" mit Bewertung , Abstimmung
 Use live polls, quizzes, word clouds, Q&As and more to get real-time input - regardless if you’re remote, hybrid or face-to-face
 "
 
-![](../pic/Screenshot_2021-01-28%20mentimeter%20Interactive%20presentation%20software-login.png)
+![](../pics/2021-01-27-webinar-tools_image_12.png)
 
 
 <figure class="video_container">
@@ -140,7 +138,7 @@ User: Anon per Link
 
 https://app.mural.co/t/fom20217484/m/fom20217484/1614764269254/2f493dae80c3f39712279c3f31c158058ec52a22
 
-![](../pic/2021-03-03-10-44-55-mural.png)
+![](../pics/2021-01-27-webinar-tools_image_13.png)
 
 
 # https://deon.de/de/ 
@@ -151,7 +149,7 @@ Desktop App
 
 Login admin:  Anmeldung, Free: nur 2 Colab User
 
-![figma](../pic/2021-03-03-10-23-14-figma.png)
+![figma](../pics/2021-01-27-webinar-tools_image_14.png)
 <https://www.figma.com>
 
 # Random Wheel Picker
@@ -184,5 +182,5 @@ Just because you've moved your meetings online, it doesn't mean that you have to
 
 <https://www.workshop-spiele.de/5-tools-fuer-online-warm-ups/>
 
-![](../pic/2021-03-03-09-52-37-moodmeter.png)
+![](../pics/2021-01-27-webinar-tools_image_15.png)
 

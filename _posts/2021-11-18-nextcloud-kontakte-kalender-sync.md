@@ -16,35 +16,35 @@ tags: [Nextcloud, Sync, Calendar, VCard ]
 
 Aufgaben 
 
-![](../pics/2021-11-18-12-20-34.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_1.png)
 
 Karten
 
-![](../pics/2021-11-18-12-22-09.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_2.png)
 
 Fotos 
-![](../pics/2021-11-18-12-22-59.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_3.png)
 
 Aktivitat 
-![](../pics/2021-11-18-12-23-22.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_4.png)
 
 Kontakte
 
-![](../pics/2021-11-18-12-24-36.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_5.png)
 
 Updates der Module 
-![](../pics/2021-11-18-12-52-07.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_6.png)
 
-## Check Thunderbird Adressbook Sync   - working
+## Check Thunderbird Adressbook Sync  - working
 
-![](../pics/2021-11-18-12-25-10.png)
 
+...
 
 ## Check Thunderbird Cal Sync - Working - Very Slow 
 
 ... large delay in updating data in TB
 
-![](../pics/2021-11-18-13-22-03.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_7.png)
 
 ## Links
 
