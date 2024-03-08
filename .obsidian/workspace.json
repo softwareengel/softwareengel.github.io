@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff82bd0e416ae4ab",
+        "id": "07128af1269f01f9",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2c97924f3978d0",
+            "id": "0dac543e455936dd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image-",
+                "query": "file:2022-02-02-10-22-50",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 397.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -118,15 +118,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "broken links output.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,18 +137,52 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b2c97924f3978d0",
+  "active": "495689b11f515e3f",
   "lastOpenFiles": [
-    "_posts/2022-09-21_notizen_09.md",
+    "_posts/2022-02-02-riot-image-optimizer.md",
+    "broken links output.md",
+    "_posts/2021-11-18-nextcloud-kontakte-kalender-sync.md",
+    "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_5.png",
+    "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_4.png",
+    "_posts/2021-01-27-webinar-tools.md",
+    "pics/2021-01-27-webinar-tools_image_6.png",
+    "pic/2021-01-28-12-24-26.png",
+    "pic/2021-01-28-12-25-38.png",
+    "pic/2021-01-28-12-32-50.png",
+    "pic/2021-01-28-12-47-50-captura.png",
+    "pic/2021-01-28-13-16-53-obs-settings.png",
+    "pic/2021-01-28-13-17-00-obs-settings.png",
+    "pic/2021-01-28-13-17-14-obs-testergebnisse.png",
+    "_posts/2021-01-28-anigif mit ffmpg.md",
+    "_posts/2021-01-28-poc-python-webscrapping.md",
+    "_posts/2020-01-17-db-influix-grafana-telegraf.md",
+    "_posts/2019-07-22-graphhopper-rail.md",
+    "mov/2019-07-22_12-15-32.flv.webm",
+    "empty files.md",
+    "_posts/2021-11-13-typescript-start.md",
+    "orphaned files output.md",
+    "_posts/2023-12-07-ide-hacks.md",
+    "_posts/2023-12-06-ki-hacks.md",
+    "_posts/2019-11-21-waze-map-edior-toolset.md",
+    "_template/sse-template.md.md",
+    "_posts/2019-11-18-linklist-web-tools.md",
+    "_posts/2019-11-15-web-cast-web-Coding-learning.md",
+    "_posts/2019-11-07-terminator-2019-boston-dynamics.md",
+    "_posts/2019-10-20-online-code-editor.md",
+    "_posts/2019-08-26-railway-tools-links.md",
+    "_posts/2020-09-18-Data-Analytics.md",
+    "_posts/2024-02-21-xml-data-analsyis.md",
+    "_posts/2019-08-07-geojson-editor.md",
+    "README.md",
     "about.md",
     "404.md",
-    "s/20231207163408_githubCopilotPricing.png",
-    "_posts/image.png",
-    "_posts/Duplicating-Objects-Shortcuts-Image2.png",
-    "_posts/image-7.png",
-    "_posts/2005-06-06-vaplan-veranstaltungsplaner.md"
+    "pics/2019-08-07-geojson-editor",
+    "pics/_posts/2019-08-07-geojson-editor",
+    "pics/_posts",
+    "_template"
   ]
 }

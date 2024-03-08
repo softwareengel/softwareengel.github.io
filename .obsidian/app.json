@@ -1,6 +1,8 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",
-  "newLinkFormat": "absolute",
-  "attachmentFolderPath": "pics"
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "pics",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
