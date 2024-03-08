@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 title: OSM Rail Tools & Links
 categories: [OSM]
 tags: [OSM , Rail]
---- 
-![](../pics/20230705183856_train_analysis.png)
+---
+![](../pics/2019-08-26-railway-tools-links_image_1.png)
 
 # OSM Rail Tools & Links
 
@@ -12,7 +12,7 @@ tags: [OSM , Rail]
 
 <http://www.raildar.fr/osrm/?fromto=48.801210,9.218044,48.690734,9.193153#7/48.622/7.526>
 
-![](../pic/Screenshot_2019-08-26-raildar-fr.png)
+![](../pics/2019-08-26-railway-tools-links_image_2.png)
 
 ## michreichert.de
 
@@ -20,14 +20,14 @@ tags: [OSM , Rail]
 
 ## http://osmtrainroutes.bplaced.net - Zuganalyse 
 
-![](../pic/Screenshot_2019-08-26-Zuganalyse.png)
+![](../pics/2019-08-26-railway-tools-links_image_3.png)
 
 RE4 Dortmund -> Aachen
-![](../pics/20230705183637_osmtrainroutes.png)
+![](../pics/2019-08-26-railway-tools-links_image_4.png)
 
 ## Osrm OSM Routing 
 
-![](../pic/Screenshot_2019-08-26-OpenStreetMap.png)
+![](../pics/2019-08-26-railway-tools-links_image_5.png)
 
 ## OSM Overpass Api & Tool
 
@@ -35,4 +35,4 @@ RE4 Dortmund -> Aachen
 <https://wiki.openstreetmap.org/wiki/Talk:Overpass_turbo>
 <http://overpass-turbo.eu/>
 
-![](../pics/20230705183308_overpass_turbo.png)
+![](../pics/2019-08-26-railway-tools-links_image_6.png)
