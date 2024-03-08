@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Markdown Blog Tag Hints 
 categories: [JSON]

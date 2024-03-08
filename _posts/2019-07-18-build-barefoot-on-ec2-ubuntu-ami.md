@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Start Amazon ec2 Ami VM mit Barefoot 
 categories: [VM]
@@ -15,7 +15,8 @@ tags: [ec2, ami, barefoot ]
 ![](../pic/capture_013_18072019_175657.jpg)
 ![](../pic/capture_014_18072019_175704.jpg)
 
-# Install docker 
+# Install docker
+
     sudo apt-get update 
     sudo apt-get install docker.io
 

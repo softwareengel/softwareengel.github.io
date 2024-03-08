@@ -3,7 +3,7 @@ layout: post
 title: Rail Map Matching - Hidden Markow Matching  (HMM)
 categories: [ai, hmm, hidden markow chain, map matchig, rail]
 tags: [ai, hmm, hidden markow chain, map matchig, rail]
---- 
+---
 ![Map and Tack calculated with barefoot](../pic/capture_005_18072019_150834.jpg)
 
 

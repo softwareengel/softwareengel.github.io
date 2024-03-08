@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: Graphhopper Rail and Street Routing 
 categories: [routing]
 tags: [Graphhopper, routing, api, web, java]
---- 
+---
 
 ![](../pics/20230705182220_graphhopper_rail.png)
 

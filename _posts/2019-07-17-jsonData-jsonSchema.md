@@ -1,9 +1,14 @@
-﻿---
-layout: post
-title: Dotnet Tool NJsonSchema
-categories: [JSON]
-tags: [JSON, Schema, dotnet]
 ---
+layout: post
+title: Dotnet Tool NJsonSchema, NSwagStudio
+categories:
+  - JSON
+tags:
+  - JSON
+  - Schema
+  - dotnet
+---
+
 ![screen from usage](../pic/capture_002_17072019_151951.jpg)
 
 # Dotnet Tool NJsonSchema
@@ -51,4 +56,5 @@ Screenshot from web:
 ![screen from web](../pic/Screenshot_2019-07-17RicoSuterNSwag.png)
 
 Screenshot from usage:
+
 ![screen from usage](../pic/capture_002_17072019_151951.jpg)

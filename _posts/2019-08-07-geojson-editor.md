@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Geojson Editor
-categories: [JSON]
-tags: [geojson]
+title: Geojson Linkdlist und Editor
+categories:
+  - JSON
+  - Linklist
+tags:
+  - geojson
 ---
 
 ![](../pics/2019-08-07-geojson-editor_IMG-20240308135604476.png)
 
-# Awesome GeoJson 
+# GeoJSON 
+## Awesome GeoJson Linklist
 
 ![](../pics/2019-08-07-geojson-editor_IMG-20240308135604541.png)
 
