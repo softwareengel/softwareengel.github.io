@@ -1,19 +1,28 @@
-﻿# Online Code Editor
+---
+layout: post
+title: Online Code Editor
+categories: 
+tags:
+  - editor
+---
+# Online Code Editor
 
-## Multi-language editor 
+## Multi-language editor repl.it
+
 https://repl.it (Editor, Debugger, Embed)
 
-![](../pic/Screenshot_2019-10-29-repl.it.react-demo.png)
+![](../pics/2019-10-20-online-code-editor_image_1.png)
 
-![](../pic/Screenshot_2019-10-29-The-worlds-leading-online-coding-platform.png)
+![](../pics/2019-10-20-online-code-editor_image_2.png)
 
 
 ### Technology on repl.it
 
-![](../pic/Screenshot_2019-10-29-Wappalyzer-Identify-technologies-on-websites.png)
+
+
+![](../pics/2019-10-20-online-code-editor_image_3.png)
 
 ## JS (Javascript)
 
 https://justrun.it 
 
-## DB online 
