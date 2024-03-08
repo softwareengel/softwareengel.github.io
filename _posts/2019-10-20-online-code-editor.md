@@ -22,7 +22,4 @@ https://repl.it (Editor, Debugger, Embed)
 
 ![](../pics/2019-10-20-online-code-editor_image_3.png)
 
-## JS (Javascript)
-
-https://justrun.it 
 
