@@ -3,9 +3,9 @@ layout: post
 title: Pandas Cheats  
 categories: [Pandas]
 tags: [Pandas, Cheats, Python]
---- 
+---
 
-![](../pics/20230705141110_pandas_cheat_sheet.png)
+![](../pics/2023-03-01-pandas-cheats_image_1.png)
 
 # Pandas Cheat Sheet 
 

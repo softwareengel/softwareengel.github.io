@@ -3,8 +3,8 @@ layout: post
 title: New AI Tools, ChatGPT, Stable Diffusion, Prompt Engineering, Lexica 
 categories: [Notes]
 tags: [ai, chatgpt, prompthero, Stable Diffusion, Prompt Engineering, lexica ]
---- 
-![](../pics/20230705171942_lexicaart.png)
+---
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_1.png)
 
 - [ChatGPT Stable Diffusion and Prompt Engineering](#chatgpt-stable-diffusion-and-prompt-engineering)
   - [ChatGPT Stable Diffusion:](#chatgpt-stable-diffusion)
@@ -38,8 +38,8 @@ It's important to note that while prompt engineering can help guide the model's 
 
 # https://lexica.art/
 
-![](../pic/20230602114559.png)
-![](../pic/20230602114627.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_2.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_3.png)
 
 <https://lexica.art/>
 
@@ -47,19 +47,19 @@ It's important to note that while prompt engineering can help guide the model's 
 
 <https://prompthero.com/chatgpt-prompts>
 - Startpage 
-![](../pic/20230414114249_prompthero.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_4.png)
 - Pics my User 
-![](../pic/20230414114357_promthero.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_5.png)
 - Hot Prompts
-![](../pic/20230414115301_prompthero_hot.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_6.png)
 - New Prompts
-![](../pic/20230414115653_promptheroNewest.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_7.png)
 - Top Prompts 
-![](../pic/20230414115836_prompthero_top.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_8.png)
 - Logos, Icons & Design Prompts 
-![](../pic/20230414120037_prompthero_logoIconDesign.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_9.png)
 - 3D-Render Prompts 
-![](../pic/20230414120316_promthero_3d-render.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_10.png)
 
 # Models Huggingface 
 The AI community building the future. 
@@ -68,7 +68,7 @@ Build, train and deploy state of the art models powered by the reference open so
 
 <https://huggingface.co/>
 
-![](../pics/20230706125729_FEatures.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_11.png)
 
 <https://huggingface.co/docs/transformers/quicktour>
 
@@ -91,7 +91,7 @@ Midjourney is an independent research lab exploring new mediums of thought and e
 
 We are a small self-funded team focused on design, human infrastructure, and AI. We have 11 full-time staff and an incredible set of advisors.
 
-![](../pic/20230602114825.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_12.png)
 
 <https://docs.midjourney.com/docs/quick-start>
 
@@ -100,4 +100,4 @@ We are a small self-funded team focused on design, human infrastructure, and AI.
 
 <https://miro.com/app/board/uXjVM5DBzVg=/?share_link_id=988659563177>
 
-![](../pics/20230705172139_ai_powered_miro.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_13.png)

@@ -3,8 +3,8 @@ layout: post
 title: Yolo 7 Pothole Detection 
 categories: [Pothole, object detection, AI, ML]
 tags: [yolo, python, cudo, pytorch, labelme]
---- 
-![](../pic/20230602125229_ai_pothole.png)
+---
+![](../pics/2023-04-14-yolo7-pothole_image_1.png)
 .. Pic made with Midjouney ;-) 
 
 # Train Pothole Detection 
@@ -20,7 +20,7 @@ tags: [yolo, python, cudo, pytorch, labelme]
 
 
 # Dataset
-![](../pics/20230705171221_roboflow_dataset_pothole.png)
+![](../pics/2023-04-14-yolo7-pothole_image_2.png)
 
 <https://public.roboflow.com/object-detection/pothole/1>
 <https://public.roboflow.com/models/object-detection>
@@ -98,7 +98,7 @@ conda uninstall pytorch
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 ```
 # Results
-![](../pics/20230705150608_potholeResuilts.png)
+![](../pics/2023-04-14-yolo7-pothole_image_3.png)
 
 # Labeling Tools 
 

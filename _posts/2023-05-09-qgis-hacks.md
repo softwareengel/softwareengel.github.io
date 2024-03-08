@@ -3,9 +3,9 @@ layout: post
 title: QGis Hacks - Interaktive Karte mit Qgis2web 
 categories: [qgis, python]
 tags: [qgis, python, Qgis2web]
---- 
+---
 
-![](../pics/20230705143249_Qgis2web_co2example.png)
+![](../pics/2023-05-09-qgis-hacks_image_1.png)
 
 # QGis Hacks - Interaktive Karte mit Qgis2web 
 - [QGis Hacks - Interaktive Karte mit Qgis2web](#qgis-hacks---interaktive-karte-mit-qgis2web)
@@ -22,16 +22,16 @@ QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server
 
 ## Example Settings 
 
-![](/pic/20230509095728_qgis2web1.png)
-![](/pic/20230509095752_qgis2web2.png)
-![](/pic/20230509095815_qgis2web3.png)
-![](/pic/20230509095834_qgis2web4.png)
+![](../pics/2023-05-09-qgis-hacks_image_2.png)
+![](../pics/2023-05-09-qgis-hacks_image_3.png)
+![](../pics/2023-05-09-qgis-hacks_image_4.png)
+![](../pics/2023-05-09-qgis-hacks_image_5.png)
 
 ## Ergebnis: Webbasierte, interaktive Karten 
 - Karte 1 
-![](../pics/20230706123553_qgis2webKarte1.png)
+![](../pics/2023-05-09-qgis-hacks_image_6.png)
 - Karte 2 
-![](../pics/20230706123730_qgis2web_Karte2.png)
+![](../pics/2023-05-09-qgis-hacks_image_7.png)
 
 ## Tutorial Web-Map 
 

@@ -3,7 +3,7 @@ layout: post
 title: A Handy Guide to Financial Support for Open Source
 categories: [financial]
 tags: [financial, oss]
---- 
+---
 
 "I do open source work, how do I find funding?"
 
@@ -35,4 +35,4 @@ Table of Contents
 
 <https://github.com/nayafia/lemonade-stand>
 
-![](../pic/20220908140840.png)  
+![](../pics/2022-09-08-open-source-finacing_image_1.png)  

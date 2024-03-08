@@ -3,8 +3,8 @@ layout: post
 title: Notes on AI, Boston Dynamics, Google AI, KI in NRW
 categories: [notes ]
 tags: [Boston Dynamics,  Google AI , KI in NRW ]
---- 
-![](../pics/20230705145350_bostonDynRobotTurnen.png)
+---
+![](../pics/2022-10-19-artificial-intelligence_image_1.png)
 
 - [Boston Dynamics](#boston-dynamics)
 - [Google AI](#google-ai)

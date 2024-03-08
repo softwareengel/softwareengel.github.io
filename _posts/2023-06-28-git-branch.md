@@ -3,11 +3,11 @@ layout: post
 title: Git Branch 
 categories: [Notes]
 tags: [git]
---- 
+---
 
 ## Git Branch
 
-![branch ai geneated  picture](../pic/bracnch-ai-20230628120059.png)
+![branch ai geneated  picture](../pics/2023-06-28-git-branch_image_1.png)
 
 Certainly! Here are a few examples of using Git branches:
 

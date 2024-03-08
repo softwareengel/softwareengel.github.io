@@ -3,7 +3,7 @@ layout: post
 title: Website Technology Analyse Tools
 categories: [web, Tool]
 tags: [website, technology, Analyse, Tool]
---- 
+---
 - [Website Technology Analyse Tools](#website-technology-analyse-tools)
 - [Survey](#survey)
 - [Build With](#build-with)
@@ -22,43 +22,43 @@ tags: [website, technology, Analyse, Tool]
 # Build With 
 - <https://builtwith.com>
 
-![](../pic/20220930112146_buildwith_web.png)  
+![](../pics/2022-09-30-website-analyse_image_1.png)  
 
 - <https://builtwith.com/detailed/mipart.com>
 
-![](../pic/20220930111331_build_with.png)  
+![](../pics/2022-09-30-website-analyse_image_2.png)  
 
 # Weppalyzer 
 
 - Browser Add-in
 
-![](../pic/20220930111715_weppalyzer.png)  
+![](../pics/2022-09-30-website-analyse_image_3.png)  
 
 - Website - Paywall 
 
-![](../pic/20220930111832_weppalyzer_paywall.png)  
+![](../pics/2022-09-30-website-analyse_image_4.png)  
 
 # w3techs Site Info 
 
 - <https://w3techs.com/sites>
 
-![](../pic/20220930114421_w3techs-sites-info.png)  
+![](../pics/2022-09-30-website-analyse_image_5.png)  
 
-![](../pic/20220930114537_w3tech_site_info_detail.png)  
+![](../pics/2022-09-30-website-analyse_image_6.png)  
 
 # Netcraft 
 
 <https://sitereport.netcraft.com/?url=https%3A%2F%2Fmipart.com>
 
-![](../pic/20220930114649_netcraft_result.png)  
+![](../pics/2022-09-30-website-analyse_image_7.png)  
 
 # Webtechsurvey
 
 <https://webtechsurvey.com/website/mipart.com/technologies>
 
-![](../pic/20220930115412_WebTEchSurvey.png)  
+![](../pics/2022-09-30-website-analyse_image_8.png)  
 
 # Rescan (poor)
 - <https://rescan.io/analysis/mipart.com/>
   
-![](../pic/20220930115900_rescan.png)  
+![](../pics/2022-09-30-website-analyse_image_9.png)  

@@ -3,7 +3,7 @@ layout: post
 title: irfanview-png-riot-webp-compare
 categories: [compression]
 tags: [png, webp, riot, compression, compare]
---- 
+---
 
 ![compare image file formats](../pics/20230929124452-compare-result.png)
 
