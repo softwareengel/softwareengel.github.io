@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: Free Icons - On the Web  
 categories: [Icons]
 tags: [Icons, Free]
---- 
+---
 
 ![FreeIcons](../pic/free-icons-on-the-web-iconmonstr-crop.png)
 
