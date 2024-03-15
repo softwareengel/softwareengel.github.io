@@ -9,7 +9,9 @@ tags: [Excel, Fom, Dropzone, Calendar]
 
 ## Webseite mit Dropzone zum ablegen der xlsx - Dateien 
 
-https://hq.softwareengel.de:30333/
+Testinstallation Verfügbar unter <https://hq.softwareengel.de:30333/>
+
+
 
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_2.png)
 
