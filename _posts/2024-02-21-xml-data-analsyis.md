@@ -12,7 +12,7 @@ tags:
   - copilot
 ---
 
-![](../pics/20240306175251.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_1.png)
 # XML Data Analytics with Knime -- working -- 
 
 
@@ -320,20 +320,20 @@ knap    =       4
 
 ```
 
-## Versuch 1 ChatGPT 4 + Copilot (Nicht erfolgreiche) 
+## Versuch 1 ChatGPT 4 + Copilot (Nicht erfolgreich) 
 ```User
 py read following xml file and store in sqlite db 
 ```
 - Error 
   
-![](../pics/20240221165651.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_2.png)
 
 ## Versuch 2: Knime XML - ETL - Sqlite (Erfolgreiche) 
 - XmlReader + XPath + DBWriter 
 
 
-![](../pics/20240221165816.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_3.png)
 
 ## DBeaver Data Analysis 
 
-![](../pics/20240221165915.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_4.png)

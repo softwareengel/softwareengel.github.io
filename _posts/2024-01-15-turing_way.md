@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Research The Turing Way 
-categories: []
-tags: [R&D]
+title: Research The Turing Way
+categories: 
+tags:
+  - R&D
+  - Dev
 ---
 
 ![](../pics/2024-01-15-turing_way_image_1.png)
