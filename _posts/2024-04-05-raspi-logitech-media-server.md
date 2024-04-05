@@ -1,17 +1,12 @@
 ---
 layout: post
 title: Logitech Squeezebox UE - EOL - Logitech Media Server
-categories: 
-tags:
-  - Logitech
-  - Squeezebox
-  - Webradio
-  - Raspi
-  - Raspi-OS
-lastupdate: 
-date:
+categories: []
+tags: [Logitech, Squeezebox, Webradio, Raspi, Raspi-OS]
 ---
+
 ![](../pics/2024-04-05-raspi-logitech-media-server_image_1.png)
+
 # Logitech Squeezebox UE - EOL - Logitech Media Server 
 
 https://www.golem.de/news/squeezebox-und-ue-smart-radio-logitech-deaktiviert-funktionen-fuer-musikstreaming-2401-181717.html
