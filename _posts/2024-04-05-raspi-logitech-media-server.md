@@ -11,23 +11,24 @@ tags:
 lastupdate: 
 date:
 ---
-![](../pics/2024-04-05_raspi-logitech-media-server_image_1.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_1.png)
 # Logitech Squeezebox UE - EOL - Logitech Media Server 
 
 https://www.golem.de/news/squeezebox-und-ue-smart-radio-logitech-deaktiviert-funktionen-fuer-musikstreaming-2401-181717.html
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_2.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_2.png)
 
 ## Raspi V2 OS Lite Image 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_3.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_3.png)
 https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-32-bit
 ## Rufus Portable 
 
 http://rufus.ie/en/
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_4.png)
-## 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_5.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_4.png)
+## Getting Started 
+
+![](../pics/2024-04-05-raspi-logitech-media-server_image_5.png)
 https://lyrion.org/getting-started/#download-and-install-logitech-media-server-v850
 
 ```bash 
@@ -96,26 +97,26 @@ pi@raspberrypi:~ $
 
 ## Logitech Media Server 
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_6.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_6.png)
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_7.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_7.png)
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_8.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_8.png)
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_9.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_9.png)
 
 http://192.168.2.74:9000/stream.mp3
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_10.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_10.png)
 
 ## Links zu WDR
 
 https://www1.wdr.de/unternehmen/der-wdr/empfang-technik/webradio-100.html
 
-# Raspi 2 und CPU 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_11.png)
+## Raspi 2 und CPU 
+![](../pics/2024-04-05-raspi-logitech-media-server_image_11.png)
 
-![](../pics/2024-04-05_raspi-logitech-media-server_image_12.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_12.png)
 ## Links
 
 https://lyrion.org/getting-started/#download-and-install-logitech-media-server-v850
