@@ -75,11 +75,11 @@ kramdown:
   input: GFM
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
+  # syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     # span: true
-    css_class: 'highlight'
-    block: false
+ #   css_class: 'highlight'
+#    block: false
     # line_numbers: true
   # for toc ?   
   # parse_block_html: true
