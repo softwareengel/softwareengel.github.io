@@ -79,6 +79,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     # span: true
     css_class: 'highlight'
+    block: false
     # line_numbers: true
   # for toc ?   
   # parse_block_html: true
