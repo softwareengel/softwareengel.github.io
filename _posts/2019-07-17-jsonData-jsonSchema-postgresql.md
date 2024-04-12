@@ -4,6 +4,7 @@ title:  PostgresSQL JSON-Datenbank
 categories: [JSON]
 tags: [JSON, Schema, dotnet, pqsql]
 ---
+
 ![](../pics/20230713105441_postgres_json.png)
 # PostgresSQL JSON ab Version 9.2 als JSON-Datenbank 
 
