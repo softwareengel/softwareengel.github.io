@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Markdown Blog Tag Hints 
-categories: [JSON]
-tags: [JSON, Schema, dotnet]
+categories: [Markdown]
+tags: [MD, Editor]
 ---
 ![](../pics/20230705181318_md_cheats.png)
 
