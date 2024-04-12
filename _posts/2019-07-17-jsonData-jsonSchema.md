@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Dotnet Tool NJsonSchema, NSwagStudio
-categories:
-  - JSON
-tags:
-  - JSON
-  - Schema
-  - dotnet
+categories: [ JSON]
+tags: [ JSON, Schema, dotnet]
 ---
 
 ![screen from usage](../pic/capture_002_17072019_151951.jpg)
