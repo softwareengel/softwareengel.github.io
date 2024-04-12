@@ -24,6 +24,7 @@ http://rufus.ie/en/
 ## Getting Started 
 
 ![](../pics/2024-04-05-raspi-logitech-media-server_image_5.png)
+
 https://lyrion.org/getting-started/#download-and-install-logitech-media-server-v850
 
 ```bash 
