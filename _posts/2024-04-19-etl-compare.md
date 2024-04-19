@@ -14,7 +14,7 @@ tags:
 
 ![](../pics/2024-04-19-etl-compare_image_1.png)
  
-# hop vs. airflow vs. talend vs. knime vs. rapidminer
+# ETL-Tool-Compare: Airflow vs. Talend vs. Knime vs. Rapidminer
 
 ![](../pics/2024-04-19-etl-compare_image_2.png)
 
