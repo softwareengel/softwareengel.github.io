@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-19_etl-compare.md",
+                "file": "_posts/2024-04-19-etl-compare.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-19_etl-compare.md",
+                "file": "_posts/2024-04-19-etl-compare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-19_etl-compare.md",
+                "file": "_posts/2024-04-19-etl-compare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-19_etl-compare.md"
+                "file": "_posts/2024-04-19-etl-compare.md"
               }
             }
           }
@@ -154,7 +154,7 @@
     "pics/2024-04-19_etl-compare_image_2.png",
     "pics/2024-04-19_etl-compare_image_1.png",
     "_posts/2024-02-21-xml-data-analsyis.md",
-    "_posts/2024-04-19_etl-compare.md",
+    "_posts/2024-04-19-etl-compare.md",
     "_posts/2020-09-18-Data-Analytics-Platforms.md",
     "_posts/2020-01-06-graphql-interactive-integration-landscape.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
