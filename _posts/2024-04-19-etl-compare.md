@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Etl-Tool-compare: Airflow vs. Talend vs. Knime vs. Rapidminer"
+title: "ETL-Tool-Compare: Airflow vs. Talend vs. Knime vs. Rapidminer"
 categories: 
 tags:
   - etl
