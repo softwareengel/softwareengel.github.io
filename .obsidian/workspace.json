@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "656de3ec473802fa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pics/2024-04-19-etl-compare_image_2.png"
+              }
+            }
           }
         ]
       }
@@ -65,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,11 +159,12 @@
   },
   "active": "56852be5f9ca7e56",
   "lastOpenFiles": [
-    "pics/2024-04-19_etl-compare_image_3.png",
-    "pics/2024-04-19_etl-compare_image_2.png",
-    "pics/2024-04-19_etl-compare_image_1.png",
-    "_posts/2024-02-21-xml-data-analsyis.md",
+    "pics/2024-04-19-etl-compare_image_1.png",
+    "pics/2024-04-19-etl-compare_image_2.png",
     "_posts/2024-04-19-etl-compare.md",
+    "pics/2024-04-19-etl-compare_image_4.png",
+    "pics/2024-04-19-etl-compare_image_3.png",
+    "_posts/2024-02-21-xml-data-analsyis.md",
     "_posts/2020-09-18-Data-Analytics-Platforms.md",
     "_posts/2020-01-06-graphql-interactive-integration-landscape.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
@@ -167,7 +177,6 @@
     "pics/2024-04-05-raspi-logitech-media-server_image_10.png",
     "pics/2024-04-05-raspi-logitech-media-server_image_8.png",
     "pics/2024-04-05-raspi-logitech-media-server_image_7.png",
-    "pics/2024-04-05-raspi-logitech-media-server_image_6.png",
     "_posts/Untitled.md",
     "_posts/2023-11-30-ki-update.md",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
