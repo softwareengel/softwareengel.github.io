@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a27fab1be060c568",
+        "id": "2341b51d87505c58",
         "type": "tabs",
         "children": [
           {
-            "id": "c5628194842403a1",
+            "id": "56852be5f9ca7e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2024-02-21-xml-data-analsyis.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -48,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:2022-02-02-10-22-50",
+                "query": "etl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 307.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2024-02-21-xml-data-analsyis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2024-02-21-xml-data-analsyis.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -125,12 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md"
+                "file": "_posts/2024-02-21-xml-data-analsyis.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,17 +148,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5628194842403a1",
+  "active": "56852be5f9ca7e56",
   "lastOpenFiles": [
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_image_4.png",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_image_3.png",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
-    "pics/tmp1710509521487_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
-    "pics/tmp1710509521553_2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_image_2.png",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_image_1.png",
+    "_posts/2020-09-18-Data-Analytics-Platforms.md",
+    "_posts/2024-02-21-xml-data-analsyis.md",
+    "_posts/2020-01-06-graphql-interactive-integration-landscape.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md",
+    "pics/2024-04-05-raspi-logitech-media-server_image_1.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_9.png",
+    "_posts/2022-09-23-bpmn.md",
+    "_posts/2022-09-30-nuxt.md",
+    "pics/2024-04-05-raspi-logitech-media-server_image_11.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_12.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_10.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_8.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_7.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_6.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_2.png",
+    "pics/2024-04-05-raspi-logitech-media-server_image_3.png",
+    "_posts/Untitled.md",
+    "_posts/2023-11-30-ki-update.md",
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+    "_template/sse-template.md.md",
+    "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+    "_posts/2024-01-15-turing_way.md",
+    "_posts/2024-01-19-autonomer-werstoffhof.md",
+    "_posts/2024-01-20-raspiCar.md",
+    "_posts/2024-02-08-logo-generation.md",
+    "_posts/2024-02-15-surface888.md",
+    "_posts/2024-02-20-obsidian.md",
+    "_posts/2024-02-29-diy-llm-studio.md",
     "_posts/2023-10-11-Libadwaita-game-launcher.md",
+    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
+    "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
+    "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
+    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
     "_posts/2023-10-12-SiteGenerator.md",
     "_posts/2023-10-12-worle-word-tag-cloud.md",
     "_posts/2023-10-12-crop-video.md",
@@ -165,30 +190,6 @@
     "_posts/2023-10-18-eclispe-uml-buggy.md",
     "_posts/2023-10-30-plantuml.md",
     "_posts/2023-10-30-scad.md",
-    "_posts/2023-11-03-yacy.md",
-    "_posts/2023-11-07.md",
-    "_posts/2023-11-07-web-map-generator.md",
-    "_posts/2023-11-09-digitalisierung-krw.md",
-    "_posts/2023-11-09-ki-code.md",
-    "_posts/2023-11-09-osm-street_mapping.md",
-    "_posts/2023-11-10-qgis.md",
-    "_posts/2023-11-16-entsorgungsmeldung.md",
-    "_posts/2023-11-22-raspi-airgeddon.md",
-    "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md",
-    "_posts/2023-11-30-ki-update.md",
-    "_posts/2023-12-06-ki-hacks.md",
-    "_posts/2023-12-07_phind.md",
-    "_posts/2023-12-07-ide-hacks.md",
-    "_posts/2023-12-09_superduper.md",
-    "_posts/2023-12-22-powerpoint-shortcuts.md",
-    "_posts/2024-01-15-turing_way.md",
-    "pics/2023-12-07_phind_image_1.png",
-    "_posts/logo_engels_4P.jpg",
-    "pics/2023-12-09_superduper_image_2.png",
-    "pics/2023-12-09_superduper_image_1.png",
-    "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_5.png",
-    "pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_4.png",
-    "pics/2021-01-27-webinar-tools_image_6.png",
     "mov/2019-07-22_12-15-32.flv.webm",
     "pics/2019-08-07-geojson-editor",
     "pics/_posts/2019-08-07-geojson-editor",
