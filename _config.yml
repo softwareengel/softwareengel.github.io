@@ -4,6 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Softwareengel - Notes from IT and SCM DevOps 
+title: Softwareengel - Notes from IT and SCM DevOps 
 
 # Short bio or description (displayed in the header)
 description: Notes from IT and SCM DevOps 
@@ -89,12 +90,22 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _sass
-  style: expanded # You might prefer to minify using :compressed
+  style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+#  - jekyll-seo-tag # Add metadata tags for search engines using the official Jekyll SEO tag plugin
+#  - jekyll-paginate # Pagination for Jekyll
+#  - jekyll-gist # Liquid tag for displaying GitHub Gists
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#  - jekyll-redirect-from # Redirects for Jekyll
+#  - jekyll-mentions # @mentions for Jekyll
+#  - jekyll-avatar # Liquid tag for generating avatar image URLs
+#  - jekyll-archives # Jekyll archive pages
+#  - jekyll-include-cache # Cache includes in Jekyll
+#  - jekyll-optional-front-matter # Jekyll plugin to make front matter optional
 
 # Exclude these files from your production _site
 exclude:
