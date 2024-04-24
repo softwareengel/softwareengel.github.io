@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-19-etl-compare.md",
+                "file": "_posts/2023-11-03-yacy-search-local.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "656de3ec473802fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pics/2024-04-19-etl-compare_image_2.png"
               }
             }
           }
@@ -58,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "etl",
+                "query": "yacy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-19-etl-compare.md",
+                "file": "_posts/2023-11-03-yacy-search-local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-19-etl-compare.md",
+                "file": "_posts/2023-11-03-yacy-search-local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-19-etl-compare.md"
+                "file": "_posts/2023-11-03-yacy-search-local.md"
               }
             }
           }
@@ -144,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +149,11 @@
   },
   "active": "56852be5f9ca7e56",
   "lastOpenFiles": [
-    "pics/2024-04-19-etl-compare_image_1.png",
     "pics/2024-04-19-etl-compare_image_2.png",
+    "_posts/2023-11-03-yacy-search-local.md",
+    "pics/2023-11-03-yacy-search-local_image_4.png",
     "_posts/2024-04-19-etl-compare.md",
+    "pics/2024-04-19-etl-compare_image_1.png",
     "pics/2024-04-19-etl-compare_image_4.png",
     "pics/2024-04-19-etl-compare_image_3.png",
     "_posts/2024-02-21-xml-data-analsyis.md",
@@ -175,8 +167,6 @@
     "pics/2024-04-05-raspi-logitech-media-server_image_11.png",
     "pics/2024-04-05-raspi-logitech-media-server_image_12.png",
     "pics/2024-04-05-raspi-logitech-media-server_image_10.png",
-    "pics/2024-04-05-raspi-logitech-media-server_image_8.png",
-    "pics/2024-04-05-raspi-logitech-media-server_image_7.png",
     "_posts/Untitled.md",
     "_posts/2023-11-30-ki-update.md",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
@@ -198,7 +188,6 @@
     "_posts/2023-10-12-worle-word-tag-cloud.md",
     "_posts/2023-10-12-crop-video.md",
     "_posts/2023-10-14-liquid-jekyll.md",
-    "_posts/2023-10-18-eclispe-uml-buggy.md",
     "mov/2019-07-22_12-15-32.flv.webm",
     "pics/2019-08-07-geojson-editor",
     "pics/_posts/2019-08-07-geojson-editor",
