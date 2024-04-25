@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-03-yacy-search-local.md",
+                "file": "_posts/2022-09-23-bpmn-Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yacy",
+                "query": "camunda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-03-yacy-search-local.md",
+                "file": "_posts/2022-09-23-bpmn-Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-03-yacy-search-local.md",
+                "file": "_posts/2022-09-23-bpmn-Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,12 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-03-yacy-search-local.md"
+                "file": "_posts/2022-09-23-bpmn-Tools.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,27 +150,30 @@
   },
   "active": "56852be5f9ca7e56",
   "lastOpenFiles": [
-    "pics/2024-04-19-etl-compare_image_2.png",
-    "_posts/2023-11-03-yacy-search-local.md",
-    "pics/2023-11-03-yacy-search-local_image_4.png",
+    "pics/Pasted image 20240425120632.png",
+    "pics/Pasted image 20240425120537.png",
+    "pics/Pasted image 20240425120434.png",
+    "pics/Pasted image 20240425120403.png",
+    "pics/Pasted image 20240425120333.png",
+    "pics/Pasted image 20240425120223.png",
+    "pics/Pasted image 20240425120136.png",
+    "pics/Pasted image 20240425115123.png",
+    "pics/Pasted image 20240425115018.png",
+    "pics/Pasted image 20240425114944.png",
+    "pics/Pasted image 20240425114935.png",
     "_posts/2024-04-19-etl-compare.md",
-    "pics/2024-04-19-etl-compare_image_1.png",
-    "pics/2024-04-19-etl-compare_image_4.png",
-    "pics/2024-04-19-etl-compare_image_3.png",
     "_posts/2024-02-21-xml-data-analsyis.md",
+    "_posts/2024-02-20-obsidian.md",
+    "_posts/2024-02-29-diy-llm-studio.md",
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md",
+    "_posts/2023-11-03-yacy-search-local.md",
+    "_posts/Untitled.md",
     "_posts/2020-09-18-Data-Analytics-Platforms.md",
     "_posts/2020-01-06-graphql-interactive-integration-landscape.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md",
-    "pics/2024-04-05-raspi-logitech-media-server_image_1.png",
-    "pics/2024-04-05-raspi-logitech-media-server_image_9.png",
-    "_posts/2022-09-23-bpmn.md",
+    "_posts/2022-09-23-bpmn-Tools.md",
     "_posts/2022-09-30-nuxt.md",
-    "pics/2024-04-05-raspi-logitech-media-server_image_11.png",
-    "pics/2024-04-05-raspi-logitech-media-server_image_12.png",
-    "pics/2024-04-05-raspi-logitech-media-server_image_10.png",
-    "_posts/Untitled.md",
     "_posts/2023-11-30-ki-update.md",
-    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "_template/sse-template.md.md",
     "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
     "_posts/2024-01-15-turing_way.md",
@@ -177,8 +181,6 @@
     "_posts/2024-01-20-raspiCar.md",
     "_posts/2024-02-08-logo-generation.md",
     "_posts/2024-02-15-surface888.md",
-    "_posts/2024-02-20-obsidian.md",
-    "_posts/2024-02-29-diy-llm-studio.md",
     "_posts/2023-10-11-Libadwaita-game-launcher.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
