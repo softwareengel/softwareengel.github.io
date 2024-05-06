@@ -3,8 +3,9 @@ layout: post
 title: Wordle Tag Cloud Generator
 categories: [Wordle, Tagcloud, Generator]
 tags: [Wordle, Tagcloud, Generator]
---- 
-![Wordle Tag Cloud](../pic/2021-08-10-wordle.png)
+---
+
+![Wordle Tag Cloud](../pics/2021-08-12-wordle-tag-cloud_image_1.png)
 
 - [Wordle Tag-Cloud Generator](#wordle-tag-cloud-generator)
   - [Links](#links)

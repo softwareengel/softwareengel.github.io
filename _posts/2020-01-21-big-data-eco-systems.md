@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Big Data Ökosysteme - LinkList
 categories: [Big Data]
