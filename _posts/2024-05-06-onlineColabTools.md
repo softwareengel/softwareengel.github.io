@@ -9,7 +9,7 @@ tags:
   - tools
   - WebUI
 lastupdate: 
-date:
+date: 2024-05-06
 ---
 
 # Online Colaboration Tools 
@@ -88,6 +88,9 @@ https://demo.bpmn.io/form/new
 
 ![](../pics/2024-05-06-onlineColabTools_image_22.png)
 
+![](../pics/2024-05-06-onlineColabTools_image_23.png)
+
+
 https://etherpad.org/#/#download
 https://de.m.wikipedia.org/wiki/Etherpad
 
@@ -100,16 +103,16 @@ https://de.m.wikipedia.org/wiki/Etherpad
 
 ### CryptPad (ohne Anmeldung) 
 
-![](../pics/2024-05-06-onlineColabTools_image_23.png)
-
 ![](../pics/2024-05-06-onlineColabTools_image_24.png)
 
 ![](../pics/2024-05-06-onlineColabTools_image_25.png)
 
 ![](../pics/2024-05-06-onlineColabTools_image_26.png)
 
-
 ![](../pics/2024-05-06-onlineColabTools_image_27.png)
+
+
+![](../pics/2024-05-06-onlineColabTools_image_28.png)
 
 ## Online Feedback 
 
@@ -119,15 +122,15 @@ https://de.m.wikipedia.org/wiki/Etherpad
 ### Padlet - 
 ![](../pics/2024-05-06-onlineColabTools_image_21.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_28.png)
+![](../pics/2024-05-06-onlineColabTools_image_29.png)
 https://padlet.com/dashboard/gallery/all
 
 ## Projekt-Management 
 ### Jira - Confluence 
 
-![](../pics/2024-05-06-onlineColabTools_image_29.png)
-
 ![](../pics/2024-05-06-onlineColabTools_image_30.png)
 
-
 ![](../pics/2024-05-06-onlineColabTools_image_31.png)
+
+
+![](../pics/2024-05-06-onlineColabTools_image_32.png)
