@@ -8,43 +8,44 @@ date: 2024-05-06
 ---
 
 ![](../pics/2024-05-06-onlineColabTools_image_1.png)
-- [Online Colaboration Tools](#online-colaboration-tools)
-  - [Chat](#chat)
-    - [Libra Chat (ohne Anmeldung)](#libra-chat-ohne-anmeldung)
-  - [Web App Design und Run](#web-app-design-und-run)
-    - [Flutter Flow](#flutter-flow)
-  - [Draw Editor - Whiteborad](#draw-editor---whiteborad)
-    - [Multiuser Draw Editor Excalidraw (OSS)  ohne Anmeldung](#multiuser-draw-editor-excalidraw-oss--ohne-anmeldung)
-    - [draw.io Online Zeichen - Editor (OSS) / ohne Anmeldung](#drawio-online-zeichen---editor-oss--ohne-anmeldung)
-    - [bpmn.io (ohne Anmeldung ) - von camunda](#bpmnio-ohne-anmeldung----von-camunda)
-      - [Token Simulation](#token-simulation)
-    - [GenMyModel](#genmymodel)
-      - [Generators](#generators)
-      - [Projekt Type Selection](#projekt-type-selection)
-      - [UML - Diagram Typen](#uml---diagram-typen)
-    - [Miro Board](#miro-board)
-    - [PlantUML - Generator](#plantuml---generator)
-      - [Liste der Modellierungs-Diagramm-Sprachen](#liste-der-modellierungs-diagramm-sprachen)
-      - [Beispiel Usecase Diagram](#beispiel-usecase-diagram)
-      - [Beispiel Class Diagram](#beispiel-class-diagram)
-  - [BPMN Suites](#bpmn-suites)
-    - [Signavio - Academic](#signavio---academic)
-    - [Camunda](#camunda)
-    - [Camunda Formular Builder](#camunda-formular-builder)
-  - [Multiuser Text Editor](#multiuser-text-editor)
-    - [Etherpad - OSS](#etherpad---oss)
-  - [Office - Word - Excel - Powerpoint](#office---word---excel---powerpoint)
-    - [Google Documents](#google-documents)
-    - [MS Teams](#ms-teams)
-    - [CryptPad (ohne Anmeldung)](#cryptpad-ohne-anmeldung)
-  - [Online Feedback](#online-feedback)
-    - [Mentimeter](#mentimeter)
-    - [Padlet -](#padlet--)
-  - [Projekt-Management](#projekt-management)
-    - [Jira - Confluence](#jira---confluence)
 
 
 # Online Colaboration Tools 
+
+- [[#Chat|Chat]]
+	- [[#Chat#Libra Chat (ohne Anmeldung)|Libra Chat (ohne Anmeldung)]]
+- [[#Web App Design und Run|Web App Design und Run]]
+	- [[#Web App Design und Run#Flutter Flow|Flutter Flow]]
+- [[#Draw Editor - Whiteborad|Draw Editor - Whiteborad]]
+	- [[#Draw Editor - Whiteborad#Multiuser Draw Editor Excalidraw (OSS)  ohne Anmeldung|Multiuser Draw Editor Excalidraw (OSS)  ohne Anmeldung]]
+	- [[#Draw Editor - Whiteborad#draw.io Online Zeichen - Editor (OSS) / ohne Anmeldung|draw.io Online Zeichen - Editor (OSS) / ohne Anmeldung]]
+	- [[#Draw Editor - Whiteborad#bpmn.io (ohne Anmeldung ) - von camunda|bpmn.io (ohne Anmeldung ) - von camunda]]
+		- [[#bpmn.io (ohne Anmeldung ) - von camunda#Token Simulation|Token Simulation]]
+	- [[#Draw Editor - Whiteborad#GenMyModel|GenMyModel]]
+		- [[#GenMyModel#Generators|Generators]]
+		- [[#GenMyModel#Projekt Type Selection|Projekt Type Selection]]
+		- [[#GenMyModel#UML - Diagram Typen|UML - Diagram Typen]]
+	- [[#Draw Editor - Whiteborad#Miro Board|Miro Board]]
+	- [[#Draw Editor - Whiteborad#PlantUML - Generator|PlantUML - Generator]]
+		- [[#PlantUML - Generator#Liste der Modellierungs-Diagramm-Sprachen|Liste der Modellierungs-Diagramm-Sprachen]]
+		- [[#PlantUML - Generator#Beispiel Usecase Diagram|Beispiel Usecase Diagram]]
+		- [[#PlantUML - Generator#Beispiel Class Diagram|Beispiel Class Diagram]]
+- [[#BPMN Suites|BPMN Suites]]
+	- [[#BPMN Suites#Signavio - Academic|Signavio - Academic]]
+	- [[#BPMN Suites#Camunda|Camunda]]
+	- [[#BPMN Suites#Camunda Formular Builder|Camunda Formular Builder]]
+- [[#Multiuser Text Editor|Multiuser Text Editor]]
+	- [[#Multiuser Text Editor#Etherpad - OSS|Etherpad - OSS]]
+- [[#Office - Word - Excel - Powerpoint|Office - Word - Excel - Powerpoint]]
+	- [[#Office - Word - Excel - Powerpoint#Google Documents|Google Documents]]
+	- [[#Office - Word - Excel - Powerpoint#MS Teams|MS Teams]]
+	- [[#Office - Word - Excel - Powerpoint#CryptPad (ohne Anmeldung)|CryptPad (ohne Anmeldung)]]
+- [[#Online Feedback|Online Feedback]]
+	- [[#Online Feedback#Mentimeter|Mentimeter]]
+	- [[#Online Feedback#Padlet -|Padlet -]]
+- [[#Projekt-Management|Projekt-Management]]
+	- [[#Projekt-Management#Jira - Confluence|Jira - Confluence]]
+
 
 ## Chat 
 ### Libra Chat (ohne Anmeldung)
@@ -109,22 +110,34 @@ https://github.com/bpmn-io/bpmn-js-token-simulation
 
 ![](../pics/2024-05-06-onlineColabTools_image_16.png)
 
-
-### Miro Board 
-
+#### Beispiel BPMN mit Animation 
 ![](../pics/2024-05-06-onlineColabTools_image_17.png)
-
-
+#### Beispiel UML Klassendiagramm
 ![](../pics/2024-05-06-onlineColabTools_image_18.png)
 
-
 ![](../pics/2024-05-06-onlineColabTools_image_19.png)
+![](../pics/2024-05-06-onlineColabTools_image_20.png)
+#### Beispiel Komponenten Diagramm 
+![](../pics/2024-05-06-onlineColabTools_image_21.png)
+
+#### Beispiel UML Usecase 
+![](../pics/2024-05-06-onlineColabTools_image_22.png)
+![](../pics/2024-05-06-onlineColabTools_image_23.png)
+### Miro Board 
+
+![](../pics/2024-05-06-onlineColabTools_image_24.png)
+
+
+![](../pics/2024-05-06-onlineColabTools_image_25.png)
+
+
+![](../pics/2024-05-06-onlineColabTools_image_26.png)
 
 
 ### PlantUML - Generator 
 #### Liste der Modellierungs-Diagramm-Sprachen
 
-![](../pics/2024-05-06-onlineColabTools_image_20.png)
+![](../pics/2024-05-06-onlineColabTools_image_27.png)
 
 <https://plantuml.com/sitemap-language-specification>
 
@@ -147,7 +160,7 @@ rectangle checkout {
 @enduml
 ```
 
-![](../pics/2024-05-06-onlineColabTools_image_21.png)
+![](../pics/2024-05-06-onlineColabTools_image_28.png)
 ```
 @startuml
 ' left to right direction
@@ -165,7 +178,7 @@ rectangle checkout {
 
 ```
 
-![](../pics/2024-05-06-onlineColabTools_image_22.png)
+![](../pics/2024-05-06-onlineColabTools_image_29.png)
 
 #### Beispiel Class Diagram 
 ``` code 
@@ -215,31 +228,31 @@ Wand "1..*"---"farbe" Farbe
 @enduml
 ```
 
-![](../pics/2024-05-06-onlineColabTools_image_23.png)
+![](../pics/2024-05-06-onlineColabTools_image_30.png)
 
 <https://www.plantuml.com/plantuml/uml/XP5FIZGn4CNtTOgYDz-dq8FYhd4nRaPtWYvSIjAfwGxaZoGLNAYtcJDuWRcOIIRJ3eAugJn-nNjvdLv75e6JDM1eoyWUWvvcHgK3ZQozWt_iNmgNdjdRayLeH8nu9rB4Dq1y5KuDJtd01xJTWqWsxpAegk_xJaXBCIOtTNXpb5Ug6KvHYJJxdPleURG3Af-aeSna8Cq_sBp_d2jgP2bGwjHoMn4a3RWf1vOK2ZJEZkwpsEPhnfd-dmsu-Aknk-p-R5mJwnLEM1hmaODs4o06EGse7N-NsP2BJ07XA7uDRuPRaljTKeG0Yxn-x_lov536eM6VZzNglAlF3MKqtd3z9sKSyKN5IvssAh2QkiD7mPgSIjPy0G00>
 
 ## BPMN Suites
 
 ### Signavio - Academic  
-![](../pics/2024-05-06-onlineColabTools_image_24.png)
+![](../pics/2024-05-06-onlineColabTools_image_31.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_25.png)
+![](../pics/2024-05-06-onlineColabTools_image_32.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_26.png)
+![](../pics/2024-05-06-onlineColabTools_image_33.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_27.png)
+![](../pics/2024-05-06-onlineColabTools_image_34.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_28.png)
+![](../pics/2024-05-06-onlineColabTools_image_35.png)
 
 <https://academic.signavio.com/p/explorer>
 
 ### Camunda 
-![](../pics/2024-05-06-onlineColabTools_image_29.png)
+![](../pics/2024-05-06-onlineColabTools_image_36.png)
 
 ### Camunda Formular Builder
 
-![](../pics/2024-05-06-onlineColabTools_image_30.png)
+![](../pics/2024-05-06-onlineColabTools_image_37.png)
 
 <https://demo.bpmn.io/form/new>
 
@@ -247,11 +260,11 @@ Wand "1..*"---"farbe" Farbe
 
 ### Etherpad - OSS 
 
-![](../pics/2024-05-06-onlineColabTools_image_31.png)
+![](../pics/2024-05-06-onlineColabTools_image_38.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_32.png)
+![](../pics/2024-05-06-onlineColabTools_image_38.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_33.png)
+![](../pics/2024-05-06-onlineColabTools_image_39.png)
 
 
 Testinstanz: 
@@ -275,15 +288,15 @@ Sites That Run Etherpad:
 
 ### CryptPad (ohne Anmeldung) 
 
-![](../pics/2024-05-06-onlineColabTools_image_34.png)
+![](../pics/2024-05-06-onlineColabTools_image_40.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_35.png)
+![](../pics/2024-05-06-onlineColabTools_image_41.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_36.png)
+![](../pics/2024-05-06-onlineColabTools_image_42.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_37.png)
+![](../pics/2024-05-06-onlineColabTools_image_43.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_38.png)
+![](../pics/2024-05-06-onlineColabTools_image_44.png)
 
 ## Online Feedback 
 
@@ -291,9 +304,9 @@ Sites That Run Etherpad:
 
 
 ### Padlet - 
-![](../pics/2024-05-06-onlineColabTools_image_30.png)
+![](../pics/2024-05-06-onlineColabTools_image_37.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_39.png)
+![](../pics/2024-05-06-onlineColabTools_image_45.png)
 
 <https://padlet.com/dashboard/gallery/all>
 
@@ -301,9 +314,9 @@ Sites That Run Etherpad:
 
 ### Jira - Confluence 
 
-![](../pics/2024-05-06-onlineColabTools_image_40.png)
+![](../pics/2024-05-06-onlineColabTools_image_46.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_41.png)
+![](../pics/2024-05-06-onlineColabTools_image_47.png)
 
 
 ![](../pics/tmp1715176390104_2024-05-06-onlineColabTools_image_39.png)
