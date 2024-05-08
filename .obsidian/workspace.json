@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53358f2507c9b59f",
+        "id": "0822bcb729b156d3",
         "type": "tabs",
         "children": [
           {
-            "id": "bbca295fcf317601",
+            "id": "1829d6868c0a315e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,20 +147,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbca295fcf317601",
+  "active": "1829d6868c0a315e",
   "lastOpenFiles": [
+    "pics/2024-05-06-onlineColabTools_image_1.png",
+    "_posts/image.png",
     "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-01-15-turing_way.md",
+    "_posts/2024-01-19-autonomer-werstoffhof.md",
+    "pics/2024-05-06-onlineColabTools_image_16.png",
+    "pics/2024-05-06-onlineColabTools_image_15.png",
+    "pics/2024-05-06-onlineColabTools_image_14.png",
+    "pics/2024-05-06-onlineColabTools_image_13.png",
+    "pics/2024-05-06-onlineColabTools_image_31.png",
     "README.md",
-    "pics/2024-05-06-onlineColabTools_image_23.png",
+    "pics/2024-05-06-onlineColabTools_image_33.png",
     "pics/tmp1714985087367_2024-05-06-onlineColabTools_image_23.png",
     "pics/tmp1714985044704_2024-05-06-onlineColabTools_image_23.png",
     "pics/tmp1714985020743_2024-05-06-onlineColabTools_image_23.png",
-    "pics/Pasted image 20240506104319.png",
-    "pics/2024-05-06-onlineColabTools_image_4.png",
-    "pics/2024-05-06-onlineColabTools_image_3.png",
-    "pics/tmp1714984821945_2024-05-06-onlineColabTools_image_3.png",
-    "pics/2024-05-06-onlineColabTools_image_28.png",
-    "pics/2024-05-06-onlineColabTools_image_2.png",
     "_posts/2023-11-10-qgis.md",
     "_posts/2019-08-07-geojson-editor.md",
     "_posts/2019-11-18-linklist-web-tools.md",
@@ -182,8 +185,6 @@
     "_posts/2024-02-29-diy-llm-studio.md",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
-    "_posts/2023-11-03-yacy-search-local.md",
-    "_posts/2020-09-18-Data-Analytics-Platforms.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
