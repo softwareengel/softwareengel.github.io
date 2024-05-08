@@ -235,13 +235,22 @@ Wand "1..*"---"farbe" Farbe
 ## BPMN Suites
 
 ### Signavio - Academic  
+
 ![](../pics/2024-05-06-onlineColabTools_image_31.png)
 
+
+#### Beispiel BPMN Token 
 ![](../pics/2024-05-06-onlineColabTools_image_32.png)
 
+
+#### Beispiel EPK
 ![](../pics/2024-05-06-onlineColabTools_image_33.png)
 
+#### Beispiel UML Klassendiagramm 
+
 ![](../pics/2024-05-06-onlineColabTools_image_34.png)
+
+#### Beispiel UML Usecase Diagramm 
 
 ![](../pics/2024-05-06-onlineColabTools_image_35.png)
 
@@ -262,9 +271,10 @@ Wand "1..*"---"farbe" Farbe
 
 ![](../pics/2024-05-06-onlineColabTools_image_38.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_38.png)
-
 ![](../pics/2024-05-06-onlineColabTools_image_39.png)
+
+
+![](../pics/2024-05-06-onlineColabTools_image_40.png)
 
 
 Testinstanz: 
@@ -279,7 +289,6 @@ Sites That Run Etherpad:
 
 <https://de.m.wikipedia.org/wiki/Etherpad>
 
-
 ## Office - Word - Excel - Powerpoint 
 
 ### Google Documents 
@@ -288,15 +297,18 @@ Sites That Run Etherpad:
 
 ### CryptPad (ohne Anmeldung) 
 
-![](../pics/2024-05-06-onlineColabTools_image_40.png)
-
 ![](../pics/2024-05-06-onlineColabTools_image_41.png)
 
 ![](../pics/2024-05-06-onlineColabTools_image_42.png)
+#### Beispiel Multiuser - Whiteboard 
 
 ![](../pics/2024-05-06-onlineColabTools_image_43.png)
 
+
+
 ![](../pics/2024-05-06-onlineColabTools_image_44.png)
+
+![](../pics/2024-05-06-onlineColabTools_image_45.png)
 
 ## Online Feedback 
 
@@ -306,7 +318,7 @@ Sites That Run Etherpad:
 ### Padlet - 
 ![](../pics/2024-05-06-onlineColabTools_image_37.png)
 
-![](../pics/2024-05-06-onlineColabTools_image_45.png)
+![](../pics/2024-05-06-onlineColabTools_image_46.png)
 
 <https://padlet.com/dashboard/gallery/all>
 
@@ -314,9 +326,14 @@ Sites That Run Etherpad:
 
 ### Jira - Confluence 
 
-![](../pics/2024-05-06-onlineColabTools_image_46.png)
+#### Beispiel Zeitleiste Gantt 
 
 ![](../pics/2024-05-06-onlineColabTools_image_47.png)
 
+#### Beispiel Kanban Board 
+![](../pics/2024-05-06-onlineColabTools_image_48.png)
+
 
 ![](../pics/tmp1715176390104_2024-05-06-onlineColabTools_image_39.png)
+
+![](../pics/2024-05-06-onlineColabTools_image_49.png)
