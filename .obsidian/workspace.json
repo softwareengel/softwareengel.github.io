@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd6e7c2612280eb",
+        "id": "375c90ecbd31085d",
         "type": "tabs",
         "children": [
           {
-            "id": "cf92f1a15f757b11",
+            "id": "9bdbabafc9bb764d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Etherpad",
+                "query": "tag:visulalisation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +139,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf92f1a15f757b11",
+  "active": "9bdbabafc9bb764d",
   "lastOpenFiles": [
+    "_posts/2020-11-22-graph-visualisierung.md",
+    "404.md",
+    "tags.md",
+    "about.md",
+    "_posts/tmp.md",
     "pics/tmp1714984082216_2024-05-06-onlineColabTools_image_18.png",
     "pics/tmp1714982238966_2024-05-06-onlineColabTools_image_6.png",
     "pics/tmp1714037001616_2022-09-23-bpmn_image_24.png",
@@ -152,7 +157,6 @@
     "pics/2024-05-06-onlineColabTools_image_49.png",
     "pics/2024-05-06-onlineColabTools_image_20.png",
     "pics/2024-05-06-onlineColabTools_image_19.png",
-    "pics/2024-05-06-onlineColabTools_image_23.png",
     "_posts/2024-01-15-turing_way.md",
     "_posts/2024-01-19-autonomer-werstoffhof.md",
     "README.md",
@@ -173,10 +177,6 @@
     "_posts/2022-09-23-bpmn-Tools.md",
     "_posts/2024-04-19-etl-compare.md",
     "_posts/2024-02-21-xml-data-analsyis.md",
-    "_posts/2024-02-20-obsidian.md",
-    "_posts/2024-02-29-diy-llm-studio.md",
-    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
