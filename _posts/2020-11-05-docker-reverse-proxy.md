@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Docker Nginx Reverse Proxy 
 categories: [Docker, Nginx, Reverse Proxy]
