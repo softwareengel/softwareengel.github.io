@@ -11,8 +11,12 @@
             "id": "cad0caf0891287a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-17-html5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-05-17-html5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-05-17-html5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-05-17-html5.md"
+              }
             }
           }
         ],
@@ -152,7 +160,7 @@
     "pics/2024-05-17-win_wsl_gui_image_4_20240517160241.png",
     "pics/2024-05-17-win_wsl_gui_image_3_20240517160241.png",
     "pics/2024-05-17-win_wsl_gui_image_2_20240517160241.png",
-    "pics/2024-05-17-html5_image_1_20240517160232.png",
+    "pics/2024-05-17-html5_image_1_20240517164020.png",
     "_posts/2022-11-01-notes11.md",
     "_posts/2020-11-05-docker-reverse-proxy.md",
     "_posts/2021-08-31-bootstrap-ui-templates.md",
