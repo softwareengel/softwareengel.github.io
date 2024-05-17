@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-17.md",
+                "file": "_posts/2024-05-17_win_wsl_gui.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-17.md",
+                "file": "_posts/2024-05-17_win_wsl_gui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-17.md",
+                "file": "_posts/2024-05-17_win_wsl_gui.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-17.md"
+                "file": "_posts/2024-05-17_win_wsl_gui.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "35f07dd0c5acc88b",
   "lastOpenFiles": [
+    "pics/2024-05-17_win_wsl_gui_image_1_20240517094000.png",
+    "pics/2024-05-17_win_wsl_gui_image_4_20240517094000.png",
+    "pics/2024-05-17_win_wsl_gui_image_3_20240517094000.png",
+    "pics/2024-05-17_win_wsl_gui_image_2_20240517094000.png",
+    "_posts/2024-05-17_html5.md",
+    "_posts/2024-05-17_win_wsl_gui.md",
     "pics/2024-05-17_image_1_20240517092227.png",
-    "_posts/2024-05-17.md",
     "_posts/Untitled.md",
     "_posts/2022-11-01-notes11.md",
     "_posts/2020-11-05-docker-reverse-proxy.md",
@@ -166,11 +171,7 @@
     "pics/tmp1714037001616_2022-09-23-bpmn_image_24.png",
     "pics/tmp1714982692830_2024-05-06-onlineColabTools_image_9.png",
     "pics/tmp1714982719035_2024-05-06-onlineColabTools_image_12.png",
-    "pics/tmp1714984821945_2024-05-06-onlineColabTools_image_3.png",
     "_posts/2024-05-06-onlineColabTools.md",
-    "pics/2024-05-06-onlineColabTools_image_39.png",
-    "pics/2024-05-06-onlineColabTools_image_49.png",
-    "pics/2024-05-06-onlineColabTools_image_20.png",
     "_posts/2024-01-15-turing_way.md",
     "_posts/2024-01-19-autonomer-werstoffhof.md",
     "README.md",
@@ -184,7 +185,6 @@
     "_posts/2023-12-07-ide-hacks.md",
     "_posts/2023-09-28-python-wasm.md",
     "_posts/2023-02-28-notes-02-2023.md",
-    "_posts/2009-04-29-spot-serviceengineering.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
