@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-17-html5.md",
+                "file": "_posts/2024-05-17-jekyll-themes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jeky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-17-html5.md",
+                "file": "_posts/2024-05-17-jekyll-themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-17-html5.md",
+                "file": "_posts/2024-05-17-jekyll-themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-17-html5.md"
+                "file": "_posts/2024-05-17-jekyll-themes.md"
               }
             }
           }
@@ -149,8 +150,15 @@
   },
   "active": "cad0caf0891287a4",
   "lastOpenFiles": [
-    "_posts/2024-05-17-win_wsl_gui.md",
+    "pics/2024-05-17-jekyll-themes_image_1_20240517170206.png",
+    "pics/2024-05-17-jekyll-themes_image_3_20240517170206.png",
+    "pics/2024-05-17-jekyll-themes_image_2_20240517170206.png",
+    "_posts/2014-03-03-Hello-World.md",
+    "_posts/2024-05-17-jekyll-themes.md",
+    "_posts/2023-06-21-github-jekyll-themes.md",
+    "_posts/2021-08-12-wordle-tag-cloud.md",
     "_posts/2024-05-17-html5.md",
+    "_posts/2024-05-17-win_wsl_gui.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
     "README.md",
     "_posts/2024-05-06-onlineColabTools.md",
@@ -171,20 +179,13 @@
     "about.md",
     "pics/tmp1714984082216_2024-05-06-onlineColabTools_image_18.png",
     "pics/tmp1714982238966_2024-05-06-onlineColabTools_image_6.png",
-    "pics/tmp1714037001616_2022-09-23-bpmn_image_24.png",
-    "pics/tmp1714982692830_2024-05-06-onlineColabTools_image_9.png",
     "_posts/2024-01-15-turing_way.md",
     "_posts/2024-01-19-autonomer-werstoffhof.md",
     "_posts/2023-11-10-qgis.md",
     "_posts/2019-08-07-geojson-editor.md",
     "_posts/2019-11-18-linklist-web-tools.md",
-    "_posts/2021-08-12-wordle-tag-cloud.md",
     "_posts/2020-01-21-big-data-eco-systems.md",
     "_posts/2020-01-06-open-data-api-oss-soda-ckan.md",
-    "_posts/2023-10-30-plantuml.md",
-    "_posts/2023-12-07-ide-hacks.md",
-    "_posts/2023-09-28-python-wasm.md",
-    "_posts/2023-02-28-notes-02-2023.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
