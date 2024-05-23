@@ -22,3 +22,5 @@ _posts/2023-02-28-notes-02-2023.md
 /src/2023_06_16/*.key
 /.obsidian
 .obsidian/workspace.json
+filtered_emails.txt
+src/2024_05_23_emailcontentFilter/credentials.txt
