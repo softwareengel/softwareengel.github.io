@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,8 +137,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81601233deae63b8",
+  "active": "b6cb38d8da733597",
   "lastOpenFiles": [
+    "pis/20230706172109_knime_wf.png",
+    "src/2024_05_23_emailcontentFilter/readEmails_Main02.py",
+    "src/2024_05_23_emailcontentFilter/readEmails_Main.py",
+    "src/2024_05_23_emailcontentFilter",
     "_posts/2020-09-18-Data-Analytics-Platforms.md",
     "pics/20230706172109_knime_wf.png",
     "pics/2019-08-07-geojson-editor_IMG-20240308135604541.png",
@@ -176,15 +179,11 @@
     "_posts/2024-02-20-obsidian.md",
     "_posts/2024-02-29-diy-llm-studio.md",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
     "mov/2019-07-22_12-15-32.flv.webm",
-    "pics/2019-08-07-geojson-editor",
-    "pics/_posts/2019-08-07-geojson-editor",
-    "pics/_posts",
-    "_template"
+    "pics/2019-08-07-geojson-editor"
   ]
 }
