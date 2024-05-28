@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-28_ki_tools.md",
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 524.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-28_ki_tools.md",
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-28_ki_tools.md",
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-28_ki_tools.md"
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md"
               }
             }
           }
@@ -146,13 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "565310cd1e75fa57",
+  "active": "495689b11f515e3f",
   "lastOpenFiles": [
+    "_posts/2024-04-14-flipper.md",
+    "_posts/2024-04-19-etl-compare.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-05-28-ki_tools.md",
+    "_posts/image.png",
+    "_posts/logo_engels_4P.jpg",
+    "_posts/2024-05-28.md",
     "pics/Pasted image 20240528143615.png",
     "_posts/Untitled.md",
     "_posts/2024-02-08-logo-generation.md",
-    "_posts/2024-05-28.md",
-    "_posts/2024-05-28_ki_tools.md",
     "pics/Clipboard_05-28-2024_01.jpg",
     "pics/Pasted image 20240528142439.png",
     "pics/Pasted image 20240528142356.png",
@@ -161,16 +166,12 @@
     "pics/image-1.png",
     "pics/e1840d70-b4f2-47b4-bc95-6324875affc1.webp",
     "pics/2b5e5056-8d3f-4fbf-ab9b-37413a136f69.webp",
-    "pics/514cafe4-09ec-432c-96d5-5b3f034ad7b0.webp",
-    "pics/5b5566b6-2f92-45c7-a1f8-9db493baa293.webp",
-    "pics/eca3f910-492f-4ede-95d5-eaf62d7936c8.webp",
     "_posts/2001-05-05-Fundstück Logo 2001.md",
     "src/2024_05_23_emailcontentFilter/readEmails_Main02.py",
     "src/2024_05_23_emailcontentFilter/readEmails_Main.py",
     "src/2024_05_23_emailcontentFilter",
     "_posts/2020-09-18-Data-Analytics-Platforms.md",
     "pis",
-    "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-01-15-turing_way.md",
     "_posts/2024-01-19-autonomer-werstoffhof.md",
     "README.md",
@@ -187,7 +188,6 @@
     "_posts/2023-02-28-notes-02-2023.md",
     "_posts/2009-04-29-spot-serviceengineering.md",
     "_posts/2005-06-06-vaplan-veranstaltungsplaner.md",
-    "_posts/2022-09-23-bpmn-Tools.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
