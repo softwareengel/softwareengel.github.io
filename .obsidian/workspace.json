@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4a90c8f651f505e",
+        "id": "67f853a4e148bedb",
         "type": "tabs",
         "children": [
           {
-            "id": "565310cd1e75fa57",
+            "id": "872636760bad85b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-28-Prompts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 274.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-28-Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-28-Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-05-28-Prompts.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "565310cd1e75fa57",
+  "active": "872636760bad85b2",
   "lastOpenFiles": [
+    "_posts/2024-05-17-html5.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-05-17-jekyll-themes.md",
+    "_posts/2024-05-17-win_wsl_gui.md",
+    "_posts/2024-05-28-ki_tools.md",
+    "_posts/2024-05-28-Prompts.md",
     "pics/DALL·E 2024-05-28 15.09.48 - A high-resolution, highly detailed pop art style desktop wallpaper depicting a tranquil natural landscape at sunrise. The scene features a calm lake r.webp",
     "pics/5f9e53a6-2a3b-42f3-a17a-44eb2b1cfecf.webp",
     "pics/Pasted image 20240528150450.png",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
-    "_posts/2024-05-28-Prompts.md",
     "_posts/2024-04-14-flipper.md",
     "_posts/2024-04-19-etl-compare.md",
-    "_posts/2024-05-06-onlineColabTools.md",
-    "_posts/2024-05-28-ki_tools.md",
     "_posts/image.png",
     "_posts/logo_engels_4P.jpg",
     "pics/Pasted image 20240528143615.png",
@@ -167,7 +162,6 @@
     "pics/Pasted image 20240528142356.png",
     "pics/Pasted image 20240528142116.png",
     "_posts/2023-11-30-ki-update.md",
-    "pics/image-1.png",
     "_posts/2001-05-05-Fundstück Logo 2001.md",
     "src/2024_05_23_emailcontentFilter/readEmails_Main02.py",
     "src/2024_05_23_emailcontentFilter/readEmails_Main.py",
@@ -186,8 +180,6 @@
     "_posts/2020-01-06-open-data-api-oss-soda-ckan.md",
     "_posts/2023-10-30-plantuml.md",
     "_posts/2023-12-07-ide-hacks.md",
-    "_posts/2023-09-28-python-wasm.md",
-    "_posts/2023-02-28-notes-02-2023.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
