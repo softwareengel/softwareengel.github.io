@@ -2,8 +2,9 @@
 layout: post
 title: Jekyll - Themes - Minimal Mistakes
 categories: 
-tags:[ jekyll, theme]
+tags: [jekyll, theme]
 ---
+
 ![](../pics/2024-05-17-jekyll-themes_image_1_20240517170206.png)
 
 # Jekyll - Themes - Minimal Mistakes
