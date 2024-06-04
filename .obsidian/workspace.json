@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-04-ReifegradCheck.md",
+                "file": "_posts/2024-05-17-jekyll-themes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-04-ReifegradCheck.md",
+                "file": "_posts/2024-05-17-jekyll-themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-04-ReifegradCheck.md",
+                "file": "_posts/2024-05-17-jekyll-themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-04-ReifegradCheck.md"
+                "file": "_posts/2024-05-17-jekyll-themes.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,28 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "495689b11f515e3f",
+  "active": "8a6f7cf7b5ae94d4",
   "lastOpenFiles": [
+    "_posts/2023-11-22-raspi-airgeddon.md",
+    "_posts/2023-11-16-entsorgungsmeldung.md",
+    "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md",
+    "_posts/2023-11-30-ki-update.md",
+    "_posts/2023-12-06-ki-hacks.md",
+    "_posts/2023-12-07_phind.md",
+    "_posts/2023-12-07-ide-hacks.md",
+    "_posts/2023-12-09_superduper.md",
+    "_posts/2023-12-22-powerpoint-shortcuts.md",
+    "_posts/2024-01-15-turing_way.md",
+    "_posts/2024-01-19-autonomer-werstoffhof.md",
+    "_posts/2024-01-20-raspiCar.md",
+    "_posts/2024-02-08-logo-generation.md",
+    "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+    "_posts/2024-02-15-surface888.md",
+    "_posts/2024-02-20-obsidian.md",
+    "pics/2024-02-20-obsidian_image_2.png",
+    "_posts/2024-02-21-xml-data-analsyis.md",
+    "_posts/2024-02-29-diy-llm-studio.md",
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+    "_posts/2024-03-16-picar-cam.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md",
+    "_posts/2024-04-14-flipper.md",
+    "_posts/2024-04-19-etl-compare.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-05-17-html5.md",
     "_posts/2024-06-04-ReifegradCheck.md",
     "pics/Pasted image 20240604171122.png",
-    "_posts/2024-05-28-Prompts.md",
     "pics/Pasted image 20240604134545.png",
-    "_posts/2024-05-06-onlineColabTools.md",
     "pics/Pasted image 20240603190728.png",
-    "_posts/2024-04-14-flipper.md",
     "pics/Pasted image 20240603145050.png",
-    "_posts/2024-05-17-html5.md",
     "pics/Pasted image 20240603144858.png",
-    "_posts/2024-05-28-ki_tools.md",
-    "categories.md",
-    "tags.md",
-    "404.md",
-    "about.md",
     "images/config.png",
     "ip_histogram.png",
     "images/avatar-softwareengel-Pro.Engels.png",
     "images/404.jpg",
-    "images/avatar.png",
     "mov/2021-03-03-09-16-50-randomwheelpicker.mp4",
     "mov/2022-02-17-20-40-39-timeseries-space-map-corelation-diagram-grafana.mp4",
     "mov/2023-07-06-13-01-29.mp4",
@@ -177,21 +193,6 @@
     "mov/20200720 1624-1-jsprit Java Routing - TODO-VIDEO-CROP-TOP-171.mp4",
     "mov/20240120_150615.mp4",
     "mov/20240120_152057.mp4",
-    "mov/20240120_155714.mp4",
-    "_posts/2024-05-17-win_wsl_gui.md",
-    "_posts/2024-05-17-jekyll-themes.md",
-    "README.md",
-    "_posts/2024-04-19-etl-compare.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md",
-    "_posts/Untitled.md",
-    "_posts/2024-02-08-logo-generation.md",
-    "_posts/2023-11-30-ki-update.md",
-    "_posts/2001-05-05-Fundstück Logo 2001.md",
-    "_posts/2020-09-18-Data-Analytics-Platforms.md",
-    "_posts/2024-01-15-turing_way.md",
-    "_posts/2024-01-19-autonomer-werstoffhof.md",
-    "_posts/2023-11-10-qgis.md",
-    "_posts/2019-08-07-geojson-editor.md",
-    "_posts/2019-11-18-linklist-web-tools.md"
+    "mov/20240120_155714.mp4"
   ]
 }

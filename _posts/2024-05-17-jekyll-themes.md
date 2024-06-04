@@ -16,6 +16,7 @@ tags: [jekyll, theme]
 ![](../pics/2024-05-17-jekyll-themes_image_3_20240517170206.png)
 ## Links 
 
-https://mmistakes.github.io/minimal-mistakes/ 
+<https://mmistakes.github.io/minimal-mistakes/> 
 
-https://mmistakes.github.io/minimal-mistakes/docs/structure/,
+<https://mmistakes.github.io/minimal-mistakes/docs/structure/>
+

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Online-Colaborations-Tools
-categories: 
-tags: [ Colab, Web, Webflow, Tools, WebUI]
-lastupdate: 
+categories:
+  - Modelling
+tags:
+  - Colab
+  - Web
+  - Webflow
+  - Tools
+  - WebUI
 date: 2024-05-06
 ---
 

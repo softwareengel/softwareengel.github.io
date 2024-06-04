@@ -16,10 +16,10 @@ tags: [Logitech, Squeezebox, Webradio, Raspi, Raspi-OS]
 ## Raspi V2 OS Lite Image 
 
 ![](../pics/2024-04-05-raspi-logitech-media-server_image_3_20240517094558.png)
-https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-32-bit
+<https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-32-bit>
 ## Rufus Portable 
 
-http://rufus.ie/en/
+<http://rufus.ie/en/>
 
 ![](../pics/2024-04-05-raspi-logitech-media-server_image_4_20240517094558.png)
 ## Getting Started 
