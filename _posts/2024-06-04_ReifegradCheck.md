@@ -2,12 +2,11 @@
 layout: post
 title: Digitalisierung Reifegrad Check - online
 categories: 
-tags:
-  - cmm
-  - Reifegrad
-  - Digitalisierung
+tags: [CMM, Reifegrad, Digitalisierung]
 ---
+
 ![](../pics/Pasted%20image%2020240604171122.png)
+
 # Reifegrad Check
 
 

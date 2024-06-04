@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67f853a4e148bedb",
+        "id": "dc11a0077d507790",
         "type": "tabs",
         "children": [
           {
-            "id": "872636760bad85b2",
+            "id": "8a6f7cf7b5ae94d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "872636760bad85b2",
+  "active": "8a6f7cf7b5ae94d4",
   "lastOpenFiles": [
+    "_posts/2024-06-04_ReifegradCheck.md",
     "pics/Pasted image 20240604171122.png",
     "_posts/2024-05-28-Prompts.md",
-    "_posts/2024-06-04_ReifegradCheck.md",
     "pics/Pasted image 20240604134545.png",
     "_posts/2024-05-06-onlineColabTools.md",
     "pics/Pasted image 20240603190728.png",
@@ -168,7 +168,6 @@
     "images/avatar-softwareengel-Pro.Engels.png",
     "images/404.jpg",
     "images/avatar.png",
-    "images/avatar.jpg",
     "mov/2021-03-03-09-16-50-randomwheelpicker.mp4",
     "mov/2022-02-17-20-40-39-timeseries-space-map-corelation-diagram-grafana.mp4",
     "mov/2023-07-06-13-01-29.mp4",
