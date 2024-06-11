@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
+                "file": "_posts/2023-12-07-ide-hacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4311d35e793e4695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-06-11-Online-Coding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 539.5
+    "width": 420.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
+                "file": "_posts/2024-06-11-Online-Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
+                "file": "_posts/2024-06-11-Online-Coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-05-raspi-logitech-media-server.md"
+                "file": "_posts/2024-06-11-Online-Coding.md"
               }
             }
           }
@@ -135,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,28 +160,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af432d3b18c9cd78",
+  "active": "4311d35e793e4695",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "pics/2024-06-11-Online-Coding_image_18.png",
+    "pics/2024-06-11-Online-Coding_image_22.png",
+    "pics/2024-06-11-Online-Coding_image_21.png",
+    "pics/2024-06-11-Online-Coding_image_20.png",
+    "pics/2024-06-11-Online-Coding_image_19.png",
+    "pics/2024-06-11-Online-Coding_image_5.png",
+    "pics/2024-06-11-Online-Coding_image_4.png",
+    "pics/2024-06-11-Online-Coding_image_17.png",
+    "pics/2024-06-11-Online-Coding_image_16.png",
+    "pics/2024-06-11-Online-Coding_image_15.png",
+    "pics/2024-06-11-Online-Coding_image_14.png",
+    "_posts/2023-12-07-ide-hacks.md",
+    "_posts/2024-06-11-Online-Coding.md",
+    "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
+    "conflict-files-obsidian-git.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md.BASE.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md.REMOTE.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md.LOCAL.md",
-    "pics/image-1.png",
-    "pics/eca3f910-492f-4ede-95d5-eaf62d7936c8.webp",
-    "pics/e1840d70-b4f2-47b4-bc95-6324875affc1.webp",
-    "pics/dcd51800-7860-4b83-8ab7-4c5632640a2e.webp",
-    "pics/Pasted image 20240604171122.png",
-    "pics/Pasted image 20240604134545.png",
-    "pics/Pasted image 20240603190728.png",
-    "pics/Pasted image 20240603145050.png",
-    "pics/Pasted image 20240603144858.png",
-    "pics/Pasted image 20240528150450.png",
     "_posts/2024-06-04-ReifegradCheck.md",
     "_posts/2024-05-28-ki_tools.md",
     "_posts/2024-05-28-Prompts.md",
     "_posts/2024-03-16-picar-cam.md",
-    "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-05-24-maxmindGeoIP.md",
     "_posts/2024-05-17-jekyll-themes.md",
     "_posts/2014-03-03-Hello-World.md",
@@ -183,9 +198,6 @@
     "_posts/2022-11-01-notes11.md",
     "_posts/2020-11-05-docker-reverse-proxy.md",
     "_posts/2021-08-31-bootstrap-ui-templates.md",
-    "_posts/2020-11-22-graph-visualisierung.md",
-    "404.md",
-    "tags.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
