@@ -6,9 +6,7 @@ categories:
   - WebApp
   - Coding
   - Python
-tags: 
-lastupdate: 
-date:
+tags:
 ---
 
 
