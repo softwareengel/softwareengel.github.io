@@ -4,7 +4,6 @@ title: maxmind GeoIP
 categories: 
 tags:
   - geoIP
-lastupdate:
 ---
 
 # Maxmind GeoIP
