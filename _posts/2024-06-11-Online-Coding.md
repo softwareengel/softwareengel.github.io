@@ -15,7 +15,7 @@ date:
 # Online Python - Coding 
 
 - python console: [2024-06-11-Online-Coding](#pyodide.org%20-%20console), [2024-06-11-Online-Coding](#Futur%20Coder)
-- python - file - interpreter  [2024-06-11-Online-Coding](#OnlineGDB) ,[2024-06-11-Online-Coding](#Futur%20Coder)
+- python - file - interpreter  [2024-06-11-Online-Coding](#OnlineGDB), [2024-06-11-Online-Coding](#Futur%20Coder)
 - python - Jupyter Notebook [2024-06-11-Online-Coding](#Jupyterlite%20latest%20static)
 
 ## pyodide.org - console
