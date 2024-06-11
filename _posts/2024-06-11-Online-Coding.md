@@ -18,6 +18,7 @@ date:
 - python - file - interpreter  [2024-06-11-Online-Coding](#OnlineGDB), [2024-06-11-Online-Coding](#Futur%20Coder)
 - python - Jupyter Notebook [2024-06-11-Online-Coding](#Jupyterlite%20latest%20static)
 
+- (Offline) python Installation: https://www.python.org/downloads/ [2024-06-11-Online-Coding](#offline%20-%20install%20python)
 ## pyodide.org - console
 
 ![](../pics/2024-06-11-Online-Coding_image_1.png)
@@ -98,7 +99,7 @@ https://jupyter.org/try-jupyter/lab/index.html
 https://jupyterlite.github.io/demo/lab/index.html
 ## Jupyterlite latest static
 
-https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
+
 https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
 ![](../pics/2024-06-11-Online-Coding_image_18.png)
 
@@ -124,3 +125,10 @@ https://www.online-python.com/
 ![](../pics/2024-06-11-Online-Coding_image_22.png)
 
 https://www.w3schools.com/python/trypython.asp?filename=demo_default
+
+# offline - install python 
+
+![](../pics/2024-06-11-Online-Coding_image_23.png)
+
+https://www.python.org/downloads/
+
