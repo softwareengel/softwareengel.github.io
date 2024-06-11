@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "611cbf553b1bd476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-05-raspi-logitech-media-server.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,7 +161,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af432d3b18c9cd78",
+  "active": "611cbf553b1bd476",
   "lastOpenFiles": [
     "_posts/2024-04-05-raspi-logitech-media-server.md",
     "conflict-files-obsidian-git.md",
