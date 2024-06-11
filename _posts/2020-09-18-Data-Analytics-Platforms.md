@@ -45,6 +45,6 @@ Diese Plattformen sind beliebt für ihre Fähigkeiten zur Datenintegration, Date
 
 <https://www.knime.com/knime-analytics-platform>
 
-![](../pis/20230706172109_knime_wf.png)
+![](../pics/20230706172109_knime_wf.png)
 
 ![2020 09 18 Knime](../pic/2020-09-18-knime.png)

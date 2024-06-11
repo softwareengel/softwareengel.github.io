@@ -24,5 +24,6 @@ Set german keybord layout
 ``` bash
  setxkbmap -layout <countrycode>
  ```
+ 
  See: <https://mayadevbe.me/posts/linux_keyboard_layout/>
- #
+ 

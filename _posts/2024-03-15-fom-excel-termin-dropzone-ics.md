@@ -7,10 +7,12 @@ tags: [Excel, Fom, Dropzone, Calendar]
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_1.png)
 # Konvertiere FOM Excel in ICS und Google Kalender import csv
 
+- update 2024-05: neue Version (ab 2024-05) wird auch schon unterstützt (danke an MG)  
+
 Webbasiertes Tool zum Konvertieren der FOM - Excel - Termin - Dateien (.xlsx) zu Kalender-Daten - nutzbar für Apple IoS-, Android-, Linux- und Windows-Systemen
 
 Unterstützte Formate :
-- ICS - iCAL-Kalender 
+- ICS - iCal-Kalender 
 - CSV- Google - Import - Kalender 
 
 ## Webseite mit Dropzone zum Ablegen der Termin-xlsx-Datei

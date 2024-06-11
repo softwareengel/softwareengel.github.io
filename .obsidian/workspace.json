@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "252fb1f7bd873cc8",
+        "id": "cb1856f2b53f0a15",
         "type": "tabs",
         "children": [
           {
-            "id": "cad0caf0891287a4",
+            "id": "af432d3b18c9cd78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-17-jekyll-themes.md",
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jeky",
+                "query": "medias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-17-jekyll-themes.md",
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-17-jekyll-themes.md",
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-17-jekyll-themes.md"
+                "file": "_posts/2024-04-05-raspi-logitech-media-server.md"
               }
             }
           }
@@ -148,44 +148,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cad0caf0891287a4",
+  "active": "af432d3b18c9cd78",
   "lastOpenFiles": [
-    "pics/2024-05-17-jekyll-themes_image_1_20240517170206.png",
-    "pics/2024-05-17-jekyll-themes_image_3_20240517170206.png",
-    "pics/2024-05-17-jekyll-themes_image_2_20240517170206.png",
-    "_posts/2014-03-03-Hello-World.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md",
+    "conflict-files-obsidian-git.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md.BASE.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md.REMOTE.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md.LOCAL.md",
+    "pics/image-1.png",
+    "pics/eca3f910-492f-4ede-95d5-eaf62d7936c8.webp",
+    "pics/e1840d70-b4f2-47b4-bc95-6324875affc1.webp",
+    "pics/dcd51800-7860-4b83-8ab7-4c5632640a2e.webp",
+    "pics/Pasted image 20240604171122.png",
+    "pics/Pasted image 20240604134545.png",
+    "pics/Pasted image 20240603190728.png",
+    "pics/Pasted image 20240603145050.png",
+    "pics/Pasted image 20240603144858.png",
+    "pics/Pasted image 20240528150450.png",
+    "_posts/2024-06-04-ReifegradCheck.md",
+    "_posts/2024-05-28-ki_tools.md",
+    "_posts/2024-05-28-Prompts.md",
+    "_posts/2024-03-16-picar-cam.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-05-24-maxmindGeoIP.md",
     "_posts/2024-05-17-jekyll-themes.md",
+    "_posts/2014-03-03-Hello-World.md",
     "_posts/2023-06-21-github-jekyll-themes.md",
     "_posts/2021-08-12-wordle-tag-cloud.md",
     "_posts/2024-05-17-html5.md",
     "_posts/2024-05-17-win_wsl_gui.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md",
     "README.md",
-    "_posts/2024-05-06-onlineColabTools.md",
     "_posts/tmp.md",
     "_posts/Untitled.md",
-    "pics/2024-05-17-win_wsl_gui_image_1_20240517160241.png",
-    "pics/2024-05-17-win_wsl_gui_image_4_20240517160241.png",
-    "pics/2024-05-17-win_wsl_gui_image_3_20240517160241.png",
-    "pics/2024-05-17-win_wsl_gui_image_2_20240517160241.png",
-    "pics/2024-05-17-html5_image_1_20240517164020.png",
     "_posts/2022-11-01-notes11.md",
     "_posts/2020-11-05-docker-reverse-proxy.md",
     "_posts/2021-08-31-bootstrap-ui-templates.md",
-    "pics/2021-08-31-bootstrap-ui-templates_image_1_20240517091527.png",
     "_posts/2020-11-22-graph-visualisierung.md",
     "404.md",
     "tags.md",
-    "about.md",
-    "pics/tmp1714984082216_2024-05-06-onlineColabTools_image_18.png",
-    "pics/tmp1714982238966_2024-05-06-onlineColabTools_image_6.png",
-    "_posts/2024-01-15-turing_way.md",
-    "_posts/2024-01-19-autonomer-werstoffhof.md",
-    "_posts/2023-11-10-qgis.md",
-    "_posts/2019-08-07-geojson-editor.md",
-    "_posts/2019-11-18-linklist-web-tools.md",
-    "_posts/2020-01-21-big-data-eco-systems.md",
-    "_posts/2020-01-06-open-data-api-oss-soda-ckan.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",

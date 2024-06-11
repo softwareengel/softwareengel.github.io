@@ -15,5 +15,6 @@ SuperDuperDB is an open-source framework with the mission to bring AI to the dat
 ![](../pics/2023-12-09_superduper_image_1.png)
 
 
-https://github.com/SuperDuperDB/superduperdb
+<https://github.com/SuperDuperDB/superduperdb>
+
 ![](../pics/2023-12-09_superduper_image_2.png)
