@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 title: OBS Studio - Open Brodcast Studio 
 categories: [OBS, Video, Broadcast]
 tags: [OBS, Video, Broadcast]
---- 
+---
 
-![](../pic/2021-01-28-12-32-50.png)
+![](../pics/2020-03-11-obs-studio_image_1.png)
 
 Video / Screen und Audio Bradcasting in Video - File oder Live Stream 
 
@@ -17,13 +17,13 @@ Video / Screen und Audio Broadcasting in Video - File oder in Live Streming Plat
 
 # OBS Install Settings 
 - für Aufnehmen optimieruren 
-![](../pic/2021-01-28-13-16-53-obs-settings.png)
+![](../pics/2020-03-11-obs-studio_image_2.png)
 - Anzeige 1920x1080 , 30 fps
-![](../pic/2021-01-28-13-17-00-obs-settings.png)
+![](../pics/2020-03-11-obs-studio_image_3.png)
 - Ausgabe 
-![](../pic/2021-01-28-13-17-14-obs-testergebnisse.png)
+![](../pics/2020-03-11-obs-studio_image_4.png)
 
-![](../pic/2021-01-28-13-18-49-mp4.png)
+![](../pics/2020-03-11-obs-studio_image_5.png)
 
 # Virtual Cam 
  
@@ -31,22 +31,22 @@ Virtuelle Kamera für Zoom und Teams, funktioniert bei WebEx nicht
 
 <https://github.com/Fenrirthviti/obs-virtual-cam/releases>
 
-![](../pic/2021-01-28-obs-virtualcamClipboard01.png)
+![](../pics/2020-03-11-obs-studio_image_6.png)
 
 Problems ... use OBS-Studio-26.1.1-Full-Installer-x64 instead : Virual Can ist working ...
 
 # Screen Capute Problem 
 - Settungs für Desktop Grafikkarte für OBS.exe auf integrierte Grafikkarte Setzen (bei Windows Grafikeinstellungen - Grund bei Nvidia-Control )
   
-![](../pic/2021-01-28-12-24-26.png)
+![](../pics/2020-03-11-obs-studio_image_7.png)
 
-![](../pic/2021-01-28-12-25-38.png)
+![](../pics/2020-03-11-obs-studio_image_8.png)
 
 
 # Video Cam Filter 
 - GreenScreen Effekt 
 
-![](../pic/2021-01-28-12-32-50.png)
+![](../pics/2020-03-11-obs-studio_image_1.png)
 
 - Zuschneiden / Pad 
 
