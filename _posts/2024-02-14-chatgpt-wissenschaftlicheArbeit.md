@@ -1,14 +1,23 @@
 ---
 layout: post
-title: OpenAI Eigener Wissenschaftlicher Bericht GPT, 1-Stop - Wissenschftlicher Bericht 
-categories: [openAI, GPT, Text,Generation]
-tags: [openAI, TExt, Generation]
+title: OpenAI Eigener Wissenschaftlicher Bericht GPT, 0-Shot - Wissenschaftlicher Bericht
+categories:
+  - openAI
+  - GPT
+  - Text
+  - Generation
+  - GPT-Store
+tags:
+  - openAI
+  - Text
+  - Generation
+  - ch
 ---
 ![](../pics/2024-02-14-chatgpt-wissenschaftlicheArbeit_image_1.png)
 
-# OpenAI: Eigener Wissenschaftlicher Bericht GPT, 1-Stop - Wissenschftlicher Bericht 
+# OpenAI: Eigener Wissenschaftlicher Bericht GPT, 0-Stop - Wissenschftlicher Bericht im GPT Store
 
-autonomer betriebshof mit Bezahlung und bürgerfreundlichen öffnungszeiten sowie Tor Steuerung 
+	autonomer betriebshof mit Bezahlung und bürgerfreundlichen öffnungszeiten sowie Tor Steuerung 
 
 
 ![](../pics/2024-02-14-chatgpt-wissenschaftlicheArbeit_image_2.png)
