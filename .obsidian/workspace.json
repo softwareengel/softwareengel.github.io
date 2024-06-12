@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52e6e6e492b4a86c",
+        "id": "2d38620e4c8742be",
         "type": "tabs",
         "children": [
           {
-            "id": "40d6cdc169cfe295",
+            "id": "ab2f5f1c41e1f2e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40d6cdc169cfe295",
+  "active": "ab2f5f1c41e1f2e4",
   "lastOpenFiles": [
+    "_template/sse-template.md.md",
+    "_posts/2024-06-12-x32dbg-x63dbg.md",
     "pics/2024-06-12-x32dbg-x63dbg_image_3.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_2.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_1.png",
@@ -157,7 +159,6 @@
     "pics/2024-06-12-x32dbg-x63dbg_image_6.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_5.png",
     "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
-    "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2023-11-30-ki-update.md",
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "pics/2024-06-12-KI-suchmaschinen_image_2.png",
@@ -165,7 +166,6 @@
     "_posts/2024-06-12-DeepL.md",
     "pics/2024-06-12-DeepL_image_1.png",
     "_posts/2024-06-12-kaitai.md",
-    "pics/2024-06-12-kaitai_image_2.png",
     "_posts/2022-12-01-notes_12.md",
     "_posts/2020-03-11-obs-studio.md",
     "_posts/2019-11-18-linklist-web-tools.md",
@@ -173,7 +173,6 @@
     "about.md",
     "_posts/2024-05-24-maxmindGeoIP.md",
     "_posts/2023-12-07-ide-hacks.md",
-    "_template/sse-template.md.md",
     "_posts/2024-06-11-Online-Coding.md",
     "README.md",
     "_posts/2023-11-10-qgis.md",

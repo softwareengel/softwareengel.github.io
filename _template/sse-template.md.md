@@ -3,8 +3,8 @@ layout: post
 title: 
 categories: 
 tags: 
-lastupdate: 
-date:
+lastupdate: {{date}}
+date: {{date}}
 ---
 
 #
