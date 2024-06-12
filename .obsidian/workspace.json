@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+                "file": "_posts/2024-06-12-x32dbg-x63dbg.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+                "file": "_posts/2024-06-12-x32dbg-x63dbg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+                "file": "_posts/2024-06-12-x32dbg-x63dbg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md"
+                "file": "_posts/2024-06-12-x32dbg-x63dbg.md"
               }
             }
           }
@@ -150,6 +149,15 @@
   },
   "active": "40d6cdc169cfe295",
   "lastOpenFiles": [
+    "pics/2024-06-12-x32dbg-x63dbg_image_3.png",
+    "pics/2024-06-12-x32dbg-x63dbg_image_2.png",
+    "pics/2024-06-12-x32dbg-x63dbg_image_1.png",
+    "pics/2024-06-12-x32dbg-x63dbg_image_7.png",
+    "pics/2024-06-12-x32dbg-x63dbg_image_4.png",
+    "pics/2024-06-12-x32dbg-x63dbg_image_6.png",
+    "pics/2024-06-12-x32dbg-x63dbg_image_5.png",
+    "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+    "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2023-11-30-ki-update.md",
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "pics/2024-06-12-KI-suchmaschinen_image_2.png",
@@ -158,8 +166,6 @@
     "pics/2024-06-12-DeepL_image_1.png",
     "_posts/2024-06-12-kaitai.md",
     "pics/2024-06-12-kaitai_image_2.png",
-    "pics/2024-06-12-kaitai_image_1.png",
-    "pics/2024-06-12-kaitai_image_3.png",
     "_posts/2022-12-01-notes_12.md",
     "_posts/2020-03-11-obs-studio.md",
     "_posts/2019-11-18-linklist-web-tools.md",
@@ -171,10 +177,6 @@
     "_posts/2024-06-11-Online-Coding.md",
     "README.md",
     "_posts/2023-11-10-qgis.md",
-    "pics/2024-06-11-Online-Coding_image_23.png",
-    "pics/2024-06-11-Online-Coding_image_18.png",
-    "pics/2024-06-11-Online-Coding_image_22.png",
-    "pics/2024-06-11-Online-Coding_image_21.png",
     "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
     "conflict-files-obsidian-git.md",
@@ -183,9 +185,6 @@
     "_posts/2024-04-05-raspi-logitech-media-server.md.LOCAL.md",
     "_posts/2024-06-04-ReifegradCheck.md",
     "_posts/2024-05-28-ki_tools.md",
-    "_posts/2024-05-28-Prompts.md",
-    "_posts/2024-03-16-picar-cam.md",
-    "_posts/2024-05-17-jekyll-themes.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
