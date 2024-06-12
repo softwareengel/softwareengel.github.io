@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-12-x32dbg-x63dbg.md",
+                "file": "_posts/2024-05-06-onlineColabTools.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wissen",
+                "query": "colab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-12-x32dbg-x63dbg.md",
+                "file": "_posts/2024-05-06-onlineColabTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-12-x32dbg-x63dbg.md",
+                "file": "_posts/2024-05-06-onlineColabTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-12-x32dbg-x63dbg.md"
+                "file": "_posts/2024-05-06-onlineColabTools.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "ab2f5f1c41e1f2e4",
   "lastOpenFiles": [
-    "_template/sse-template.md.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
+    "_template/sse-template.md.md",
     "pics/2024-06-12-x32dbg-x63dbg_image_3.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_2.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_1.png",
