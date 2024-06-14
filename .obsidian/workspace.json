@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb1d55a69fd91c3b",
+        "id": "ecd2de0ee9d1e028",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5e58abb1160df9",
+            "id": "39aa3963a53e9b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,13 +147,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d5e58abb1160df9",
+  "active": "39aa3963a53e9b3d",
   "lastOpenFiles": [
     "pics/2024-06-12-KI-suchmaschinen_image_11.png",
+    "README.md",
+    "_posts/2024-06-12-KI-suchmaschinen.md",
     "_posts/2024-06-12-DeepL.md",
     "pics/2024-06-12-DeepL_image_2.png",
     "_posts/2024-06-12-kaitai.md",
-    "_posts/2024-06-12-KI-suchmaschinen.md",
     "pics/2024-06-12-KI-suchmaschinen_image_1.png",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2024-06-14-screenshot.md",
@@ -164,9 +165,7 @@
     "pics/2024-06-12-KI-suchmaschinen_image_5.png",
     "pics/2024-06-12-KI-suchmaschinen_image_4.png",
     "pics/2024-06-12-KI-suchmaschinen_image_17.png",
-    "pics/2024-06-12-KI-suchmaschinen_image_16.png",
     "_posts/2024-05-06-onlineColabTools.md",
-    "README.md",
     "_template/sse-template.md.md",
     "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
     "_posts/2023-11-30-ki-update.md",

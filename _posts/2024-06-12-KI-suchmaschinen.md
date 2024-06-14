@@ -1,6 +1,6 @@
 ---
 layout: post
-title: uchmaschinen mit KI - Beispiele
+title: Suchmaschinen mit KI - Beispiele
 categories: 
 tags:
   - Suche
