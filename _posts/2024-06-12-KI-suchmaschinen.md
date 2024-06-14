@@ -28,6 +28,7 @@ tags:
 ##  [**Kagi**](https://kagi.com)
     
 ## [**Perplexity**](https://www.perplexity.ai)
-    
+
+![](../pics/2024-06-12-KI-suchmaschinen_image_3.png)
 ## [**You.com**](https://you.com)
 

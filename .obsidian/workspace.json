@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d38620e4c8742be",
+        "id": "eb1d55a69fd91c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2f5f1c41e1f2e4",
+            "id": "5d5e58abb1160df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-06-onlineColabTools.md",
+                "file": "_posts/2024-06-14-screenshot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-06-onlineColabTools.md",
+                "file": "_posts/2024-06-14-screenshot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-06-onlineColabTools.md",
+                "file": "_posts/2024-06-14-screenshot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-06-onlineColabTools.md"
+                "file": "_posts/2024-06-14-screenshot.md"
               }
             }
           }
@@ -147,24 +147,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab2f5f1c41e1f2e4",
+  "active": "5d5e58abb1160df9",
   "lastOpenFiles": [
+    "pics/2024-06-14-screenshot_image_1.png",
+    "pics/2024-06-14-screenshot_image_6.png",
+    "pics/2024-06-14-screenshot_image_5.png",
+    "pics/2024-06-14-screenshot_image_4.png",
+    "pics/2024-06-14-screenshot_image_2.png",
+    "pics/2024-06-14-screenshot_image_3.png",
+    "_posts/2024-06-12-KI-suchmaschinen.md",
+    "_posts/2024-06-14-screenshot.md",
+    "pics/2024-06-12-KI-suchmaschinen_image_3.png",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "README.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_template/sse-template.md.md",
     "pics/2024-06-12-x32dbg-x63dbg_image_3.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_2.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_1.png",
     "pics/2024-06-12-x32dbg-x63dbg_image_7.png",
-    "pics/2024-06-12-x32dbg-x63dbg_image_4.png",
-    "pics/2024-06-12-x32dbg-x63dbg_image_6.png",
-    "pics/2024-06-12-x32dbg-x63dbg_image_5.png",
     "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
     "_posts/2023-11-30-ki-update.md",
-    "_posts/2024-06-12-KI-suchmaschinen.md",
-    "pics/2024-06-12-KI-suchmaschinen_image_2.png",
-    "pics/2024-06-12-KI-suchmaschinen_image_1.png",
     "_posts/2024-06-12-DeepL.md",
-    "pics/2024-06-12-DeepL_image_1.png",
     "_posts/2024-06-12-kaitai.md",
     "_posts/2022-12-01-notes_12.md",
     "_posts/2020-03-11-obs-studio.md",
@@ -174,16 +178,13 @@
     "_posts/2024-05-24-maxmindGeoIP.md",
     "_posts/2023-12-07-ide-hacks.md",
     "_posts/2024-06-11-Online-Coding.md",
-    "README.md",
     "_posts/2023-11-10-qgis.md",
-    "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
     "conflict-files-obsidian-git.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md.BASE.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md.REMOTE.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md.LOCAL.md",
     "_posts/2024-06-04-ReifegradCheck.md",
-    "_posts/2024-05-28-ki_tools.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
