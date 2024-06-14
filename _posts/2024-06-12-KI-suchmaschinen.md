@@ -41,24 +41,27 @@ tags:
 ![](../pics/2024-06-12-KI-suchmaschinen_image_9.png)
 
 ![](../pics/2024-06-12-KI-suchmaschinen_image_10.png)
+### Hotelreservierung 
+![](../pics/2024-06-12-KI-suchmaschinen_image_11.png)
+
 ##  [**Kagi**](https://kagi.com)
 
-![](../pics/2024-06-12-KI-suchmaschinen_image_11.png)
-## [**Perplexity**](https://www.perplexity.ai)
-
 ![](../pics/2024-06-12-KI-suchmaschinen_image_12.png)
-
+## [**Perplexity**](https://www.perplexity.ai)
 
 ![](../pics/2024-06-12-KI-suchmaschinen_image_13.png)
 
 
 ![](../pics/2024-06-12-KI-suchmaschinen_image_14.png)
-## [**You.com**](https://you.com)
+
 
 ![](../pics/2024-06-12-KI-suchmaschinen_image_15.png)
-
+## [**You.com**](https://you.com)
 
 ![](../pics/2024-06-12-KI-suchmaschinen_image_16.png)
+
+
+![](../pics/2024-06-12-KI-suchmaschinen_image_17.png)
 
 
 ##  [**Arc Search**](https://apps.apple.com/us/app/arc-search-find-it-faster/id6472513080)
