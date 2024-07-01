@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-24-chat.md",
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-24-chat.md",
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-24-chat.md",
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-24-chat.md"
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md"
               }
             }
           }
@@ -149,9 +149,20 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
+    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+    "_posts/2024-06-12-x32dbg-x63dbg.md",
+    "_posts/2024-06-14-screenshot.md",
+    "_posts/2024-06-24-chat.md",
+    "_posts/2024-07-01-DIY-LLM-RAG.md",
+    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_3.png",
+    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_2.png",
+    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_4.png",
+    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_1.png",
+    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_5.png",
+    "_posts/Untitled.md",
+    "pics/2024-07-01-DIY-LLM-RAG_image_1.png",
     "README.md",
     "_posts/2024-07-01-linux backup.md",
-    "_posts/2024-06-24-chat.md",
     "pics/2024-06-24-chat_image_2.png",
     "pics/2024-06-24-chat_image_1.png",
     "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
@@ -159,15 +170,7 @@
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "pics/2024-06-12-KI-suchmaschinen_image_11.png",
     "_posts/2024-06-12-DeepL.md",
-    "pics/2024-06-12-DeepL_image_2.png",
     "_posts/2024-06-12-kaitai.md",
-    "pics/2024-06-12-KI-suchmaschinen_image_1.png",
-    "_posts/2024-06-12-x32dbg-x63dbg.md",
-    "_posts/2024-06-14-screenshot.md",
-    "pics/Pasted image 20240614122448.png",
-    "pics/2024-06-12-KI-suchmaschinen_image_13.png",
-    "pics/2024-06-12-KI-suchmaschinen_image_14.png",
-    "pics/2024-06-12-KI-suchmaschinen_image_6.png",
     "_posts/2024-05-06-onlineColabTools.md",
     "_template/sse-template.md.md",
     "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
@@ -181,10 +184,6 @@
     "_posts/2023-12-07-ide-hacks.md",
     "_posts/2024-06-11-Online-Coding.md",
     "_posts/2023-11-10-qgis.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md",
-    "conflict-files-obsidian-git.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md.BASE.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md.REMOTE.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
