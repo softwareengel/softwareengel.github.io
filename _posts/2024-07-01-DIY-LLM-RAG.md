@@ -1,8 +1,13 @@
 ---
 layout: post
-title: 
+title: DIY-LLM-RAG - chat with your Data - DSGVO konform / GDPR compliant
 categories: 
-tags: 
+tags:
+  - DIY
+  - LLM
+  - RAG
+  - VectorDB
+  - Chat
 lastupdate: 2024-07-01
 date: 2024-07-01
 ---
@@ -11,9 +16,9 @@ date: 2024-07-01
 
 - Extract Raw - Text from Source 
 - Learn Vector Database from Text 
-- allow OpenAI more Credits... 
-- code Openai GPT4 client with embedding 
-- code local webui for coat with rag embedded Model 
+- allow OpenAI more Credits... or use local LLM
+- code Openai GPT4 or LLM client with embedding 
+- code local Webui for chat with RAG embedded Model 
 - ask your text for answers 
 - have fun ;-) 
 
