@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hoti-to use OCR Feature in Chatgpt 4o
+title: How-to use OCR Feature in Chat gpt4o
 categories: 
 tags:
   - chatgpt
