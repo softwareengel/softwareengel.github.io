@@ -1,6 +1,6 @@
 ---
 layout: post
-title: search-ai Screenshots Fireshot
+title: How-To Screenshots search-ai  with Fireshot possible?
 categories: 
 tags:
   - WebUI
@@ -9,6 +9,7 @@ tags:
   - Fireshot
   - Tool
   - AddOn
+  - DIY
 lastupdate: 2024-06-14
 date: 2024-06-14
 ---
