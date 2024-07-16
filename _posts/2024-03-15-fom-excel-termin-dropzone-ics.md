@@ -36,7 +36,7 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 
 ## ICS - Import in Kalender (Video - Screencast) 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4">
     <source src="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4" type="video/mp4">
   </video>
 </figure>
@@ -45,10 +45,11 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 
 ## CSV - Import in Google Kalender (Video - Screencast) 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4">
     <source src="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4" type="video/mp4">
   </video>
 </figure>
+
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4)
 
 

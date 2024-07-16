@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-20-obsidian.md",
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "mp4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-20-obsidian.md",
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-20-obsidian.md",
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-20-obsidian.md"
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
+    "_posts/2024-02-20-obsidian.md",
     "_posts/2024-07-02-ocr-feature.md",
     "pics/2024-07-02-ocr-feature_image_1.png",
     "pics/2024-07-02-ocr-feature_image_2.png",
