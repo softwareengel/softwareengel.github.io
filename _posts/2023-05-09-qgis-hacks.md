@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QGis Hacks: Interaktive Analyse-Karte mit Qgis2web 
+title: QGis Hacks - Interaktive Analyse-Karte mit Qgis2web 
 categories:
   - qgis
   - python
