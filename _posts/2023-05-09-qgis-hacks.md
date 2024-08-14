@@ -53,12 +53,13 @@ QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server
 ## Video interaktive Karte 
 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2023-05-09-qgis-hacks_video_1.mp4">
-    <source src="/pics/2023-05-09-qgis-hacks_video_1.mp4" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2023-05-09-Qgis-hacks_video_1.mp4">
+    <source src="/pics/2023-05-09-Qgis-hacks_video_1.mp4" type="video/mp4">
   </video>
 </figure>
 
 ![](../pics/2023-05-09-Qgis-hacks_video_1.mp4)
+
 ## Tutorial Web-Map 
 
 <http://www.qgistutorials.com/de/docs/web_mapping_with_qgis2web.html>
