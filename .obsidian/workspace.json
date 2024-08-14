@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2024-06-14-screenshot.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mp4",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2024-06-14-screenshot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2024-06-14-screenshot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md"
+                "file": "_posts/2024-06-14-screenshot.md"
               }
             }
           }
@@ -150,22 +149,23 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
-    "_posts/2024-02-20-obsidian.md",
+    "_posts/2024-06-24-chat-picuture-text-failure.md",
+    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
+    "_posts/2024-07-01-DIY-LLM-RAG.md",
+    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
     "_posts/2024-07-02-ocr-feature.md",
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+    "_posts/2024-02-20-obsidian.md",
     "pics/2024-07-02-ocr-feature_image_1.png",
     "pics/2024-07-02-ocr-feature_image_2.png",
     "_posts/2024-06-14-screenshot.md",
     "README.md",
-    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
     "pics/2024-07-01-DIY-LLM-local-python-client_image_1.png",
     "pics/2024-07-01-DIY-LLM-local-python-client_image_3.png",
     "pics/2024-07-01-DIY-LLM-local-python-client_image_2.png",
-    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
-    "_posts/2024-07-01-DIY-LLM-RAG.md",
     "pics/2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
-    "_posts/2024-06-24-chat.md",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_3.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_2.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_4.png",
@@ -185,7 +185,6 @@
     "_posts/2023-04-14-yolo7-pothole.md",
     "about.md",
     "_posts/2024-05-24-maxmindGeoIP.md",
-    "_posts/2023-12-07-ide-hacks.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",

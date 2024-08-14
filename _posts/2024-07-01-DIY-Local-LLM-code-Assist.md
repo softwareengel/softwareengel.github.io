@@ -37,3 +37,4 @@ tags:
 ## Ergebnis - Code Completion mit Comments 
 
 ![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_5.png)
+

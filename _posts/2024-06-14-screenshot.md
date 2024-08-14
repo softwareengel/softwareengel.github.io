@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-To Screenshots search-ai  with Fireshot possible?
+title: How-To Screenshots search-ai with Fireshot possible?
 categories: 
 tags:
   - WebUI
@@ -15,7 +15,7 @@ date: 2024-06-14
 ---
 ![](../pics/2024-06-14-screenshot_image_1.png)
 
-# Web Ai - Screenshots - Tool
+# Web Ai - Screenshots - Tool - Fireshot 
 
 ## Firefox Plugin Fireshot 
 
@@ -25,8 +25,8 @@ date: 2024-06-14
 
 ![](../pics/2024-06-14-screenshot_image_4.png)
 
-## Gemini Screenshot-Beispiel 
+## Gemini - Screenshot-Beispiel 
 
 ![](../pics/2024-06-14-screenshot_image_5.png)
-## Chatgtp Screenshot Beispiel 
+## ChatGPT -  Screenshot Beispiel 
 ![](../pics/2024-06-14-screenshot_image_6.png)
