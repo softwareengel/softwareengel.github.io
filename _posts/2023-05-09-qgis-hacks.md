@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QGis Hacks - Interaktive Karte mit Qgis2web
+title: QGis Hacks: Interaktive Analyse-Karte mit Qgis2web 
 categories:
   - qgis
   - python
@@ -20,14 +20,6 @@ tags:
   </video>
 </figure>
 
-# QGis Hacks: Interaktive Analyse-Karte mit Qgis2web 
-
-- [QGis Hacks - Interaktive Karte mit Qgis2web](#qgis-hacks---interaktive-karte-mit-qgis2web)
-  - [QGis2web - Qgis - Plugin](#qgis2web---qgis---plugin)
-  - [Example Settings](#example-settings)
-  - [Ergebnis: Webbasierte, interaktive Karten](#ergebnis-webbasierte-interaktive-karten)
-  - [Tutorial Web-Map](#tutorial-web-map)
-  - [Insert xyz - Server](#insert-xyz---server)
 
 ## QGis2web - Qgis - Plugin 
 QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server-side software required.
