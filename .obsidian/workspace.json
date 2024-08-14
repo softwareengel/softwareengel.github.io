@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-12-kaitai.md",
+                "file": "_posts/2024-06-11-Online-Coding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-12-kaitai.md",
+                "file": "_posts/2024-06-11-Online-Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-12-kaitai.md",
+                "file": "_posts/2024-06-11-Online-Coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-12-kaitai.md"
+                "file": "_posts/2024-06-11-Online-Coding.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
+    "pics/2024-06-11-Online-Coding_image_24.png",
+    "pics/2024-06-11-Online-Coding_image_23.png",
+    "pics/2024-06-11-Online-Coding_image_22.png",
+    "_posts/2024-06-12-DeepL.md",
+    "_posts/2024-06-12-kaitai.md",
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2024-06-14-screenshot.md",
@@ -168,13 +173,9 @@
     "pics/2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_3.png",
-    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_2.png",
-    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_4.png",
     "_posts/Untitled.md",
     "_posts/2024-07-01-linux backup.md",
     "_posts/2022-02-02-riot-image-optimizer.md",
-    "_posts/2024-06-12-DeepL.md",
-    "_posts/2024-06-12-kaitai.md",
     "_posts/2024-05-06-onlineColabTools.md",
     "_template/sse-template.md.md",
     "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
@@ -184,7 +185,6 @@
     "_posts/2019-11-18-linklist-web-tools.md",
     "_posts/2023-04-14-yolo7-pothole.md",
     "about.md",
-    "_posts/2024-05-24-maxmindGeoIP.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",

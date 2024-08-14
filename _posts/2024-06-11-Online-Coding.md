@@ -118,15 +118,29 @@ https://www.programiz.com/python-programming/online-compiler/
 
 https://www.online-python.com/
 
-## w3schools pythonserver 
+## repl.it (update 14.08.2024)
+
+- Anmelden nötig 
 
 ![](../pics/2024-06-11-Online-Coding_image_22.png)
+
+![](../pics/2024-06-11-Online-Coding_image_23.png)
+
+ - unglaublich(1) nur  3 repls  im (kostenfreien) starter plan :-( 👎
+
+![](../pics/2024-06-11-Online-Coding_image_24.png)
+
+
+
+## w3schools pythonserver 
+
+![](../pics/2024-06-11-Online-Coding_image_25.png)
 
 https://www.w3schools.com/python/trypython.asp?filename=demo_default
 
 # offline - install python 
 
-![](../pics/2024-06-11-Online-Coding_image_23.png)
+![](../pics/2024-06-11-Online-Coding_image_26.png)
 
 https://www.python.org/downloads/
 
