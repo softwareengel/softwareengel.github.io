@@ -7,10 +7,18 @@ categories:
   - Coding
   - Python
 tags:
+  - Dev
+  - WebApp
+  - Code
+  - Coding
+  - Python
+  - Education
 ---
 
-
+![](../pics/2024-06-11-Online-Coding_image_1.png)
 # Online Python - Coding 
+
+SAmmlung von Python - ONline - Codeing  - Tools 
 
 - python console: [2024-06-11-Online-Coding](#pyodide.org%20-%20console), [2024-06-11-Online-Coding](#Futur%20Coder)
 - python - file - interpreter  [2024-06-11-Online-Coding](#OnlineGDB), [2024-06-11-Online-Coding](#Futur%20Coder)
@@ -19,20 +27,20 @@ tags:
 - (Offline) python Installation: https://www.python.org/downloads/ [2024-06-11-Online-Coding](#offline%20-%20install%20python)
 ## pyodide.org - console
 
-![](../pics/2024-06-11-Online-Coding_image_1.png)
+![](../pics/2024-06-11-Online-Coding_image_2.png)
 
 https://pyodide.org/en/stable/console.html
 
 ## OnlineGDB 
 
-![](../pics/2024-06-11-Online-Coding_image_2.png)
+![](../pics/2024-06-11-Online-Coding_image_3.png)
 
 https://www.onlinegdb.com/
 ## Github 1s 
 
 https://github1s.com/softwareengel/pyWasm
 
-![](../pics/2024-06-11-Online-Coding_image_3.png)
+![](../pics/2024-06-11-Online-Coding_image_1.png)
 
 ## Github codespaces 
 
