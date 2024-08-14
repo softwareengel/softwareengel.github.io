@@ -12,6 +12,9 @@ tags:
   - Text
   - Generation
   - ch
+  - GPT-Store
+  - chatgpt
+  - genAI
 ---
 ![](../pics/2024-02-14-chatgpt-wissenschaftlicheArbeit_image_1.png)
 
