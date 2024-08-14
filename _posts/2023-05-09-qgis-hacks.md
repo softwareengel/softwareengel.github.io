@@ -29,7 +29,9 @@ QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server
 ## Example Settings 
 
 ![](../pics/2023-05-09-Qgis-hacks_image_1.png)
+
 ![](../pics/2023-05-09-Qgis-hacks_image_2.png)
+
 ![](../pics/2023-05-09-Qgis-hacks_image_3.png)
 ![](../pics/2023-05-09-Qgis-hacks_image_4.png)
 
