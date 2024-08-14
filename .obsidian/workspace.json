@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-14-screenshot.md",
+                "file": "_posts/2024-06-12-KI-suchmaschinen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-14-screenshot.md",
+                "file": "_posts/2024-06-12-KI-suchmaschinen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-14-screenshot.md",
+                "file": "_posts/2024-06-12-KI-suchmaschinen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-14-screenshot.md"
+                "file": "_posts/2024-06-12-KI-suchmaschinen.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
+    "_posts/2024-06-12-x32dbg-x63dbg.md",
+    "_posts/2024-06-14-screenshot.md",
     "_posts/2024-06-24-chat-picuture-text-failure.md",
     "_posts/2024-07-01-DIY-LLM-local-python-client.md",
     "_posts/2024-07-01-DIY-LLM-RAG.md",
@@ -158,14 +160,12 @@
     "_posts/2024-02-20-obsidian.md",
     "pics/2024-07-02-ocr-feature_image_1.png",
     "pics/2024-07-02-ocr-feature_image_2.png",
-    "_posts/2024-06-14-screenshot.md",
     "README.md",
     "pics/2024-07-01-DIY-LLM-local-python-client_image_1.png",
     "pics/2024-07-01-DIY-LLM-local-python-client_image_3.png",
     "pics/2024-07-01-DIY-LLM-local-python-client_image_2.png",
     "pics/2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
-    "_posts/2024-06-12-x32dbg-x63dbg.md",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_3.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_2.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_4.png",
