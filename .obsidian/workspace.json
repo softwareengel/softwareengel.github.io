@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-01-DIY-LLM-RAG.md"
+                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
-    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+    "_posts/2024-03-16-picar-cam.md",
+    "_posts/2024-04-05-raspi-logitech-media-server.md",
+    "_posts/2024-04-14-flipper.md",
+    "_posts/2024-04-19-etl-compare.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-05-17-html5.md",
     "_posts/2024-07-01-DIY-LLM-RAG.md",
+    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
     "pics/2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_10.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_9.png",
@@ -179,11 +185,6 @@
     "README.md",
     "_posts/Untitled.md",
     "_posts/2024-07-01-linux backup.md",
-    "_posts/2022-02-02-riot-image-optimizer.md",
-    "_posts/2024-05-06-onlineColabTools.md",
-    "_template/sse-template.md.md",
-    "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
-    "_posts/2023-11-30-ki-update.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",

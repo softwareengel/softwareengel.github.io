@@ -5,13 +5,14 @@ categories: []
 tags: [Excel, Fom, Dropzone, Calendar]
 ---
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_1.png)
-# Konvertiere FOM Excel in ICS und Google Kalender import csv
+# Konvertiere FOM Teminplanung in Excel in ICS-Kalender und Google-Kalender-Format 
 
-- update 2024-05: neue Version (ab 2024-05) wird auch schon unterstützt (danke an MG)  
+- keine Installation nötig 
+- update 2024-05: neue Version (ab 2024-05) wird auch schon unterstützt (danke an M.G.)  
 
-Webbasiertes Tool zum Konvertieren der FOM - Excel - Termin - Dateien (.xlsx) zu Kalender-Daten - nutzbar für Apple IoS-, Android-, Linux- und Windows-Systemen
+Webbasiertes Tool zum Konvertieren der FOM - Excel - Termin - Dateien (.xlsx) zu Kalender-Daten - nutzbar für Apple IOS-, Android-, Linux- und Windows-Systemen
 
-Unterstützte Formate :
+Unterstützte Ausgabe - Formate :
 - ICS - iCal-Kalender 
 - CSV- Google - Import - Kalender 
 
@@ -25,16 +26,21 @@ Testinstallation Verfügbar unter
 
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_2.png)
 
-Hier die XLSX - Datei in der Ablagefläche einfügen (hochladen)
+-> Hier die XLSX - Datei in der Ablagefläche einfügen (hochladen)
 
-## Ausgabe der Kalender- Download - Links nach der sofortigen Berechnung 
+## Sofortige Ausgabe der Kalender- Download - Links nach der Berechnung 
 
-Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt zur weiteren Nutzung importiert werden .
+Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt zur weiteren Nutzung importiert werden.
+- Anzeige der berechneten Kalendereinträge als Liste 
+- Link zu Google-Kalender CSV - Download 
+- Link zu ICAL - Download 
 
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_3.png)
 
 
 ## ICS - Import in Kalender (Video - Screencast) 
+
+- Beispiel - Video: Upload Excel - Download in import ICS - Kalender (Apple Geräte, u.a.)
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4">
     <source src="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4" type="video/mp4">
@@ -44,6 +50,9 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4)
 
 ## CSV - Import in Google Kalender (Video - Screencast) 
+
+- Beispiel - Video:  Import CSV - Kalender -Datei bei Google Kalender online 
+
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4">
     <source src="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4" type="video/mp4">
@@ -55,6 +64,6 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 
 ## zur Info: CSV und ICS - Dateien (Beispiel-Dateien)
 
-Inhalt der CSV - Datei und ICS - Datei im Klartext 
+- Beispiel: Inhalt der CSV - Datei und ICS - Datei im Klartext 
 
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_4.png)
