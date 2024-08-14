@@ -1,8 +1,16 @@
 ---
 layout: post
-title: 
+title: "DIY: LLM local python client with LMStudio an Python client"
 categories: 
-tags: 
+tags:
+  - genAI
+  - LLM
+  - Client
+  - DIY
+  - vscode
+  - LMStudio
+  - Huggingface
+  - Python
 lastupdate: 2024-07-01
 date: 2024-07-01
 ---

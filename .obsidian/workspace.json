@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+                "file": "_posts/2024-07-01-DIY-LLM-local-python-client.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+                "file": "_posts/2024-07-01-DIY-LLM-local-python-client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
+                "file": "_posts/2024-07-01-DIY-LLM-local-python-client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md"
+                "file": "_posts/2024-07-01-DIY-LLM-local-python-client.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
+    "_posts/2024-07-01-DIY-LLM-RAG.md",
+    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+    "_posts/2024-07-02-ocr-feature.md",
+    "_posts/2024-05-17-html5.md",
+    "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
     "_posts/2024-02-15-surface888.md",
     "_posts/2024-02-20-obsidian.md",
     "_posts/2024-02-21-xml-data-analsyis.md",
@@ -159,9 +164,6 @@
     "_posts/2024-04-14-flipper.md",
     "_posts/2024-04-19-etl-compare.md",
     "_posts/2024-05-06-onlineColabTools.md",
-    "_posts/2024-05-17-html5.md",
-    "_posts/2024-07-01-DIY-LLM-RAG.md",
-    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
     "pics/2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_10.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_9.png",
@@ -182,8 +184,6 @@
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2024-06-14-screenshot.md",
     "_posts/2024-06-24-chat-picuture-text-failure.md",
-    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
-    "_posts/2024-07-02-ocr-feature.md",
     "pics/2024-07-02-ocr-feature_image_1.png",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
