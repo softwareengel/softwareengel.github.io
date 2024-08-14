@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md"
+                "file": "_posts/2024-07-01-DIY-LLM-RAG.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "9b682eca7289dffc",
   "lastOpenFiles": [
+    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+    "_posts/2024-07-01-DIY-LLM-RAG.md",
+    "pics/2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_10.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_9.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_8.png",
@@ -169,15 +172,11 @@
     "_posts/2024-06-14-screenshot.md",
     "_posts/2024-06-24-chat-picuture-text-failure.md",
     "_posts/2024-07-01-DIY-LLM-local-python-client.md",
-    "_posts/2024-07-01-DIY-LLM-RAG.md",
-    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
     "_posts/2024-07-02-ocr-feature.md",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "_posts/2024-02-20-obsidian.md",
     "pics/2024-07-02-ocr-feature_image_1.png",
-    "pics/2024-07-02-ocr-feature_image_2.png",
     "README.md",
-    "pics/2024-07-01-DIY-LLM-local-python-client_image_1.png",
     "_posts/Untitled.md",
     "_posts/2024-07-01-linux backup.md",
     "_posts/2022-02-02-riot-image-optimizer.md",
