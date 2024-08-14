@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2023-05-09-Qgis-hacks.md",
                 "mode": "source",
                 "source": true
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 667.5
+    "width": 569.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2023-05-09-Qgis-hacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+                "file": "_posts/2023-05-09-Qgis-hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md"
+                "file": "_posts/2023-05-09-Qgis-hacks.md"
               }
             }
           }
@@ -149,14 +149,14 @@
   },
   "active": "46dadc7b43c522b9",
   "lastOpenFiles": [
+    "pics/2023-05-09-Qgis-hacks_video_1.mp4",
+    "_posts/2023-05-09-Qgis-hacks.md",
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
     "mov/20240120_150615.mp4",
     "mov/20240120_152057.mp4",
     "mov/20240120_155714.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
-    "pics/2023-05-09-Qgis-hacks_video_1.mp4",
-    "_posts/2023-05-09-Qgis-hacks.md",
-    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "pics/2023-10-12-crop-video_image_2.png",
     "_posts/2023-10-12-crop-video.md",
     "_posts/2023-04-14-chatgpt-stabelediffusion-prompt.md",
@@ -193,7 +193,6 @@
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1710512002081_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "mov/2019-07-22_12-15-32.flv.webm",
-    "pics/2019-08-07-geojson-editor",
-    "pics/_posts/2019-08-07-geojson-editor"
+    "pics/2019-08-07-geojson-editor"
   ]
 }
