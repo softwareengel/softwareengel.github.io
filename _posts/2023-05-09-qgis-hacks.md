@@ -8,6 +8,10 @@ tags:
   - qgis
   - python
   - Qgis2web
+  - Analytics
+  - map
+  - qgis2web
+  - leaflet
 ---
 
 ![](../pics/2023-05-09-Qgis-hacks_image_1.png)
