@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-09-Qgis-hacks.md",
+                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-09-Qgis-hacks.md",
+                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-09-Qgis-hacks.md",
+                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-09-Qgis-hacks.md"
+                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "46dadc7b43c522b9",
   "lastOpenFiles": [
-    "README.md",
+    "_posts/2024-06-11-Online-Coding.md",
+    "_posts/2024-08-14-python-sqlite-web-IDE.md",
+    "pics/2024-08-14-python-sqlite-web-IDE_image_1.png",
     "_posts/2023-05-09-Qgis-hacks.md",
+    "README.md",
     "pics/tmp1723641314568_2023-05-09-Qgis-hacks_image_1.png",
     "pics/2023-05-09-Qgis-hacks_video_1.mp4",
     "pics/2023-05-09-Qgis-hacks_image_1.png",
@@ -178,7 +181,6 @@
     "pics/2023-11-30-ki-update_image_11.png",
     "pics/2023-11-30-ki-update_image_10.png",
     "pics/tmp1723632444676_2023-11-30-ki-update_image_10.png",
-    "pics/2023-11-30-ki-update_image_12.png",
     "_posts/2023-12-06-ki-hacks.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2024-07-01-DIY-LLM-local-python-client.md",
@@ -191,8 +193,6 @@
     "_posts/2024-02-20-obsidian.md",
     "_posts/2024-02-21-xml-data-analsyis.md",
     "_posts/2024-02-29-diy-llm-studio.md",
-    "_posts/2024-03-16-picar-cam.md",
-    "_posts/2024-04-05-raspi-logitech-media-server.md",
     "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4"
   ]
 }
