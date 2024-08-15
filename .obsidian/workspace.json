@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md",
+                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md",
+                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md",
+                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-14-python-sqlite-web-IDE.md"
+                "file": "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "46dadc7b43c522b9",
   "lastOpenFiles": [
-    "_posts/2024-06-11-Online-Coding.md",
+    "README.md",
     "_posts/2024-08-14-python-sqlite-web-IDE.md",
+    "_posts/2024-06-11-Online-Coding.md",
     "pics/2024-08-14-python-sqlite-web-IDE_image_1.png",
     "_posts/2023-05-09-Qgis-hacks.md",
-    "README.md",
     "pics/tmp1723641314568_2023-05-09-Qgis-hacks_image_1.png",
     "pics/2023-05-09-Qgis-hacks_video_1.mp4",
     "pics/2023-05-09-Qgis-hacks_image_1.png",

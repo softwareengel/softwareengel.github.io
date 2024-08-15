@@ -45,9 +45,9 @@ tags:
 
 ## Links
 
-- LM Studio https://github.com/lmstudio-ai
-- Codestral-22B-v0.1-Q8_0.gguf: https://huggingface.co/lmstudio-community/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-Q8_0.gguf
-- VSCode Continue: https://docs.continue.dev/quickstart , https://github.com/continuedev/continue
+- LM Studio <https://github.com/lmstudio-ai>
+- Codestral-22B-v0.1-Q8_0.gguf: <https://huggingface.co/lmstudio-community/Codestral-22B-v0.1-GGUF/resolve/main/Codestral-22B-v0.1-Q8_0.gguf>
+- VSCode Continue: <https://docs.continue.dev/quickstart> , <https://github.com/continuedev/continue>
 
 ## WebScreenshots
 
