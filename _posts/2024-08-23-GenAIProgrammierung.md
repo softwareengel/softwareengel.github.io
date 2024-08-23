@@ -24,7 +24,7 @@ date: 2024-08-23
 
 ![](../pics/2024-08-23-GenAIProgrammierung_video_1.mp4)
 
-# GenAI Programmierung - Löse einfache und Mittelschwere Aufgaben 
+# GenAI Programmierung - einfache oder mittelschwere Aufgabe lösen
 
 ## Finden von einfachen Programmieraufgaben  Brainstorming ChatGPT 
 
@@ -272,9 +272,10 @@ scanner.close();
 ```
 
 ### Wordle Java Variante 2: `teste ob eingegebenes wort in text-datei ist`
+
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_3.mp4">
-    <source src="/pics/2024-08-23-GenAIProgrammierung_video_1.mp3" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_2.mp4">
+    <source src="/pics/2024-08-23-GenAIProgrammierung_video_2.mp3" type="video/mp4">
   </video>
 </figure>
 
