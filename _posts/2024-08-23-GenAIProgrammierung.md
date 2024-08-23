@@ -275,7 +275,7 @@ scanner.close();
 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_2.mp4">
-    <source src="/pics/2024-08-23-GenAIProgrammierung_video_2.mp3" type="video/mp4">
+    <source src="/pics/2024-08-23-GenAIProgrammierung_video_2.mp4" type="video/mp4">
   </video>
 </figure>
 
