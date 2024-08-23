@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 523.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -150,6 +149,9 @@
   },
   "active": "46dadc7b43c522b9",
   "lastOpenFiles": [
+    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_10.png",
+    "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_1.png",
+    "_posts/2024-08-23-GenAIProgrammierung.md",
     "pics/2024-08-23-GenAIProgrammierung_video_6.mp4",
     "pics/2024-08-23-GenAIProgrammierung_video_4.mp4",
     "pics/2024-08-23-GenAIProgrammierung_video_3.mp4",
@@ -157,7 +159,6 @@
     "pics/tmp1724408133717_2024-08-23-GenAIProgrammierung_video_2.mp4",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "_posts/2023-05-09-Qgis-hacks.md",
-    "_posts/2024-08-23-GenAIProgrammierung.md",
     "pics/2024-08-23-GenAIProgrammierung_video_1.mp4",
     "pics/2024-08-23-GenAIProgrammierung_image_1.png",
     "pics/Pasted image 20240614122448.png",
@@ -168,7 +169,6 @@
     "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
     "pics/tmp1718359584624_2024-06-14-screenshot_image_1.png",
     "pics/tmp1714982719035_2024-05-06-onlineColabTools_image_12.png",
-    "pics/tmp1714982692830_2024-05-06-onlineColabTools_image_9.png",
     "_posts/2024-06-14-screenshot.md",
     "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
     "_posts/2021-01-27-webinar-tools.md",
@@ -183,7 +183,6 @@
     "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
-    "mov/20200720 1624-1-jsprit Java Routing.mp4",
     "_posts/2023-10-12-crop-video.md",
     "_posts/2023-04-14-chatgpt-stabelediffusion-prompt.md",
     "_posts/2022-11-01-notes11.md",

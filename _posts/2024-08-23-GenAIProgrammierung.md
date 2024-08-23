@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GenAI Programmierung - einfache und Mittelschwere Aufgaben
+title: GenAI Programmierung - einfache oder mittelschwere Aufgabe lösen
 categories:
   - genai
   - Code
