@@ -158,7 +158,7 @@ Diese Projekte helfen dir, dich weiter mit Java vertraut zu machen und bieten vi
 ![](../pics/2024-08-23-GenAIProgrammierung_image_2.png)
 
 ### Wordle Java Variante 1:  `java schreibe eine wordle clon`
-
+#### Demo Video 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_2.mp4">
     <source src="/pics/2024-08-23-GenAIProgrammierung_video_2.mp4" type="video/mp4">
@@ -166,6 +166,7 @@ Diese Projekte helfen dir, dich weiter mit Java vertraut zu machen und bieten vi
 </figure>
 ![](../pics/2024-08-23-GenAIProgrammierung_video_2.mp4)
 
+#### Java Source Code 
 
 ``` java 
 package tests;
@@ -272,7 +273,7 @@ scanner.close();
 ```
 
 ### Wordle Java Variante 2: `teste ob eingegebenes wort in text-datei ist`
-
+#### Demo Video 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_2.mp4">
     <source src="/pics/2024-08-23-GenAIProgrammierung_video_2.mp4" type="video/mp4">
@@ -280,7 +281,7 @@ scanner.close();
 </figure>
 
 ![](../pics/2024-08-23-GenAIProgrammierung_video_2.mp4)
-
+#### Java Source Code 
 ```java 
 package tests;
 
@@ -369,7 +370,7 @@ public class WordleClone2 {
 ```
 
 ### Wordle Java  Variante 3: `SUCHE ZUFÄLLIGES WORT MIT 5 BUCHSTABEN AUS`
-
+#### Demo Video 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_4.mp4">
     <source src="/pics/2024-08-23-GenAIProgrammierung_video_4.mp4" type="video/mp4">
@@ -377,7 +378,7 @@ public class WordleClone2 {
 </figure>
 
 ![](../pics/2024-08-23-GenAIProgrammierung_video_3.mp4)
-
+#### Java Source Code 
 ``` java 
 package tests;
 
@@ -491,8 +492,9 @@ public class WordleClone3 {
 
 ```
 
-### Wordle Java  Variante 4: `nutze nur geheimworte, die den ersten buchstaben gross haben`
+### Wordle Java  Variante 4: `nutze nur geheimworte, die den ersten buchstaben gross haben` 
 
+#### Demo Video 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_4.mp4">
     <source src="/pics/2024-08-23-GenAIProgrammierung_video_4.mp4" type="video/mp4">
@@ -501,7 +503,7 @@ public class WordleClone3 {
 
 ![](../pics/2024-08-23-GenAIProgrammierung_video_4.mp4)
 
-
+#### Java Source Code 
 
 ``` java 
 package tests;
@@ -617,6 +619,8 @@ public class WordleClone4 {
 ```
 
 ### Wordle Java  Variante 5: `löse das ratespiel selbst`
+#### Demo Video 
+
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_6.mp4">
     <source src="/pics/2024-08-23-GenAIProgrammierung_video_6.mp4" type="video/mp4">
@@ -624,6 +628,7 @@ public class WordleClone4 {
 </figure>
 ![](../pics/2024-08-23-GenAIProgrammierung_video_6.mp4)
 
+#### Java Source Code 
 ```java 
 package tests;
 
