@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-11-Online-Coding.md",
+                "file": "_posts/2024-08-23-GenAIProgrammierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mp4",
+                "query": "screen auto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-11-Online-Coding.md",
+                "file": "_posts/2024-08-23-GenAIProgrammierung.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-11-Online-Coding.md",
+                "file": "_posts/2024-08-23-GenAIProgrammierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-11-Online-Coding.md"
+                "file": "_posts/2024-08-23-GenAIProgrammierung.md"
               }
             }
           }
@@ -149,51 +150,51 @@
   },
   "active": "46dadc7b43c522b9",
   "lastOpenFiles": [
-    "pics/2024-06-11-Online-Coding_image_7.png",
-    "_posts/2024-06-12-DeepL.md",
-    "_posts/2024-06-11-Online-Coding.md",
-    "pics/2024-06-11-Online-Coding_image_24.png",
-    "pics/2024-06-11-Online-Coding_image_23.png",
-    "pics/2024-06-11-Online-Coding_image_22.png",
-    "pics/2024-06-11-Online-Coding_image_21.png",
+    "pics/2024-08-23-GenAIProgrammierung_video_6.mp4",
+    "pics/2024-08-23-GenAIProgrammierung_video_4.mp4",
+    "pics/2024-08-23-GenAIProgrammierung_video_3.mp4",
+    "pics/2024-08-23-GenAIProgrammierung_video_2.mp4",
+    "pics/tmp1724408133717_2024-08-23-GenAIProgrammierung_video_2.mp4",
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+    "_posts/2023-05-09-Qgis-hacks.md",
+    "_posts/2024-08-23-GenAIProgrammierung.md",
+    "pics/2024-08-23-GenAIProgrammierung_video_1.mp4",
+    "pics/2024-08-23-GenAIProgrammierung_image_1.png",
+    "pics/Pasted image 20240614122448.png",
+    "pics/Pasted image 20240604171122.png",
+    "pics/tmp1723641314568_2023-05-09-Qgis-hacks_image_1.png",
+    "pics/tmp1723639631348_2023-05-09-Qgis-hacks_image_1.png",
+    "pics/tmp1723632444676_2023-11-30-ki-update_image_10.png",
+    "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
+    "pics/tmp1718359584624_2024-06-14-screenshot_image_1.png",
+    "pics/tmp1714982719035_2024-05-06-onlineColabTools_image_12.png",
+    "pics/tmp1714982692830_2024-05-06-onlineColabTools_image_9.png",
+    "_posts/2024-06-14-screenshot.md",
     "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+    "_posts/2021-01-27-webinar-tools.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-06-11-Online-Coding.md",
+    "_posts/2024-06-12-DeepL.md",
     "README.md",
     "_posts/2024-08-14-python-sqlite-web-IDE.md",
-    "pics/2024-08-14-python-sqlite-web-IDE_image_1.png",
-    "_posts/2023-05-09-Qgis-hacks.md",
-    "pics/tmp1723641314568_2023-05-09-Qgis-hacks_image_1.png",
     "pics/2023-05-09-Qgis-hacks_video_1.mp4",
-    "pics/2023-05-09-Qgis-hacks_image_1.png",
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "_posts/2024-06-12-kaitai.md",
     "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "mov/20200720 1624-1-jsprit Java Routing.mp4",
-    "mov/20200720 1624-1-jsprit Java Routing - TODO-VIDEO-CROP-TOP-171.mp4",
-    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
-    "mov/20240120_150615.mp4",
-    "mov/20240120_152057.mp4",
-    "mov/20240120_155714.mp4",
-    "pics/2023-10-12-crop-video_image_2.png",
     "_posts/2023-10-12-crop-video.md",
     "_posts/2023-04-14-chatgpt-stabelediffusion-prompt.md",
     "_posts/2022-11-01-notes11.md",
     "_posts/2021-08-12-wordle-tag-cloud.md",
     "_posts/2020-03-11-obs-studio.md",
-    "pics/2023-05-09-Qgis-hacks_image_7.png",
-    "pics/2023-05-09-Qgis-hacks_image_5.png",
     "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md",
     "_posts/2023-11-30-ki-update.md",
     "_posts/2023-12-06-ki-hacks.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2024-07-01-DIY-LLM-local-python-client.md",
     "_posts/2024-07-01-DIY-LLM-RAG.md",
-    "_posts/2024-07-02-ocr-feature.md",
-    "_posts/2024-05-17-html5.md",
-    "_posts/2024-02-14-chatgpt-wissenschaftlicheArbeit.md",
-    "_posts/2024-02-15-surface888.md",
-    "_posts/2024-02-20-obsidian.md",
-    "pics/tmp1710511582802_2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4"
+    "_posts/2024-07-02-ocr-feature.md"
   ]
 }
