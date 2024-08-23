@@ -494,8 +494,8 @@ public class WordleClone3 {
 ### Wordle Java  Variante 4: `nutze nur geheimworte, die den ersten buchstaben gross haben`
 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_5.mp4">
-    <source src="/pics/2024-08-23-GenAIProgrammierung_video_5.mp4" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_4.mp4">
+    <source src="/pics/2024-08-23-GenAIProgrammierung_video_4.mp4" type="video/mp4">
   </video>
 </figure>
 
