@@ -18,7 +18,7 @@ Erstelle von Header 1 Zeilen aus Zwischenüberschriften
 PPT - VBA 
 
 ``` vb
-Sub LeseUndFuegeTextEin2()
+Sub LeseUndFuegeTextEin()
     Dim pptSlide As Slide
     Dim pptShape As Shape
     Dim textToInsert As String
@@ -29,6 +29,8 @@ Sub LeseUndFuegeTextEin2()
     Dim insertTop As Double
     Dim insertLeft As Double
     Dim shapeFound As Boolean
+    Dim lnr As Integer
+    lnr = -1
     
     ' Zielwerte für das Shape, aus dem der Text gelesen wird
     targetHeight = 85.03937
@@ -53,6 +55,9 @@ Sub LeseUndFuegeTextEin2()
                     If pptShape.TextFrame.HasText Then
                         textToInsert = pptShape.TextFrame.TextRange.Text
                         shapeFound = True
+                        lnr = lnr + 1
+                        textToInsert = lnr & " - " & textToInsert
+                        Debug.Print (textToInsert)
                         Exit For ' Stoppt die Schleife, wenn das Shape gefunden wurde
                     End If
                 End If
@@ -80,9 +85,12 @@ Sub LeseUndFuegeTextEin2()
                             ' Überprüfen, ob das Shape einen Textframe enthält und Text hat
                             If pptShape.HasTextFrame Then
                                 If pptShape.TextFrame.HasText Then
-                                    textToInsert = pptShape.TextFrame.TextRange.Text
-                                    shapeFound = True
-                                    Exit For ' Stoppt die Schleife, wenn das Shape gefunden wurde
+                        textToInsert = pptShape.TextFrame.TextRange.Text
+                        shapeFound = True
+                        lnr = lnr + 1
+                        textToInsert = lnr & " - " & textToInsert
+                        Debug.Print (textToInsert)
+                        Exit For ' Stoppt die Schleife, wenn das Shape gefunden wurde
                                 End If
                             End If
                         End If
@@ -98,4 +106,6 @@ Sub LeseUndFuegeTextEin2()
     ' Nachricht an den Benutzer
     MsgBox "Text wurde auf den nächsten Folien eingefügt."
 End Sub
+
+
 ```
