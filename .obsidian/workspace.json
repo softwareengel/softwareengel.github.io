@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8aafde662620dc7b",
+        "id": "584adb9bbd516d39",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f3c4deb06074a4",
+            "id": "e50551f8ede5b56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-08-30-powerpoint-text-copy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logo",
+                "query": "mp3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-30-powerpoint-text-copy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-30-powerpoint-text-copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2024-08-30-powerpoint-text-copy.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,8 +140,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1f3c4deb06074a4",
+  "active": "e50551f8ede5b56f",
   "lastOpenFiles": [
+    "_posts/2024-04-05-raspi-logitech-media-server.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2024-02-08-logo-generation.md",
     "pics/2024-02-08-logo-generation_image_6.png",
@@ -194,7 +187,6 @@
     "_posts/2023-11-30-ki-update.md",
     "_posts/2023-12-06-ki-hacks.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
-    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
-    "_posts/2024-07-01-DIY-LLM-RAG.md"
+    "_posts/2024-07-01-DIY-LLM-local-python-client.md"
   ]
 }

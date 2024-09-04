@@ -12,7 +12,6 @@ date: 2024-08-30
 ---
 Erstelle von Header 1 Zeilen aus Zwischenüberschriften 
 
-
 # Powerpoint Autoupdate Überschriften 
 
 PPT - VBA 
