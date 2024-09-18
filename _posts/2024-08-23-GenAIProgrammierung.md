@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GenAI Programmierung - einfache oder mittelschwere Aufgabe lösen
+title: GenAI Programmierung - einfache oder mittelschwere Aufgabe lösen - Wordle Clon
 categories:
   - genai
   - Code
