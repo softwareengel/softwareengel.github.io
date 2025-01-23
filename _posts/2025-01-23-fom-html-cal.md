@@ -13,9 +13,10 @@ date: 2025-01-23
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in ical Kalender kopieren 
 
 ## Ablauf - Schritte zum eigenen Kalender 
-- 1. HTML Seite speichern (Chrome oder Edge nutzen, leider Probleme bei Firefox... )
-- 2. gespeicherte HTML - Seite mit Verfügbarkeiten und Terminen hochladen auf  https://hq.softwareengel.de:30334/   und neue .ical -  Kalender Datei herunterladen 
-- 3. .ical - Kalender - Datei  importieren ( z.B. bei Goolge Calenar, Outlook, Handy)
+
+1.  HTML Seite speichern (Chrome oder Edge nutzen, leider Probleme bei Firefox... )
+2. gespeicherte HTML - Seite mit Verfügbarkeiten und Terminen hochladen auf  https://hq.softwareengel.de:30334/   und neue .ical -  Kalender Datei herunterladen 
+3.  .ical - Kalender - Datei  importieren ( z.B. bei Goolge Calenar, Outlook, Handy)
 
 
 
