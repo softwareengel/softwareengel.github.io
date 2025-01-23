@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2025-01-23-fom-html-cal.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-01-23-fom-html-cal"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obs studio",
+                "query": "mp4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,12 +166,12 @@
   },
   "active": "e50551f8ede5b56f",
   "lastOpenFiles": [
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "_posts/2025-01-23-fom-html-cal.md",
     "categories.md",
     "pics/image/2025-01-23-fom-html-cal-1737640691238.jpeg",
     "pics/image/2025-01-23-fom-html-cal-1737640665462.jpeg",
     "pics/image/2025-01-23-fom-html-cal-1737640654096.jpeg",
-    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "about.md",
     "README.md",
     "_posts/2020-03-11-obs-studio.md",

@@ -22,6 +22,12 @@ date: 2025-01-23
 ## Schritt 1: HTML - Datei Speichern 
 - Darauf achten, Dass in der Ansicht alle gewünschten Daten (Auswahl des Planungsjahres (!)" ) auf der Website sichtbar sind 
 
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-17-13.mp4">
+    <source src="/pics/2025-01-23%2014-17-13.mp4" type="video/mp4">
+  </video>
+</figure>
+
 ![](../pics/2025-01-23%2014-17-13.mp4)
 
 
