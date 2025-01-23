@@ -10,7 +10,7 @@ lastupdate: 2025-01-23
 date: 2025-01-23
 ---
 ![](../pics/image/2025-01-23-fom-html-cal-1737639635833.jpeg)
-# FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in ical Kalender kopieren 
+# FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in ical Kalender kopieren (HTML-2-iCAL)
 
 ## Ablauf - Schritte zum eigenen Kalender 
 
