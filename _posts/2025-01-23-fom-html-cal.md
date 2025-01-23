@@ -15,16 +15,16 @@ date: 2025-01-23
 ## Ablauf - Schritte zum eigenen Kalender 
 
 1.  HTML Seite speichern (Chrome oder Edge nutzen, leider Probleme bei Firefox... )
-2. gespeicherte HTML - Seite mit Verfügbarkeiten und Terminen hochladen auf  https://hq.softwareengel.de:30334/   und neue .ical -  Kalender Datei herunterladen 
-3.  .ical - Kalender - Datei  importieren ( z.B. bei Goolge Calenar, Outlook, Handy)
+2. gespeicherte HTML - Seite mit Verfügbarkeiten und Terminen hochladen auf  <https://hq.softwareengel.de:30334/>    und neue .iCal-Kalender Datei herunterladen 
+3.  .iCal-Kalender-Datei  importieren ( z.B. bei Goolge Calendar, Outlook, Handy)
 
 
 
 
 
 
-## Schritt 1: HTML - Datei Speichern 
-- Darauf achten, Dass in der Ansicht alle gewünschten Daten (Auswahl des Planungsjahres (!)" ) auf der Website sichtbar sind 
+## Schritt 1: HTML - Datei speichern 
+- Darauf achten, dass in der Ansicht alle gewünschten Daten (==Auswahl des Planungsjahres (!)== ) auf der Website sichtbar sind 
 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-17-13.mp4">
@@ -35,7 +35,7 @@ date: 2025-01-23
 ![](../pics/2025-01-23%2014-17-13.mp4)
 
 
-## Schritt 2: gespeicherte HTML -Datei hochladen, ical - Datei herunterladen 
+## Schritt 2: gespeicherte HTML -Datei hochladen, iCal - Kalender - Datei herunterladen 
 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-18-01.mp4">
@@ -45,7 +45,7 @@ date: 2025-01-23
 
 ![](../pics/2025-01-23%2014-18-01.mp4)
 
-## Schritt 3: neuen Google Kalender anlegen ical -Kalender - Datei importieren 
+## Schritt 3: neuen Google Kalender anlegen, iCal -Kalender - Datei importieren 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-21-43.mp4">
     <source src="/pics/2025-01-23%2014-21-43.mp4" type="video/mp4">
@@ -54,9 +54,7 @@ date: 2025-01-23
 ![](../pics/2025-01-23%2014-21-43.mp4)
 
 
-Hinweis:  Löschen von Terminen im Google - Kalender mit (del) 
-
-
+==Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste == 
 
 
 ## Beispiel Website - Ausschnitt
