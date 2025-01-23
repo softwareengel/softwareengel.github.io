@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-23-GenAIProgrammierung.md",
+                "file": "_posts/2025-01-23-fom-html-cal.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-23-fom-html-cal"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wordle",
+                "query": "obs studio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 314.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-23-GenAIProgrammierung.md",
+                "file": "_posts/2024-01-20-raspiCar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-01-20-raspiCar"
             }
           },
           {
@@ -103,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-23-GenAIProgrammierung.md",
+                "file": "_posts/2024-01-20-raspiCar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-01-20-raspiCar"
             }
           },
           {
@@ -117,7 +128,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-23-GenAIProgrammierung.md"
-              }
+                "file": "_posts/2025-01-23-fom-html-cal.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-23-fom-html-cal"
             }
           }
         ],
@@ -135,66 +150,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e50551f8ede5b56f",
   "lastOpenFiles": [
+    "_posts/2020-03-11-obs-studio.md",
+    "_posts/2025-01-23-fom-html-cal.md",
+    "pics/2025-01-23 14-25-14.mp4",
+    "pics/2025-01-23 14-21-43.mp4",
+    "pics/2025-01-23 14-20-03.mp4",
+    "pics/2025-01-23 14-19-33.mp4",
+    "pics/2025-01-23 14-18-01.mp4",
+    "pics/2025-01-23 14-17-13.mp4",
+    "pics/image/2025-01-23-fom-html-cal-1737639635833.jpeg",
+    "pics/image/2025-01-23-fom-html-cal-1737639493083.jpeg",
+    "pics/image/2025-01-23-fom-html-cal-1737629969151.jpeg",
+    "pics/image/2025-01-23-fom-html-cal-1737629902182.jpeg",
+    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
+    "_posts/2022-12-01-notes_12.md",
+    "_posts/2024-01-20-raspiCar.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118715722.jpeg",
+    "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118641198.jpeg",
+    "pics/image",
+    "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118590440.jpeg",
+    "_posts/2024-08-23-GenAIProgrammierung.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2024-02-08-logo-generation.md",
     "pics/2024-02-08-logo-generation_image_6.png",
-    "_posts/2024-08-23-GenAIProgrammierung.md",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_10.png",
     "pics/2024-07-01-DIY-Local-LLM-code-Assist_image_1.png",
     "pics/2024-08-23-GenAIProgrammierung_video_6.mp4",
     "pics/2024-08-23-GenAIProgrammierung_video_4.mp4",
     "pics/2024-08-23-GenAIProgrammierung_video_3.mp4",
-    "pics/2024-08-23-GenAIProgrammierung_video_2.mp4",
-    "pics/tmp1724408133717_2024-08-23-GenAIProgrammierung_video_2.mp4",
-    "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "_posts/2023-05-09-Qgis-hacks.md",
-    "pics/2024-08-23-GenAIProgrammierung_video_1.mp4",
-    "pics/2024-08-23-GenAIProgrammierung_image_1.png",
-    "pics/Pasted image 20240614122448.png",
-    "pics/Pasted image 20240604171122.png",
-    "pics/tmp1723641314568_2023-05-09-Qgis-hacks_image_1.png",
-    "pics/tmp1723639631348_2023-05-09-Qgis-hacks_image_1.png",
-    "pics/tmp1723632444676_2023-11-30-ki-update_image_10.png",
-    "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
     "_posts/2024-06-14-screenshot.md",
     "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
     "_posts/2021-01-27-webinar-tools.md",
-    "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-06-11-Online-Coding.md",
     "_posts/2024-06-12-DeepL.md",
     "README.md",
     "_posts/2024-08-14-python-sqlite-web-IDE.md",
-    "pics/2023-05-09-Qgis-hacks_video_1.mp4",
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "_posts/2024-06-12-kaitai.md",
-    "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "_posts/2023-10-12-crop-video.md",
     "_posts/2023-04-14-chatgpt-stabelediffusion-prompt.md",
     "_posts/2022-11-01-notes11.md",
     "_posts/2021-08-12-wordle-tag-cloud.md",
-    "_posts/2020-03-11-obs-studio.md",
-    "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md",
-    "_posts/2023-11-30-ki-update.md",
-    "_posts/2023-12-06-ki-hacks.md",
-    "_posts/2024-06-12-x32dbg-x63dbg.md",
-    "_posts/2024-07-01-DIY-LLM-local-python-client.md"
+    "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md"
   ]
 }

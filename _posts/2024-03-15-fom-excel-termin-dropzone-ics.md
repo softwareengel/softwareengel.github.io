@@ -7,6 +7,14 @@ tags: [Excel, Fom, Dropzone, Calendar]
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_1.png)
 # Konvertiere FOM Teminplanung in Excel in ICS-Kalender und Google-Kalender-Format 
 
+----
+
+update 2025: html -Version
+
+---
+
+
+
 - keine Installation nötig 
 - update 2024-05: neue Version (ab 2024-05) wird auch schon unterstützt (danke an M.G.)  
 
@@ -67,3 +75,21 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 - Beispiel: Inhalt der CSV - Datei und ICS - Datei im Klartext 
 
 ![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_4.png)
+
+
+
+## 2024-10-05 - Certificate Update 
+
+### Problem 
+
+![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118590440.jpeg)
+
+### Solution 
+
+- open port 80 Temporarily 
+![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118715722.jpeg)
+
+
+- Update Lets Encrypt Certificate Update  
+
+![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118641198.jpeg)
