@@ -10,13 +10,12 @@ lastupdate: 2025-01-23
 date: 2025-01-23
 ---
 ![](../pics/image/2025-01-23-fom-html-cal-1737639635833.jpeg)
-# FOM Verfügbarkeiten und Termine von HTML in  ical Kalender kopieren 
+# FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in ical Kalender kopieren 
 
 ## Ablauf - Schritte zum eigenen Kalender 
-- HTML Seite speichern (Chrome oder Edge nutzen, leider Probleme bei Firefox... )
-- gespeicherte HTML - Seite mit Verfügbarkeiten und Terminen hochladen auf  https://hq.softwareengel.de:30334/
-- Neue .ical -  Kalender Datei herunterladen 
-- ical - Kalender - Datei  importieren ( z.B. bei Goolge Calenar, Outlook, Handy)
+- 1. HTML Seite speichern (Chrome oder Edge nutzen, leider Probleme bei Firefox... )
+- 2. gespeicherte HTML - Seite mit Verfügbarkeiten und Terminen hochladen auf  https://hq.softwareengel.de:30334/   und neue .ical -  Kalender Datei herunterladen 
+- 3. .ical - Kalender - Datei  importieren ( z.B. bei Goolge Calenar, Outlook, Handy)
 
 
 
@@ -39,3 +38,11 @@ date: 2025-01-23
 ## Löschen von Terminen im Google - Kalender mit (del) 
 
 ![](../pics/2025-01-23%2014-25-14.mp4)
+
+
+## Beispiel Website - Ausschnitt
+
+![](../pics/image/2025-01-23-fom-html-cal-1737640665462.jpeg)
+## Beispiel Kalender - Ansicht 
+![](../pics/image/2025-01-23-fom-html-cal-1737640691238.jpeg)
+
