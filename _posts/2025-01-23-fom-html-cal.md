@@ -33,12 +33,20 @@ date: 2025-01-23
 
 ## Schritt 2: gespeicherte HTML -Datei hochladen, ical - Datei herunterladen 
 
-
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-18-01.mp4">
+    <source src="/pics/2025-01-23%2014-18-01.mp4">
+  </video>
+</figure>
 
 ![](../pics/2025-01-23%2014-18-01.mp4)
 
 ## Schritt 3: neuen Google Kalender anlegen ical -Kalender - Datei importieren 
-
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-17-13.mp4">
+    <source src="/pics/2025-01-23%2014-17-13.mp4" type="video/mp4">
+  </video>
+</figure>
 ![](../pics/2025-01-23%2014-21-43.mp4)
 
 
