@@ -62,6 +62,7 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del)
 ## Beispiel Website - Ausschnitt
 
 ![](../pics/image/2025-01-23-fom-html-cal-1737640665462.jpeg)
+
 ## Beispiel Kalender - Ansicht 
 ![](../pics/image/2025-01-23-fom-html-cal-1737640691238.jpeg)
 
