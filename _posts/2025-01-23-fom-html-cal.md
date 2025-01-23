@@ -10,7 +10,7 @@ lastupdate: 2025-01-23
 date: 2025-01-23
 ---
 ![](../pics/image/2025-01-23-fom-html-cal-1737639635833.jpeg)
-# FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in ical Kalender kopieren (HTML-2-iCAL)
+# FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 ## Ablauf - Schritte zum eigenen Kalender 
 
@@ -21,11 +21,6 @@ date: 2025-01-23
 
 
 
-<figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4">
-    <source src="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4" type="video/mp4">
-  </video>
-</figure>
 
 
 ## Schritt 1: HTML - Datei Speichern 
