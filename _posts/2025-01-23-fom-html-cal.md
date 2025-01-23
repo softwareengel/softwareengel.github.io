@@ -20,6 +20,14 @@ date: 2025-01-23
 
 
 
+
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4">
+    <source src="/pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4" type="video/mp4">
+  </video>
+</figure>
+
+
 ## Schritt 1: HTML - Datei Speichern 
 - Darauf achten, Dass in der Ansicht alle gewünschten Daten (Auswahl des Planungsjahres (!)" ) auf der Website sichtbar sind 
 
@@ -44,8 +52,8 @@ date: 2025-01-23
 
 ## Schritt 3: neuen Google Kalender anlegen ical -Kalender - Datei importieren 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-17-13.mp4">
-    <source src="/pics/2025-01-23%2014-17-13.mp4" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-21-43.mp4">
+    <source src="/pics/2025-01-23%2014-21-43.mp4" type="video/mp4">
   </video>
 </figure>
 ![](../pics/2025-01-23%2014-21-43.mp4)
