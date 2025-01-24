@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "195c95263990035d",
+        "id": "6bfa3fa7a9860b85",
         "type": "tabs",
         "children": [
           {
-            "id": "666ab9f406f4d70f",
+            "id": "58c749e79fcdf8d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/2025-01-23-fom-html-cal.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-01-23-fom-html-cal"
+            }
+          },
+          {
+            "id": "8dc64feea563f0cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mp4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 463.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -164,8 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "666ab9f406f4d70f",
+  "active": "58c749e79fcdf8d3",
   "lastOpenFiles": [
+    "pics/2025-01-23-fom-html-cal_video_2.mp4",
+    "_posts/2025-01-23-fom-html-cal.md",
+    "pics/20240414152354Flipper.png",
+    "pics/Clipboard_05-28-2024_01.jpg",
+    "pics/Clipboard01.png",
+    "pics/DALL·E 2024-05-28 15.09.48 - A high-resolution, highly detailed pop art style desktop wallpaper depicting a tranquil natural landscape at sunrise. The scene features a calm lake r.webp",
     "assets/file-20250124144228.jpg",
     "pics/2025-01-23-fom-html-cal_image_2.png",
     "src/2024-11-19-background-pic/test01.py",
@@ -174,20 +190,13 @@
     "pics/2025-01-23-fom-html-cal_image_4.jpeg",
     "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118641198.jpeg",
     "pics/image/2025-01-23-fom-html-cal-1737640654096.jpeg",
-    "pics/2025-01-23-fom-html-cal_image_1.jpeg",
-    "pics/image/2025-01-23-fom-html-cal-1737639493083.jpeg",
-    "pics/image/2025-01-23-fom-html-cal-1737629902182.jpeg",
-    "pics/image/2025-01-23-fom-html-cal-1737629969151.jpeg",
-    "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118715722.jpeg",
     "pics/image",
     "pics/2025-01-23 14-21-43.mp4",
     "pics/2025-01-23 14-20-03.mp4",
     "pics/2025-01-23 14-19-33.mp4",
-    "pics/2025-01-23-fom-html-cal_video_2.mp4",
     "pics/2025-01-23-fom-html-cal_video_1.mp4",
     "mnt/data",
     "mnt",
-    "_posts/2025-01-23-fom-html-cal.md",
     "_posts/2022-06-24-markdown-static-websites.md",
     "data/chatgpt-berater/chat-001.md",
     "_posts/2022-09-21_notizen_09.md",

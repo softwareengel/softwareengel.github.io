@@ -45,8 +45,8 @@ und Danke an einen der ersten Alpha-Tester, um den Nutzen einmal zu zeigen, was 
 - Darauf achten, dass in der Ansicht alle gewünschten Daten (Auswahl des Planungsjahres (!) ) auf der Website sichtbar sind 
 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-17-13.mp4">
-    <source src="/pics/2025-01-23%2014-17-13.mp4" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23-fom-html-cal_video_1.mp4">
+    <source src="/pics/2025-01-23-fom-html-cal_video_1.mp4" type="video/mp4">
   </video>
 </figure>
 
@@ -56,8 +56,8 @@ und Danke an einen der ersten Alpha-Tester, um den Nutzen einmal zu zeigen, was 
 ## Schritt 2: gespeicherte HTML -Datei hochladen, iCal - Kalender - Datei herunterladen 
 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-18-01.mp4">
-    <source src="/pics/2025-01-23%2014-18-01.mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23-fom-html-cal_video_2.mp4">
+    <source src="/pics/2025-01-23-fom-html-cal_video_2.mp4">
   </video>
 </figure>
 
