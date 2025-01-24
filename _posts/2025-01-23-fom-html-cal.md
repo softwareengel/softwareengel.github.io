@@ -24,7 +24,7 @@ Es sind  nun 3 Kalender - Downloads möglich :
 
 ![](../pics/2025-01-23-fom-html-cal_image_2.png)
 
-und Danke an einen der ersten Alpha-Tester, um den nutzen einmal zu zeigen, was fällt hier auf ;-) 
+und Danke an einen der ersten Alpha-Tester, um den Nutzen einmal zu zeigen, was fällt hier auf ;-) ?
 
 ![](../assets/file-20250124144228.jpg)
 
