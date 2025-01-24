@@ -33,7 +33,7 @@ date: 2025-01-23
 
 
 ## Schritt 1: HTML - Datei speichern 
-- Darauf achten, dass in der Ansicht alle gewünschten Daten (==Auswahl des Planungsjahres (!)== ) auf der Website sichtbar sind 
+- Darauf achten, dass in der Ansicht alle gewünschten Daten (Auswahl des Planungsjahres (!) ) auf der Website sichtbar sind 
 
 <figure class="video_container">
   <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23%2014-17-13.mp4">
@@ -63,7 +63,7 @@ date: 2025-01-23
 ![](../pics/2025-01-23%2014-21-43.mp4)
 
 
-==Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste == 
+Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste  
 
 
 ## Beispiel Website - Ausschnitt
