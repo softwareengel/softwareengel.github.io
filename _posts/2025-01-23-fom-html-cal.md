@@ -9,8 +9,17 @@ tags:
 lastupdate: 2025-01-23
 date: 2025-01-23
 ---
-![](../pics/image/2025-01-23-fom-html-cal-1737639635833.jpeg)
+![](../pics/2025-01-23-fom-html-cal_image_1.jpeg)
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
+
+## Update 2025-01-24 - Beta 1 
+
+-  3 Downloads möglich : (1) full (=2+3), (2) nur Verfügbarkeiten, (3) nur Termine
+
+![](../pics/2025-01-23-fom-html-cal_image_2.png)
+
+
+
 
 ## Ablauf - Schritte zum eigenen Kalender 
 
@@ -32,7 +41,7 @@ date: 2025-01-23
   </video>
 </figure>
 
-![](../pics/2025-01-23%2014-17-13.mp4)
+![](../pics/2025-01-23-fom-html-cal_video_1.mp4)
 
 
 ## Schritt 2: gespeicherte HTML -Datei hochladen, iCal - Kalender - Datei herunterladen 
@@ -43,7 +52,7 @@ date: 2025-01-23
   </video>
 </figure>
 
-![](../pics/2025-01-23%2014-18-01.mp4)
+![](../pics/2025-01-23-fom-html-cal_video_2.mp4)
 
 ## Schritt 3: neuen Google Kalender anlegen, iCal -Kalender - Datei importieren 
 <figure class="video_container">
@@ -59,8 +68,8 @@ date: 2025-01-23
 
 ## Beispiel Website - Ausschnitt
 
-![](../pics/image/2025-01-23-fom-html-cal-1737640665462.jpeg)
+![](../pics/2025-01-23-fom-html-cal_image_3.jpeg)
 
 ## Beispiel Kalender - Ansicht 
-![](../pics/image/2025-01-23-fom-html-cal-1737640691238.jpeg)
+![](../pics/2025-01-23-fom-html-cal_image_4.jpeg)
 
