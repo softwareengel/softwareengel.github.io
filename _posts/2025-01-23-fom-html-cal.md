@@ -14,10 +14,19 @@ date: 2025-01-23
 
 ## Update 2025-01-24 - Beta 1 
 
--  3 Downloads möglich : (1) full (=2+3), (2) nur Verfügbarkeiten, (3) nur Termine
+Es sind  nun 3 Kalender - Downloads möglich : 
+ 
+- (1) alles (=2+3): alle Verfügbarkeiten und alle Planungs-Termine 
+- (2) nur Verfügbarkeiten
+- (3) nur Planungs-Termine
+
+
 
 ![](../pics/2025-01-23-fom-html-cal_image_2.png)
 
+und Danke an einen der ersten Alpha-Tester, um den nutzen einmal zu zeigen, was fällt hier auf ;-) 
+
+![](../assets/file-20250124144228.jpg)
 
 
 

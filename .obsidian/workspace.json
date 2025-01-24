@@ -160,11 +160,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "666ab9f406f4d70f",
   "lastOpenFiles": [
+    "assets/file-20250124144228.jpg",
     "pics/2025-01-23-fom-html-cal_image_2.png",
     "src/2024-11-19-background-pic/test01.py",
     "src/2024-11-19-background-pic",
@@ -177,7 +179,6 @@
     "pics/image/2025-01-23-fom-html-cal-1737629902182.jpeg",
     "pics/image/2025-01-23-fom-html-cal-1737629969151.jpeg",
     "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118715722.jpeg",
-    "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118590440.jpeg",
     "pics/image",
     "pics/2025-01-23 14-21-43.mp4",
     "pics/2025-01-23 14-20-03.mp4",
