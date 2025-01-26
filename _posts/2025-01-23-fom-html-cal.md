@@ -12,6 +12,12 @@ date: 2025-01-23
 ![](../pics/2025-01-23-fom-html-cal_image_1.jpeg)
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
+
+## Update 2025-01-26 Beta 2
+
+- Termin - Typ ist mit drin ("K"lausur , "V"orlesung, "B"etreuung) , also erster Buchstabe von Typ 
+- Laufende Nummer des Termins und die Gesamtanzahl der Termine dieses Kurses ist mit drin 
+- Beispiel "B-BWIt SS25 DLS Management Grundlagen (3/8)"
 ## Update 2025-01-24 - Beta 1 
 
 Es sind  nun 3 Kalender - Downloads möglich : 
