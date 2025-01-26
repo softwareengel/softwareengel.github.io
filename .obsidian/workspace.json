@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bfa3fa7a9860b85",
+        "id": "584adb9bbd516d39",
         "type": "tabs",
         "children": [
           {
-            "id": "58c749e79fcdf8d3",
+            "id": "e50551f8ede5b56f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "_posts/2025-01-23-fom-html-cal.md",
-                "mode": "source",
-                "source": false
+                "file": "pics/2025-01-23-fom-html-cal_video_2.mp4"
               },
               "icon": "lucide-file",
-              "title": "2025-01-23-fom-html-cal"
-            }
-          },
-          {
-            "id": "8dc64feea563f0cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-01-23-fom-html-cal_video_2"
             }
           }
         ]
@@ -62,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mp4",
+                "query": "file:mp4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 314.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -103,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-24-markdown-static-websites.md",
+                "file": "_posts/2024-01-20-raspiCar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2022-06-24-markdown-static-websites"
+              "title": "Backlinks for 2024-01-20-raspiCar"
             }
           },
           {
@@ -122,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-06-24-markdown-static-websites.md",
+                "file": "_posts/2024-01-20-raspiCar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2022-06-24-markdown-static-websites"
+              "title": "Outgoing links from 2024-01-20-raspiCar"
             }
           },
           {
@@ -149,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-23-fom-html-cal.md"
+                "file": "pics/2025-01-23-fom-html-cal_video_2.mp4"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-23-fom-html-cal"
+              "title": "Outline of 2025-01-23-fom-html-cal_video_2"
             }
           }
         ],
@@ -160,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,56 +158,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58c749e79fcdf8d3",
+  "active": "495689b11f515e3f",
   "lastOpenFiles": [
-    "pics/2025-01-23-fom-html-cal_video_2.mp4",
-    "_posts/2025-01-23-fom-html-cal.md",
-    "pics/20240414152354Flipper.png",
-    "pics/Clipboard_05-28-2024_01.jpg",
-    "pics/Clipboard01.png",
-    "pics/DALL·E 2024-05-28 15.09.48 - A high-resolution, highly detailed pop art style desktop wallpaper depicting a tranquil natural landscape at sunrise. The scene features a calm lake r.webp",
-    "assets/file-20250124144228.jpg",
-    "pics/2025-01-23-fom-html-cal_image_2.png",
-    "src/2024-11-19-background-pic/test01.py",
-    "src/2024-11-19-background-pic",
-    "pics/2025-01-23-fom-html-cal_image_3.jpeg",
-    "pics/2025-01-23-fom-html-cal_image_4.jpeg",
-    "pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118641198.jpeg",
-    "pics/image/2025-01-23-fom-html-cal-1737640654096.jpeg",
-    "pics/image",
+    "pics/2025-01-23-fom-html-cal_video_1.mp4",
     "pics/2025-01-23 14-21-43.mp4",
     "pics/2025-01-23 14-20-03.mp4",
     "pics/2025-01-23 14-19-33.mp4",
-    "pics/2025-01-23-fom-html-cal_video_1.mp4",
-    "mnt/data",
-    "mnt",
-    "_posts/2022-06-24-markdown-static-websites.md",
-    "data/chatgpt-berater/chat-001.md",
-    "_posts/2022-09-21_notizen_09.md",
-    "_posts/2019-11-18-linklist-web-tools.md",
-    "_posts/2024-02-29-diy-llm-studio.md",
-    "_posts/2023-06-21-github-jekyll-themes.md",
-    "_posts/2023-02-28-notes-02-2023.md",
-    "_posts/2022-09-30-website-analyse.md",
+    "pics/tmp1724408133717_2024-08-23-GenAIProgrammierung_video_2.mp4",
+    "pics/2024-08-23-GenAIProgrammierung_video_2.mp4",
+    "pics/2024-08-23-GenAIProgrammierung_video_1.mp4",
+    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
+    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
+    "pics/2023-05-09-Qgis-hacks_video_1.mp4",
+    "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
+    "pics/tmp1718359584624_2024-06-14-screenshot_image_1.png",
+    "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
+    "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
+    "pics/tmp1723632444676_2023-11-30-ki-update_image_10.png",
+    "pics/tmp1723639631348_2023-05-09-Qgis-hacks_image_1.png",
+    "pics/tmp1723641314568_2023-05-09-Qgis-hacks_image_1.png",
+    "_posts/2025-01-23-fom-html-cal.md",
     "README.md",
-    "_posts/2021-08-12-wordle-tag-cloud.md",
+    "pics/2025-01-23-fom-html-cal_image_4.jpeg",
+    "pics/2025-01-23-fom-html-cal_image_3.jpeg",
+    "pics/2025-01-23-fom-html-cal_image_2.png",
+    "pics/2025-01-23-fom-html-cal_image_1.jpeg",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
-    "_posts/2021-11-18-odoo.md",
-    "_posts/2023-10-12-crop-video.md",
+    "categories.md",
+    "about.md",
+    "_posts/2020-03-11-obs-studio.md",
+    "_posts/2022-12-01-notes_12.md",
+    "_posts/2024-01-20-raspiCar.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-08-23-GenAIProgrammierung.md",
     "_posts/2024-04-05-raspi-logitech-media-server.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2024-02-08-logo-generation.md",
-    "_posts/2024-08-23-GenAIProgrammierung.md",
     "_posts/2023-05-09-Qgis-hacks.md",
     "_posts/2024-06-14-screenshot.md",
     "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
     "_posts/2021-01-27-webinar-tools.md",
-    "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-06-11-Online-Coding.md",
-    "_posts/2024-06-12-DeepL.md"
+    "_posts/2024-06-12-DeepL.md",
+    "_posts/2024-08-14-python-sqlite-web-IDE.md",
+    "_posts/2024-06-12-KI-suchmaschinen.md",
+    "_posts/2024-06-12-kaitai.md",
+    "_posts/2023-10-12-crop-video.md",
+    "_posts/2023-04-14-chatgpt-stabelediffusion-prompt.md",
+    "_posts/2022-11-01-notes11.md"
   ]
 }
