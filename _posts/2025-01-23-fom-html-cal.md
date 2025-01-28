@@ -87,3 +87,26 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 ## Beispiel Kalender - Ansicht 
 ![](../pics/2025-01-23-fom-html-cal_image_4.jpeg)
 
+## Weitere Informationen und Ansichten 
+
+
+### Ansicht Google Import 
+![](../assets/file-20250128131346.jpg)
+
+### Ansicht Google Kalender nach Full - iCal - Import 
+
+![](../assets/file-20250128132507.jpg)
+
+### Ansicht Google Kalender nur Termine iCal Import 
+
+![](../assets/file-20250128132249.jpg)
+
+
+### Ansicht Google Kalender iCal Verfügbarkeiten nach Import 
+
+![](../assets/file-20250128132326.jpg)
+
+
+### Ansicht Woche mit Klausur und Vorlesung 
+
+![](../assets/file-20250128132725.jpg)
