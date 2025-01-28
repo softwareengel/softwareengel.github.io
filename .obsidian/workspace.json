@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2025-01-23-fom-html-cal.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-01-23-fom-html-cal"
@@ -166,6 +166,7 @@
   },
   "active": "d4bf0c9ad12701b9",
   "lastOpenFiles": [
+    "assets/2025-01-28-13-40-42.mp4",
     "assets/file-20250128132725.jpg",
     "assets/file-20250128132507.jpg",
     "assets/file-20250128132326.jpg",
@@ -186,7 +187,6 @@
     "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
     "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
     "pics/tmp1723632444676_2023-11-30-ki-update_image_10.png",
-    "pics/tmp1723639631348_2023-05-09-Qgis-hacks_image_1.png",
     "_posts/2025-01-23-fom-html-cal.md",
     "README.md",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",

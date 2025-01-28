@@ -110,3 +110,15 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 ### Ansicht Google Wochen-Kalender nach Full - iCal - Import mit Beispielterminen "Klausur" und "Vorlesung" 
 
 ![](../assets/file-20250128132725.jpg)
+
+
+### Google Kalender Löschen von Terminen 
+
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-28-13-40-42.mp4">
+    <source src="/pics/2025-01-28-13-40-42.mp4" type="video/mp4">
+  </video>
+</figure>
+
+
+![](../assets/2025-01-28-13-40-42.mp4)
