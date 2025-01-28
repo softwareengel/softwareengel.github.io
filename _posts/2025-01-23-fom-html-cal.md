@@ -13,6 +13,10 @@ date: 2025-01-23
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 
+## Update 2025-01-28-Beta 3
+- Klausuren beider Nummerierung nicht berücksichtigt 
+
+![](../assets/file-20250128150519.jpg)
 ## Update 2025-01-26 Beta 2
 
 - Termin - Typ ist mit drin ("K"lausur , "V"orlesung, "B"etreuung) , also erster Buchstabe von Typ 
