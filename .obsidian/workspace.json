@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-23-fom-html-cal.md",
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-23-fom-html-cal"
+              "title": "2023-10-11-Libadwaita-game-launcher"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mp4",
+                "query": "bubble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-20-raspiCar.md",
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-01-20-raspiCar"
+              "title": "Backlinks for 2023-10-11-Libadwaita-game-launcher"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-20-raspiCar.md",
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-01-20-raspiCar"
+              "title": "Outgoing links from 2023-10-11-Libadwaita-game-launcher"
             }
           },
           {
@@ -139,14 +140,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-23-fom-html-cal.md"
+                "file": "_posts/2023-10-11-Libadwaita-game-launcher.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-23-fom-html-cal"
+              "title": "Outline of 2023-10-11-Libadwaita-game-launcher"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,6 +167,11 @@
   },
   "active": "d4bf0c9ad12701b9",
   "lastOpenFiles": [
+    "_posts/2023-10-10-paperless-ng.md",
+    "_posts/2023-10-11-ferrpic-editor.md",
+    "_posts/2023-10-11-kids-science.md",
+    "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
+    "_posts/2025-01-23-fom-html-cal.md",
     "assets/file-20250128142808.jpg",
     "assets/file-20250128142659.jpg",
     "pics/2025-01-28-13-40-42.mp4",
@@ -183,11 +189,8 @@
     "pics/2025-01-23 14-19-33.mp4",
     "pics/tmp1724408133717_2024-08-23-GenAIProgrammierung_video_2.mp4",
     "pics/2024-08-23-GenAIProgrammierung_video_2.mp4",
-    "pics/2024-08-23-GenAIProgrammierung_video_1.mp4",
     "pics/tmp1718359584624_2024-06-14-screenshot_image_1.png",
     "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
-    "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
-    "_posts/2025-01-23-fom-html-cal.md",
     "README.md",
     "_posts/2024-03-15-fom-excel-termin-dropzone-ics.md",
     "categories.md",
@@ -209,8 +212,6 @@
     "_posts/2024-08-14-python-sqlite-web-IDE.md",
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "_posts/2024-06-12-kaitai.md",
-    "_posts/2023-10-12-crop-video.md",
-    "_posts/2023-04-14-chatgpt-stabelediffusion-prompt.md",
-    "_posts/2022-11-01-notes11.md"
+    "_posts/2023-10-12-crop-video.md"
   ]
 }
