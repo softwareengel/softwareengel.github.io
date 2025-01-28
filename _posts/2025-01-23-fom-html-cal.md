@@ -107,6 +107,6 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 ![](../assets/file-20250128132326.jpg)
 
 
-### Ansicht Woche mit Klausur und Vorlesung 
+### Ansicht Google Wochen-Kalender nach Full - iCal - Import mit Beispielterminen "Klausur" und "Vorlesung" 
 
 ![](../assets/file-20250128132725.jpg)
