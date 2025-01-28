@@ -122,3 +122,16 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 
 
 ![](../pics/2025-01-28-13-40-42.mp4)
+
+
+
+### Google Kalender Plugin zum Löschen nach Filter 
+
+
+![](../assets/file-20250128142659.jpg)
+#### Google Calendar Toolbox 
+
+![](../assets/file-20250128142808.jpg)
+Links:
+
+<https://workspace.google.com/u/0/marketplace/app/calendar_toolbox/517631215797>
