@@ -121,4 +121,4 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 </figure>
 
 
-![](../assets/2025-01-28-13-40-42.mp4)
+![](../pics/2025-01-28-13-40-42.mp4)

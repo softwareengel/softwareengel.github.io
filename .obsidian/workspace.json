@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2025-01-23-fom-html-cal.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2025-01-23-fom-html-cal"
@@ -166,6 +166,7 @@
   },
   "active": "d4bf0c9ad12701b9",
   "lastOpenFiles": [
+    "pics/2025-01-28-13-40-42.mp4",
     "assets/2025-01-28-13-40-42.mp4",
     "assets/file-20250128132725.jpg",
     "assets/file-20250128132507.jpg",
@@ -182,7 +183,6 @@
     "pics/2024-08-23-GenAIProgrammierung_video_2.mp4",
     "pics/2024-08-23-GenAIProgrammierung_video_1.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
-    "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/tmp1718359584624_2024-06-14-screenshot_image_1.png",
     "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
     "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
