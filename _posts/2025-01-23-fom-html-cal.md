@@ -15,16 +15,8 @@ date: 2025-01-23
 
 ## Update 2025-01-28-Beta 3
 
-- Klausuren beider Nummerierung nicht berücksichtigt 
+- Klausuren beider Nummerierung nicht berücksichtigt [[]]
 - Show Online ! Kalender online anschauen 
-
-
-![](../assets/file-20250128150519.jpg)
-### Beispiel Screen 
-![](../assets/file-20250128160314.jpg)
-### Beispiel Screen 
-![](../assets/file-20250128161501.jpg)
-
 
 ## Update 2025-01-26 Beta 2
 
@@ -148,3 +140,16 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 Links:
 
 <https://workspace.google.com/u/0/marketplace/app/calendar_toolbox/517631215797>
+
+
+### Neue Nummerierung der Termine 
+
+![](../assets/file-20250128150519.jpg)
+
+### Beispiel Screen Show online 
+![](../assets/file-20250128160314.jpg)
+
+
+### ### Beispiel Screen Show Online Kalender 
+
+![](../assets/file-20250128161501.jpg)
