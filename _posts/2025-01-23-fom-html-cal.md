@@ -1,11 +1,12 @@
 ---
 layout: post
 title: FOM OC Verfügbarkeiten und Termine von HTML in Kalender kopieren
-categories: []
+categories: 
 tags:
   - Python
   - Hacks
   - Fom
+  - Calendar
 lastupdate: 2025-01-23
 date: 2025-01-23
 ---
