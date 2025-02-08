@@ -11,12 +11,14 @@
             "id": "e50551f8ede5b56f",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "pics/2025-01-23-fom-html-cal_video_2.mp4"
+                "file": "_posts/2024-01-19-autonomer-werstoffhof.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-23-fom-html-cal_video_2"
+              "title": "2024-01-19-autonomer-werstoffhof"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -50,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mp4",
+                "query": "ahlen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,10 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pics/2025-01-23-fom-html-cal_video_2.mp4"
+                "file": "_posts/2024-01-19-autonomer-werstoffhof.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-23-fom-html-cal_video_2"
+              "title": "Outline of 2024-01-19-autonomer-werstoffhof"
             }
           }
         ],
@@ -161,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "495689b11f515e3f",
+  "active": "e50551f8ede5b56f",
   "lastOpenFiles": [
+    "pics/2025-01-23-fom-html-cal_video_2.mp4",
     "pics/2025-01-23-fom-html-cal_video_1.mp4",
     "pics/2025-01-23 14-21-43.mp4",
     "pics/2025-01-23 14-20-03.mp4",
@@ -173,7 +181,6 @@
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_2.mp4",
     "pics/2024-03-15-fom-excel-termin-dropzone-ics_video_1.mp4",
     "pics/2023-05-09-Qgis-hacks_video_1.mp4",
-    "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
     "pics/tmp1718359584624_2024-06-14-screenshot_image_1.png",
     "pics/tmp1719235377841_2024-06-24-chat_image_1.png",
     "pics/tmp1719836120925_2024-07-01-DIY-LLM-RAG_image_1.png",
