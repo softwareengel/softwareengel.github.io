@@ -5,12 +5,7 @@ categories: [Games]
 tags: [Games]
 ---
 
-<figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" poster="/pics/20231012100623_bubbleBobble.png">
-    <source src="/mov/2023-10-11-13-09-12-bubble-bobble.mp4" type="video/mp4">
-  </video>
-</figure>
-
+![](../pics/2023-10-11-Libadwaita-game-launcher_image_4.png)
 
 
 # Games

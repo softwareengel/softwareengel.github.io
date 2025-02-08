@@ -1,17 +1,23 @@
 ---
 layout: post
 title: FOM OC Verfügbarkeiten und Termine von HTML in Kalender kopieren
-categories: []
+categories: 
 tags:
   - Python
   - Hacks
   - Fom
+  - Calendar
 lastupdate: 2025-01-23
 date: 2025-01-23
 ---
 ![](../pics/2025-01-23-fom-html-cal_image_1.jpeg)
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
+
+## Update 2025-01-28-Beta 3
+
+- Klausuren beider Nummerierung nicht berücksichtigt [[]]
+- Show Online ! Kalender online anschauen 
 
 ## Update 2025-01-26 Beta 2
 
@@ -27,10 +33,9 @@ Es sind  nun 3 Kalender - Downloads möglich :
 - (3) nur Planungs-Termine
 
 
-
 ![](../pics/2025-01-23-fom-html-cal_image_2.png)
 
-und Danke an einen der ersten Alpha-Tester, um den Nutzen einmal zu zeigen, was fällt hier auf ;-) ?
+und Danke an einen der ersten Alpha-Tester, um den Nutzen einmal zu zeigen: was fällt hier auf ;-) ?
 
 ![](../assets/file-20250124144228.jpg)
 
@@ -88,3 +93,64 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 ## Beispiel Kalender - Ansicht 
 ![](../pics/2025-01-23-fom-html-cal_image_4.jpeg)
 
+## Weitere Informationen und Ansichten 
+
+
+### Ansicht Google Import 
+![](../assets/file-20250128131346.jpg)
+
+### Ansicht Google Kalender nach Full - iCal - Import 
+
+![](../assets/file-20250128132507.jpg)
+
+### Ansicht Google Kalender nur Termine iCal Import 
+
+![](../assets/file-20250128132249.jpg)
+
+
+### Ansicht Google Kalender iCal Verfügbarkeiten nach Import 
+
+![](../assets/file-20250128132326.jpg)
+
+
+### Ansicht Google Wochen-Kalender nach Full - iCal - Import mit Beispielterminen "Klausur" und "Vorlesung" 
+
+![](../assets/file-20250128132725.jpg)
+
+
+### Google Kalender: löschen von Terminen 
+
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-28-13-40-42.mp4">
+    <source src="/pics/2025-01-28-13-40-42.mp4" type="video/mp4">
+  </video>
+</figure>
+
+
+![](../pics/2025-01-28-13-40-42.mp4)
+
+
+
+### Google Kalender Plugin zum Löschen nach Filter 
+
+
+![](../assets/file-20250128142659.jpg)
+#### Google Calendar Toolbox 
+
+![](../assets/file-20250128142808.jpg)
+Links:
+
+<https://workspace.google.com/u/0/marketplace/app/calendar_toolbox/517631215797>
+
+
+### Neue Nummerierung der Termine 
+
+![](../assets/file-20250128150519.jpg)
+
+### Beispiel Screen Show online 
+![](../assets/file-20250128160314.jpg)
+
+
+### ### Beispiel Screen Show Online Kalender 
+
+![](../assets/file-20250128161501.jpg)
