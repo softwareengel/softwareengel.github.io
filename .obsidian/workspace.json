@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "226ec33e3658290e",
+        "id": "b6843b08d080ff19",
         "type": "tabs",
         "children": [
           {
-            "id": "d4bf0c9ad12701b9",
+            "id": "0cf37129c3e8c97d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-12-07-ide-hacks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2023-12-07-ide-hacks"
-            }
-          },
-          {
-            "id": "c343687736720e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-12-07-ide-hacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-12-07-ide-hacks"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-07-ide-hacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2023-12-07-ide-hacks"
+              "title": "Outline"
             }
           }
         ],
@@ -182,12 +162,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c343687736720e1f",
+  "active": "0cf37129c3e8c97d",
   "lastOpenFiles": [
+    "_posts/2023-12-07-ide-hacks.md",
+    "_drafts/2024-01-19-autonomer-werstoffhof.md",
+    "_drafts",
+    "_posts/_drafts",
     "_posts/2024-01-19-autonomer-werstoffhof.md",
     "_posts/archiv/2024-01-19-autonomer-werstoffhof.md",
     "_posts/archiv",
-    "_posts/2023-12-07-ide-hacks.md",
     "_posts/2024-01-20-raspiCar.md",
     "_posts/2024-02-15-surface888.md",
     "_posts/2024-05-28-Prompts.md",
@@ -211,7 +194,6 @@
     "_posts/2020-01-28-docker.md",
     "_posts/2020-01-17-raspberry-raspi-esp32-setup.md",
     "_posts/2020-01-21-big-data-eco-systems.md",
-    "_posts/2019-07-17-Odata -Asp.net - core .md",
     "assets/file-20250128161501.jpg",
     "assets/file-20250128160314.jpg",
     "assets/file-20250128160245.jpg",
@@ -227,8 +209,6 @@
     "pics/2025-01-23-fom-html-cal_video_2.mp4",
     "pics/2025-01-23-fom-html-cal_video_1.mp4",
     "pics/2025-01-23 14-21-43.mp4",
-    "pics/2025-01-23 14-20-03.mp4",
-    "pics/2025-01-23 14-19-33.mp4",
-    "pics/tmp1724408133717_2024-08-23-GenAIProgrammierung_video_2.mp4"
+    "pics/2025-01-23 14-20-03.mp4"
   ]
 }
