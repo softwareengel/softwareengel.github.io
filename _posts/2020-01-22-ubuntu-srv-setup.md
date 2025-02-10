@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: Ubuntu 18 Server Setup in VirualBox
 categories: [ubuntu]
 tags: [ubuntu,server]
---- 
+---
 
 # Ubuntu Server Setup in VirualBox
 

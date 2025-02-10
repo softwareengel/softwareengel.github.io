@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: Dotnet und Syslog  
 categories: [Logging]
 tags: [dotnet, rsyslog, ubuntu, dotnet core, greylog, elk]
---- 
+---
 
 # Dotnet und Syslog 
 
