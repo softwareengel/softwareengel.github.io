@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: Autonomer Wertstoffhof
 categories: 
 tags:

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2020-01-22-ubuntu-srv-setup.md",
+                "file": "_posts/2024-01-19-autonomer-werstoffhof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2020-01-22-ubuntu-srv-setup"
+              "title": "2024-01-19-autonomer-werstoffhof"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-01-22-ubuntu-srv-setup.md",
+                "file": "_posts/2024-01-19-autonomer-werstoffhof.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2020-01-22-ubuntu-srv-setup"
+              "title": "Outline of 2024-01-19-autonomer-werstoffhof"
             }
           }
         ],
@@ -169,33 +169,33 @@
   },
   "active": "d4bf0c9ad12701b9",
   "lastOpenFiles": [
+    "_posts/2023-12-07-ide-hacks.md",
+    "_posts/2024-01-20-raspiCar.md",
+    "_posts/2024-02-15-surface888.md",
+    "_posts/2024-05-28-Prompts.md",
+    "_posts/2024-06-04-ReifegradCheck.md",
+    "_posts/2024-06-11-Online-Coding.md",
+    "_posts/2024-07-01-DIY-LLM-RAG.md",
+    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+    "_posts/2024-07-02-ocr-feature.md",
+    "_posts/2024-08-14-python-sqlite-web-IDE.md",
+    "_posts/2024-08-23-GenAIProgrammierung.md",
+    "_posts/2024-08-30-powerpoint-text-copy.md",
+    "_posts/2025-01-23-fom-html-cal.md",
+    "_posts/2024-06-12-KI-suchmaschinen.md",
+    "_posts/2024-06-12-x32dbg-x63dbg.md",
+    "_posts/2024-06-14-screenshot.md",
+    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
+    "_posts/logo_engels_4P.jpg",
+    "_posts/2020-01-17-synology-carddav-caldav.md",
+    "_posts/2020-01-22-ubuntu-srv-setup.md",
     "_posts/2020-01-28-dotnet-syslog.md",
     "_posts/2020-01-28-docker.md",
     "_posts/2020-01-17-raspberry-raspi-esp32-setup.md",
-    "_posts/2020-01-17-synology-carddav-caldav.md",
     "_posts/2020-01-21-big-data-eco-systems.md",
     "_posts/2019-07-17-Odata -Asp.net - core .md",
     "_posts/2001-05-05-Fundstück Logo 2001.md",
     "_posts/2009-04-29-spot-serviceengineering.md",
-    "_posts/2005-06-06-vaplan-veranstaltungsplaner.md",
-    "_posts/2024-01-19-autonomer-werstoffhof.md",
-    "_posts/2024-06-11-Online-Coding.md",
-    "_posts/2025-01-23-fom-html-cal.md",
-    "README.md",
-    "_posts/2023-12-07_phind.md",
-    "_posts/2023-12-07-ide-hacks.md",
-    "_posts/2024-01-15-turing_way.md",
-    "_posts/2023-11-09-osm-street_mapping.md",
-    "_posts/2023-11-10-qgis.md",
-    "_posts/2023-11-16-entsorgungsmeldung.md",
-    "_posts/2023-11-22-raspi-airgeddon.md",
-    "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md",
-    "_posts/2023-11-30-ki-update.md",
-    "_posts/2023-12-06-ki-hacks.md",
-    "_posts/2023-12-09_superduper.md",
-    "_posts/2023-12-22-powerpoint-shortcuts.md",
-    "_posts/2024-01-20-raspiCar.md",
-    "_posts/logo_engels_4P.jpg",
     "assets/file-20250128161501.jpg",
     "assets/file-20250128160314.jpg",
     "assets/file-20250128160245.jpg",
