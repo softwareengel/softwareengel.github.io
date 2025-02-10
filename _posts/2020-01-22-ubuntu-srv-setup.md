@@ -5,7 +5,7 @@ categories: [ubuntu]
 tags: [ubuntu,server]
 ---
 
-# Ubuntu Server Setup in VirualBox
+# Ubuntu Server Setup in VirtualBox
 
 - ubuntu 18.04.02 + 1GB Ram , 10 GB HDD
 - keyboard GER 
