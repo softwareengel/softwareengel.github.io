@@ -14,8 +14,10 @@ date: 2025-01-23
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 
-## Update Beta 4
+## Update 2025-01-28 Beta 4
+
 - Liste der Termine sortiert nach Modul und Gruppe 
+- Anführungszeichen entfernt,  Encodin- Probleme gelöst 
 ## Update 2025-01-28-Beta 3
 
 - Klausuren beider Nummerierung nicht berücksichtigt 
