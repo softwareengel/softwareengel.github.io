@@ -14,10 +14,12 @@ date: 2025-01-23
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 
+## Update Beta 4
+- Liste der Termine sortiert nach Modul und Gruppe 
 ## Update 2025-01-28-Beta 3
 
-- Klausuren beider Nummerierung nicht berücksichtigt [[]]
-- Show Online ! Kalender online anschauen 
+- Klausuren beider Nummerierung nicht berücksichtigt 
+- Show Online! Kalender online anschauen 
 
 ## Update 2025-01-26 Beta 2
 
