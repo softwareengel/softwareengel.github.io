@@ -18,6 +18,7 @@ date: 2025-01-23
 
 - Liste der Termine sortiert nach Modul und Gruppe 
 - Anführungszeichen entfernt,  Encoding- Probleme gelöst 
+
 ## Update 2025-01-28-Beta 3
 
 - Klausuren beider Nummerierung nicht berücksichtigt 
@@ -28,6 +29,7 @@ date: 2025-01-23
 - Termin - Typ ist mit drin ("K"lausur , "V"orlesung, "B"etreuung) , also erster Buchstabe von Typ 
 - Laufende Nummer des Termins und die Gesamtanzahl der Termine dieses Kurses ist mit drin 
 - Beispiel "B-BWIt SS25 DLS Management Grundlagen (3/8)"
+
 ## Update 2025-01-24 - Beta 1 
 
 Es sind  nun 3 Kalender - Downloads möglich : 
