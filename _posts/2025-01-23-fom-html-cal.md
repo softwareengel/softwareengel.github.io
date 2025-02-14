@@ -17,7 +17,7 @@ date: 2025-01-23
 ## Update 2025-01-28 Beta 4
 
 - Liste der Termine sortiert nach Modul und Gruppe 
-- Anführungszeichen entfernt,  Encodin- Probleme gelöst 
+- Anführungszeichen entfernt,  Encoding- Probleme gelöst 
 ## Update 2025-01-28-Beta 3
 
 - Klausuren beider Nummerierung nicht berücksichtigt 
@@ -157,6 +157,6 @@ Links:
 ![](../assets/file-20250128160314.jpg)
 
 
-### ### Beispiel Screen Show Online Kalender 
+### Beispiel Screen Show Online Kalender 
 
 ![](../assets/file-20250128161501.jpg)
