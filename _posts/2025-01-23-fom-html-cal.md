@@ -14,17 +14,17 @@ date: 2025-01-23
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 
-## Update 2025-01-28 Beta 4
+## Update 2025-01-28 - Beta 4
 
 - Liste der Termine sortiert nach Modul und Gruppe 
 - Anführungszeichen entfernt,  Encoding- Probleme gelöst 
 
-## Update 2025-01-28-Beta 3
+## Update 2025-01-28 - Beta 3
 
 - Klausuren beider Nummerierung nicht berücksichtigt 
 - Show Online! Kalender online anschauen 
 
-## Update 2025-01-26 Beta 2
+## Update 2025-01-26 - Beta 2
 
 - Termin - Typ ist mit drin ("K"lausur , "V"orlesung, "B"etreuung) , also erster Buchstabe von Typ 
 - Laufende Nummer des Termins und die Gesamtanzahl der Termine dieses Kurses ist mit drin 
@@ -155,7 +155,7 @@ Links:
 ![](../assets/file-20250213122208.jpg)
 
 
-### Beispiel Screen Show online 
+### Beispiel Screen Show Online 
 ![](../assets/file-20250128160314.jpg)
 
 
