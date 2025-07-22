@@ -113,7 +113,9 @@ Testen
 ```
 L:\>git pull
 Already up to date.
-syn```
+syn
+```
+
 Erfolg: Neuer Pub-Key wurde benutzt 
 
 ![](../pics/2023-06-02-ssh-git-update_image_6.png)
