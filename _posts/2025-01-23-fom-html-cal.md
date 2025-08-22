@@ -16,7 +16,7 @@ date: 2025-01-23
 
 ## Update 2025-08-22- Full Video: Vom OC HTML zur Kalender-Integration 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2025-01-23-fom-html-cal_video_1.mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="https://drive.google.com/file/d/1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK/view">
     <source src="https://drive.google.com/file/d/1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK/view" type="video/mp4">
   </video>
 </figure>

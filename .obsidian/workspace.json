@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6843b08d080ff19",
+        "id": "64f43dfa0dd0fb3b",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf37129c3e8c97d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/file-20250128150519.jpg"
-              },
-              "pinned": true,
-              "icon": "lucide-image",
-              "title": "file-20250128150519"
-            }
-          },
-          {
-            "id": "32b0287cae1d3d3b",
+            "id": "24028e5c9bd60684",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "2025-01-23-fom-html-cal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 609.5
+    "width": 429.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -155,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-23-fom-html-cal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-23-fom-html-cal"
+              "title": "Outline"
             }
           }
         ],
@@ -183,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32b0287cae1d3d3b",
+  "active": "24028e5c9bd60684",
   "lastOpenFiles": [
     "assets/file-20250128150519.jpg",
     "_posts/2025-01-23-fom-html-cal.md",
