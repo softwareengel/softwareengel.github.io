@@ -16,30 +16,6 @@ date: 2025-01-23
 
 ## Update 2025-08-22- Full Video: Vom OC HTML zur Kalender-Integration 
 
-<figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="../pics/2025-01-23-fom-html-cal_image_1.jpeg">
-    <source src="https://drive.google.com/uc?export=download&id=1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK" type="video/mp4">
-  </video>
-</figure>
-
-<figure class="video_container">
-<video controls playsinline width="100%" poster="../pics/2025-01-23-fom-html-cal_image_1.jpeg">
-  <source src="https://drive.google.com/uc?export=download&id=1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
-</video>
-</figure>
-
-<figure class="video_container">
-<iframe
-  src="https://drive.google.com/file/d/1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK/preview"
-  width="100%" height="480" allow="autoplay">
-</iframe>
-</figure>
-
-<video controls playsinline width="100%" poster="../pics/2025-01-23-fom-html-cal_image_1.jpeg">
-  <source src="https://drive.google.com/uc?export=download&id=1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
-</video>
 
 
 <iframe
