@@ -10,6 +10,20 @@
           {
             "id": "0cf37129c3e8c97d",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/file-20250128150519.jpg"
+              },
+              "pinned": true,
+              "icon": "lucide-image",
+              "title": "file-20250128150519"
+            }
+          },
+          {
+            "id": "32b0287cae1d3d3b",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -21,7 +35,8 @@
               "title": "2025-01-23-fom-html-cal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wertstoff",
+                "query": "20250213122208",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 609.5
   },
   "right": {
     "id": "c5067092a0110c0b",
@@ -115,7 +130,7 @@
               "state": {
                 "file": "_posts/2025-01-23-fom-html-cal.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links from 2025-01-23-fom-html-cal"
@@ -150,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,9 +183,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cf37129c3e8c97d",
+  "active": "32b0287cae1d3d3b",
   "lastOpenFiles": [
-    "pics/image/2025-01-23-fom-html-cal-1755861683704.jpeg",
+    "assets/file-20250128150519.jpg",
+    "_posts/2025-01-23-fom-html-cal.md",
+    "assets/file-20250128161501.jpg",
+    "assets/file-20250128142808.jpg",
+    "assets/file-20250128142659.jpg",
+    "assets/file-20250128132507.jpg",
+    "assets/file-20250128132725.jpg",
+    "assets/file-20250128132326.jpg",
+    "assets/file-20250128132249.jpg",
+    "assets/file-20250128132212.jpg",
+    "assets/file-20250128131346.jpg",
     "_posts/2024-06-14-screenshot-Fireshot.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "README.md",
@@ -191,27 +216,16 @@
     "_posts/2024-07-02-ocr-feature.md",
     "_posts/2024-08-14-python-sqlite-web-IDE.md",
     "_posts/2024-08-23-GenAIProgrammierung.md",
-    "_posts/2025-01-23-fom-html-cal.md",
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2024-06-14-screenshot.md",
     "_posts/2024-07-01-DIY-LLM-local-python-client.md",
-    "_posts/logo_engels_4P.jpg",
     "_posts/2020-01-17-synology-carddav-caldav.md",
     "_posts/2020-01-22-ubuntu-srv-setup.md",
     "_posts/2020-01-28-dotnet-syslog.md",
-    "assets/file-20250128161501.jpg",
-    "assets/file-20250128160314.jpg",
-    "assets/file-20250128160245.jpg",
-    "assets/file-20250128150519.jpg",
     "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
-    "assets/file-20250128142808.jpg",
-    "assets/file-20250128142659.jpg",
     "pics/2025-01-28-13-40-42.mp4",
     "assets/2025-01-28-13-40-42.mp4",
-    "assets/file-20250128132725.jpg",
-    "assets/file-20250128132507.jpg",
-    "assets/file-20250128132326.jpg",
     "pics/2025-01-23-fom-html-cal_video_2.mp4",
     "pics/2025-01-23-fom-html-cal_video_1.mp4",
     "pics/2025-01-23 14-21-43.mp4",
