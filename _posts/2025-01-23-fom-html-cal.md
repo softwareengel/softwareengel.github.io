@@ -22,6 +22,31 @@ date: 2025-01-23
   </video>
 </figure>
 
+<figure class="video_container">
+<video controls playsinline width="100%" poster="../pics/2025-01-23-fom-html-cal_image_1.jpeg">
+  <source src="https://drive.google.com/uc?export=download&id=1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+</figure>
+
+<figure class="video_container">
+<iframe
+  src="https://drive.google.com/file/d/1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK/preview"
+  width="100%" height="480" allow="autoplay">
+</iframe>
+</figure>
+
+<video controls playsinline width="100%" poster="../pics/2025-01-23-fom-html-cal_image_1.jpeg">
+  <source src="https://drive.google.com/uc?export=download&id=1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+
+
+<iframe
+  src="https://drive.google.com/file/d/1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK/preview"
+  width="100%" height="480" allow="autoplay">
+</iframe>
+
 ## Update 2025-01-28 - Beta 4
 
 - Liste der Termine sortiert nach Modul und Gruppe 
