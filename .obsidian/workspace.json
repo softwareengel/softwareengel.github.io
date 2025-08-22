@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20250213122208",
+                "query": "wertst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,14 @@
   },
   "active": "24028e5c9bd60684",
   "lastOpenFiles": [
-    "assets/file-20250128150519.jpg",
+    "_posts/2023-11-30-einsparung-depotcontainer-tourenplanung.md",
+    "_posts/2023-11-22-raspi-airgeddon.md",
+    "_posts/2023-11-16-entsorgungsmeldung.md",
+    "_posts/2023-11-10-qgis.md",
+    "_posts/2023-07-07-iot-basierte-umleerbehälterplanung.md",
+    "_drafts/2024-01-19-autonomer-werstoffhof.md",
     "_posts/2025-01-23-fom-html-cal.md",
+    "assets/file-20250128150519.jpg",
     "assets/file-20250128161501.jpg",
     "assets/file-20250128142808.jpg",
     "assets/file-20250128142659.jpg",
@@ -184,7 +191,6 @@
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "README.md",
     "_posts/2023-12-07-ide-hacks.md",
-    "_drafts/2024-01-19-autonomer-werstoffhof.md",
     "_drafts",
     "_posts/_drafts",
     "_posts/2024-01-19-autonomer-werstoffhof.md",
@@ -203,10 +209,6 @@
     "_posts/2024-06-12-KI-suchmaschinen.md",
     "_posts/2024-06-12-x32dbg-x63dbg.md",
     "_posts/2024-06-14-screenshot.md",
-    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
-    "_posts/2020-01-17-synology-carddav-caldav.md",
-    "_posts/2020-01-22-ubuntu-srv-setup.md",
-    "_posts/2020-01-28-dotnet-syslog.md",
     "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
     "pics/2025-01-28-13-40-42.mp4",
     "assets/2025-01-28-13-40-42.mp4",

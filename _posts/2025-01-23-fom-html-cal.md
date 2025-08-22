@@ -15,9 +15,10 @@ date: 2025-01-23
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 ## Update 2025-08-22- Full Video: Vom OC HTML zur Kalender-Integration 
+
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="https://drive.google.com/file/d/1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK/view">
-    <source src="https://drive.google.com/file/d/1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK/view" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="../pics/2025-01-23-fom-html-cal_image_1.jpeg">
+    <source src="https://drive.google.com/uc?export=download&id=1SFLyPPYfpg-rZiKVzSc2pRNrNdGaOrQK" type="video/mp4">
   </video>
 </figure>
 
@@ -151,6 +152,7 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 #### Google Calendar Toolbox 
 
 ![](../assets/file-20250128142808.jpg)
+
 Links:
 
 <https://workspace.google.com/u/0/marketplace/app/calendar_toolbox/517631215797>
