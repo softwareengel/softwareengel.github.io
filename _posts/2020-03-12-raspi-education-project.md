@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title: "Project Raspberry Pi Zero EDUcation"
 categories: [EDU]
 tags: [Raspi, Education, Onboarding, LED, Coding]
---- 
+---
+
 Raspi startup for Education : connected traffic lights 
 
 # Project Raspberry Pi Zero EDUcation  
