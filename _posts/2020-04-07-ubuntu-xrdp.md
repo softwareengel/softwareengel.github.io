@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: RDP Install Skript for Ubuntu *tested* 
 categories: [Linux]

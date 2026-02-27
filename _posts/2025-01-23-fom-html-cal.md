@@ -14,6 +14,32 @@ date: 2025-01-23
 
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
+
+## Url:  https://hq.softwareengel.de:30334/
+
+![](../assets/file-20260227183329.jpg)
+
+## Update 2026-02-27 Small Fixes V.0.1.7
+
+
+- Erkennung komplizierter Namen Zusammansetzunggen 
+- Erstellung Terminliste mit laufender Nummer und Berechnung Summe UE (fixed )
+
+![](../assets/file-20260227182730.jpg)
+
+- Online Kalender für 
+	- ical  - Export Verhinderungen + Termine  + Online Kalender 
+	- ical  - Export Nur Verfügbarkeiten  + Online Kalender View 
+	- ical - Export nur Termine + Online Kalender View 
+- txt - Export Check der Termin - Liste 
+
+![](../assets/file-20260227183022.jpg)
+
+
+
+![](../assets/file-20260227182831.jpg)
+
+
 ## Update 2025-08-22- Full Video: Vom OC HTML zur Kalender-Integration 
 
 

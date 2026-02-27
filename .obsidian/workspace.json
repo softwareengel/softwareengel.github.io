@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "226ec33e3658290e",
+        "id": "2d8149f9e3b61330",
         "type": "tabs",
         "children": [
           {
-            "id": "d4bf0c9ad12701b9",
+            "id": "72c2a275f747cbca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2020-03-12-raspi-education-project.md",
+                "file": "_posts/2025-01-23-fom-html-cal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2020-03-12-raspi-education-project"
+              "title": "2025-01-23-fom-html-cal"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rdp",
+                "query": "ssl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-03-12-raspi-education-project.md",
+                "file": "_posts/2025-01-23-fom-html-cal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2020-03-12-raspi-education-project"
+              "title": "Outline of 2025-01-23-fom-html-cal"
             }
           }
         ],
@@ -170,11 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4bf0c9ad12701b9",
+  "active": "72c2a275f747cbca",
   "lastOpenFiles": [
-    "_posts/2021-08-12-wordle-tag-cloud.md",
-    "_posts/2024-05-17-win_wsl_gui.md",
+    "assets/file-20260227183329.jpg",
+    "assets/file-20260227183022.jpg",
+    "assets/file-20260227182831.jpg",
+    "assets/file-20260227182730.jpg",
     "_posts/2023-06-02-ssh-git-update.md",
+    "_posts/2020-03-12-raspi-education-project.md",
+    "_posts/2024-05-17-win_wsl_gui.md",
+    "_posts/2021-08-12-wordle-tag-cloud.md",
+    "_posts/2020-04-07-ubuntu-xrdp.md",
+    "conflict-files-obsidian-git.md",
+    "pics/image/2025-01-23-fom-html-cal-1755861683704.jpeg",
     "_posts/2020-01-22-ubuntu-srv-setup.md",
     "_posts/2024-05-06-onlineColabTools.md",
     "_posts/2024-04-19-etl-compare.md",
@@ -194,24 +201,16 @@
     "_posts/2025-01-23-fom-html-cal.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2024-08-23-GenAIProgrammierung.md",
-    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
-    "conflict-files-obsidian-git.md",
-    "_drafts/2024-01-19-autonomer-werstoffhof.md",
     "_drafts",
     "assets/file-20250213122208.jpg",
     "assets/file-20250128161501.jpg",
     "assets/file-20250128160314.jpg",
     "assets/file-20250128160245.jpg",
     "assets/file-20250128150519.jpg",
-    "_posts/2023-10-11-Libadwaita-game-launcher.md",
     "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
     "assets/file-20250128142808.jpg",
-    "assets/file-20250128142659.jpg",
     "pics/2025-01-28-13-40-42.mp4",
     "assets/2025-01-28-13-40-42.mp4",
-    "assets/file-20250128132725.jpg",
-    "assets/file-20250128132507.jpg",
-    "assets/file-20250128132326.jpg",
     "pics/2025-01-23-fom-html-cal_video_2.mp4",
     "pics/2025-01-23-fom-html-cal_video_1.mp4",
     "pics/2025-01-23 14-21-43.mp4",
