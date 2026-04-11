@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-23-fom-html-cal.md",
+                "file": "_posts/2026-04-11-sql-trainer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-23-fom-html-cal"
+              "title": "2026-04-11-sql-trainer"
             }
           }
         ]
@@ -140,21 +140,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-23-fom-html-cal.md",
+                "file": "_posts/2026-04-11-sql-trainer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2025-01-23-fom-html-cal"
+              "title": "Gliederung von 2026-04-11-sql-trainer"
+            }
+          },
+          {
+            "id": "6870887b4c78ecef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +174,33 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72c2a275f747cbca",
+  "active": "495689b11f515e3f",
   "lastOpenFiles": [
+    "src/2026-04-11-sqltrainer/src/js/utils/storage.js",
+    "src/2026-04-11-sqltrainer/src/js/utils/export.js",
+    "src/2026-04-11-sqltrainer/src/js/utils",
+    "src/2026-04-11-sqltrainer/src/js/db/sqlite-manager.js",
+    "src/2026-04-11-sqltrainer/src/js/db/schema-loader.js",
+    "src/2026-04-11-sqltrainer/src/js/db",
+    "src/2026-04-11-sqltrainer/src/js/components/results-viewer.js",
+    "src/2026-04-11-sqltrainer/src/js/components/file-browser.js",
+    "src/2026-04-11-sqltrainer/src/js/components/editor.js",
+    "src/2026-04-11-sqltrainer/src/js/components",
+    "src/2026-04-11-sqltrainer/src/js/app.js",
+    "src/2026-04-11-sqltrainer/node_modules/sql.js/README.md",
+    "src/2026-04-11-sqltrainer/node_modules/sql.js/logo.svg",
+    "src/2026-04-11-sqltrainer/node_modules/sql.js/documentation_index.md",
+    "src/2026-04-11-sqltrainer/node_modules/sql.js/CONTRIBUTING.md",
+    "src/2026-04-11-sqltrainer/node_modules/codemirror/README.md",
+    "src/2026-04-11-sqltrainer/node_modules/codemirror/CONTRIBUTING.md",
+    "src/2026-04-11-sqltrainer/node_modules/codemirror/CHANGELOG.md",
+    "src/2026-04-11-sqltrainer/lib/README.md",
+    "_posts/2025-01-23-fom-html-cal.md",
+    "_posts/2026-04-11-sql-trainer.md",
     "assets/file-20260227183329.jpg",
     "assets/file-20260227183022.jpg",
     "assets/file-20260227182831.jpg",
@@ -190,30 +222,9 @@
     "_posts/2024-05-28-Prompts.md",
     "_posts/2024-06-04-ReifegradCheck.md",
     "_posts/2024-06-11-Online-Coding.md",
-    "_posts/2024-06-12-DeepL.md",
-    "_posts/2024-06-12-kaitai.md",
-    "_posts/2024-06-14-screenshot-Fireshot.md",
-    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
-    "_posts/2024-07-01-DIY-LLM-RAG.md",
-    "_posts/2024-06-24-chat-picuture-text-failure.md",
-    "_posts/2025-01-23-fom-html-cal.md",
-    "_posts/2024-08-30-powerpoint-text-copy.md",
-    "_posts/2024-08-23-GenAIProgrammierung.md",
-    "_drafts",
     "assets/file-20250213122208.jpg",
     "assets/file-20250128161501.jpg",
     "assets/file-20250128160314.jpg",
-    "assets/file-20250128160245.jpg",
-    "assets/file-20250128150519.jpg",
-    "mov/2023-10-11-13-09-12-bubble-bobble.mp4",
-    "assets/file-20250128142808.jpg",
-    "pics/2025-01-28-13-40-42.mp4",
-    "assets/2025-01-28-13-40-42.mp4",
-    "pics/2025-01-23-fom-html-cal_video_2.mp4",
-    "pics/2025-01-23-fom-html-cal_video_1.mp4",
-    "pics/2025-01-23 14-21-43.mp4",
-    "pics/2025-01-23 14-20-03.mp4",
-    "pics/2025-01-23 14-19-33.mp4",
-    "pics/tmp1724408133717_2024-08-23-GenAIProgrammierung_video_2.mp4"
+    "assets/file-20250128160245.jpg"
   ]
 }

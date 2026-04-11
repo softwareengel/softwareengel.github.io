@@ -1,0 +1,3 @@
+# Place third-party libraries here
+# - sql-wasm.js and sql-wasm.wasm (download from sql.js)
+# - CodeMirror 6 or Monaco Editor files
