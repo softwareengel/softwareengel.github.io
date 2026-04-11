@@ -15,7 +15,7 @@ date: 2025-01-23
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 
-## Url:  https://hq.softwareengel.de:30334/
+## Url:  <https://hq.softwareengel.de:30334/>
 
 ![](../assets/file-20260227183329.jpg)
 
