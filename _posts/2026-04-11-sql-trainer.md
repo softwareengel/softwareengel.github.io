@@ -90,7 +90,7 @@ I built the platform around a few hard constraints that keep it practical:
 - Deterministic sample data: the same queries produce the same results for everyone
 
 - Offline-first: caching + local storage make it resilient in real classrooms
-
+![](../pics/Pasted%20image%2020260421225717.png)
 - Small mental model: vanilla JS modules and clear component boundaries
 
   
