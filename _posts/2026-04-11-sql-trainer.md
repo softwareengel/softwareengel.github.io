@@ -19,9 +19,10 @@ tags:
 lastupdate: 2026-04-11
 date: 2026-04-11
 ---
+![](../pics/Pasted%20image%2020260421222147.png)
 # SQL Trainer for Academic and Play: a zero-install SQLite playground that runs in your browser
 
-<https://softwareengel.github.io/hacker-codes/>
+TLDR: Check <https://softwareengel.github.io/hacker-codes/>
  
 
 If you’ve ever tried to teach (or learn) SQL in a classroom, you know the “first hour problem”: installing a database, setting up credentials, dealing with different OSes, and then explaining why a query fails for reasons unrelated to SQL.
@@ -425,4 +426,11 @@ Note
 - This post was written from the repo state as of 2026-04-21.
 - The first Class has worked with it - today ;-) 
 
+## Onboarding Slides 
+![](../pics/VL_Anwendungs-und%20Softwaresysteme_KE1_RDBMS_ve_05_SQL-Trainer.pdf)
+## Pics
+
+![](../pics/Pasted%20image%2020260421222147.png)
+
+![](../pics/Pasted%20image%2020260421222236.png)
 
