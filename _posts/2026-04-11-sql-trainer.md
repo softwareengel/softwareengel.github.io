@@ -388,9 +388,11 @@ The simplest way to run:
 
   
 
-- Open `index.html` in a modern browser
+- Open <https://softwareengel.github.io/hacker-codes/>  in a modern browser
 
 - Or serve the folder with a small local server (recommended for WASM loading)
+
+- Or checkout repo project from repo  <https://github.com/softwareengel/hacker-codes/tree/main/2026/2026-04-dbms-sql> 
 
   
 
@@ -418,12 +420,9 @@ If I continue iterating, the next steps will likely be:
 
   
 
-Notes for maintainers:
-
+Note
   
-
 - This post was written from the repo state as of 2026-04-21.
-
-- The “prompt log” section is derived from the session documents in `doc/chatlog/` and is intentionally summarized rather than reproduced verbatim.
+- The first Class has worked with it - today ;-) 
 
 
