@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Trainer for Academic and Play: a zero-install SQLite playground that runs in your browser"
+title: "SQL Trainer for Academic and Play: a zero-install WASM SQLite playground that runs in your browser - Done in 2 Days"
 categories:
   - WASM
   - SQL
