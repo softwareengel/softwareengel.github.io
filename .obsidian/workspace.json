@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-29-selfoptimizing.md",
+                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29-selfoptimizing"
+              "title": "2026-04-29-orthogonal-3d-cutting"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-04-29-selfoptimizing.md",
+                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2026-04-29-selfoptimizing"
+              "title": "Rückverweise auf 2026-04-29-orthogonal-3d-cutting"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "active": "959336b03ff26783",
   "lastOpenFiles": [
+    "_posts/2026-04-29-selfoptimizing.md",
     "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "_posts/2025-01-23-fom-html-cal.md",
     "_posts/2026-04-11-sql-trainer.md",
@@ -204,7 +205,6 @@
     "_posts/2024-05-17-jekyll-themes.md",
     "_posts/2024-05-17-html5.md",
     "_posts/2024-05-06-onlineColabTools.md",
-    "_posts/2024-04-19-etl-compare.md",
     "pics/Pasted image 20260429143048.webp",
     "pics/Pasted image 20260429131609.webp",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.webp",
