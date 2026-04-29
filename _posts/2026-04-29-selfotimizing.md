@@ -1,6 +1,6 @@
 ---
 layout: Digital Expert Consulting - Problem Solution Fit Analyse
-title: selfotimizing-what we are doing
+title: selfoptimizing-what we are doing
 categories:
   - Business Consulting 
 tags:
@@ -11,6 +11,9 @@ tags:
 lastupdate: 2026-04-29
 date: 2026-04-29
 ---
+# selfoptimizing-what we are doing
+
+Eine Analyse, was wir gerne tun und wer dafür wohl bereit zu bezahlen ist ... 
 
 # V1 - erste Problemstellung 
 ```

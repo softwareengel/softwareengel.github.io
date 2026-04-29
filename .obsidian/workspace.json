@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
+                "file": "_posts/2026-04-29-selfotimizing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29-orthogonal-3d-cutting"
+              "title": "2026-04-29-selfotimizing"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
+                "file": "_posts/2026-04-29-selfotimizing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2026-04-29-orthogonal-3d-cutting"
+              "title": "Gliederung von 2026-04-29-selfotimizing"
             }
           },
           {
@@ -180,6 +180,7 @@
   },
   "active": "72c2a275f747cbca",
   "lastOpenFiles": [
+    "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "pics/Pasted image 20260429131609.png",
     "pics/Pasted image 20260429131552.png",
     "pics/Pasted image 20260429131528.png",
@@ -190,9 +191,7 @@
     "pics/Pasted image 20260429130344.png",
     "pics/Pasted image 20260429130319.png",
     "pics/Pasted image 20260429130258.png",
-    "pics/Pasted image 20260429130222.png",
     "_posts/2026-04-29-selfotimizing.md",
-    "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "_posts/2026-04-11-sql-trainer.md",
     "pics/VL_Anwendungs-und Softwaresysteme_KE1_RDBMS_ve_05_SQL-Trainer.pdf",
     "_posts/2024-03-16-picar-cam.md",
