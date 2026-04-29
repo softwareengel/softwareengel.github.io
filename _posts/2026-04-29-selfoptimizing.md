@@ -1,5 +1,5 @@
 ---
-layout: Digital Expert Consulting - Problem Solution Fit Analyse
+layout: post
 title: selfoptimizing-what we are doing
 categories:
   - Business Consulting 
