@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title: Notes on Kanban for Redmine, Locust, KodExplorer, Dell e7240 Cmos Battery, ..
 categories: [Notes]
 tags: [ Serenity ]
---- 
+---
+
 - [Scrum / Kanban for Redmine](#scrum--kanban-for-redmine)
   - [update docker readmine 3.3.10 + scrum plugin](#update-docker-readmine-3310--scrum-plugin)
 - [Dell e7240 Cmos Battery](#dell-e7240-cmos-battery)

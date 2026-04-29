@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  Docker Nginx Reverse Proxy 
-categories: [Docker, Nginx, Reverse Proxy]
-tags: [Docker, Nginx, Reverse Proxy]
+title: Docker Nginx Reverse Proxy
+categories:
+  - Docker
+  - Nginx
+  - Reverse Proxy
+tags:
+  - Docker
+  - Nginx
+  - reverse-proxy
 ---
 Beispiel für 2 Docker container. Einen Webserver mit Python, einen Nginx Reverseproxy in einem VS Code mit Docker Plugin
 - [Docker Nginx Reverse Proxy - Simple in VS Code](#docker-nginx-reverse-proxy---simple-in-vs-code)
@@ -27,7 +33,7 @@ Beispiel für 2 Docker container. Einen Webserver mit Python, einen Nginx Revers
 
 Beispiel für 2 Docker container. Einen Webserver mit Python, einen Nginx Reverseproxy in einem VS Code mit Docker Plugin
 
-![2020 11 05 Docker Reverse Screen Vscode](../pic/2020-11-05-docker-reverse-screen-vscode.png)
+![2020 11 05 Docker Reverse Screen Vscode](../pic/2020-11-05-docker-reverse-screen-vscode.webp)
 
 ## docker python webserver für port 8080
 

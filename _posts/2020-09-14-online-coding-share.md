@@ -1,10 +1,12 @@
-﻿---
-layout: post
-title: Muti - User - Online - Development 
-categories: []
-tags: [ Visual Studio Live Share]
 ---
-![](../pics/20230713121339_code_share_colab.png)
+layout: post
+title: Muti - User - Online - Development
+categories: []
+tags:
+  - vscode
+  - liveshare
+---
+![](../pics/20230713121339_code_share_colab.webp)
 - [Github Codespaces](#github-codespaces)
 - [Gitpod](#gitpod)
 - [Visual Studio Live Share](#visual-studio-live-share)
@@ -35,7 +37,7 @@ https://docs.microsoft.com/en-us/visualstudio/liveshare/troubleshooting#sign-in
 
 <https://codeshare.io/>
 
-![Codeshare.Io](../pic/codeshare.io.png)
+![Codeshare.Io](../pic/codeshare.io.webp)
 
 # Codesandbox.io
 
@@ -43,7 +45,7 @@ für  Web - Anwendungen
 
 <https://codesandbox.io/s/>
 
-![2020 09 14 Codesandbox](../pic/2020-09-14-codesandbox.png)
+![2020 09 14 Codesandbox](../pic/2020-09-14-codesandbox.webp)
 
 # Atom / Teletype
 

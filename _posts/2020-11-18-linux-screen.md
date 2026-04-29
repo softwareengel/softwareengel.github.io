@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Linux Screen Command 
-categories: [Fonts Art ]
-tags: [Fonts Art ]
+title: Linux Screen Command
+categories:
+  - Fonts Art
+tags:
+  - fonts
+  - art
 ---
 
 # Linux Screen Command 

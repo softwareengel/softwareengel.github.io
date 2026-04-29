@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Data Flow Analyse - Documentation - Visualisation 
 categories: [Visualisation]
@@ -50,12 +50,12 @@ Gephi tutorial
 
 ## Graph Streming Plugin
 
-![Graph Streming Plugin File](../pic/graph%20streming%20plugin%20file.png)
+![Graph Streming Plugin File](../pic/graph%20streming%20plugin%20file.webp))
 
 - Gephi Version 0.1.0:  kein Graph Streaming plugin mehr (2023-01-14)
 - Gephi Version 0.9
 
-![](../pic/20230114123118_gephi.png)  
+![](../pic/20230114123118_gephi.webp))  
 
 <https://gephi.org/users/install/>
 

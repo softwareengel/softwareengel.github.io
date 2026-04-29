@@ -4,11 +4,11 @@ title: Api Documentation - Spec Swagger, Redoc
 categories: [Swagger]
 tags: [Swagger]
 ---
-![](../pics/20230713122155_swagger.png)
+![](../pics/20230713122155_swagger.webp)
 
 # Api Documentation - Spec Swagger / Open Api 
 
-![](../pics/20230713122155_swagger.png)
+![](../pics/20230713122155_swagger.webp)
 
 <https://en.wikipedia.org/wiki/OpenAPI_Specification >
 
@@ -19,7 +19,7 @@ tags: [Swagger]
 
 # Redoc 
 
-![](../pics/20230713122057_redoc.png)
+![](../pics/20230713122057_redoc.webp)
 
 <https://github.com/Redocly/redoc>
 
