@@ -4,7 +4,7 @@ title: Collection of Zero Trust Topics
 categories: [zerotrust]
 tags: [ZeroTrust]
 ---
-![](../pics/2022-09-14-zero-trust_image_1.png)
+![](../pics/2022-09-14-zero-trust_image_1.webp)
 
 # Collection of Zero Trust Topics
 
@@ -15,7 +15,7 @@ open source, Netzwerkprotokolle, feldbus systeme, profinet, Modbus, siemens S5, 
 
 ## Zero Trust Micosoft Modell 
 
-![](../pics/2022-09-14-zero-trust_image_1.png)
+![](../pics/2022-09-14-zero-trust_image_1.webp)
 <https://www.microsoft.com/de-de/security/business/zero-trust>
 
 ## Links 

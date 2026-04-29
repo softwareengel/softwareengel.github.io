@@ -88,14 +88,14 @@ ____
 
 ## Use Embedding 
 
-![](../pics/2024-07-01-DIY-LLM-local-python-client_image_1.png)
+![](../pics/2024-07-01-DIY-LLM-local-python-client_image_1.webp)
 
 ## Start LM  Studio server 
 
-![](../pics/2024-07-01-DIY-LLM-local-python-client_image_2.png)
+![](../pics/2024-07-01-DIY-LLM-local-python-client_image_2.webp)
 ## Start Python Chat Client 
 
-![](../pics/2024-07-01-DIY-LLM-local-python-client_image_3.png)
+![](../pics/2024-07-01-DIY-LLM-local-python-client_image_3.webp)
 
 
 ## Wähle den Tonfall für den ausgegebenen content 

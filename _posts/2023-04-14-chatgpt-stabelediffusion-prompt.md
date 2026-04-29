@@ -4,7 +4,7 @@ title: New AI Tools, ChatGPT, Stable Diffusion, Prompt Engineering, Lexica
 categories: [Notes]
 tags: [ai, chatgpt, prompthero, Stable Diffusion, Prompt Engineering, lexica ]
 ---
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_1.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_1.webp)
 
 - [ChatGPT Stable Diffusion and Prompt Engineering](#chatgpt-stable-diffusion-and-prompt-engineering)
   - [ChatGPT Stable Diffusion:](#chatgpt-stable-diffusion)
@@ -38,8 +38,8 @@ It's important to note that while prompt engineering can help guide the model's 
 
 # https://lexica.art/
 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_2.png)
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_3.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_2.webp)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_3.webp)
 
 <https://lexica.art/>
 
@@ -47,19 +47,19 @@ It's important to note that while prompt engineering can help guide the model's 
 
 <https://prompthero.com/chatgpt-prompts>
 - Startpage 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_4.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_4.webp)
 - Pics my User 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_5.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_5.webp)
 - Hot Prompts
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_6.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_6.webp)
 - New Prompts
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_7.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_7.webp)
 - Top Prompts 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_8.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_8.webp)
 - Logos, Icons & Design Prompts 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_9.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_9.webp)
 - 3D-Render Prompts 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_10.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_10.webp)
 
 # Models Huggingface 
 The AI community building the future. 
@@ -68,7 +68,7 @@ Build, train and deploy state of the art models powered by the reference open so
 
 <https://huggingface.co/>
 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_11.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_11.webp)
 
 <https://huggingface.co/docs/transformers/quicktour>
 
@@ -91,7 +91,7 @@ Midjourney is an independent research lab exploring new mediums of thought and e
 
 We are a small self-funded team focused on design, human infrastructure, and AI. We have 11 full-time staff and an incredible set of advisors.
 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_12.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_12.webp)
 
 <https://docs.midjourney.com/docs/quick-start>
 
@@ -100,4 +100,4 @@ We are a small self-funded team focused on design, human infrastructure, and AI.
 
 <https://miro.com/app/board/uXjVM5DBzVg=/?share_link_id=988659563177>
 
-![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_13.png)
+![](../pics/2023-04-14-chatgpt-stabelediffusion-prompt_image_13.webp)

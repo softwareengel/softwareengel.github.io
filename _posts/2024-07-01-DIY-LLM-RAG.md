@@ -24,7 +24,7 @@ date: 2024-07-01
 
 
 
-![](../pics/2024-07-01-DIY-LLM-RAG_image_2.png)
+![](../pics/2024-07-01-DIY-LLM-RAG_image_2.webp)
 
 ## Python Code 
 

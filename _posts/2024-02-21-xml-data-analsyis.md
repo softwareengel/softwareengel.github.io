@@ -326,14 +326,14 @@ py read following xml file and store in sqlite db
 ```
 - Error 
   
-![](../pics/2024-02-21-xml-data-analsyis_image_2.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_2.webp)
 
 ## Versuch 2: Knime XML - ETL - Sqlite (Erfolgreiche) 
 - XmlReader + XPath + DBWriter 
 
 
-![](../pics/2024-02-21-xml-data-analsyis_image_3.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_3.webp)
 
 ## DBeaver Data Analysis 
 
-![](../pics/2024-02-21-xml-data-analsyis_image_4.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_4.webp)

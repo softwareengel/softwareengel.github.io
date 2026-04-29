@@ -3,8 +3,9 @@ layout: post
 title: Solved - Use Acrobat 9 Pro as MS Windows 10+ Explorer Preview Handler in 2022
 categories: [Explorer, MS]
 tags: [Previewhandler, MS, Explorer, Windows]
---- 
-![](../pics/20230707150114_regedit_acrobatPro.png)
+---
+
+![](../pics/20230707150114_regedit_acrobatPro.webp)
 # [Solved] Use Acrobat 9 Pro as Ms Windows 10+ Explorer Preview Handler (in 2022(!) )
 
 Goto

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-06-07-exclipse-modelling.md",
+                "file": "_posts/2026-04-29-selfoptimizing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-06-07-exclipse-modelling"
+              "title": "2026-04-29-selfoptimizing"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-07-exclipse-modelling.md",
+                "file": "_posts/2026-04-29-selfoptimizing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2022-06-07-exclipse-modelling"
+              "title": "Rückverweise auf 2026-04-29-selfoptimizing"
             }
           },
           {
@@ -179,32 +179,32 @@
   },
   "active": "959336b03ff26783",
   "lastOpenFiles": [
-    "_posts/2022-05-23-stop-win-web-search.md",
-    "_posts/2022-05-06-redmine-backup-restore.md",
-    "_posts/2022-02-21-powerpoit-slides-factory-python.md",
-    "_posts/2022-02-19-git-ssh-key-backup-clone.md",
-    "_posts/2022-02-18-zeit-raum-analyse.md",
-    "_posts/2022-02-18-apache hop.md",
-    "_posts/2022-02-02-riot-image-optimizer.md",
-    "_posts/2022-01-11-portainer-syno.md",
-    "_posts/2021-12-08-caputura-settings.md",
-    "_posts/2021-12-07-ml-crash-course.md",
-    "_posts/2021-12-03-shields-github-splash.md",
-    "_posts/2021-11-25-grafana-loki-fluent-bit.md",
-    "_posts/2021-11-24-JS-sevelte.md",
-    "_posts/2021-11-22-nextcloud.md",
-    "_posts/2021-11-18-odoo.md",
-    "_posts/2021-11-18-nextcloud-kontakte-kalender-sync.md",
-    "_posts/2021-11-11-html-page-builder.md",
-    "_posts/2021-11-10-crawler-compare.md",
-    "_posts/2021-11-09-gis-apache-superset.md",
-    "_posts/2021-10-08-svn-git-migration.md",
-    "_posts/2021-10-07-leak-research.md",
-    "_posts/2021-08-31-bootstrap-ui-templates.md",
-    "_posts/2021-08-18-ssh-tunnel-port-forwarding.md",
-    "_posts/2021-08-18-git-move.md",
-    "_posts/2021-08-16-wireguard.md",
-    "_posts/2021-08-12-wordle-tag-cloud.md",
+    "_posts/2026-04-29-orthogonal-3d-cutting.md",
+    "_posts/2025-01-23-fom-html-cal.md",
+    "_posts/2026-04-11-sql-trainer.md",
+    "_posts/2024-08-30-powerpoint-text-copy.md",
+    "_posts/2024-08-23-GenAIProgrammierung.md",
+    "_posts/2024-08-14-python-sqlite-web-IDE.md",
+    "_posts/2024-07-02-ocr-feature.md",
+    "_posts/2024-07-01-DIY-Local-LLM-code-Assist.md",
+    "_posts/2024-07-01-DIY-LLM-RAG.md",
+    "_posts/2024-07-01-DIY-LLM-local-python-client.md",
+    "_posts/2024-06-24-chat-picuture-text-failure.md",
+    "_posts/2024-06-14-screenshot-Fireshot.md",
+    "_posts/2024-06-12-x32dbg-x63dbg.md",
+    "_posts/2024-06-12-KI-suchmaschinen.md",
+    "_posts/2024-06-12-kaitai.md",
+    "_posts/2024-06-12-DeepL.md",
+    "_posts/2024-06-11-Online-Coding.md",
+    "_posts/2024-06-04-ReifegradCheck.md",
+    "_posts/2024-05-28-Prompts.md",
+    "_posts/2024-05-28-ki_tools.md",
+    "_posts/2024-05-24-maxmindGeoIP.md",
+    "_posts/2024-05-17-win_wsl_gui.md",
+    "_posts/2024-05-17-jekyll-themes.md",
+    "_posts/2024-05-17-html5.md",
+    "_posts/2024-05-06-onlineColabTools.md",
+    "_posts/2024-04-19-etl-compare.md",
     "pics/Pasted image 20260429143048.webp",
     "pics/Pasted image 20260429131609.webp",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.webp",

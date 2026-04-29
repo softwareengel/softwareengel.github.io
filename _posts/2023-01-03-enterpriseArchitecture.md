@@ -4,7 +4,7 @@ title: Enterprise Architecure Tools
 categories: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 tags: [EA, genmymodel, plantuml, JBuilderX, XText DSL]
 ---
-![](../pics/2023-01-03-enterpriseArchitecture_image_1.png)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_1.webp)  
 - [EA](#ea)
   - [Enterprise Architect](#enterprise-architect)
   - [Genmymodel](#genmymodel)
@@ -33,25 +33,25 @@ Was ist nur aus den EA Tools geworden? Versuche doch nur eine Schnittstelle von 
 https://app.genmymodel.com/editor/edit/_ioo-4ItvEe29ie0vpi-P5A# 
 ### Class Diagram 
 
-![](../pics/2023-01-03-enterpriseArchitecture_image_2.png)  
-![](../pics/2023-01-03-enterpriseArchitecture_image_3.png)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_2.webp)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_3.webp)  
 ### Source Generators Java, Python  
 
-![](../pics/2023-01-03-enterpriseArchitecture_image_4.png)  
-![](../pics/2023-01-03-enterpriseArchitecture_image_5.png)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_4.webp)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_5.webp)  
 ### Generated Source  
 
-![](../pics/2023-01-03-enterpriseArchitecture_image_6.png)  
-![](../pics/2023-01-03-enterpriseArchitecture_image_7.png)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_6.webp)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_7.webp)  
 ### Usecase Diagram
-![](../pics/2023-01-03-enterpriseArchitecture_image_1.png)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_1.webp)  
 
 ## Oracle JDeveoper 12c
-![](../pics/2023-01-03-enterpriseArchitecture_image_8.png)
+![](../pics/2023-01-03-enterpriseArchitecture_image_8.webp)
 ### CD 
-![](../pics/2023-01-03-enterpriseArchitecture_image_9.png)
+![](../pics/2023-01-03-enterpriseArchitecture_image_9.webp)
 ### UC
-![](../pics/2023-01-03-enterpriseArchitecture_image_10.png)
+![](../pics/2023-01-03-enterpriseArchitecture_image_10.webp)
 ## JBuilderX
 
 ## XText DSL
@@ -66,12 +66,12 @@ https://app.genmymodel.com/editor/edit/_ioo-4ItvEe29ie0vpi-P5A#
   - 
 - Eclipse Plugin (installation Graphvis nicht mehr nötig, ist inclusive)
   - https://plantuml.com/eclipse
-  - Eclipse update Site: http://hallvard.github.io/plantuml - http://hallvard.github.io/plantuml ![](../pics/2023-01-03-enterpriseArchitecture_image_11.png)  
+  - Eclipse update Site: http://hallvard.github.io/plantuml - http://hallvard.github.io/plantuml ![](../pics/2023-01-03-enterpriseArchitecture_image_11.webp)  
   
 - Forward Engineering  (könnte besser sein ... klappt beim 2. start )
 
-![](../pics/2023-01-03-enterpriseArchitecture_image_12.png)  
-![](../pics/2023-01-03-enterpriseArchitecture_image_13.png)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_12.webp)  
+![](../pics/2023-01-03-enterpriseArchitecture_image_13.webp)  
  
 
 ## Eclipse Jbuilder Togethersoft 

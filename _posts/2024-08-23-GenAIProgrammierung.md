@@ -35,7 +35,7 @@ date: 2024-08-23
 
 ### Result 
 
-![](../pics/2024-08-23-GenAIProgrammierung_image_1.png)
+![](../pics/2024-08-23-GenAIProgrammierung_image_1.webp)
 
 
 Hier sind einige einfache Java-Projektideen, die sich gut für Programmierer-Einsteiger eignen:
@@ -155,7 +155,7 @@ Diese Projekte helfen dir, dich weiter mit Java vertraut zu machen und bieten vi
 - `löse das ratespiel selbst`
 ### Antworten 
 
-![](../pics/2024-08-23-GenAIProgrammierung_image_2.png)
+![](../pics/2024-08-23-GenAIProgrammierung_image_2.webp)
 
 ### Wordle Java Variante 1:  `java schreibe eine wordle clon`
 #### Demo Video 

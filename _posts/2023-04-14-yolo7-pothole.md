@@ -20,7 +20,7 @@ tags: [yolo, python, cudo, pytorch, labelme]
 
 
 # Dataset
-![](../pics/2023-04-14-yolo7-pothole_image_2.png)
+![](../pics/2023-04-14-yolo7-pothole_image_2.webp)
 
 <https://public.roboflow.com/object-detection/pothole/1>
 <https://public.roboflow.com/models/object-detection>
@@ -98,7 +98,7 @@ conda uninstall pytorch
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 ```
 # Results
-![](../pics/2023-04-14-yolo7-pothole_image_3.png)
+![](../pics/2023-04-14-yolo7-pothole_image_3.webp)
 
 # Labeling Tools 
 

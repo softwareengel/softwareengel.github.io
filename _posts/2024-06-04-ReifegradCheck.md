@@ -10,7 +10,7 @@ tags: [CMM, Reifegrad, Digitalisierung]
 # Reifegrad Check
 
 
-![](../pics/Pasted%20image%2020240604134545.png)
+![](../pics/Pasted%20image%2020240604134545.webp)
 
 
 

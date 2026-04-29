@@ -26,22 +26,22 @@ tags:
 ## Start local LLM - hier Codestral-22B-v0.1-Q8_0.gguf
 
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_2.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_2.webp)
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_3.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_3.webp)
 
 
 ## Use VS Code Plugin _Continue_
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_4.png)
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_5.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_4.webp)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_5.webp)
 
 ## Features 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_6.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_6.webp)
 
 ## Ergebnis - Code Completion mit Comments 
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_7.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_7.webp)
 
 ## Links
 
@@ -51,12 +51,12 @@ tags:
 
 ## WebScreenshots
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_8.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_8.webp)
 
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_9.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_9.webp)
 
 
 
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_10.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_10.webp)

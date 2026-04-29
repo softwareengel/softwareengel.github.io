@@ -13,6 +13,6 @@ tags:
 # Sammlung Python + Sqlite + Webapp IDEs 
 ## Google Colab - mit Anmeldung 
 
-![](../pics/2024-08-14-python-sqlite-web-IDE_image_1.png)
+![](../pics/2024-08-14-python-sqlite-web-IDE_image_1.webp)
 
 

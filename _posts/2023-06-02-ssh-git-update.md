@@ -5,7 +5,7 @@ categories: [HowTos, ssh, git]
 tags: [ssh, git, openssh]
 ---
 
-![](../pics/2023-06-02-ssh-git-update_image_1.png)
+![](../pics/2023-06-02-ssh-git-update_image_1.webp)
 
 # Update Git Pub Key for VScode on Windows 
 
@@ -89,7 +89,7 @@ Originaler Openssh Private key in id_rsa in User - Ordner
 
     C:\Users\xxxxUSERxxx\.ssh
 
-![](../pics/2023-06-02-ssh-git-update_image_2.png)
+![](../pics/2023-06-02-ssh-git-update_image_2.webp)
 
 Mit ssh-keygen public Key aus private Key erstellen 
 
@@ -100,14 +100,14 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCwwDAa8DdJO+ddXmvqkpI4VUMEmjSqsbn+aINOYhFU
 
 Datei id_rsa.pub erstellen (nicht nötig)
 
-![](../pics/2023-06-02-ssh-git-update_image_3.png)
+![](../pics/2023-06-02-ssh-git-update_image_3.webp)
 
 Pub Key bei Github eintragen 
 
-![](../pics/2023-06-02-ssh-git-update_image_4.png)
+![](../pics/2023-06-02-ssh-git-update_image_4.webp)
 
 
-![](../pics/2023-06-02-ssh-git-update_image_5.png)
+![](../pics/2023-06-02-ssh-git-update_image_5.webp)
 
 Testen 
 ```
@@ -118,4 +118,4 @@ syn
 
 Erfolg: Neuer Pub-Key wurde benutzt 
 
-![](../pics/2023-06-02-ssh-git-update_image_6.png)
+![](../pics/2023-06-02-ssh-git-update_image_6.webp)

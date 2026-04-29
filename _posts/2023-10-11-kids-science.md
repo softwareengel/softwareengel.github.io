@@ -5,7 +5,7 @@ categories: [Kids]
 tags: [Kids, HowTo]
 ---
 
-![](../pics/2023-10-11-kids-science_image_1.png)
+![](../pics/2023-10-11-kids-science_image_1.webp)
 
 # Kids and Science 
 

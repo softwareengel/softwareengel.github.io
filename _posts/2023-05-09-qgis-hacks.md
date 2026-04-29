@@ -29,26 +29,26 @@ QGIS plugin to export your project to an OpenLayers or Leaflet webmap. No server
 
 ## Example Settings 
 
-![](../pics/2023-05-09-qgis-hacks_image_1.png)
+![](../pics/2023-05-09-qgis-hacks_image_1.webp)
 
-![](../pics/2023-05-09-qgis-hacks_image_2.png)
+![](../pics/2023-05-09-qgis-hacks_image_2.webp)
 
-![](../pics/2023-05-09-qgis-hacks_image_3.png)
+![](../pics/2023-05-09-qgis-hacks_image_3.webp)
 
-![](../pics/2023-05-09-qgis-hacks_image_4.png)
+![](../pics/2023-05-09-qgis-hacks_image_4.webp)
 
 ## Ergebnis: webbasierte, interaktive Karten 
 
 - Karte1: Die nachfolgende Karte präsentiert die Auswertung der Daten nach Quartier, Team, SFG und Strategie. 
-![](../pics/2023-05-09-qgis-hacks_image_5.png)
+![](../pics/2023-05-09-qgis-hacks_image_5.webp)
 
 - Karte 2:Die zweite Karte zeigt die Auswertung des Bestandes nach Strategie und Zeitpunkt sowie das Einblenden von OSM-Gebäude-Konturen. Zudem wird der Umsetzungsplanungshorizont dargestellt. 
 
-![](../pics/2023-05-09-qgis-hacks_image_6.png)
+![](../pics/2023-05-09-qgis-hacks_image_6.webp)
 
 - Karte 3: Die dritte Karte präsentiert eine kombinierte Auswertungskarte, welche eine Mehrfachauswahl der Filterkriterien ermöglicht. Dabei können die folgenden Kriterien berücksichtigt werden: wirtschaftlicher Erfolg, Umsetzungshorizont, Standortqualität, Quartiersname, Strategie, Teamname, SGF, Objektstandard sowie Organisationseinheit.
 
-![](../pics/2023-05-09-qgis-hacks_image_7.png)
+![](../pics/2023-05-09-qgis-hacks_image_7.webp)
 
 ## Video interaktive Karte 
 

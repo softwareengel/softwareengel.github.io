@@ -9,11 +9,11 @@ tags: [jekyll, theme]
 
 # Jekyll - Themes - Minimal Mistakes
 
-![](../pics/2024-05-17-jekyll-themes_image_2_20240517170206.png)
+![](../pics/2024-05-17-jekyll-themes_image_2_20240517170206.webp)
 
 ## Quick Start 
 
-![](../pics/2024-05-17-jekyll-themes_image_3_20240517170206.png)
+![](../pics/2024-05-17-jekyll-themes_image_3_20240517170206.webp)
 ## Links 
 
 <https://mmistakes.github.io/minimal-mistakes/> 

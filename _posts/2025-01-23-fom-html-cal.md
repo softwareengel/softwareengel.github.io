@@ -10,14 +10,14 @@ tags:
 lastupdate: 2025-01-23
 date: 2025-01-23
 ---
-![](../pics/2025-01-23-fom-html-cal_image_1.jpeg)
+![](../pics/2025-01-23-fom-html-cal_image_1.webp)
 
 # FOM Planungsbuch (Verfügbarkeiten und Termine) von HTML in iCal Kalender kopieren (HTML-2-iCAL)
 
 
 ## Url:  <https://hq.softwareengel.de:30334/>
 
-![](../assets/file-20260227183329.jpg)
+![](../assets/file-20260227183329.webp)
 
 ## Update 2026-02-27 Small Fixes V.0.1.7
 
@@ -25,7 +25,7 @@ date: 2025-01-23
 - Erkennung komplizierter Namen Zusammansetzunggen 
 - Erstellung Terminliste mit laufender Nummer und Berechnung Summe UE (fixed )
 
-![](../assets/file-20260227182730.jpg)
+![](../assets/file-20260227182730.webp)
 
 - Online Kalender für 
 	- ical  - Export Verhinderungen + Termine  + Online Kalender 
@@ -33,11 +33,11 @@ date: 2025-01-23
 	- ical - Export nur Termine + Online Kalender View 
 - txt - Export Check der Termin - Liste 
 
-![](../assets/file-20260227183022.jpg)
+![](../assets/file-20260227183022.webp)
 
 
 
-![](../assets/file-20260227182831.jpg)
+![](../assets/file-20260227182831.webp)
 
 
 ## Update 2025-08-22- Full Video: Vom OC HTML zur Kalender-Integration 
@@ -74,11 +74,11 @@ Es sind  nun 3 Kalender - Downloads möglich :
 - (3) nur Planungs-Termine
 
 
-![](../pics/2025-01-23-fom-html-cal_image_2.png)
+![](../pics/2025-01-23-fom-html-cal_image_2.webp)
 
 und Danke an einen der ersten Alpha-Tester, um den Nutzen einmal zu zeigen: was fällt hier auf ;-) ?
 
-![](../assets/file-20250124144228.jpg)
+![](../assets/file-20250124144228.webp)
 
 
 
@@ -129,34 +129,34 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 
 ## Beispiel Website - Ausschnitt
 
-![](../pics/2025-01-23-fom-html-cal_image_3.jpeg)
+![](../pics/2025-01-23-fom-html-cal_image_3.webp)
 
 ## Beispiel Kalender - Ansicht 
-![](../pics/2025-01-23-fom-html-cal_image_4.jpeg)
+![](../pics/2025-01-23-fom-html-cal_image_4.webp)
 
 ## Weitere Informationen und Ansichten 
 
 
 ### Ansicht Google Import 
-![](../assets/file-20250128131346.jpg)
+![](../assets/file-20250128131346.webp)
 
 ### Ansicht Google Kalender nach Full - iCal - Import 
 
-![](../assets/file-20250128132507.jpg)
+![](../assets/file-20250128132507.webp)
 
 ### Ansicht Google Kalender nur Termine iCal Import 
 
-![](../assets/file-20250128132249.jpg)
+![](../assets/file-20250128132249.webp)
 
 
 ### Ansicht Google Kalender iCal Verfügbarkeiten nach Import 
 
-![](../assets/file-20250128132326.jpg)
+![](../assets/file-20250128132326.webp)
 
 
 ### Ansicht Google Wochen-Kalender nach Full - iCal - Import mit Beispielterminen "Klausur" und "Vorlesung" 
 
-![](../assets/file-20250128132725.jpg)
+![](../assets/file-20250128132725.webp)
 
 
 ### Google Kalender: löschen von Terminen 
@@ -175,10 +175,10 @@ Hinweis:  Löschen von Terminen im Google - Kalender mit (del) - Taste
 ### Google Kalender Plugin zum Löschen nach Filter 
 
 
-![](../assets/file-20250128142659.jpg)
+![](../assets/file-20250128142659.webp)
 #### Google Calendar Toolbox 
 
-![](../assets/file-20250128142808.jpg)
+![](../assets/file-20250128142808.webp)
 
 Links:
 
@@ -188,14 +188,14 @@ Links:
 ### Neue Nummerierung der Termine 
 
 
-[](../assets/file-20250128150519.jpg)
+[](../assets/file-20250128150519.webp)
 
 
 ### Beispiel Screen Show Online 
 
-![](../assets/file-20250128160314.jpg)
+![](../assets/file-20250128160314.webp)
 
 
 ### Beispiel Screen Show Online Kalender 
 
-![](../assets/file-20250128161501.jpg)
+![](../assets/file-20250128161501.webp)

@@ -8,7 +8,7 @@ tags: [openAI, Logo, Generation]
 
 # OpenAI Logo Generation 
 
-![](../pics/2024-02-08-logo-generation_image_2.png)
+![](../pics/2024-02-08-logo-generation_image_2.webp)
 
 make a 9 logos for software company for consulting and engineering teaching and devops and know how transfer, serious logo it should be clean and simple , use orange and gray color palette
 
@@ -28,11 +28,11 @@ on a scale of 1 to 10, would you prefer the logo to be: 1 - extremely clean and 
 ![](../pics/2024-02-08-logo-generation_image_4.webp)
 ## simplify Logo 
 
-![](../pics/2024-02-08-logo-generation_image_5.png)
+![](../pics/2024-02-08-logo-generation_image_5.webp)
 
 
 ## simplify 2
-![](../pics/2024-02-08-logo-generation_image_6.png)
+![](../pics/2024-02-08-logo-generation_image_6.webp)
 
 ```
 make son alternatives - simplify
@@ -143,6 +143,6 @@ plt.show()
 
 ```
 
-![](../pics/2024-02-08-logo-generation_image_18.png)
+![](../pics/2024-02-08-logo-generation_image_18.webp)
 
 

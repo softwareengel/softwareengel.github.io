@@ -4,7 +4,7 @@ title: Markdown Static Websites and Tools - Jamstack
 categories: [blog, statiswebsites, generator, md]
 tags: [jamstack, hugo, jekyll,md]
 ---
-![](../pics/20230705180039_jamstackThems.png)
+![](../pics/20230705180039_jamstackThems.webp)
 
 - [Jamstack: Static Sites Generators with Markdown](#jamstack-static-sites-generators-with-markdown)
   - [1. Static Sites:](#1-static-sites)
@@ -57,13 +57,13 @@ Themes für Static Sites
 
 - <https://jamstackthemes.dev/demo/theme/hugo-cohub/>
 
-![](../pics/20230705175922_jamstack_themes.png)
+![](../pics/20230705175922_jamstack_themes.webp)
 
 ## Pandoc a universal document converter
 
 - <https://pandoc.org/demos.html>
 
-![pandoc converter web](../pic/20220822123415.png)  
+![pandoc converter web](../pic/20220822123415.webp)  
 
 ## https://www.gatsbyjs.com/
 
@@ -118,4 +118,4 @@ in Ruby
 
 - <https://gitjournal.io/>
 
-![](../pic/20220801114551.png)  
+![](../pic/20220801114551.webp)  

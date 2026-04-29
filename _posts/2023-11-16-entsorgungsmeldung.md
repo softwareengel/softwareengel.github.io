@@ -22,21 +22,21 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
 
 
 ## Auftrasabwicklung Presscontainer ohne IOT
-![](../pics/2023-11-16-entsorgungsmeldung_image_1.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_1.webp)
 
 ## Auftrasabwicklung Presscontainer mit IOT
-![](../pics/2023-11-16-entsorgungsmeldung_image_2.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_2.webp)
 
 ## Zeiten bei Presscontainern 
 
 - Begriffe Zeiten Presscontainer
-![](../pics/2023-11-16-entsorgungsmeldung_image_3.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_3.webp)
 
 - mit IOT
-![](../pics/2023-11-16-entsorgungsmeldung_image_4.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_4.webp)
 
 - ohne IOT
-![](../pics/2023-11-16-entsorgungsmeldung_image_5.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_5.webp)
 
 ## Auftrasabwicklung Umleer IOT
 
@@ -48,10 +48,10 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
 
 ### mit IOT 
 - Sensordaten - Historie 
-  ![](../pics/2023-11-16-entsorgungsmeldung_image_6.png)
+  ![](../pics/2023-11-16-entsorgungsmeldung_image_6.webp)
 - Verwiegungsdaten Historie 
 - Analyse Befüllungsgeschwindigkeit IOT - Behälter
-![](../pics/2023-11-16-entsorgungsmeldung_image_7.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_7.webp)
 - Füllstandsvorhersage je Behälter 
 - dynamische Revier- und Tourenplanung
   - gleichartige,zusammenhängende Fahrzeugreviere wie bisher 
@@ -60,7 +60,7 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
   - durchschnittlich 2 Leerungen je Stellplatz / Sammelinsel
 
 - resiliente Planung und trotzdem Einsparung Anfahrten 
-![](../pics/2023-11-16-entsorgungsmeldung_image_8.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_8.webp)
   - Anzahl TagesTouren 32-39 
     - (je nach Zielbefüllung (80 oder 90 %))
     - je nach optimistischer oder passimistischer Vorherage 
@@ -71,16 +71,16 @@ tags: [Iot, Presscontainer, Depotcontainer, Unterflur UF Behälter ]
 
 <https://www.bde.de/documents/11/BDE-VKU-Mobile-IT-Systeme1.pdf>
 
-![](../pics/2023-11-16-entsorgungsmeldung_image_9.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_9.webp)
 
 - Behältermanagement
 
-![](../pics/2023-11-16-entsorgungsmeldung_image_10.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_10.webp)
 
 - aktive Behältersensoren...
 
-![](../pics/2023-11-16-entsorgungsmeldung_image_11.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_11.webp)
 
 <https://www.google.com/search?q=site%253Abde.de+filetype%253Apdf+aktive+Beh%C3%A4ltersensoren>
 
-![](../pics/2023-11-16-entsorgungsmeldung_image_12.png)
+![](../pics/2023-11-16-entsorgungsmeldung_image_12.webp)

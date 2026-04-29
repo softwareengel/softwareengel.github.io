@@ -5,7 +5,7 @@ categories: [Notes]
 tags: [Filius, OSS, Website, clones, VanillaOS, MINIX]
 ---
 
-![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_1.png)
+![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_1.webp)
 
 - [KI Chatbots](#ki-chatbots)
 - [Netzwerk-Grundlagen](#netzwerk-grundlagen)
@@ -27,7 +27,7 @@ tags: [Filius, OSS, Website, clones, VanillaOS, MINIX]
 
 - OSS Filius Netzwerksimulation 
 
-![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_1.png)
+![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_1.webp)
 
 <https://www.lernsoftware-filius.de/>
 
@@ -43,7 +43,7 @@ Clone Wars - Open source clones of popular sites
 
 # To run the Vanilla OS website locally
 
-![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_2.png)
+![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_2.webp)
 
 To run the Vanilla OS website locally, install Jekyll, the required plugins and clone this repository:
 
@@ -70,7 +70,7 @@ Unlike most of these systems, MINIX:
     Runs quite well on an emulator without melting your CPU (at least since the 2nd edition).
 
 Although xv6 and these other systems have been valuable tools for me (and may have extra features, like threads and NAT), I have found that the MINIX documentation is the most extensive.
-![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_3.png)
+![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_3.webp)
 <https://github.com/o-oconnell/minixfromscratch>
 
 
@@ -78,7 +78,7 @@ Although xv6 and these other systems have been valuable tools for me (and may ha
 
 Learning Python 
 
-![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_4.png)
+![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_4.webp)
 
 <https://github.com/Asabeneh/30-Days-Of-Python>
 
@@ -90,7 +90,7 @@ Collection of Eningeering Blogs by
 - Individuals
 - Technologies
 
-![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_5.png)
+![](../pics/2023-03-10-KI-notes-Schreibmaschine-filius_image_5.webp)
 
 <https://github.com/kilimchoi/engineering-blogs>
 

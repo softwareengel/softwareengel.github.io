@@ -32,7 +32,7 @@ Testinstallation Verfügbar unter
 
 ## Screenshot Website 
 
-![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_2.png)
+![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_2.webp)
 
 -> Hier die XLSX - Datei in der Ablagefläche einfügen (hochladen)
 
@@ -43,7 +43,7 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 - Link zu Google-Kalender CSV - Download 
 - Link zu ICAL - Download 
 
-![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_3.png)
+![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_3.webp)
 
 
 ## ICS - Import in Kalender (Video - Screencast) 
@@ -74,7 +74,7 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 
 - Beispiel: Inhalt der CSV - Datei und ICS - Datei im Klartext 
 
-![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_4.png)
+![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_4.webp)
 
 
 
@@ -82,14 +82,14 @@ Nach der Berechnung der Kalender können diese heruntergeladen werden und direkt
 
 ### Problem 
 
-![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118590440.jpeg)
+![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118590440.webp)
 
 ### Solution 
 
 - open port 80 Temporarily 
-![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118715722.jpeg)
+![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118715722.webp)
 
 
 - Update Lets Encrypt Certificate Update  
 
-![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118641198.jpeg)
+![](../pics/image/2024-03-15-fom-excel-termin-dropzone-ics-1728118641198.webp)
