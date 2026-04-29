@@ -5,7 +5,7 @@ categories: []
 tags: [Logitech, Squeezebox, Webradio, Raspi, Raspi-OS]
 ---
 
-![](../pics/2024-04-05-raspi-logitech-media-server_image_1_20240611140638.png)
+![](../pics/2024-04-05-raspi-logitech-media-server_image_1_20240611140638.webp)
 
 # Logitech Squeezebox UE - EOL - Logitech Media Server 
 

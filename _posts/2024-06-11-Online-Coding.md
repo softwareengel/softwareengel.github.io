@@ -15,7 +15,7 @@ tags:
   - Education
 ---
 
-![](../pics/2024-06-11-Online-Coding_image_1.png)
+![](../pics/2024-06-11-Online-Coding_image_1.webp)
 # Online Python - Coding 
 
 Sammlung von Python - Online - Coding  - Tools 
@@ -36,7 +36,7 @@ https://www.onlinegdb.com/
 
 https://github1s.com/softwareengel/pyWasm
 
-![](../pics/2024-06-11-Online-Coding_image_1.png)
+![](../pics/2024-06-11-Online-Coding_image_1.webp)
 
 ## Github codespaces 
 

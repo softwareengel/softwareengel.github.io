@@ -6,7 +6,7 @@ tags: [LLM, LM Studio, DIY]
 ---
 
 
-![](../pics/2024-02-29-diy-llm-studio_image_1.png)
+![](../pics/2024-02-29-diy-llm-studio_image_1.webp)
 
 #  DIY Lokales LLM  --  *Working* --
 ```

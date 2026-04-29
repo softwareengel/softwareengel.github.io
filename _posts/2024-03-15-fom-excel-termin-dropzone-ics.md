@@ -4,7 +4,7 @@ title: Konvertiere FOM Excel in ICS und Google Kalender import csv
 categories: []
 tags: [Excel, Fom, Dropzone, Calendar]
 ---
-![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_1.png)
+![](../pics/2024-03-15-fom-excel-termin-dropzone-ics_image_1.webp)
 # Konvertiere FOM Teminplanung in Excel in ICS-Kalender und Google-Kalender-Format 
 
 ----

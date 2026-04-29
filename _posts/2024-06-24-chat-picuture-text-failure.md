@@ -10,10 +10,10 @@ tags:
 ---
 
 Was ist an "No Text in Picture" nicht zu verstehen ? ;-)  
-![](../pics/2024-06-24-chat_image_1.png)
+![](../pics/2024-06-24-chat_image_1.webp)
 # ChatGPT  - DallE failure on picture without text 
 
 
 
-![](../pics/2024-06-24-chat_image_1.png)
+![](../pics/2024-06-24-chat_image_1.webp)
 ![](../pics/2024-06-24-chat_image_2.png)

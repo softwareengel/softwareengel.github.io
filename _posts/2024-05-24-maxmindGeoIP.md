@@ -9,6 +9,6 @@ tags:
 # Maxmind GeoIP
 
 
-![](../pics/2024-05-24-maxmindGeoIP_image_1.png)
+![](../pics/2024-05-24-maxmindGeoIP_image_1.webp)
 
 ![](../pics/2024-05-24-maxmindGeoIP_image_2.png)

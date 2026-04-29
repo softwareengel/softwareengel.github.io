@@ -12,7 +12,7 @@ tags:
   - copilot
 ---
 
-![](../pics/2024-02-21-xml-data-analsyis_image_1.png)
+![](../pics/2024-02-21-xml-data-analsyis_image_1.webp)
 # XML Data Analytics with Knime -- working -- 
 
 

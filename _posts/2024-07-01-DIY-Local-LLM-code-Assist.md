@@ -13,7 +13,7 @@ tags:
   - Hacks
 ---
 
-![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_1.png)
+![](../pics/2024-07-01-DIY-Local-LLM-code-Assist_image_1.webp)
 
 # DIY-Local-LLM-CodeAssist - DSGVO konform ;-)
 

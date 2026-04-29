@@ -13,7 +13,7 @@ tags:
 lastupdate: 2024-06-14
 date: 2024-06-14
 ---
-![](../pics/2024-06-14-screenshot_image_1.png)
+![](../pics/2024-06-14-screenshot_image_1.webp)
 
 # Web Ai - Screenshots - Tool - Fireshot 
 

@@ -5,7 +5,7 @@ categories:
 tags: [ Windows, WSL, RDP, RemoteDesktop, WindowsSubsystemLinux, GUI]
 ---
 
-![](../pics/2024-05-17-win_wsl_gui_image_1_20240517160241.png)
+![](../pics/2024-05-17-win_wsl_gui_image_1_20240517160241.webp)
 # Windows WSL GUI gelöst als RDP 
 
 

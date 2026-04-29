@@ -10,7 +10,7 @@ tags:
   - Chat
   - searchAI
 ---
-![](../pics/2024-06-12-KI-suchmaschinen_image_1.png)
+![](../pics/2024-06-12-KI-suchmaschinen_image_1.webp)
 # Suchmaschinen mit KI - Beispiel 'erkläre wissenschaftliche Vorgehensweise bei einer "qualitativen Inhaltsanalyse" step by step'
 
 ## [**Bing**](https://bing.com)

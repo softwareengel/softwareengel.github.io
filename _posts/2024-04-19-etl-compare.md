@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![](../pics/2024-04-19-etl-compare_image_1.png)
+![](../pics/2024-04-19-etl-compare_image_1.webp)
  
 # ETL-Tool-Compare: Airflow vs. Talend vs. Knime vs. Rapidminer
 

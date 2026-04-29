@@ -11,7 +11,7 @@ tags:
 date: 2024-05-06
 ---
 
-![](../pics/2024-05-06-onlineColabTools_image_1.png)
+![](../pics/2024-05-06-onlineColabTools_image_1.webp)
 
 
 # Online Collaboration Tools 

@@ -11,7 +11,7 @@ tags:
 lastupdate: 2024-07-01
 date: 2024-07-01
 ---
-![](../pics/2024-07-01-DIY-LLM-RAG_image_1.png)
+![](../pics/2024-07-01-DIY-LLM-RAG_image_1.webp)
 # DIY-LLM-RAG - chat with your Data - DSGVO konform / GDPR compliant 
 
 - Extract Raw - Text from Source 
