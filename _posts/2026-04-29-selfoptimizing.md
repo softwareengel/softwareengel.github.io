@@ -21,6 +21,7 @@ Eine Analyse, was wir gerne tun und wer dafür wohl bereit zu bezahlen ist ...
 
 
 # V1 - erste Problemstellung 
+
 ```
 analyse solution and show results for some psf, cusomersegments and bms : power R&D Expert performace tool and technologiy checker : fast checking and testing technologoes and start smal cases poc / mvps for customers, professor in cs as lead , how to monetise , build some problems - solution fits, identifiy cusomer segments and ubild then som business models , show in bmc - ba accurate, tae your time, be consise . 
 ```
