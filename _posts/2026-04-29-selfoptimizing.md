@@ -12,12 +12,12 @@ lastupdate: 2026-04-29
 date: 2026-04-29
 ---
 
-![](../pics/Pasted%20image%2020260429143048.png)
+![](../pics/Pasted%20image%2020260429143048.webp)
 # Selfoptimizing-what we are doing
 
 Eine Analyse, was wir gerne tun und wer dafür wohl bereit zu bezahlen ist ... 
 
-![](../pics/ChatGPT%20Image%20Apr%2029,%202026,%2002_29_24%20PM.png)
+![](../pics/ChatGPT%20Image%20Apr%2029,%202026,%2002_29_24%20PM.webp)
 
 
 # V1 - erste Problemstellung 
