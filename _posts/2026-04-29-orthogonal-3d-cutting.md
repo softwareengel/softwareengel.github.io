@@ -714,3 +714,28 @@ Prüfung, ob platzierte Geometrien vollständig innerhalb ihrer Containergrenzen
   
 **Utilization**  
 Verhältnis von verwendetem Materialvolumen zu verfügbarem Rohmaterialvolumen.
+
+---
+
+
+## Appendix C: Beispiele 
+
+### Beispiel 1  - 3D Cutting Summary 
+![](../pics/Pasted%20image%2020260429131609.png)
+### Beispiel 2  - 3D Cutting Summary 
+
+![](../pics/Pasted%20image%2020260429131552.png)
+### Beispiel 3  - 3D Cutting Summary 
+
+![](../pics/Pasted%20image%2020260429131528.png)
+### Beispiel 4  - 3D Cutting Summary 
+
+![](../pics/Pasted%20image%2020260429131509.png)
+
+### Beispiel 4b  - 3D Cutting Summary 
+![](../pics/Pasted%20image%2020260429131429.png)
+
+### Beispiel 5  - 3D Cutting Summary 
+
+![](../pics/Pasted%20image%2020260429131402.png)
+
