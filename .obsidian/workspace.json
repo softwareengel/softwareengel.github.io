@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-11-sql-trainer.md",
+                "file": "_posts/2026-04-29-selfotimizing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-11-sql-trainer"
+              "title": "2026-04-29-selfotimizing"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags.md",
+                "file": "_posts/2026-04-29-selfotimizing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von tags"
+              "title": "Gliederung von 2026-04-29-selfotimizing"
             }
           },
           {
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,8 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72c2a275f747cbca",
+  "active": "d046cb836dd04207",
   "lastOpenFiles": [
+    "_posts/2026-04-29-orthogonal-3d-cutting.md",
+    "_posts/2026-04-29-selfotimizing.md",
+    "_posts/2026-04-11-sql-trainer.md",
     "pics/Pasted image 20260421225717.png",
     "pics/VL_Anwendungs-und Softwaresysteme_KE1_RDBMS_ve_05_SQL-Trainer.pdf",
     "pics/Pasted image 20260421222236.png",
@@ -194,7 +197,6 @@
     "_posts/2025-01-23-fom-html-cal.md",
     "tags.md",
     "data/chatgpt-berater/chat-001.md",
-    "_posts/2026-04-11-sql-trainer.md",
     "src/2026-04-11-sqltrainer/src/js/utils/storage.js",
     "src/2026-04-11-sqltrainer/src/js/utils/export.js",
     "src/2026-04-11-sqltrainer/src/js/utils",
@@ -223,8 +225,6 @@
     "_posts/2020-04-07-ubuntu-xrdp.md",
     "conflict-files-obsidian-git.md",
     "pics/image/2025-01-23-fom-html-cal-1755861683704.jpeg",
-    "_posts/2020-01-22-ubuntu-srv-setup.md",
-    "assets/file-20250213122208.jpg",
-    "assets/file-20250128161501.jpg"
+    "assets/file-20250213122208.jpg"
   ]
 }
