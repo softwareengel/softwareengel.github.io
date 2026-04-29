@@ -13,7 +13,7 @@ tags:
 ---
 
 
-![](../pics/20230707114335_loki_grafana.png)
+![](../pics/20230707114335_loki_grafana.webp)
 
 # Grafana mit Loki, Fluentbit
 
@@ -28,7 +28,7 @@ tags:
 
 - leider ünterstützt Loki kein Alert 
 
-![](../pic/2021-11-25-17-45-17.png)
+![](../pic/2021-11-25-17-45-17.webp)
 
 ## Loki
 

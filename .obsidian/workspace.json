@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021-11-25-grafana-loki-fluent-bit.md",
+                "file": "_posts/2022-06-07-exclipse-modelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2021-11-25-grafana-loki-fluent-bit"
+              "title": "2022-06-07-exclipse-modelling"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-11-25-grafana-loki-fluent-bit.md",
+                "file": "_posts/2022-06-07-exclipse-modelling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2021-11-25-grafana-loki-fluent-bit"
+              "title": "Rückverweise auf 2022-06-07-exclipse-modelling"
             }
           },
           {
@@ -177,8 +177,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "495689b11f515e3f",
+  "active": "959336b03ff26783",
   "lastOpenFiles": [
+    "_posts/2022-05-23-stop-win-web-search.md",
+    "_posts/2022-05-06-redmine-backup-restore.md",
+    "_posts/2022-02-21-powerpoit-slides-factory-python.md",
+    "_posts/2022-02-19-git-ssh-key-backup-clone.md",
+    "_posts/2022-02-18-zeit-raum-analyse.md",
+    "_posts/2022-02-18-apache hop.md",
+    "_posts/2022-02-02-riot-image-optimizer.md",
+    "_posts/2022-01-11-portainer-syno.md",
+    "_posts/2021-12-08-caputura-settings.md",
+    "_posts/2021-12-07-ml-crash-course.md",
+    "_posts/2021-12-03-shields-github-splash.md",
+    "_posts/2021-11-25-grafana-loki-fluent-bit.md",
     "_posts/2021-11-24-JS-sevelte.md",
     "_posts/2021-11-22-nextcloud.md",
     "_posts/2021-11-18-odoo.md",
@@ -193,18 +205,6 @@
     "_posts/2021-08-18-git-move.md",
     "_posts/2021-08-16-wireguard.md",
     "_posts/2021-08-12-wordle-tag-cloud.md",
-    "_posts/2021-08-11-web-presentations.md",
-    "_posts/2021-07-06-iot-fuellstandsprognose.md",
-    "_posts/2021-06-10-graphdb-orientdb.md",
-    "_posts/2021-04-14-java.md",
-    "_posts/2021-03-24-nw-js-electron-js.md",
-    "_posts/2021-03-11-database-compare.md",
-    "_posts/2021-03-10-incomming-typescript-netdata.md",
-    "_posts/2021-03-09-timeseries-analytics.md",
-    "_posts/2021-02-16-rapid-web-forms-tables.md",
-    "_posts/2021-02-16-3d-viewer.md",
-    "_posts/2021-02-10-incomming-2021-02-10.md",
-    "_posts/2021-02-08-school-math.md",
     "pics/Pasted image 20260429143048.webp",
     "pics/Pasted image 20260429131609.webp",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.webp",

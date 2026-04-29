@@ -5,7 +5,7 @@ categories: [HowTos, Image, Optimisation, compression ]
 tags: [Riot, HowTos, Image, optimisation, compression]
 ---
 
-![](../pics/2022-02-02-riot-image-optimizer_image_1.png)
+![](../pics/2022-02-02-riot-image-optimizer_image_1.webp)
 
 # RIOT Image Optimizer
 
@@ -15,39 +15,39 @@ Radical Image Optimization Tool (RIOT for short) is a free image optimizer that 
 
 Riot DLL Version 0.3.3
 
-![Riot-Version](../pics/2022-02-02-riot-image-optimizer_image_2.jpg)
+![Riot-Version](../pics/2022-02-02-riot-image-optimizer_image_2.webp)
 
 Start
 
-![Start-Riot-In-Irfanview](../pics/2022-02-02-riot-image-optimizer_image_3.png)
+![Start-Riot-In-Irfanview](../pics/2022-02-02-riot-image-optimizer_image_3.webp)
 
 Show Options
 
-![show-riot-options](../pics/2022-02-02-riot-image-optimizer_image_4.png)
+![show-riot-options](../pics/2022-02-02-riot-image-optimizer_image_4.webp)
 
 ## Example 1: jpg (239kb -> 199 kb shrink, default settings )
 
 
-![](../pics/2022-02-02-riot-image-optimizer_image_5.jpg)
+![](../pics/2022-02-02-riot-image-optimizer_image_5.webp)
 Example jpg input:
 
-![riot-example-input-jpg](../pics/2022-02-02-riot-image-optimizer_image_6.jpg)
+![riot-example-input-jpg](../pics/2022-02-02-riot-image-optimizer_image_6.webp)
 
 Example jpg output:
 
-![](../pics/2022-02-02-riot-image-optimizer_image_7.jpg)
+![](../pics/2022-02-02-riot-image-optimizer_image_7.webp)
 
 ## Example 2: PNG (172kb -> 173kb, growing size with default values !)
 
-![](../pics/2022-02-02-riot-image-optimizer_image_8.png)
+![](../pics/2022-02-02-riot-image-optimizer_image_8.webp)
 
 PNG Example in:
 
-![](../pics/2022-02-02-riot-image-optimizer_image_9.png)
+![](../pics/2022-02-02-riot-image-optimizer_image_9.webp)
 
 PNG Example out with default values:
 
-![](../pics/2022-02-02-riot-image-optimizer_image_9.png)
+![](../pics/2022-02-02-riot-image-optimizer_image_9.webp)
 
 Links:
 

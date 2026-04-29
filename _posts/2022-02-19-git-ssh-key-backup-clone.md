@@ -3,7 +3,7 @@ layout: post
 title:  Gitlab Git Backup 
 categories: [git, backup]
 tags: [git, checkout, backup]
---- 
+---
 
 # Gitlab Git Backup 
 
@@ -48,9 +48,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDFXaj0djicPpRp9HraUtx0m87rhKOLugOpQpNmoKEy
 
 paste pub key in gitlab user profile
 
-![gitlab_user_pub_key](../pic/2022-02-19-11-33-48.png)
+![gitlab_user_pub_key](../pic/2022-02-19-11-33-48.webp)
 
-![gitlab_user_pub_key_confirmation](../pic/2022-02-19-11-37-22.png)
+![gitlab_user_pub_key_confirmation](../pic/2022-02-19-11-37-22.webp)
 
 - test client 
 
