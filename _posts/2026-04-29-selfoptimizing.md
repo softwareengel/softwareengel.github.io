@@ -11,6 +11,7 @@ tags:
 lastupdate: 2026-04-29
 date: 2026-04-29
 ---
+
 # selfoptimizing-what we are doing
 
 Eine Analyse, was wir gerne tun und wer dafür wohl bereit zu bezahlen ist ... 

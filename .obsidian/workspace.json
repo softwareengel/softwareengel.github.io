@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
+                "file": "_posts/2026-04-29-selfoptimizing.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-04-29-orthogonal-3d-cutting"
+              "title": "2026-04-29-selfoptimizing"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
+                "file": "_posts/2026-04-29-selfoptimizing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2026-04-29-orthogonal-3d-cutting"
+              "title": "Gliederung von 2026-04-29-selfoptimizing"
             }
           },
           {
@@ -180,11 +180,11 @@
   },
   "active": "72c2a275f747cbca",
   "lastOpenFiles": [
-    "_posts/2026-04-29-selfotimizing.md",
+    "_posts/2026-04-29-orthogonal-3d-cutting.md",
+    "_posts/2026-04-29-selfoptimizing.md",
     "_posts/2024-08-23-GenAIProgrammierung.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2025-01-23-fom-html-cal.md",
-    "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "_posts/2026-04-11-sql-trainer.md",
     "pics/Pasted image 20260429131609.png",
     "pics/Pasted image 20260429131552.png",
