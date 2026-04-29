@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  ASP dot Net core IAM 
 categories: [API, .NET]

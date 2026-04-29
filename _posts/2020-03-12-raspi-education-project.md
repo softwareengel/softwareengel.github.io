@@ -49,7 +49,7 @@ An / Aus, langsam blinken / schnell blinken
 Raspi Specs 
 - <https://www.reichelt.de/bilder/_LP/LP/2018-02_Entwicklerboards/Tabelle_EB.pdf?&trstct=lp_1358_143268>
 
-![Raspi Spec Wikipedia Vergleich](../pic/raspi-spec-wikipedia-vergleich.png)
+![Raspi Spec Wikipedia Vergleich](../pic/raspi-spec-wikipedia-vergleich.webp)
 
 ### Pi Zero Spec 
 
@@ -151,7 +151,7 @@ Remote Debugging
 
 - <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 
-![Remote Sev Extension](../pic/remoteSevExtension.png)
+![Remote Sev Extension](../pic/remoteSevExtension.webp)
 
 - <https://github.com/microsoft/vscode-remote-release/issues/2493>
 
@@ -161,7 +161,7 @@ Remote Debugging
 
     pinout 
 
-![Raspi Pinbelegung](../pic/raspi-pinbelegung.png)
+![Raspi Pinbelegung](../pic/raspi-pinbelegung.webp)
 
 Interactive Pinout 
 - <https://pinout.xyz/pinout/>
@@ -204,7 +204,7 @@ ld -o hello hello.o
 objdump -s -d hello.o
 ```
 
-![Raspi Asm Code Execute](../pic/raspi-asm-code-execute.png)
+![Raspi Asm Code Execute](../pic/raspi-asm-code-execute.webp)
 
 
 ## USB Video 
@@ -214,7 +214,7 @@ objdump -s -d hello.o
     fswebcam -r 1280x720 image2.jpg
     fswebcam -r 1280x720 --no-banner image3.jpg
 
-![Raspi Usb Webcam](../pic/raspi-usb-webcam.png)
+![Raspi Usb Webcam](../pic/raspi-usb-webcam.webp)
 
 <https://www.raspberrypi.org/documentation/usage/webcams/>
 
@@ -463,15 +463,15 @@ GPIO.cleanup()
 
 # SmartSim Anwendung auf Raspi 
 
-![Smartsim Raspi4](../pic/smartsim-raspi4.png)
+![Smartsim Raspi4](../pic/smartsim-raspi4.webp)
 
 ---
 
-![Screen Raspi Zero Webserver Led](../pic/screen-raspi-zero-webserver-led.png)
+![Screen Raspi Zero Webserver Led](../pic/screen-raspi-zero-webserver-led.webp)
 
-![Screen Raspi Zero Webserver Led Console](../pic/screen-raspi-zero-webserver-led-console.png)
+![Screen Raspi Zero Webserver Led Console](../pic/screen-raspi-zero-webserver-led-console.webp)
 
-![Screen Raspi Zero Webserver Led Thonny](../pic/screen-raspi-zero-webserver-led-thonny.png)
+![Screen Raspi Zero Webserver Led Thonny](../pic/screen-raspi-zero-webserver-led-thonny.webp)
 
 
 # das Netzteil ...

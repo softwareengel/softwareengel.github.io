@@ -1,13 +1,13 @@
-﻿---
+---
 layout: post
 title:  Graphhopper 
 categories: [WEB, MAP]
 tags: [Web,API,Map,Route]
---- 
+---
 
 # VM Starten
 
-![Azur V M Start](../pic/azurVMStart.png)
+![Azur V M Start](../pic/azurVMStart.webp)
 
 # Test Graphhopper 1.0
 ```bash 

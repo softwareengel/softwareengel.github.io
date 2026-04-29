@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 title: Suchmaschinen 
 categories: [search]
 tags: [search engine]
 --- 
 
-![](../pics/20230706153755_suche.png)
+![](../pics/20230706153755_suche.webp))
 
 # Suchmaschinen 
 Die 30 besten Suchmaschinen im Kurztest 2021 
@@ -24,7 +24,7 @@ Search Less. Close More. Grow your revenue with all-in-one rospecting solutions 
 
 - <https://www.crunchbase.com/>
 
-![](../pics/20230706153317_search.png)
+![](../pics/20230706153317_search.webp))
 
 Viral content : 
 - <https://app.buzzsumo.com/discover/trending>

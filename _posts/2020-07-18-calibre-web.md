@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 title: Calibre Web on Synology NAS 
 categories: [Calibre]
 tags: [Calibre, Synology]
 --- 
-![](../pics/20230713115723_calibre_web.png)
+![](../pics/20230713115723_calibre_web.webp))
 
 # Calibre Web & Synology NAS 
 

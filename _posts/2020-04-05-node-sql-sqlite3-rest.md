@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Node Rest Server for SQLite 
 categories: [Node]

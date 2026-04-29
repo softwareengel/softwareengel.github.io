@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title: OpenCV und Python 
 categories: [computer vision]
 tags: [opencv, python, ml, video, image, manipulatition]
---- 
-![2020 09 10 Face Eye Recognition Opencv4 Python3](../pic/2020_09_10_face_eye_recognition_opencv4_python3.png)
+---
+
+![2020 09 10 Face Eye Recognition Opencv4 Python3](../pic/2020_09_10_face_eye_recognition_opencv4_python3.webp)
 
 # OpenCV und Python  
 
@@ -67,14 +68,14 @@ cv2.destroyAllWindows()
 
 ```
 
-![2020 05 04 Raspbery Opencv Video Frame](../pic/2020-05-04-raspbery-opencv-video-frame.png)
+![2020 05 04 Raspbery Opencv Video Frame](../pic/2020-05-04-raspbery-opencv-video-frame.webp)
 
 ## Install VS Code on Raspi4 
 
 <https://www.hanselman.com/blog/HowToInstallVisualStudioCodeOnARaspberryPi4InMinutes.aspx>
 
 
-![2020 05 04 Raspberry Pi VS Code Opencv Running in RDP](../pic/2020-05-04-raspberry-pi-vscode-opencv-running.png)
+![2020 05 04 Raspberry Pi VS Code Opencv Running in RDP](../pic/2020-05-04-raspberry-pi-vscode-opencv-running.webp)
 
 
 ## Beispiel Gesicht und Augen-Erkennung (2020-09-10)
@@ -118,6 +119,6 @@ if __name__ == "__main__":
     generate()
 ```
 
-![2020 09 10 Face Eye Recognition Opencv4 Python3](../pic/2020_09_10_face_eye_recognition_opencv4_python3.png)
+![2020 09 10 Face Eye Recognition Opencv4 Python3](../pic/2020_09_10_face_eye_recognition_opencv4_python3.webp)
 
 

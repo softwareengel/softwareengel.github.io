@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post 
 title: setup Mysql 8 by unzip, Problem Mysql Workbench 
 categories: [Mysql]
@@ -17,7 +17,7 @@ tags: [mysql]
 
 Achtung - MysqlWorkbench V6 und V5 problem 
 
-![2020 03 19 Mysql8 Problem](../pic/2020-03-19-mysql8-problem.png)
+![2020 03 19 Mysql8 Problem](../pic/2020-03-19-mysql8-problem.webp))
 
 start mysql:  mysqld
 
