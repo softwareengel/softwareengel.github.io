@@ -4,7 +4,7 @@ title: Yolo 7 Pothole Detection
 categories: [Pothole, object detection, AI, ML]
 tags: [yolo, python, cudo, pytorch, labelme]
 ---
-![](../pics/2023-04-14-yolo7-pothole_image_1.png)
+![](../pics/2023-04-14-yolo7-pothole_image_1.webp)
 .. Pic made with Midjouney ;-) 
 
 # Train Pothole Detection 

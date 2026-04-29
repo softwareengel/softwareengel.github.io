@@ -5,7 +5,7 @@ categories: [Icons]
 tags: [Icons, Free]
 ---
 
-![FreeIcons](../pic/free-icons-on-the-web-iconmonstr-crop.png)
+![FreeIcons](../pic/free-icons-on-the-web-iconmonstr-crop.webp)
 
 Update 2023-01-04 
 
@@ -44,11 +44,11 @@ Update 2023-01-04
 
 ## Iconmonstr.com
 
-![Screenshot](../pic/free-icons-on-the-web-iconmonstr.png)
+![Screenshot](../pic/free-icons-on-the-web-iconmonstr.webp)
 
 ## Pixabay.Com
 
-![2020 05 29 Pixabay.Com](../pic/2020-05-29-pixabay.com.png)
+![2020 05 29 Pixabay.Com](../pic/2020-05-29-pixabay.com.webp)
 
 ## pexels.com
 https://www.pexels.com/de/

@@ -5,7 +5,7 @@ categories: [JSON]
 tags: [JSON, Schema, dotnet, pqsql]
 ---
 
-![](../pics/20230713105441_postgres_json.png)
+![](../pics/20230713105441_postgres_json.webp)
 # PostgresSQL JSON ab Version 9.2 als JSON-Datenbank 
 
 * <http://www.postgresqltutorial.com/postgresql-json/>

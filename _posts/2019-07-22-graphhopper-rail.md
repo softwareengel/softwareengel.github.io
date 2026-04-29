@@ -5,7 +5,7 @@ categories: [routing]
 tags: [Graphhopper, routing, api, web, java]
 ---
 
-![](../pics/2019-07-22-graphhopper-rail_image_1.png)
+![](../pics/2019-07-22-graphhopper-rail_image_1.webp)
 
 Graphhopper Routing & Map Matching for Rail + Truck with java and OSM 
 
@@ -44,13 +44,13 @@ Graphhopper Routing & Map Matching for Rail + Truck with java and OSM
 Web - View Graphhopper rail:
 - Routing Ulm:
 
-![](../pics/2019-07-22-graphhopper-rail_image_2.jpg))
+![](../pics/2019-07-22-graphhopper-rail_image_2.webp))
 
-![](../pics/2019-07-22-graphhopper-rail_image_3.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_3.webp)
 - Routing Arnsberg:
-![](../pics/2019-07-22-graphhopper-rail_image_4.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_4.webp)
 - Routing Europa:
-![](../pics/2019-07-22-graphhopper-rail_image_5.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_5.webp)
 
 Requerst für Map:
 
@@ -66,7 +66,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
 
 ## Web Soap UI Client mit POST und XML 
 
-![](../pics/2019-07-22-graphhopper-rail_image_6.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_6.webp)
 
 ### Request GH Rail Match XML (good request)
 
@@ -478,12 +478,12 @@ Requerst für OSM-Map auf hq.softwareengel.de:
 
 ## Speicher Sysinternals bei Map mit Europa 
 
-![](../pics/2019-07-22-graphhopper-rail_image_7.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_7.webp)
 
 
 
 # Berechnung Ergebnis des GH Rail Map Matchings
-![](../pics/2019-07-22-graphhopper-rail_image_8.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_8.webp)
 
 ## Ulm GPX-Track 
     <?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.11" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
@@ -514,7 +514,7 @@ Requerst für OSM-Map auf hq.softwareengel.de:
     </gpx>
 # Ergebnis GPX in Qgis 
 
-![](../pics/2019-07-22-graphhopper-rail_image_9.jpg)
+![](../pics/2019-07-22-graphhopper-rail_image_9.webp)
 
 
 ## Beispiel config.yml

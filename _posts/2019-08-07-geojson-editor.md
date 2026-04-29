@@ -8,12 +8,12 @@ tags:
   - geojson
 ---
 
-![](../pics/2019-08-07-geojson-editor_IMG-20240308135604476.png)
+![](../pics/2019-08-07-geojson-editor_IMG-20240308135604476.webp)
 
 # GeoJSON 
 ## Awesome GeoJson Linklist
 
-![](../pics/2019-08-07-geojson-editor_IMG-20240308135604541.png)
+![](../pics/2019-08-07-geojson-editor_IMG-20240308135604541.webp)
 
 <https://github.com/tmcw/awesome-geojson>
 
@@ -21,4 +21,4 @@ tags:
 
 <http://geojson.io>
 
-![Screenshot_2019-08-07 geojson io.png](../pics/2019-08-07-geojson-editor_IMG-20240308135604597.png)
+![Screenshot_2019-08-07 geojson io.png](../pics/2019-08-07-geojson-editor_IMG-20240308135604597.webp)

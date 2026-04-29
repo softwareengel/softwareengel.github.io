@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Page builders technologies market share 
-categories: [Page builders technologies]
-tags: [Page builders technologies]
+title: Page builders technologies market share
+categories:
+  - Page builders technologies
+tags:
 ---
 
 ![page builders](../pics/2023-10-12-SiteGenerator_image_1.webp)
