@@ -19,7 +19,7 @@ tags:
 lastupdate: 2026-04-11
 date: 2026-04-11
 ---
-![](../pics/Pasted%20image%2020260421222147.png)
+![](../pics/Pasted%20image%2020260421222147.webp)
 # SQL Trainer for Academic and Play: a zero-install SQLite playground that runs in your browser
 
 TLDR: Check <https://softwareengel.github.io/hacker-codes/>
@@ -90,7 +90,7 @@ I built the platform around a few hard constraints that keep it practical:
 - Deterministic sample data: the same queries produce the same results for everyone
 
 - Offline-first: caching + local storage make it resilient in real classrooms
-![](../pics/Pasted%20image%2020260421225717.png)
+![](../pics/Pasted%20image%2020260421225717.webp)
 - Small mental model: vanilla JS modules and clear component boundaries
 
   
@@ -430,7 +430,7 @@ Note
 ![](../pics/VL_Anwendungs-und%20Softwaresysteme_KE1_RDBMS_ve_05_SQL-Trainer.pdf)
 ## Pics
 
-![](../pics/Pasted%20image%2020260421222147.png)
+![](../pics/Pasted%20image%2020260421222147.webp)
 
-![](../pics/Pasted%20image%2020260421222236.png)
+![](../pics/Pasted%20image%2020260421222236.webp)
 

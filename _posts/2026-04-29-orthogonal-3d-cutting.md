@@ -11,7 +11,7 @@ tags:
 lastupdate: 2026-04-29
 date: 2026-04-29
 ---
-![](../pics/Pasted%20image%2020260429130710.webp)
+p![](../pics/Pasted%20image%2020260429130710.webp)
 
 # Algorithm Engineering - Case Study: In einem Tag zum 3D-Cutting-System 
 
