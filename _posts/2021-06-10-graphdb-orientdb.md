@@ -4,7 +4,7 @@ title: Setup und Use Orientdb
 categories: [Orientdb]
 tags: [db, ui, graph, graph, java]
 --- 
-![](../pics/20230707122115_orientdb.png)
+![](../pics/20230707122115_orientdb.webp)
 
 OrientDB - the first Multi-Model Open Source NoSQL DBMS that brings together the power of graphs and the flexibility of documents into one scalable high-performance operational database
 - [Install OrientDB](#install-orientdb)

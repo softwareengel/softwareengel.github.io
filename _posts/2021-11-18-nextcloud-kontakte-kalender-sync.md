@@ -16,24 +16,24 @@ tags: [Nextcloud, Sync, Calendar, VCard ]
 
 Aufgaben 
 
-![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_1.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_1.webp)
 
 Karten
 
-![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_2.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_2.webp)
 
 Fotos 
-![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_3.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_3.webp)
 
 Aktivitat 
-![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_4.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_4.webp)
 
 Kontakte
 
-![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_5.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_5.webp)
 
 Updates der Module 
-![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_6.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_6.webp)
 
 ## Check Thunderbird Adressbook Sync  - working
 
@@ -44,7 +44,7 @@ Updates der Module
 
 ... large delay in updating data in TB
 
-![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_7.png)
+![](../pics/2021-11-18-nextcloud-kontakte-kalender-sync_image_7.webp)
 
 ## Links
 

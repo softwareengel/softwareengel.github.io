@@ -1,9 +1,16 @@
 ---
 layout: post
-title: Grafana mit Loki, Fluentbit 
-categories: [grafana loki, cncf, oss]
-tags: [grafana loki, cncf, oss]
---- 
+title: Grafana mit Loki, Fluentbit
+categories:
+  - grafana loki
+  - cncf
+  - oss
+tags:
+  - cncf
+  - oss
+  - Grafana
+  - loki
+---
 
 
 ![](../pics/20230707114335_loki_grafana.png)

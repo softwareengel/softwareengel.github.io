@@ -4,7 +4,7 @@ title: DB / TSDB Compare Database
 categories: [DB]
 tags: [ DB, TSDB, database ]
 --- 
-![](../pics/20230713130023_tsdb_compare.png)
+![](../pics/20230713130023_tsdb_compare.webp)
 
 - [DB / TSDB compare](#db--tsdb-compare)
 
@@ -12,11 +12,11 @@ tags: [ DB, TSDB, database ]
 
 Vergleich Eigenschaften TSDB 
 
-![](../pic/2021-03-11-dbengines-tsdb-compare.jpg)
+![](../pic/2021-03-11-dbengines-tsdb-compare.webp)
 
 Vergleich alle DBS
 
-![](../pic/2021-03-11-dbengines-db-compare.jpg)
+![](../pic/2021-03-11-dbengines-db-compare.webp)
 
 Links:
 

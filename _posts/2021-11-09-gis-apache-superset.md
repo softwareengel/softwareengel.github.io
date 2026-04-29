@@ -5,7 +5,7 @@
 
 Karteneditor  web  
 
-![](../pic/2021-11-09-15-04-28.png)
+![](../pic/2021-11-09-15-04-28.webp)
 
 https://umap.osm.ch/de
 
@@ -13,13 +13,13 @@ https://umap.osm.ch/de
 
 https://github.com/apache/superset#why-superset
 
-![](../pic/2021-11-09-15-10-55.png)
+![](../pic/2021-11-09-15-10-55.webp)
 
-![](../pics/2021-11-09-15-20-56-apache-superset-explore.png)
+![](../pics/2021-11-09-15-20-56-apache-superset-explore.webp)
 
-![](../pic/2021-11-09-15-22-30-apache-superset-investigate.png)
+![](../pic/2021-11-09-15-22-30-apache-superset-investigate.webp)
 
-![](../pic/2021-11-09-15-21-50-apache-superset-view.png)
+![](../pic/2021-11-09-15-21-50-apache-superset-view.webp)
 
 ## Links
 

@@ -4,7 +4,7 @@ title: School Math Tools
 categories: [ math, tool]
 tags: [ geogebra, MS Math Solver ]
 --- 
-![](../pics/20230707123015_geogebra.png)
+![](../pics/20230707123015_geogebra.webp)
 
 - [School Math Tools](#school-math-tools)
   - [Geogebra](#geogebra)
@@ -18,10 +18,10 @@ tags: [ geogebra, MS Math Solver ]
 https://www.geogebra.org/graphing?lang=de
 
 
-![](../pic/Screenshot_2021-02-08%20Grafikrechner%20-%20GeoGebra.png)
+![](../pic/Screenshot_2021-02-08%20Grafikrechner%20-%20GeoGebra.webp)
 
 ## MS Math Solver 
 
 https://math.microsoft.com/de 
 
-![](../pic/Screenshot_2021-02-08%20Microsoft%20Math%20Solver%20-%20Mathematischer%20Problemlöser%20und%20Rechner.png)
+![](../pic/Screenshot_2021-02-08%20Microsoft%20Math%20Solver%20-%20Mathematischer%20Problemlöser%20und%20Rechner.webp)

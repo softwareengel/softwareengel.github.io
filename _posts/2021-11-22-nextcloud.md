@@ -4,7 +4,7 @@ title: Install Nextcloud on Synology using Docker
 categories: [Nextcloud, Synology, Docker]
 tags: [OSS]
 --- 
-![](../pics/20230707115008_netcloud.png)
+![](../pics/20230707115008_netcloud.webp)
 
 # Install Nextcloud on Synology using Docker 
 

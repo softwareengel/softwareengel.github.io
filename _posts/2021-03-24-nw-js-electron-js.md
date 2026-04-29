@@ -5,7 +5,7 @@ categories: [Cross Platform]
 tags: [ Cross Platform ]
 --- 
 
-![](../pics/20230713130357_electron.png)
+![](../pics/20230713130357_electron.webp)
 - [Cross Platform](#cross-platform)
 - [Links](#links)
 - [Electron](#electron)

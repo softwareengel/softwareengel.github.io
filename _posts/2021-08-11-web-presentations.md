@@ -3,8 +3,8 @@ layout: post
 title: JS Web Pesentation Revealjs
 categories: [Web Presentations]
 tags: [JS, Web, Pesentation ]
---- 
-![](../pics/20230707121727_reveakjs_slides.png)
+---
+![](../pics/20230707121727_reveakjs_slides.webp)
 # JS Web Pesentation Revealjs
 Create Stunning Presentations on the Web
 

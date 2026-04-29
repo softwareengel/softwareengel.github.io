@@ -13,7 +13,7 @@ tags: [SVN, GIT, Migation ]
   
 - import dump - files in visualsvnserver
 
-![](../pic/2021-10-08-15-49-38.png)
+![](../pic/2021-10-08-15-49-38.webp)
 
 git svn checkout 
 

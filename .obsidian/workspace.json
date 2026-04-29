@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021-01-28-anigif.md",
+                "file": "_posts/2021-11-25-grafana-loki-fluent-bit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2021-01-28-anigif"
+              "title": "2021-11-25-grafana-loki-fluent-bit"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-01-28-anigif.md",
+                "file": "_posts/2021-11-25-grafana-loki-fluent-bit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2021-01-28-anigif"
+              "title": "Rückverweise auf 2021-11-25-grafana-loki-fluent-bit"
             }
           },
           {
@@ -177,34 +177,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "959336b03ff26783",
+  "active": "495689b11f515e3f",
   "lastOpenFiles": [
-    "_posts/2021-01-27-webinar-tools.md",
-    "_posts/2021-01-27-python-tools.md",
-    "_posts/2021-01-27-data-analytics.md",
-    "_posts/2021-01-27-AniGif-collection-giphy.md",
-    "_posts/2021-01-26-More AI Traffic Speed Detection With TrafficCV.md",
-    "_posts/2021-01-13-Super-Optimised-Static-Sites.md",
-    "_posts/2021_10_15_seach_engine.md",
-    "_posts/2020-11-28-netcat-send-log.md",
-    "_posts/2020-11-22-norconex-crawler.md",
-    "_posts/2020-11-22-graph-visualisierung.md",
-    "_posts/2020-11-18-linux-screen.md",
-    "_posts/2020-11-05-docker-reverse-proxy.md",
-    "_posts/2020-10-29-data-flow-dokumentation-analyse.md",
-    "_posts/2020-10-23-ms-sql-server-linux.md",
-    "_posts/2020-09-29-tesorflow-colab.md",
-    "_posts/2020-09-27-incomming.md",
-    "_posts/2020-09-27-font.md",
-    "_posts/2020-09-22-reactos-oss-windows.md",
-    "_posts/2020-09-22-osm.md",
-    "_posts/2020-09-22-docu-api-redoc.md",
-    "_posts/2020-09-21-prometheus-monitoring.md",
-    "_posts/2020-09-21-mssql-t-sql.md",
-    "_posts/2020-09-18-Data-Analytics-Platforms.md",
-    "_posts/2020-09-17-software-lizenz-vertrag.md",
-    "_posts/2020-09-14-online-coding-share.md",
-    "_posts/2020-09-14-jornals.md",
+    "_posts/2021-11-24-JS-sevelte.md",
+    "_posts/2021-11-22-nextcloud.md",
+    "_posts/2021-11-18-odoo.md",
+    "_posts/2021-11-18-nextcloud-kontakte-kalender-sync.md",
+    "_posts/2021-11-11-html-page-builder.md",
+    "_posts/2021-11-10-crawler-compare.md",
+    "_posts/2021-11-09-gis-apache-superset.md",
+    "_posts/2021-10-08-svn-git-migration.md",
+    "_posts/2021-10-07-leak-research.md",
+    "_posts/2021-08-31-bootstrap-ui-templates.md",
+    "_posts/2021-08-18-ssh-tunnel-port-forwarding.md",
+    "_posts/2021-08-18-git-move.md",
+    "_posts/2021-08-16-wireguard.md",
+    "_posts/2021-08-12-wordle-tag-cloud.md",
+    "_posts/2021-08-11-web-presentations.md",
+    "_posts/2021-07-06-iot-fuellstandsprognose.md",
+    "_posts/2021-06-10-graphdb-orientdb.md",
+    "_posts/2021-04-14-java.md",
+    "_posts/2021-03-24-nw-js-electron-js.md",
+    "_posts/2021-03-11-database-compare.md",
+    "_posts/2021-03-10-incomming-typescript-netdata.md",
+    "_posts/2021-03-09-timeseries-analytics.md",
+    "_posts/2021-02-16-rapid-web-forms-tables.md",
+    "_posts/2021-02-16-3d-viewer.md",
+    "_posts/2021-02-10-incomming-2021-02-10.md",
+    "_posts/2021-02-08-school-math.md",
     "pics/Pasted image 20260429143048.webp",
     "pics/Pasted image 20260429131609.webp",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.webp",
