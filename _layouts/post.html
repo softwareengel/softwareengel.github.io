@@ -30,7 +30,9 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div> 
-
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
 <div class="entry">
     <div class="entry-toc">
     {% include toc.html html=content %}
