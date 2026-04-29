@@ -13,7 +13,7 @@ tags:
 ---
 # setup yacy search engine in docker 
 
-![](../pics/2023-11-03-yacy-search-local_image_1.png)
+![](../pics/2023-11-03-yacy-search-local_image_1.webp)
 
 ## setup yacy 
 

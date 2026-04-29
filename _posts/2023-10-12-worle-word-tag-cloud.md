@@ -5,7 +5,7 @@ categories: [JS, Tagcloud]
 tags: [builders, JS, Tag, generator]
 ---
 
-![Wordle Tag Cloud Vanilla JS](../pics/2023-10-12-worle-word-tag-cloud_image_1.png)
+![Wordle Tag Cloud Vanilla JS](../pics/2023-10-12-worle-word-tag-cloud_image_1.webp)
 
 - [Vanilla JS Wordcloud](#vanilla-js-wordcloud)
   - [Links](#links)

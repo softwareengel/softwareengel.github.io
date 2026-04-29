@@ -4,7 +4,7 @@ title: OpenAI Logo Generation
 categories: [openAI, Logo, Generation]
 tags: [openAI, Logo, Generation]
 ---
-![](../pics/2024-02-08-logo-generation_image_1.png)
+![](../pics/2024-02-08-logo-generation_image_1.webp)
 
 # OpenAI Logo Generation 
 

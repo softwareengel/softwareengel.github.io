@@ -16,7 +16,7 @@ tags:
 ---
 
 
-![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_1.png)
+![](../pics/2023-11-30-einsparung-depotcontainer-tourenplanung_image_1.webp)
 
 ## IoT - Integrierte Analyse und Planung von Glas - Depot - Sammel-Containern 
 

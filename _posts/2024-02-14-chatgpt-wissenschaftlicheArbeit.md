@@ -16,7 +16,7 @@ tags:
   - chatgpt
   - genAI
 ---
-![](../pics/2024-02-14-chatgpt-wissenschaftlicheArbeit_image_1.png)
+![](../pics/2024-02-14-chatgpt-wissenschaftlicheArbeit_image_1.webp)
 
 # OpenAI: Eigener Wissenschaftlicher Bericht GPT, 0-Stop - Wissenschftlicher Bericht im GPT Store
 
