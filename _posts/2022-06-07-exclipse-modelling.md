@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 
-categories: 
-tags: 
-lastupdate: 2026-04-29
-date: 2026-04-29
+title: Eclipse Modelling
+categories:
+tags:
+  - Eclipse
+lastupdate: 2022-06-07
+date: 2022-06-07
 ---
-
 # Eclipse Modelling
 
 - UML 

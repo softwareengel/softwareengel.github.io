@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
+                "file": "_posts/2022-06-07-exclipse-modelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29-orthogonal-3d-cutting"
+              "title": "2022-06-07-exclipse-modelling"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Raspberry Pi",
+                "query": "exclipse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
+                "file": "_posts/2022-06-07-exclipse-modelling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2026-04-29-orthogonal-3d-cutting"
+              "title": "Rückverweise auf 2022-06-07-exclipse-modelling"
             }
           },
           {
@@ -179,10 +180,10 @@
   },
   "active": "959336b03ff26783",
   "lastOpenFiles": [
+    "_posts/2026-04-11-sql-trainer.md",
     "_posts/2026-04-29-selfoptimizing.md",
     "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "_posts/2025-01-23-fom-html-cal.md",
-    "_posts/2026-04-11-sql-trainer.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2024-08-23-GenAIProgrammierung.md",
     "_posts/2024-08-14-python-sqlite-web-IDE.md",
