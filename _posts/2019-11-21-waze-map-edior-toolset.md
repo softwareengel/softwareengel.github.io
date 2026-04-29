@@ -8,18 +8,16 @@ date: 2019-11-21
 ---
 
 
-#
-
 # Google Waze Web Editor JS Toolsset
 
 https://www.waze.com/de/editor 
 
-![Screenshot 2019 11 21 Waze Editor](../pics/2019-11-21-waze-map-edior-toolset_image_1.png)
+![Screenshot 2019 11 21 Waze Editor](../pics/2019-11-21-waze-map-edior-toolset_image_1.webp)
 
 ## JS Toolset
 
-![Screenshot 2019 11 21 J S Tools1](../pics/2019-11-21-waze-map-edior-toolset_image_2.png)
-![Screenshot 2019 11 21 J S Tools2](../pics/2019-11-21-waze-map-edior-toolset_image_3.png)
+![Screenshot 2019 11 21 J S Tools1](../pics/2019-11-21-waze-map-edior-toolset_image_2.webp)
+![Screenshot 2019 11 21 J S Tools2](../pics/2019-11-21-waze-map-edior-toolset_image_3.webp)
 
 ### Statistiken
 Google Analytics
@@ -71,12 +69,12 @@ Nginx
 
 # Goole Waze map 
 
-![Screenshot 2019 11 21 Waze Map](../pics/2019-11-21-waze-map-edior-toolset_image_4.png)
+![Screenshot 2019 11 21 Waze Map](../pics/2019-11-21-waze-map-edior-toolset_image_4.webp)
 
 ## Und die Js - Toolchain 
 
-![Screenshot 2019 11 21 Waze J S Tools1](../pics/2019-11-21-waze-map-edior-toolset_image_5.png)
-![Screenshot 2019 11 21 Waze J S Tools2](../pics/2019-11-21-waze-map-edior-toolset_image_6.png)
+![Screenshot 2019 11 21 Waze J S Tools1](../pics/2019-11-21-waze-map-edior-toolset_image_5.webp)
+![Screenshot 2019 11 21 Waze J S Tools2](../pics/2019-11-21-waze-map-edior-toolset_image_6.webp)
 
 ### Als TExt 
 

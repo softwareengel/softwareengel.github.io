@@ -6,7 +6,7 @@ tags: [GraphQL, NodeJS]
 ---
 
 
-![](../pics/2020-01-06-graphql-interactive-integration-landscape_image_1.png)
+![](../pics/2020-01-06-graphql-interactive-integration-landscape_image_1.webp)
 
 # GraphQL - Hack - Neo4J - Node Server - JS Client 
 
@@ -50,9 +50,9 @@ used by airbnb, cnbc
 <https://www.apollographql.com/docs/tutorial/data-source/> (Add SqLite Data Source)
 
 
-![Screenshot 2020 01 06 Apollo Graphql Server](../pics/2020-01-06-graphql-interactive-integration-landscape_image_2.png)
+![Screenshot 2020 01 06 Apollo Graphql Server](../pics/2020-01-06-graphql-interactive-integration-landscape_image_2.webp)
 
-![Screenshot 2020 01 06 Apollo Graphql Server Ui](../pics/2020-01-06-graphql-interactive-integration-landscape_image_3.png)
+![Screenshot 2020 01 06 Apollo Graphql Server Ui](../pics/2020-01-06-graphql-interactive-integration-landscape_image_3.webp)
 
 ## Relay GraphQL Client used by FB, Github
 

@@ -5,7 +5,7 @@ categories: [POC]
 tags: [Raspi, Coding Hacks]
 
 ---
-![Foto Rapi Demo](../pic/20200131_123540.jpg)
+![Foto Rapi Demo](../pic/20200131_123540.webp)
 
 # Check Raspi/ESP for simple Coding Hacks 
 
@@ -13,20 +13,20 @@ Default Login: pi, defaultp Pass: raspberry
 
 ## LED Check Python, LED check in C 
 
-![Screenshot 2020 01 17 Rpi Gpio C Python3](../pic/Screenshot_2020_01_17_Rpi_gpio_C_python3.png)
+![Screenshot 2020 01 17 Rpi Gpio C Python3](../pic/Screenshot_2020_01_17_Rpi_gpio_C_python3.webp)
 
 
 ## LED Check GPIO und LED Check Bash 
 
-![Screenshot 2020 01 17 Rpi Gpio2](../pic/Screenshot_2020_01_17_Rpi_gpio2.png)
+![Screenshot 2020 01 17 Rpi Gpio2](../pic/Screenshot_2020_01_17_Rpi_gpio2.webp)
 
-![Screenshot 2020 01 17 Rpi Gpio](../pic/Screenshot_2020_01_17_Rpi_gpio.png)
+![Screenshot 2020 01 17 Rpi Gpio](../pic/Screenshot_2020_01_17_Rpi_gpio.webp)
 
-![Screenshot 2020 01 17 Rpi Gpio3](../pic/Screenshot_2020_01_17_Rpi_gpio3.png)
+![Screenshot 2020 01 17 Rpi Gpio3](../pic/Screenshot_2020_01_17_Rpi_gpio3.webp)
 
 ## Raspi Zero W
 
-![2020 01 22 Raspi Zero W](../pic/2020-01-22-raspi-zero-w.png)
+![2020 01 22 Raspi Zero W](../pic/2020-01-22-raspi-zero-w.webp)
 
 
 ## Links 
@@ -93,9 +93,9 @@ Setting up Pi Zero OTG - The quick way
 
 ## Skizze 
 
-![Screenshot 2020 01 17 Rpi Skizze](../pic/Screenshot_2020_01_17_Rpi_Skizze.png)
+![Screenshot 2020 01 17 Rpi Skizze](../pic/Screenshot_2020_01_17_Rpi_Skizze.webp)
 
-![Foto Rapi Demo](../pic/20200131_123540.jpg)
+![Foto Rapi Demo](../pic/20200131_123540.webp)
 
 ## Raspi Image Creator 
 
@@ -104,11 +104,11 @@ PIBakery <https://www.pibakery.org/>
 
 ## ESP32
 
-![Screenshot 2020 01 17 E S P32 E Z](../pic/Screenshot_2020_01_17_ESP32EZ.png)
+![Screenshot 2020 01 17 E S P32 E Z](../pic/Screenshot_2020_01_17_ESP32EZ.webp)
 
-![Screenshot 2020 01 31 Rpi Zero W H Skizze](../pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
+![Screenshot 2020 01 31 Rpi Zero W H Skizze](../pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.webp)
 
-![Screenshot 2020 01 31 Rpi Zero W H Skizze](../pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.png)
+![Screenshot 2020 01 31 Rpi Zero W H Skizze](../pic/Screenshot_2020_01_31_Rpi_Zero_WH_Skizze.webp)
 
 
 # Links

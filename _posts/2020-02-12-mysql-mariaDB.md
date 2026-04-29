@@ -1,16 +1,16 @@
-﻿---
+---
 layout: post
 title: mysql mariadb docker sql   
 categories: [db]
 tags: [db, mysql, mariadb]
---- 
+---
 # MySql / MariaDB 
 
 ## Install MariaDB in Docker 
-    
+```bash 
     mkdir -p ~/data/mariadb
     sudo docker run --name my-mariadb -e MYSQL_ROOT_PASSWORD=p -d mariadb -p 3306:3306 -v ~/data/mariadb:/var/lib/mariadb/data 
-
+```
 ## Zeit SQL
 ```sql
     select current_date, CURRENT_TIME, CURRENT_TIMESTAMP, 
