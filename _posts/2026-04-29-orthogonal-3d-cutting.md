@@ -18,7 +18,7 @@ date: 2026-04-29
  Wie aus einem technischen OR-Problem ein lauffähiger Prototyp für orthogonalen 3D-Zuschnitt wurde
  
 ---
- summary: "Diese Fallstudie beschreibt, wie ein Algorithmus-Experte innerhalb eines kompakten R&D-Sprints ein 3D-Cutting-System für orthogonale Zuschnittprobleme entwickelte: von CSV-Batchverarbeitung über Kerf-Modellierung, Pisinger-inspirierte Strip-Packing-Algorithmen und Optimierungssteuerung bis hin zu 3D-Visualisierung, Tests und geometrischer Validierung."
+ summary: "Diese Fallstudie beschreibt, wie ein Algorithmus-Experte innerhalb eines kompakten R&D-Sprints ein 3D-Cutting-System für orthogonale Zuschnittprobleme entwickelte: von CSV-Batchverarbeitung über Kerf-Modellierung, Strip-Packing-Algorithmen und Optimierungssteuerung bis hin zu 3D-Visualisierung, Tests und geometrischer Validierung."
  
 ---
 
@@ -31,7 +31,7 @@ Innerhalb eines kompakten R&D-Sprints entstand daraus ein lauffähiges 3D-Cuttin
   
 - CSV-Batchverarbeitung für Aufträge und Rohmaterialien
 - Greedy-Baseline für schnelle Ergebnisse
-- Pisinger-inspiriertem Layer-/Strip-Packing mit 0/1-Knapsack-Komponente
+- Layer-/Strip-Packing mit 0/1-Knapsack-Komponente
 - Sägefugenmodellierung, auch Kerf genannt
 - mehrstufiger geometrischer Validierung gegen Überlappung und Containergrenzen
 - 3D-Visualisierung als PNG und interaktive Matplotlib-Ansicht
@@ -98,7 +98,7 @@ Das ist bereits ohne zusätzliche Produktionsbedingungen ein schweres kombinator
 Das Ziel war kein akademischer Paper-Solver, sondern ein **R&D-Prototyp mit Produktionsnähe**:
   
 1. **Daten rein:** Aufträge und Rohblöcke als CSV.
-2. **Algorithmus ausführen:** Greedy oder Pisinger-inspiriertes Packing.
+2. **Algorithmus ausführen:** Greedy oder Layer-inspiriertes Packing.
 3. **Ergebnis raus:** Schnittplan, Report, Visualisierung.
 4. **Qualität prüfen:** Unit Tests, Volumenerhaltung, Bounds, keine Überlappung.
 5. **Iterierbarkeit sichern:** CLI, reproduzierbare Beispiele, klare Projektstruktur.
@@ -133,8 +133,8 @@ Die finale Architektur lässt sich in sechs Schichten beschreiben.
 └──────────────────────────────────────────────┘
                     │
 ┌──────────────────────────────────────────────┐
-│ Pisinger-inspired Layer Packing               │
-│ layer heights, strip packing, knapsack DP      │
+│ Layer Packing                                │
+│ layer heights, strip packing, knapsack DP    │
 └──────────────────────────────────────────────┘
                     │
 ┌──────────────────────────────────────────────┐
@@ -286,9 +286,9 @@ Ein wichtiger Bugfix bestand darin, Volumenwerte nicht roh in Millionen Kubikmil
   
 ---
   
-## 8. Iteration 5: Pisinger-inspirierte 3D-Optimierung
+## 8. Iteration 5: Layer -Packing 3D-Optimierung
   
-Für anspruchsvollere Fälle wurde eine Pisinger-inspirierte Methode implementiert. Der Ansatz greift Ideen aus dem Container-Loading-Problem auf und kombiniert sie mit pragmatischen Python-Optimierungen.
+Für anspruchsvollere Fälle wurde eine Layer-Packing -  Methode implementiert. Der Ansatz greift Ideen aus dem Container-Loading-Problem auf und kombiniert sie mit pragmatischen Python-Optimierungen.
   
 ### 8.1 Algorithmische Bausteine
   
@@ -307,12 +307,12 @@ Der implementierte Ansatz besteht aus:
    Innerhalb eines Streifens entscheidet ein dynamischer Programmierer, welche Boxen den Streifen am besten füllen.
   
 5. **Integration Layer**  
-   Zwischen bestehendem Optimizer-Datenmodell und Pisinger-inspirierten Datenstrukturen vermittelt ein Konvertierungsmodul.
+   Zwischen bestehendem Optimizer-Datenmodell und Layer Packing Datenstrukturen vermittelt ein Konvertierungsmodul.
   
 ### 8.2 Vereinfachtes Pseudocode-Modell
   
 ```text
-function pack_orders_pisinger(orders, raw_blocks):
+function pack_orders_layer(orders, raw_blocks):
     remaining = orders
   
     for block in raw_blocks:
@@ -339,7 +339,7 @@ function pack_orders_pisinger(orders, raw_blocks):
   
 Ein vollständiger Branch-and-Bound-Ansatz kann in Python schnell zu langsam werden. Die Entscheidung fiel daher auf einen hybriden Ansatz:
   
-- Kernideen aus Pisinger übernehmen
+- Kernideen aus Layer - Packing  übernehmen
 - Laufzeit durch Limits kontrollieren
 - Korrektheit durch Validierung erzwingen
 - Verbesserungen messbar und testbar halten
@@ -350,7 +350,7 @@ Das Ergebnis ist kein mathematischer Optimalitätsbeweis, aber ein R&D-taugliche
   
 ## 9. Kritischer Bug: Batching innerhalb einer Layer
   
-Ein besonders lehrreicher Fehler trat beim Skalieren des Pisinger-inspirierten Packings auf.
+Ein besonders lehrreicher Fehler trat beim Skalieren des Layer-Packing-inspirierten Packings auf.
   
 ### 9.1 Der Fehler
   
@@ -484,9 +484,9 @@ Nach Einführung der Sägefuge kamen Tests hinzu für:
 - korrekte Volumenbilanz inklusive Kerf
 - Kapazitätsreduktion durch Sägefuge
   
-### 12.3 Pisinger-Tests
+### 12.3 Layer - Packing-Tests
   
-Für die Pisinger-inspirierten Komponenten wurden getrennte Tests erstellt:
+Für die Layer-Packing-inspirierten Komponenten wurden getrennte Tests erstellt:
   
 - Knapsack Solver
 - Box Preparation
@@ -540,7 +540,7 @@ Die niedrigen Gesamtausnutzungen einzelner Beispiele sind kein Fehler: Wenn die 
 Statt sofort einen monolithischen Solver zu bauen, wurde das Problem zerlegt:
   
 ```text
-I/O → Greedy → Steering → Pisinger-Komponenten → Validation → Visualization
+I/O → Greedy → Steering → Layer-Komponenten → Validation → Visualization
 ```
   
 Jede Schicht lieferte eigenständigen Wert.
@@ -587,7 +587,7 @@ Die gleiche Bounds-Regel an mehreren Stellen zu prüfen, wirkt redundant. In ein
   
 ### Lesson 4: Ein guter Baseline-Solver bleibt wertvoll
   
-Auch nach Einführung von Pisinger-inspirierten Komponenten bleibt Greedy wichtig:
+Auch nach Einführung von Layer-Packing-inspirierten Komponenten bleibt Greedy wichtig:
   
 - als Fallback
 - als Vergleich
@@ -634,7 +634,7 @@ Der Schlüssel war nicht ein einzelner genialer Algorithmus, sondern die Kombina
   
 - sauberer Problemformulierung
 - schneller Greedy-Baseline
-- Pisinger-inspirierten Optimierungskomponenten
+- Layer-Packing-inspirierten Optimierungskomponenten
 - realistischen Fertigungsbedingungen wie Kerf
 - konsequenter Validierung
 - Visualisierung
