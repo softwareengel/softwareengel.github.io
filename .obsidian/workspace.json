@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-29-selfoptimizing.md",
+                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29-selfoptimizing"
-            }
-          },
-          {
-            "id": "c5cddc1b93501cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2026-04-29-selfoptimizing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-29-selfoptimizing"
+              "title": "2026-04-29-orthogonal-3d-cutting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-04-29-selfoptimizing.md",
+                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2026-04-29-selfoptimizing"
+              "title": "Rückverweise auf 2026-04-29-orthogonal-3d-cutting"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-04-29-selfoptimizing.md",
+                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 2026-04-29-selfoptimizing öffnen"
+              "title": "Ausgehende Links von 2026-04-29-orthogonal-3d-cutting öffnen"
             }
           },
           {
@@ -155,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-04-29-selfoptimizing.md",
+                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 2026-04-29-selfoptimizing"
+              "title": "Gliederung von 2026-04-29-orthogonal-3d-cutting"
             }
           },
           {
@@ -192,11 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5cddc1b93501cca",
+  "active": "959336b03ff26783",
   "lastOpenFiles": [
-    "pics/Pasted image 20260429143048.webp",
-    "pics/Pasted image 20260429131609.png",
     "_posts/2026-04-29-selfoptimizing.md",
+    "pics/Pasted image 20260429143048.webp",
+    "pics/Pasted image 20260429131609.webp",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.webp",
     "pics/Pasted image 20260429143048.png",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.png",
@@ -205,11 +190,11 @@
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2025-01-23-fom-html-cal.md",
     "_posts/2026-04-11-sql-trainer.md",
-    "pics/Pasted image 20260429131552.png",
-    "pics/Pasted image 20260429131528.png",
-    "pics/Pasted image 20260429131509.png",
-    "pics/Pasted image 20260429131429.png",
-    "pics/Pasted image 20260429131402.png",
+    "pics/Pasted image 20260429131552.webp",
+    "pics/Pasted image 20260429131528.webp",
+    "pics/Pasted image 20260429131509.webp",
+    "pics/Pasted image 20260429131429.webp",
+    "pics/Pasted image 20260429131402.webp",
     "pics/VL_Anwendungs-und Softwaresysteme_KE1_RDBMS_ve_05_SQL-Trainer.pdf",
     "_posts/2024-03-16-picar-cam.md",
     "_posts/2024-05-28-ki_tools.md",
