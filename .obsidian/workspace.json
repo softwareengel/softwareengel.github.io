@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2026-04-29-orthogonal-3d-cutting"
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 487.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +180,12 @@
   },
   "active": "72c2a275f747cbca",
   "lastOpenFiles": [
+    "pics/Pasted image 20260429130710.png",
+    "pics/Pasted image 20260429130344.png",
+    "pics/Pasted image 20260429130319.png",
+    "pics/Pasted image 20260429130258.png",
+    "pics/Pasted image 20260429130222.png",
+    "pics/Pasted image 20260429130157.png",
     "pics/Pasted image 20260429124328.png",
     "_posts/2026-04-29-selfotimizing.md",
     "_posts/2026-04-29-orthogonal-3d-cutting.md",
@@ -215,16 +221,10 @@
     "src/2026-04-11-sqltrainer/node_modules/codemirror/CONTRIBUTING.md",
     "src/2026-04-11-sqltrainer/node_modules/codemirror/CHANGELOG.md",
     "src/2026-04-11-sqltrainer/lib/README.md",
-    "assets/file-20260227183329.jpg",
-    "assets/file-20260227183022.jpg",
-    "assets/file-20260227182831.jpg",
-    "assets/file-20260227182730.jpg",
     "_posts/2023-06-02-ssh-git-update.md",
     "_posts/2020-03-12-raspi-education-project.md",
     "_posts/2024-05-17-win_wsl_gui.md",
     "_posts/2021-08-12-wordle-tag-cloud.md",
-    "_posts/2020-04-07-ubuntu-xrdp.md",
-    "pics/image/2025-01-23-fom-html-cal-1755861683704.jpeg",
-    "assets/file-20250213122208.jpg"
+    "_posts/2020-04-07-ubuntu-xrdp.md"
   ]
 }
