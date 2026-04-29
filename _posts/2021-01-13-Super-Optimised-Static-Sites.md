@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [Jekyll, OSS, Markdown, Theme]
 --- 
 
-![](../pics/20230707130447_jamstack.png)
+![](../pics/20230707130447_jamstack.webp)
 
 <!-- TOC -->
 - [Super Optimised Static Sites](#super-optimised-static-sites)
@@ -44,8 +44,8 @@ Firstly, React-based templating. This is basically the same as MDX. You can incl
 
 - <https://jamstack.org/generators/>
 
-![Static Side Generators 1](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators%20-%20Top%20Open%20Source%20SSGs%20Jamstack.png)
+![Static Side Generators 1](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators%20-%20Top%20Open%20Source%20SSGs%20Jamstack.webp)
 
 - <https://staticsitegenerators.net/>
 
-![Static Side Generators 2](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators.png)
+![Static Side Generators 2](../pic/Screenshot_2021-02-10%20Static%20Site%20Generators.webp)

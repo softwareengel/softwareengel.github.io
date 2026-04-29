@@ -13,7 +13,7 @@ tags:
   - oss
 ---
 
- ![](../pics/2020-11-22-graph-visualisierung_image_1.png)
+ ![](../pics/2020-11-22-graph-visualisierung_image_1.webp)
 - [Examples of Graph Visualisations 2020](#examples-of-graph-visualisations-2020)
 - [d3.js Examples](#d3js-examples)
 - [Live Book d3.js in action](#live-book-d3js-in-action)
@@ -42,11 +42,11 @@ tags:
 
 <https://observablehq.com/@d3/gallery>
 
-![2020 11 22 D3.Js Galerie](../pics/2020-11-22-graph-visualisierung_image_2.png)
+![2020 11 22 D3.Js Galerie](../pics/2020-11-22-graph-visualisierung_image_2.webp)
 
 <https://observablehq.com/@mbostock/voronoi-stippling>
 
-![2020 11 22 D3.Js Voronoi Stippling](../pics/2020-11-22-graph-visualisierung_image_3.png)
+![2020 11 22 D3.Js Voronoi Stippling](../pics/2020-11-22-graph-visualisierung_image_3.webp)
 - Observablehq
 Push the limits of data visualization
 
@@ -54,7 +54,7 @@ With 200,000+ community examples, Observable is the fastest way to build custom 
 
 <https://observablehq.com/@d3/word-cloud>
 
-![2020 11 22 D3 Word Cloud](../pics/2020-11-22-graph-visualisierung_image_4.png)
+![2020 11 22 D3 Word Cloud](../pics/2020-11-22-graph-visualisierung_image_4.webp)
 
 <https://observablehq.com/@d3/mobile-patent-suits>
 
@@ -63,7 +63,7 @@ With 200,000+ community examples, Observable is the fastest way to build custom 
 
 <https://bl.ocks.org/emeeks>
 
-![2020 11 22 D3.Js Visualisation Examples](../pics/2020-11-22-graph-visualisierung_image_5.png)
+![2020 11 22 D3.Js Visualisation Examples](../pics/2020-11-22-graph-visualisierung_image_5.webp)
 
 
 # Live Book d3.js in action 
@@ -80,11 +80,11 @@ NetworkX is a Python package for the creation, manipulation, and study of the st
 
 <https://networkx.org/documentation/stable/auto_examples/drawing/plot_multipartite_graph.html#sphx-glr-auto-examples-drawing-plot-multipartite-graph-py>
 
-![2020 11 22 Pyhpn Visualisation](../pics/2020-11-22-graph-visualisierung_image_6.png)
+![2020 11 22 Pyhpn Visualisation](../pics/2020-11-22-graph-visualisierung_image_6.webp)
 
 - Gallery
 
-![](../pics/2020-11-22-graph-visualisierung_image_7.png)
+![](../pics/2020-11-22-graph-visualisierung_image_7.webp)
 
 <https://networkx.org/documentation/stable/auto_examples/index.html>
 ## JS addon for d3.js
@@ -100,16 +100,16 @@ python
 
 <https://graph-tool.skewed.de/>
 
-![2020 11 22 Python Graph Tool](../pics/2020-11-22-graph-visualisierung_image_8.png)
+![2020 11 22 Python Graph Tool](../pics/2020-11-22-graph-visualisierung_image_8.webp)
 
 
 # Graph Viz 
 
 <https://www.graphviz.org/gallery/>
 
-![2020 11 22 Graphviz](../pics/2020-11-22-graph-visualisierung_image_9.png)
+![2020 11 22 Graphviz](../pics/2020-11-22-graph-visualisierung_image_9.webp)
 
-![2020 11 22 Capture051 Gitlab.Com](../pics/2020-11-22-graph-visualisierung_image_10.png)
+![2020 11 22 Capture051 Gitlab.Com](../pics/2020-11-22-graph-visualisierung_image_10.webp)
 
 ## Examples of large Graphs 
 
@@ -117,7 +117,7 @@ python
 
 <http://yifanhu.net/GALLERY/GRAPHS/search.html >
 
-![2020 11 22 Examples Large Graphs](../pics/2020-11-22-graph-visualisierung_image_11.png)
+![2020 11 22 Examples Large Graphs](../pics/2020-11-22-graph-visualisierung_image_11.webp)
 
 # three.js
 
@@ -125,9 +125,9 @@ python
 
 <https://anvaka.github.io/pm/#/?_k=rn1q6d>
 
-![2020 11 22 Three.Je Data Galaxy](../pics/2020-11-22-graph-visualisierung_image_12.png)
+![2020 11 22 Three.Je Data Galaxy](../pics/2020-11-22-graph-visualisierung_image_12.webp)
 
-![2020 11 22 Three.Je Data Galaxy Go](../pics/2020-11-22-graph-visualisierung_image_13.png)
+![2020 11 22 Three.Je Data Galaxy Go](../pics/2020-11-22-graph-visualisierung_image_13.webp)
 
 # Vis Example NetworkX + d3.js in Python 
 
@@ -155,9 +155,9 @@ Dynamic, browser based visualization libraries
 <https://visjs.github.io/vis-network/examples/network/layout/hierarchicalLayoutUserdefined.html>
 
 
-![2020 11 22 Capture021 Visjs.Github.Io](../pics/2020-11-22-graph-visualisierung_image_14.png)
+![2020 11 22 Capture021 Visjs.Github.Io](../pics/2020-11-22-graph-visualisierung_image_14.webp)
 
-![2020 11 22 Capture018 Visjs.Github.Io](../pics/2020-11-22-graph-visualisierung_image_15.png)
+![2020 11 22 Capture018 Visjs.Github.Io](../pics/2020-11-22-graph-visualisierung_image_15.webp)
 
 
 # Dagre-d3.js
@@ -167,20 +167,20 @@ Dynamic, browser based visualization libraries
 
 <https://dagrejs.github.io/project/dagre-d3/latest/demo/etl-status.html> 
 
-![2020 11 22 Capture027 Github.Com](../pics/2020-11-22-graph-visualisierung_image_16.png)
+![2020 11 22 Capture027 Github.Com](../pics/2020-11-22-graph-visualisierung_image_16.webp)
 
-![2020 11 22 Capture024 Dagrejs.Github.Io](../pics/2020-11-22-graph-visualisierung_image_17.png)
+![2020 11 22 Capture024 Dagrejs.Github.Io](../pics/2020-11-22-graph-visualisierung_image_17.webp)
 
 # https://github.com/antvis/g6 
 
-![2020 11 22 Capture030 Github.Com](../pics/2020-11-22-graph-visualisierung_image_18.png)
+![2020 11 22 Capture030 Github.Com](../pics/2020-11-22-graph-visualisierung_image_18.webp)
 
-![2020 11 22 Capture033 Antv G6.Gitee.Io](../pics/2020-11-22-graph-visualisierung_image_19.png)
+![2020 11 22 Capture033 Antv G6.Gitee.Io](../pics/2020-11-22-graph-visualisierung_image_19.webp)
 
 https://antv-g6.gitee.io/en/docs/manual/middle/layout/graph-layout
 
 
-![2020 11 22 Capture036 Antv G6.Gitee.Io](../pics/2020-11-22-graph-visualisierung_image_20.png)
+![2020 11 22 Capture036 Antv G6.Gitee.Io](../pics/2020-11-22-graph-visualisierung_image_20.webp)
 
 # ElGrapho.js 
 
@@ -188,7 +188,7 @@ WebGL
 
 <https://github.com/ericdrowell/ElGrapho>
 
-![2020 11 22 Capture039 Github.Com](../pics/2020-11-22-graph-visualisierung_image_21.png)
+![2020 11 22 Capture039 Github.Com](../pics/2020-11-22-graph-visualisierung_image_21.webp)
 
 <https://codepen.io/ericdrowell/pen/wNRyoZ>
 
@@ -201,13 +201,13 @@ A Dash component library for creating interactive and customizable networks in P
 
 <https://github.com/plotly/dash-cytoscape>
 
-![2020 11 22 Capture048 Github.Com](../pics/2020-11-22-graph-visualisierung_image_22.png)
+![2020 11 22 Capture048 Github.Com](../pics/2020-11-22-graph-visualisierung_image_22.webp)
 
 
 # VivaGraphJS
 
 https://github.com/anvaka/VivaGraphJS
-![2020 11 22 Capture054 Github.Com](../pics/2020-11-22-graph-visualisierung_image_23.png)
+![2020 11 22 Capture054 Github.Com](../pics/2020-11-22-graph-visualisierung_image_23.webp)
 
 # Links
 

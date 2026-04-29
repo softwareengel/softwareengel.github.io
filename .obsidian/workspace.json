@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2020-11-18-linux-screen.md",
+                "file": "_posts/2021-01-28-anigif.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2020-11-18-linux-screen"
+              "title": "2021-01-28-anigif"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-11-18-linux-screen.md",
+                "file": "_posts/2021-01-28-anigif.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2020-11-18-linux-screen"
+              "title": "Rückverweise auf 2021-01-28-anigif"
             }
           },
           {
@@ -179,6 +179,17 @@
   },
   "active": "959336b03ff26783",
   "lastOpenFiles": [
+    "_posts/2021-01-27-webinar-tools.md",
+    "_posts/2021-01-27-python-tools.md",
+    "_posts/2021-01-27-data-analytics.md",
+    "_posts/2021-01-27-AniGif-collection-giphy.md",
+    "_posts/2021-01-26-More AI Traffic Speed Detection With TrafficCV.md",
+    "_posts/2021-01-13-Super-Optimised-Static-Sites.md",
+    "_posts/2021_10_15_seach_engine.md",
+    "_posts/2020-11-28-netcat-send-log.md",
+    "_posts/2020-11-22-norconex-crawler.md",
+    "_posts/2020-11-22-graph-visualisierung.md",
+    "_posts/2020-11-18-linux-screen.md",
     "_posts/2020-11-05-docker-reverse-proxy.md",
     "_posts/2020-10-29-data-flow-dokumentation-analyse.md",
     "_posts/2020-10-23-ms-sql-server-linux.md",
@@ -194,17 +205,6 @@
     "_posts/2020-09-17-software-lizenz-vertrag.md",
     "_posts/2020-09-14-online-coding-share.md",
     "_posts/2020-09-14-jornals.md",
-    "_posts/2020-09-04-raspi-python-dev.md",
-    "_posts/2020-09-04-java-here-client.md",
-    "_posts/2020-08-26-bootstrap-vue-app.md",
-    "_posts/2020-07-24-elk-filebeat.md",
-    "_posts/2020-07-18-calibre-web.md",
-    "_posts/2020-06-26-news.md",
-    "_posts/2020-06-23-jwt-json-web-token.md",
-    "_posts/2020-06-18-java-rest-webservice.md",
-    "_posts/2020-06-17-graphhopper-wasteroute.md",
-    "_posts/2020-06-09-software-library-ms-dos.md",
-    "_posts/2020-06-03-diagram-editor.md",
     "pics/Pasted image 20260429143048.webp",
     "pics/Pasted image 20260429131609.webp",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.webp",

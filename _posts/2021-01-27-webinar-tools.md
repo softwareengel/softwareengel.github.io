@@ -31,7 +31,7 @@ Tools for Webinars
   - [https://www.brightful.me/](#httpswwwbrightfulme)
   - [https://www.workshop-spiele.de/](#httpswwwworkshop-spielede)
 
-![](../pics/2021-01-27-webinar-tools_image_1.png)
+![](../pics/2021-01-27-webinar-tools_image_1.webp)
 
 # Webinar Tools
 
@@ -43,15 +43,13 @@ ohne Anmeldung Abfragen
 
 <https://tweedback.de/>
 
-![](../pics/2021-01-27-webinar-tools_image_2.png)
+![](../pics/2021-01-27-webinar-tools_image_2.webp)
 
-![](../pics/2021-01-27-webinar-tools_image_3.png)
+![](../pics/2021-01-27-webinar-tools_image_3.pn![](../pics/2021-01-27-webinar-tools_image_3.webp)png)
 
-![](../pics/2021-01-27-webinar-tools_image_4.png)
+![](../pics/2021-01-27-webinar-tools_image_5.webp)
 
-![](../pics/2021-01-27-webinar-tools_image_5.png)
-
-![](../pics/2021-01-27-webinar-tools_image_6.png)
+![](../pics/2021-01-27-webinar-tools_image_6.webp)
 
 # WonderMe 
 Admin: Email - funktioniert auch ohne Verifikation 
@@ -73,9 +71,9 @@ Audience Response system
 
 <https://arsnova.thm.de/blog/arsnova-handbuch/#dozent>
 
-![](../pics/2021-01-27-webinar-tools_image_7.png)
+![](../pics/2021-01-27-webinar-tools_image_7.webp)
 
-![](../pics/2021-01-27-webinar-tools_image_8.png)
+![](../pics/2021-01-27-webinar-tools_image_8.webp)
 
 <https://youtu.be/K16JN619PVA>
 
@@ -87,12 +85,12 @@ Open Source
 # Partify (ohne Anmeldung)
 online chat "Kommentare" mit Bewertung , Abstimmung 
 
-![](../pics/2021-01-27-webinar-tools_image_9.png)
+![](../pics/2021-01-27-webinar-tools_image_9.webp)
 
 
 # Pingo (Anmeldung)
 
-![](../pics/2021-01-27-webinar-tools_image_10.png)
+![](../pics/2021-01-27-webinar-tools_image_10.webp)
 
 <https://github.com/PingoUPB>
 (Uni Paderborn) 
@@ -101,7 +99,7 @@ online chat "Kommentare" mit Bewertung , Abstimmung
 
 # Socrative (Anmeldung)
 
-![](../pics/2021-01-27-webinar-tools_image_11.png)
+![](../pics/2021-01-27-webinar-tools_image_11.webp)
 
 # Metimeter (Anmeldung)
 
@@ -112,7 +110,7 @@ online chat "Kommentare" mit Bewertung , Abstimmung
 Use live polls, quizzes, word clouds, Q&As and more to get real-time input - regardless if you’re remote, hybrid or face-to-face
 "
 
-![](../pics/2021-01-27-webinar-tools_image_12.png)
+![](../pics/2021-01-27-webinar-tools_image_12.webp)
 
 
 <figure class="video_container">
@@ -138,7 +136,7 @@ User: Anon per Link
 
 https://app.mural.co/t/fom20217484/m/fom20217484/1614764269254/2f493dae80c3f39712279c3f31c158058ec52a22
 
-![](../pics/2021-01-27-webinar-tools_image_13.png)
+![](../pics/2021-01-27-webinar-tools_image_13.webp)
 
 
 # https://deon.de/de/ 
@@ -149,7 +147,7 @@ Desktop App
 
 Login admin:  Anmeldung, Free: nur 2 Colab User
 
-![figma](../pics/2021-01-27-webinar-tools_image_14.png)
+![figma](../pics/2021-01-27-webinar-tools_image_14.webp)
 <https://www.figma.com>
 
 # Random Wheel Picker
@@ -182,5 +180,5 @@ Just because you've moved your meetings online, it doesn't mean that you have to
 
 <https://www.workshop-spiele.de/5-tools-fuer-online-warm-ups/>
 
-![](../pics/2021-01-27-webinar-tools_image_15.png)
+![](../pics/2021-01-27-webinar-tools_image_15.webp)
 

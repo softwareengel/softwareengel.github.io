@@ -3,7 +3,7 @@ layout: post
 title: Send Logs to Server with Netcat  
 categories: [netcat, log, data]
 tags: [netcat, log, data]
---- 
+---
 
 Simple sending log data to Web-Server
 
