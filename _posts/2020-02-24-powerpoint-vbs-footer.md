@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Powerpoint VBA Footer 
 categories: [Office]
