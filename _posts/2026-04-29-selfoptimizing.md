@@ -1,6 +1,6 @@
 ---
 layout: post
-title: selfoptimizing-what we are doing
+title: Selfoptimizing-what we are doing
 categories:
   - Business Consulting 
 tags:
@@ -12,9 +12,13 @@ lastupdate: 2026-04-29
 date: 2026-04-29
 ---
 
-# selfoptimizing-what we are doing
+![](../pics/Pasted%20image%2020260429143048.png)
+# Selfoptimizing-what we are doing
 
 Eine Analyse, was wir gerne tun und wer dafür wohl bereit zu bezahlen ist ... 
+
+![](../pics/ChatGPT%20Image%20Apr%2029,%202026,%2002_29_24%20PM.png)
+
 
 # V1 - erste Problemstellung 
 ```
