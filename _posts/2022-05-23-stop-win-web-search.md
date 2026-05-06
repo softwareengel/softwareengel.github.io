@@ -3,8 +3,9 @@ layout: post
 title: Windows 10 - Websuche im Startmenü deaktivieren
 categories: [Windows 10]
 tags: [Windows 10, Suche]
---- 
-![](../pics/20230705174859_stop_win_search.png)
+---
+
+![](../pics/20230705174859_stop_win_search.webp)
 
 # Windows 10 - Websuche im Startmenü deaktivieren
 

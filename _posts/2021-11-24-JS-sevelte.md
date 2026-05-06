@@ -3,15 +3,15 @@ layout: post
 title: Sevelte JS Framework
 categories: [JS, Sevelte, Framework]
 tags: [JS, TS, oss]
---- 
+---
 
-![](../pics/2021-12-17-15-16-54-sevelte.png)
+![](../pics/2021-12-17-15-16-54-sevelte.webp)
 
 # Sevelte JS
 
 - Write less code
 
-![](../pics/2021-12-17-15-16-07.png)
+![](../pics/2021-12-17-15-16-07.webp)
 
 Build boilerplate-free components using languages you already know — HTML, CSS and JavaScript
 

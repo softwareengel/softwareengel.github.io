@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Raspi 4 Docker Yacy local search engine 
 categories: [Raspi, SEARCH, BOT]

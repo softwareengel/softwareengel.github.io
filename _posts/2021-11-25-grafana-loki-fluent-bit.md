@@ -1,12 +1,19 @@
 ---
 layout: post
-title: Grafana mit Loki, Fluentbit 
-categories: [grafana loki, cncf, oss]
-tags: [grafana loki, cncf, oss]
---- 
+title: Grafana mit Loki, Fluentbit
+categories:
+  - grafana loki
+  - cncf
+  - oss
+tags:
+  - cncf
+  - oss
+  - Grafana
+  - loki
+---
 
 
-![](../pics/20230707114335_loki_grafana.png)
+![](../pics/20230707114335_loki_grafana.webp)
 
 # Grafana mit Loki, Fluentbit
 
@@ -21,7 +28,7 @@ tags: [grafana loki, cncf, oss]
 
 - leider ünterstützt Loki kein Alert 
 
-![](../pic/2021-11-25-17-45-17.png)
+![](../pic/2021-11-25-17-45-17.webp)
 
 ## Loki
 

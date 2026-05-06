@@ -5,19 +5,19 @@ categories: [Games]
 tags: [Games]
 ---
 
-![](../pics/2023-10-11-Libadwaita-game-launcher_image_4.png)
+![](../pics/2023-10-11-Libadwaita-game-launcher_image_4.webp)
 
 
 # Games
 
 ## Libadwaita game launcher
-![](../pics/2023-10-11-Libadwaita-game-launcher_image_1.png)
+![](../pics/2023-10-11-Libadwaita-game-launcher_image_1.webp)
 
 https://github.com/kra-mo/cartridges
 
-![](../pics/2023-10-11-Libadwaita-game-launcher_image_2.png)
+![](../pics/2023-10-11-Libadwaita-game-launcher_image_2.webp)
 
-![](../pics/2023-10-11-Libadwaita-game-launcher_image_3.png)
+![](../pics/2023-10-11-Libadwaita-game-launcher_image_3.webp)
 
 
 ## https://web.libretro.com/
@@ -58,7 +58,7 @@ https://archive.org/details/arcade_pbobble4
 OSComeback - Windows 1.01 (1985)
 https://archive.org/details/ocb_win101
 
-![](../pics/2023-10-11-Libadwaita-game-launcher_image_4.png)
+![](../pics/2023-10-11-Libadwaita-game-launcher_image_4.webp)
 
 Bubble Bobble
 https://archive.org/details/msdos_Bubble_Bobble_1988
@@ -72,4 +72,4 @@ https://archive.org/details/msdos_Bubble_Bobble_1988
 Arkanoid II - Revenge of Doh
 https://archive.org/details/msdos_Arkanoid_II_-_Revenge_of_Doh_1989
 
-![](../pics/2023-10-11-Libadwaita-game-launcher_image_5.png)
+![](../pics/2023-10-11-Libadwaita-game-launcher_image_5.webp)

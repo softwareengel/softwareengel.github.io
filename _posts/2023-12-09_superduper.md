@@ -12,9 +12,9 @@ Build and manage AI applications easily without needing to move your data to com
 
 SuperDuperDB is an open-source framework with the mission to bring AI to the database. With SuperDuperDB, you can integrate any ML model (i.e. from PyTorch, Sklearn, HuggingFace) and AI API (like OpenAI, Anthrophic, Cohere) directly with your existing databases, including streaming inference, scalable model training and vector search.
 
-![](../pics/2023-12-09_superduper_image_1.png)
+![](../pics/2023-12-09_superduper_image_1.webp)
 
 
 <https://github.com/SuperDuperDB/superduperdb>
 
-![](../pics/2023-12-09_superduper_image_2.png)
+![](../pics/2023-12-09_superduper_image_2.webp)

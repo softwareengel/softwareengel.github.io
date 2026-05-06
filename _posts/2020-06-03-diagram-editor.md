@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Web Diagram Editor 
 categories: [diagram]

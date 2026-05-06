@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: Web Template Generator 
 categories: [Generator]
 tags: [Web, Template, Generator ]
---- 
+---
 
 # Web Template Generators 
 

@@ -7,7 +7,7 @@ tags: [git]
 
 ## Git Branch
 
-![branch ai geneated  picture](../pics/2023-06-28-git-branch_image_1.png)
+![branch ai geneated  picture](../pics/2023-06-28-git-branch_image_1.webp)
 
 Certainly! Here are a few examples of using Git branches:
 

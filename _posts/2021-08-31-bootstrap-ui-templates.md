@@ -10,7 +10,7 @@ tags: [Startbootstrap, RocketChat]
 
 Start Bootstrap creates free, open source, MIT license, Bootstrap [themes](https://startbootstrap.com/themes), [templates](https://startbootstrap.com/templates), and [code snippets](https://startbootstrap.com/snippets) for you to use on any project, [guides](https://startbootstrap.com/guides) to help you learn more about designing and developing with the Bootstrap framework, and [premium Bootstrap UI products](https://startbootstrap.com/shop). 
 
-![](../pics/2021-08-31-bootstrap-ui-templates_image_1_20240517091527.png)
+![](../pics/2021-08-31-bootstrap-ui-templates_image_1_20240517091527.webp)
 
 <https://startbootstrap.com/>
 

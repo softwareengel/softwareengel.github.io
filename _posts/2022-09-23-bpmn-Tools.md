@@ -10,7 +10,7 @@ tags:
 lastupdate: 2024-04-25
 date: 2022-09-23
 ---
-![](../pics/2022-09-23-bpmn_image_1.png)
+![](../pics/2022-09-23-bpmn_image_1.webp)
 
 
 
@@ -38,112 +38,112 @@ BPMN provides a standardized notation that promotes consistency and clarity when
 # Singavio 
 ## Bpmn 
 
-![](../pics/2022-09-23-bpmn_image_2.png)
+![](../pics/2022-09-23-bpmn_image_2.webp)
 
 ## BPMN Urlausantrag
-![](../pics/Pasted%20image%2020240425120632.png)
+![](../pics/Pasted%20image%2020240425120632.webp)
 ## Nachrichten 
-![](../pics/Pasted%20image%2020240425120136.png)
+![](../pics/Pasted%20image%2020240425120136.webp)
 
 
 ## EPK
-![](../pics/Pasted%20image%2020240425120223.png)
+![](../pics/Pasted%20image%2020240425120223.webp)
 
 ## Organigramm - ohne Oval - Stabstelle 
-![](../pics/Pasted%20image%2020240425120333.png)
+![](../pics/Pasted%20image%2020240425120333.webp)
 
 ## Prozesslandkarte 
-![](../pics/Pasted%20image%2020240425120403.png)
+![](../pics/Pasted%20image%2020240425120403.webp)
 
 ## UML Klassendiagram
-![](../pics/Pasted%20image%2020240425120434.png)
+![](../pics/Pasted%20image%2020240425120434.webp)
 
 
 ## UML Usecase Diagram 
-![](../pics/Pasted%20image%2020240425120537.png)
+![](../pics/Pasted%20image%2020240425120537.webp)
 
 
 ## Signavio Simulation 
 
-![](../pics/Pasted%20image%2020240425114805.png)
+![](../pics/Pasted%20image%2020240425114805.webp)
 
-![](../pics/Pasted%20image%2020240425114842.png)
+![](../pics/Pasted%20image%2020240425114842.webp)
 
-![](../pics/Pasted%20image%2020240425114915.png)
-![](../pics/Pasted%20image%2020240425114925.png)
+![](../pics/Pasted%20image%2020240425114915.webp)
+![](../pics/Pasted%20image%2020240425114925.webp)
 
-![](../pics/Pasted%20image%2020240425114935.png)
+![](../pics/Pasted%20image%2020240425114935.webp)
 
-![](../pics/Pasted%20image%2020240425114944.png)
+![](../pics/Pasted%20image%2020240425114944.webp)
 
-![](../pics/Pasted%20image%2020240425115018.png)
+![](../pics/Pasted%20image%2020240425115018.webp)
 ## Szenario - Alternativen 
-![](../pics/Pasted%20image%2020240425115123.png)
+![](../pics/Pasted%20image%2020240425115123.webp)
 
 # Camunda 
 
-![](../pics/Pasted%20image%2020240425114056.png)
+![](../pics/Pasted%20image%2020240425114056.webp)
 
 ## Camunda Download  
 - Docker 
 https://camunda.com/download/self-managed/docker-compose/
 
-![](../pics/2022-09-23-bpmn_image_7.png)
+![](../pics/2022-09-23-bpmn_image_7.webp)
 
 
-![](../pics/2022-09-23-bpmn_image_8.png)
+![](../pics/2022-09-23-bpmn_image_8.webp)
 
 
-![](../pics/2022-09-23-bpmn_image_9.png)
+![](../pics/2022-09-23-bpmn_image_9.webp)
 
-![](../pics/2022-09-23-bpmn_image_10.png)
-![](../pics/2022-09-23-bpmn_image_11.png)
-![](../pics/2022-09-23-bpmn_image_12.png)
+![](../pics/2022-09-23-bpmn_image_10.webp)
+![](../pics/2022-09-23-bpmn_image_11.webp)
+![](../pics/2022-09-23-bpmn_image_12.webp)
 
-![](../pics/2022-09-23-bpmn_image_13.png)
+![](../pics/2022-09-23-bpmn_image_13.webp)
 
-![](../pics/2022-09-23-bpmn_image_14.png)
+![](../pics/2022-09-23-bpmn_image_14.webp)
 
-![](../pics/2022-09-23-bpmn_image_15.png)
+![](../pics/2022-09-23-bpmn_image_15.webp)
 
-![](../pics/2022-09-23-bpmn_image_16.png)
+![](../pics/2022-09-23-bpmn_image_16.webp)
 
-![](../pics/2022-09-23-bpmn_image_17.png)
+![](../pics/2022-09-23-bpmn_image_17.webp)
 
 ## Camunda Form Editor 
 
-![](../pics/2022-09-23-bpmn_image_18.png)
+![](../pics/2022-09-23-bpmn_image_18.webp)
 
 ## Camunda Processes
 
-![](../pics/2022-09-23-bpmn_image_19.png)
+![](../pics/2022-09-23-bpmn_image_19.webp)
 ## Camunda Condition 
-![](../pics/Pasted%20image%2020240425114237.png)
+![](../pics/Pasted%20image%2020240425114237.webp)
 
 ## Camunda Tasks in Processes 
 
-![](../pics/2022-09-23-bpmn_image_20.png)
+![](../pics/2022-09-23-bpmn_image_20.webp)
 
 ## Camunda Operate 
-![](../pics/2022-09-23-bpmn_image_21.png)
+![](../pics/2022-09-23-bpmn_image_21.webp)
 ## Process instance 
 
-![](../pics/2022-09-23-bpmn_image_22.png)
+![](../pics/2022-09-23-bpmn_image_22.webp)
 
 ## Optimizing 
 
-![](../pics/2022-09-23-bpmn_image_23.png)
+![](../pics/2022-09-23-bpmn_image_23.webp)
 ## Verlaufsanalyse 
-![](../pics/Pasted%20image%2020240425112551.png)
+![](../pics/Pasted%20image%2020240425112551.webp)
 ### Token Simulation 
-![](../pics/Pasted%20image%2020240425112755.png)
+![](../pics/Pasted%20image%2020240425112755.webp)
 
 # # Bpmn.io, bpmn.js (Camunda)
 
-![](../pics/2022-09-23-bpmn_image_4.png)
+![](../pics/2022-09-23-bpmn_image_4.webp)
 
 
-![](../pics/2022-09-23-bpmn_image_5.png)
+![](../pics/2022-09-23-bpmn_image_5.webp)
 
 <https://demo.bpmn.io/>
 
@@ -152,19 +152,19 @@ https://camunda.com/download/self-managed/docker-compose/
 
 <https://github.com/bpmn-io/form-js#builder>
 
-![](../pics/2022-09-23-bpmn_image_6.png)
+![](../pics/2022-09-23-bpmn_image_6.webp)
 
 <https://github.com/bpmn-io/form-js/tree/develop/packages/form-js-playground>
 
 # Draw.io 
-![](../pics/2022-09-23-bpmn_image_3.png)
+![](../pics/2022-09-23-bpmn_image_3.webp)
 
 
 # History Free & Open Source BPMN 
 
 - <https://www.techjockey.com/blog/free-open-source-bpm-software-businesses-2019>
 
-![](../pics/2022-09-23-bpmn_image_24.png)  
+![](../pics/2022-09-23-bpmn_image_24.webp)  
 
 
 #
@@ -174,4 +174,4 @@ https://camunda.com/download/self-managed/docker-compose/
 - https://github.com/camunda
 
 
-![](../pics/tmp1714037001616_2022-09-23-bpmn_image_24.png)  
+![](../pics/tmp1714037001616_2022-09-23-bpmn_image_24.webp)  

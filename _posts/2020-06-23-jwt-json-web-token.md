@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 title: JSON Web Tokens - JWT - Keycloak
 categories: [IAM, Authorisation, Keycloak]
 tags: [JWT, OAuth, Identity Management, Authentication,Java, Server,OSS ]
 ---
-![](../pics/20230706155538_keycoak.png)
+![](../pics/20230706155538_keycoak.webp))
 
 # JWT JSON Web Tokens 
 
@@ -21,12 +21,12 @@ RFC 7519
 
 <https://jwt.io/introduction>
 
-![Jwt Io Debug](../pic/jwt-io-debug.png)
+![Jwt Io Debug](../pic/jwt-io-debug.webp))
 
 <https://www.oose.de/blogpost/oauth-openid-connect-und-jwt-wie-haengt-das-alles-zusammen-teil-2/> 
 
 # Keycloak 
-![](../pics/20230706155422_keykloak.png)
+![](../pics/20230706155422_keykloak.webp))
 
 - <https://github.com/keycloak> 
 - <https://github.com/keycloak/keycloak>
@@ -34,7 +34,7 @@ RFC 7519
 - <https://www.keycloak.org/>
 
  
-![2020 06 23 Keycloak Admin](../pic/2020-06-23-keycloak-admin.png)
+![2020 06 23 Keycloak Admin](../pic/2020-06-23-keycloak-admin.webp))
 
 - <https://stackoverflow.com/questions/55189130/does-nginx-open-source-support-openid-and-jwt> 
 

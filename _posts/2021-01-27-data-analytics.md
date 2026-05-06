@@ -14,7 +14,7 @@ tags: []
 
 <https://paperswithcode.com/sota/image-classification-on-imagenet>
 
-![](../pic/Screenshot_2021-01-27%20Papers%20with%20Code%20-%20ImageNet%20Benchmark%20Image%20Classification.png)
+![](../pic/Screenshot_2021-01-27%20Papers%20with%20Code%20-%20ImageNet%20Benchmark%20Image%20Classification.webp)
 
 # Learning
 
@@ -29,7 +29,7 @@ Die Kurse kombinieren theoretische Wissensvermittlung mit praktischen Übungen, 
 - <https://www.elementsofai.de/>
 ## r2d3
 
-![](../pics/20230707130129_r2d3.png)
+![](../pics/20230707130129_r2d3.webp)
 A visual introduction to machine learning
 
 In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.

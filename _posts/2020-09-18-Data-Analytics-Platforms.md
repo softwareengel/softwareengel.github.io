@@ -4,7 +4,7 @@ title: Analytics Platformen - Knime, Talend, Rapidminer
 categories: [Analytics, Platformen]
 tags: [Analytics, Platformen, Knime, Rapidminer, talend]
 ---
-![](../pics/20230706171035_rm_StatisticsCrop.png)
+![](../pics/20230706171035_rm_StatisticsCrop.webp)
 
 # Analytics Platformen- Knime, Talend, Rapidminer
 Die drei genannten Analytics-Plattformen, KNIME, Talend und RapidMiner, sind in der Lage, komplexe Datenanalyse und Datenintegrationsaufgaben zu bewältigen. Hier ist eine kurze Übersicht über jede Plattform:
@@ -21,30 +21,26 @@ RapidMiner ist eine Predictive Analytics-Plattform, die maschinelles Lernen, Tex
 Diese Plattformen sind beliebt für ihre Fähigkeiten zur Datenintegration, Datenanalyse und maschinellen Lernens. Sie bieten vielseitige Funktionen und Werkzeuge, um komplexe Analyseaufgaben zu bewältigen und aussagekräftige Erkenntnisse aus den Daten zu gewinnen.
 ## Rapidminer
 
-![](../pics/20230706170655_rapidminer.png)
+![](../pics/20230706170655_rapidminer.webp)
 
 
-![](../pics/20230706170809_rapidminer_limit.png)
+![](../pics/20230706170809_rapidminer_limit.webp)
 <https://rapidminer.com/>
 
-![](../pics/20230706170849_rapidminer_livcencelimit.png)
+![](../pics/20230706170849_rapidminer_livcencelimit.webp)
 
-![](../pics/20230706171004_rm_data.png)
+![](../pics/20230706171004_rm_data.webp)
 
-![](../pics/20230706171035_rm_Statistics.png)
+![](../pics/20230706171035_rm_Statistics.webp)
 
-![](../pics/20230706171229_rm_charts.png)
+![](../pics/20230706171229_rm_chart![](../pics/20230706171229_rm_charts.webp)om/>
 
-## Talend 
-
-<https://www.talend.com/>
-
-![](../pics/20230706171518_talend_job.png)
+![](../pics/20230706171518_talend_job.webp)
 
 ## Knime 
 
 <https://www.knime.com/knime-analytics-platform>
 
-![](../pics/20230706172109_knime_wf.png)
+![](../pics/20230706172109_knime_wf.webp)
 
-![2020 09 18 Knime](../pic/2020-09-18-knime.png)
+![2020 09 18 Knime](../pic/2020-09-18-knime.webp)

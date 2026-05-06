@@ -24,7 +24,7 @@ tags: [Python, Links ]
 
 <https://www.blog.pythonlibrary.org/category/beginner/>
 
-![](../pic/20220609113803.png)  
+![](../pic/20220609113803.webp)  
 
 ## Awesome Python
 
@@ -32,4 +32,4 @@ Python Tools and Libs
 
 <https://github.com/vinta/awesome-python>
 
-![](../pic/20220609112523.png)  
+![](../pic/20220609112523.webp)  

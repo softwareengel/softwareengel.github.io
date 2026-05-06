@@ -13,20 +13,20 @@ tags:
 lastupdate: 2024-06-14
 date: 2024-06-14
 ---
-![](../pics/2024-06-14-screenshot_image_1.png)
+![](../pics/2024-06-14-screenshot_image_1.webp)
 
 # Web Ai - Screenshots - Tool - Fireshot 
 
 ## Firefox Plugin Fireshot 
 
-![](../pics/2024-06-14-screenshot_image_2.png)
+![](../pics/2024-06-14-screenshot_image_2.webp)
 
-![](../pics/2024-06-14-screenshot_image_3.png)
+![](../pics/2024-06-14-screenshot_image_3.webp)
 
-![](../pics/2024-06-14-screenshot_image_4.png)
+![](../pics/2024-06-14-screenshot_image_4.webp)
 
 ## Gemini - Screenshot-Beispiel 
 
-![](../pics/2024-06-14-screenshot_image_5.png)
+![](../pics/2024-06-14-screenshot_image_5.webp)
 ## ChatGPT -  Screenshot Beispiel 
-![](../pics/2024-06-14-screenshot_image_6.png)
+![](../pics/2024-06-14-screenshot_image_6.webp)

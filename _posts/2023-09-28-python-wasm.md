@@ -5,7 +5,7 @@ categories: [Python , WASM]
 tags: [Python , WASM]
 ---
 
-![](../pics/2023-09-28-python-wasm_image_1.png)
+![](../pics/2023-09-28-python-wasm_image_1.webp)
 
 - [Python and WASM](#python-and-wasm)
   - [Pyodide](#pyodide)
@@ -17,7 +17,7 @@ tags: [Python , WASM]
 
 # Python and WASM
 
-![](../pics/2023-09-28-python-wasm_image_1.png)
+![](../pics/2023-09-28-python-wasm_image_1.webp)
 
 ## Pyodide
 Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
@@ -26,7 +26,7 @@ Pyodide is a Python distribution for the browser and Node.js based on WebAssembl
 ## Deploy your first JupyterLite website on GitHub Pages
 
 ## Python Web Consonle WASM 
-![](../pics/2023-09-28-python-wasm_image_2.png)
+![](../pics/2023-09-28-python-wasm_image_2.webp)
 
 <https://pyodide.org/en/stable/console.html>
 ## Flet
@@ -38,15 +38,15 @@ https://flet.dev/
 https://flet.dev/docs/guides/python/getting-started
 https://flet.dev/gallery
 
-![](../pics/2023-09-28-python-wasm_image_3.png)
+![](../pics/2023-09-28-python-wasm_image_3.webp)
 
 ## React Py wasm in Browser
 
-![](../pics/2023-09-28-python-wasm_image_4.png)
+![](../pics/2023-09-28-python-wasm_image_4.webp)
 
 <https://elilambnz.github.io/react-py/docs/examples/basic-example>
 
-![](../pics/2023-09-28-python-wasm_image_5.png)
+![](../pics/2023-09-28-python-wasm_image_5.webp)
 
 ## Links
 

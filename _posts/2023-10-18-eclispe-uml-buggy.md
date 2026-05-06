@@ -5,13 +5,13 @@ categories: [uml, Generator]
 tags: [oss, uml, generator, java, Papyrus, Eclipse ]
 ---
 
-![Eclipse Papyrus Diagram](../pics/2023-10-18-eclispe-uml-buggy_image_1.png)
+![Eclipse Papyrus Diagram](../pics/2023-10-18-eclispe-uml-buggy_image_1.webp)
 
 # Eclipse UML Papyrus Working .... nearly impossible ...
 
 ## About
 
-![Eclipse Verion About](../pics/2023-10-18-eclispe-uml-buggy_image_2.png)
+![Eclipse Verion About](../pics/2023-10-18-eclispe-uml-buggy_image_2.webp)
 
 ```txt
 Eclipse Modeling Tools
@@ -22,11 +22,11 @@ Build id: 20220310-1457
 
 ## Papyrus new Diagrams
 
-![Eclipse Papyrus Diagram](../pics/2023-10-18-eclispe-uml-buggy_image_1.png)
+![Eclipse Papyrus Diagram](../pics/2023-10-18-eclispe-uml-buggy_image_1.webp)
 
 ## Installed Software - Working
 
-![Eclipse Papyrus Installed Software List Working](../pics/2023-10-18-eclispe-uml-buggy_image_3.png)
+![Eclipse Papyrus Installed Software List Working](../pics/2023-10-18-eclispe-uml-buggy_image_3.webp)
 
 ## Links
 

@@ -4,16 +4,16 @@ title: Start Amazon ec2 Ami VM mit Barefoot
 categories: [VM]
 tags: [ec2, ami, barefoot ]
 ---
-![](../pics/20230705184554_amazon_ec2_ami_barefoot.png)
+![](../pics/20230705184554_amazon_ec2_ami_barefoot.webp)
 
 # Start Amazon ec2 Ami VM mit Barefoot Service 
 
 ## Launch ec2-Instance - Use Ubuntu 18 
-![](../pic/capture_012_18072019_175245.jpg)
+![](../pic/capture_012_18072019_175245.webp)
 
 ## Connect with SSH / Putty 
-![](../pic/capture_013_18072019_175657.jpg)
-![](../pic/capture_014_18072019_175704.jpg)
+![](../pic/capture_013_18072019_175657.webp)
+![](../pic/capture_014_18072019_175704.webp)
 
 # Install docker
 
@@ -74,13 +74,13 @@ Escape Docker shell:
 
 ## Putty Remote Port Tunnel 
 
-![](../pic/capture_002_19072019_104407.jpg)
+![](../pic/capture_002_19072019_104407.webp)
 
-![](../pic/capture_19072019_104949_003.jpg)
+![](../pic/capture_19072019_104949_003.webp)
 
 ## Use Tunnel in PGAdmin 
 
-![](../pic/capture_26072019_124739_001.jpg)
+![](../pic/capture_26072019_124739_001.webp)
 
 ## Config europe.properies
 
@@ -217,4 +217,4 @@ Escape Docker shell:
 
     
 
-![](../pic/capture_27072019_002927_001.jpg)
+![](../pic/capture_27072019_002927_001.webp)

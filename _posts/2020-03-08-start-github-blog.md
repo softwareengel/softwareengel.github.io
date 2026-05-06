@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post 
 title: "github git blog jekyll-now Quickstart"
 categories: [web, blog]

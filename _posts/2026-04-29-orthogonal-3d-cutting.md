@@ -11,7 +11,7 @@ tags:
 lastupdate: 2026-04-29
 date: 2026-04-29
 ---
-![](../pics/Pasted%20image%2020260429130710.png)
+![](../pics/Pasted%20image%2020260429130710.webp)
 
 # Algorithm Engineering - Case Study: In einem Tag zum 3D-Cutting-System 
 
@@ -22,7 +22,7 @@ date: 2026-04-29
  
 ---
 
- ![](../pics/Pasted%20image%2020260429124328.png)
+ ![](../pics/Pasted%20image%2020260429124328.webp)
  
 ## Executive Summary
   
@@ -158,9 +158,9 @@ id,length,width,height
 ORD-001,20,15,10
 ORD-002,25,20,12
 ```
-  ![](../pics/Pasted%20image%2020260429130157.png)
+  ![](../pics/Pasted%20image%2020260429130157.webp)
   
-![](../pics/Pasted%20image%2020260429130222.png)
+![](../pics/Pasted%20image%2020260429130222.webp)
 Das senkt die kognitive Last und macht Beispiele leicht erzeugbar.
   
 ### 4.2 Ausgabeformate
@@ -172,9 +172,9 @@ Der Batchlauf erzeugt drei zentrale Artefakte:
 <prefix>_report.txt
 <prefix>_<RAW-ID>_layout.png
 ```
-![](../pics/Pasted%20image%2020260429130258.png)
-![](../pics/Pasted%20image%2020260429130319.png)
-![](../pics/Pasted%20image%2020260429130344.png)
+![](../pics/Pasted%20image%2020260429130258.webp)
+![](../pics/Pasted%20image%2020260429130319.webp)
+![](../pics/Pasted%20image%2020260429130344.webp)
   
 Der `cut_plan.csv` ist für nachgelagerte Produktions- oder CNC-nahe Prozesse gedacht. Er enthält:
   
@@ -721,21 +721,21 @@ Verhältnis von verwendetem Materialvolumen zu verfügbarem Rohmaterialvolumen.
 ## Appendix C: Beispiele 
 
 ### Beispiel 1  - 3D Cutting Summary 
-![](../pics/Pasted%20image%2020260429131609.png)
+![](../pics/Pasted%20image%2020260429131609.webp)
 ### Beispiel 2  - 3D Cutting Summary 
 
-![](../pics/Pasted%20image%2020260429131552.png)
+![](../pics/Pasted%20image%2020260429131552.webp)
 ### Beispiel 3  - 3D Cutting Summary 
 
-![](../pics/Pasted%20image%2020260429131528.png)
+![](../pics/Pasted%20image%2020260429131528.webp)
 ### Beispiel 4  - 3D Cutting Summary 
 
-![](../pics/Pasted%20image%2020260429131509.png)
+![](../pics/Pasted%20image%2020260429131509.webp)
 
 ### Beispiel 4b  - 3D Cutting Summary 
-![](../pics/Pasted%20image%2020260429131429.png)
+![](../pics/Pasted%20image%2020260429131429.webp)
 
 ### Beispiel 5  - 3D Cutting Summary 
 
-![](../pics/Pasted%20image%2020260429131402.png)
+![](../pics/Pasted%20image%2020260429131402.webp)
 

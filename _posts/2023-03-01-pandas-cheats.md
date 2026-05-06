@@ -5,7 +5,7 @@ categories: [Pandas]
 tags: [Pandas, Cheats, Python]
 ---
 
-![](../pics/2023-03-01-pandas-cheats_image_1.png)
+![](../pics/2023-03-01-pandas-cheats_image_1.webp)
 
 # Pandas Cheat Sheet 
 

@@ -11,15 +11,15 @@ tags:
 
 https://repl.it (Editor, Debugger, Embed)
 
-![](../pics/2019-10-20-online-code-editor_image_1.png)
+![](../pics/2019-10-20-online-code-editor_image_1.webp)
 
-![](../pics/2019-10-20-online-code-editor_image_2.png)
+![](../pics/2019-10-20-online-code-editor_image_2.webp)
 
 
 ### Technology on repl.it
 
 
 
-![](../pics/2019-10-20-online-code-editor_image_3.png)
+![](../pics/2019-10-20-online-code-editor_image_3.webp)
 
 

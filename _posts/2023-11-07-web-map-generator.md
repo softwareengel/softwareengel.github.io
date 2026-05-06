@@ -12,7 +12,7 @@ date: 2023-11-07
 
 https://gisco-services.ec.europa.eu/image/screen/home
 
-![](../pics/2023-11-07-web-map-generator_image_1.png)
+![](../pics/2023-11-07-web-map-generator_image_1.webp)
 
 https://ec.europa.eu/eurostat/web/gisco/overview
 
@@ -25,7 +25,7 @@ Eurostat Map Generator
 https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator
 
 
-![](../pics/2023-11-07-web-map-generator_image_2.png)
+![](../pics/2023-11-07-web-map-generator_image_2.webp)
 
 <video src="../mov/2023-11-07-12-06-23.mp4" controls title="Title"></video>
 

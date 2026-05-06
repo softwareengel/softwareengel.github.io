@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 title: GraphQL Toolchain
 categories: [GraphQL]
 tags: [GraphQL]
 --- 
-![](../pics/20230713115344_graphq.png)
+![](../pics/20230713115344_graphq.webp))
 
 # Toolchain for ERP - Vue - App 
 
@@ -12,4 +12,4 @@ tags: [GraphQL]
 
 <https://medium.com/@wtr/selecting-database-as-data-source-for-graphql-server-e3281fcefb2>
 
-![Graphql Dbm Connect](../pic/graphql-dbm-connect.png)
+![Graphql Dbm Connect](../pic/graphql-dbm-connect.webp))

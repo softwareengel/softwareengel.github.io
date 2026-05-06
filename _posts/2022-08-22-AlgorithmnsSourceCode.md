@@ -4,7 +4,7 @@ title: Algorithmns with Code in Python
 categories: [Algorithmns]
 tags: [Algorithmns, Code, Python ]
 --- 
-![](../pics/20230705174525_algo_with_code_py.png)
+![](../pics/20230705174525_algo_with_code_py.webp)
 
 # Algorithmns with Code in Python
 

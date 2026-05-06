@@ -10,8 +10,8 @@ tags:
 lastupdate: 2024-07-02
 date: 2024-07-02
 ---
-![](../pics/2024-07-02-ocr-feature_image_1.png)
+![](../pics/2024-07-02-ocr-feature_image_1.webp)
 # OCR Feature in Chatgpt
 
-![](../pics/2024-07-02-ocr-feature_image_2.png)
+![](../pics/2024-07-02-ocr-feature_image_2.webp)
 

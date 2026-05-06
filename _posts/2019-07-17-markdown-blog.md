@@ -5,7 +5,7 @@ categories: [Markdown]
 tags: [MD,Editor]
 ---
 
-![](../pics/20230705181318_md_cheats.png)
+![](../pics/20230705181318_md_cheats.webp)
 
 # Markdown Blog Tag Hints 
 
@@ -40,16 +40,16 @@ if (isAwesome){
     
 ## Visual Studio Code als Blog editor 
 
-![VSCode als Blog](../pic/2019-07-17-VSCode-as-Blog-Editor.png)
+![VSCode als Blog](../pic/2019-07-17-VSCode-as-Blog-Editor.webp)
 
 Bild einfügen 
 
-[Reference to Markdown Pic](../pic/2019-07-17-md.png)
+[Reference to Markdown Pic](../pic/2019-07-17-md.webp)
 
 
 Bild inline:
 
-![Reference to Markdown Pic](../pic/2019-07-17-md.png)
+![Reference to Markdown Pic](../pic/2019-07-17-md.webp)
 
 
 

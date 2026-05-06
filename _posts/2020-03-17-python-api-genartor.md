@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 title: Python Api Generators 
 categories: [API]
 tags: [Python, Api, Generator ]
 --- 
-![](../pics/20230713114603_py_api.png)
+![](../pics/20230713114603_py_api.webp)
 
 # Python Api Generators 
 

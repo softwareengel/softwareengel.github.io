@@ -5,7 +5,7 @@ categories: [IDE]
 tags: [IDE, Eclipse, plugin, UML, plantuml]
 ---
 
-![](../pics/20230705180726_planzuml_eclipse.png)
+![](../pics/20230705180726_planzuml_eclipse.webp)
 - [PlantUML Eclipse Plugin für UML-Klassendiagramme](#plantuml-eclipse-plugin-für-uml-klassendiagramme)
   - [Benötigt die Dateien von Graphviz](#benötigt-die-dateien-von-graphviz)
   - [Auswahl der Pakete](#auswahl-der-pakete)
@@ -28,11 +28,11 @@ Update-Site (Eclipse: Help > Install New Software):
 
 
 ## Auswahl der Pakete 
-![plantuml Pakete](../pic/capture_004_17072019_161049.jpg)
+![plantuml Pakete](../pic/capture_004_17072019_161049.webp)
 
 Einstelleungen für PlantUML zu Graphviz 
-![Properties](../pic/capture_005_17072019_162027.jpg)
+![Properties](../pic/capture_005_17072019_162027.webp)
 
 ## Beispiel Deadly Diamond of Death 
 
-![Deadly diamond of death](../pic/capture_007_17072019_162425.jpg)
+![Deadly diamond of death](../pic/capture_007_17072019_162425.webp)

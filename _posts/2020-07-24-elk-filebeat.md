@@ -1,14 +1,14 @@
-﻿---
+---
 layout: post
 title: ELK Stack - Elasticsearch - Kibana - Logstash 
 categories: [ELK]
 tags: [ELK]
 --- 
-![](../pics/20230713120414_opendistro_opensearch.png)
+![](../pics/20230713120414_opendistro_opensearch.webp))
 # ElasticSearch, AWS — Open Distro Elasticsearch - OpenSearch 
 
 - <https://medium.com/@maxy_ermayank/tl-dr-aws-open-distro-elasticsearch-fc642f0e592a>
-![](../pics/20230713120414_opendistro_opensearch.png)
+![](../pics/20230713120414_opendistro_opensearch.webp))
 
 
 - <https://github.com/opendistro-for-elasticsearch>
@@ -113,7 +113,7 @@ $ sudo service logstash start
 
 ## Beats 
 
-![2020 09 17 Elk Beats](../pic/2020-09-17-elk-beats.png)
+![2020 09 17 Elk Beats](../pic/2020-09-17-elk-beats.webp))
 
 ## MetricBeat 
 

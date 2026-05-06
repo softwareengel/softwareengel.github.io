@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 title: nlp text analyse tools
 categories: [tools]
 tags: [text mining, nlp,  oss]
 ---
 
-![2020 05 18 Pdf 2 Text Tabula](../pic/2020-05-18-pdf-2-text-tabula.png)
+![2020 05 18 Pdf 2 Text Tabula](../pic/2020-05-18-pdf-2-text-tabula.webp))
 
 # Text Mininng Tools
 
@@ -26,7 +26,7 @@ tags: [text mining, nlp,  oss]
 - <https://github.com/tabulapdf/tabula>
 - <https://tabula.technology/>
 
-![2020 05 18 Pdf 2 Text Tabula](../pic/2020-05-18-pdf-2-text-tabula.png)
+![2020 05 18 Pdf 2 Text Tabula](../pic/2020-05-18-pdf-2-text-tabula.webp))
 
 # Text Stat 
 

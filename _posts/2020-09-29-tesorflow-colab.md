@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Google Colab Tensorflow + Pre Trained Modells 
 categories: [google, colab, tensorflowsorflow ]
@@ -6,7 +6,7 @@ tags:  [google, colab, tensorflowsorflow ]
 ---
 
 
-![](../pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub-crop.png)
+![](../pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub-crop.webp))
 - [Google Colab Tensorflow + Pre Trained Modells](#google-colab-tensorflow--pre-trained-modells)
   - [Tensorflow (TF)](#tensorflow-tf)
     - [Tensorflow TF Pre-Trained TF-Modells](#tensorflow-tf-pre-trained-tf-modells)
@@ -16,16 +16,16 @@ Web python notebook colaboration tensorflow with CPU
 
 <https://colab.research.google.com/notebooks/charts.ipynb>
 
-![](../pic/Screenshot_2021-01-27%20Google%20Colaboratory.png)
+![](../pic/Screenshot_2021-01-27%20Google%20Colaboratory.webp))
 
 ## Tensorflow (TF)
 
 <https://www.tensorflow.org/hub/tutorials/tf2_image_retraining> 
 
-![](../pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub.png)
+![](../pic/Screenshot_2021-01-27%20Umschulung%20eines%20Bildklassifikators%20TensorFlow%20Hub.webp))
 
 ### Tensorflow TF Pre-Trained TF-Modells
 
 <https://github.com/tensorflow/tfjs-models>
 
-![](../pic/Screenshot_2021-01-27%20tensorflow%20tfjs-models.png)
+![](../pic/Screenshot_2021-01-27%20tensorflow%20tfjs-models.webp)

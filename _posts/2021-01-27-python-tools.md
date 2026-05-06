@@ -5,7 +5,7 @@ categories: [python, tools, libs ]
 tags: [python, tools, libs , scapy]
 --- 
 
-![](../pics/20230707125610_scrapy.png)
+![](../pics/20230707125610_scrapy.webp)
 
 # Python Scapy - Networking Tools - Netzwerk Daten Tool
 Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks.

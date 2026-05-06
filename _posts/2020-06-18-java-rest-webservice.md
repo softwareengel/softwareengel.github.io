@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Java REST Webservice Dropwizard
 categories: [dropwizard]

@@ -1,14 +1,14 @@
-﻿---
+---
 layout: post
 title: Here Client
 categories: [web, ui]
 tags: [Java, here, Client]
 ---
-![](../pics/20230713120921_here.png)
+![](../pics/20230713120921_here.webp))
 
 # Here Client in Java 
 
-![](../pics/20230706164233_here_client.png)
+![](../pics/20230706164233_here_client.webp))
 
 ## Java Here Client
 

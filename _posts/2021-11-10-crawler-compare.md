@@ -10,7 +10,7 @@ tags: [Crawler, Spider]
 
 # Compare Crawler / Spider
 
-![](../pic/2021-11-10-10-16-47-crwl-compare.png)
+![](../pic/2021-11-10-10-16-47-crwl-compare.webp)
 
 ## Links
 

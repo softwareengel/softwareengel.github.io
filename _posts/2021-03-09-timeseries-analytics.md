@@ -4,7 +4,7 @@ title: Time Series Analytics
 categories: [Time Series]
 tags: [ Time Series ]
 --- 
-![](../pics/20230713125711_timeseries.png)
+![](../pics/20230713125711_timeseries.webp)
 
 - [Time Series Analytics](#time-series-analytics)
   - [Facebook Prophet](#facebook-prophet)
@@ -28,4 +28,4 @@ Using python to work with time series data
 
 <https://github.com/MaxBenChrist/awesome_time_series_in_python>
 
-![](../pic/20230901125259.png)
+![](../pic/20230901125259.webp)

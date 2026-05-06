@@ -5,7 +5,7 @@ categories: [ML, Tutorial]
 tags: [ML, Tutorial, Google, Dev]
 --- 
 
-![](../pic/2021-12-07-17-38-09.png)
+![](../pic/2021-12-07-17-38-09.webp)
 
 # Google ML Crash Course
 

@@ -5,7 +5,7 @@ categories: [JSON]
 tags: [JSON, Schema, dotnet]
 ---
 
-![screen from usage](../pic/capture_002_17072019_151951.jpg)
+![screen from usage](../pic/capture_002_17072019_151951.webp)
 
 # Dotnet Tool NJsonSchema
 
@@ -13,7 +13,7 @@ tags: [JSON, Schema, dotnet]
 
 Tool zum erstellen von JsonSchema aus JsonData 
 
-![VS Demo mit References](../pic/capture_001_17072019_145903.jpg)
+![VS Demo mit References](../pic/capture_001_17072019_145903.webp)
 
 
 ´´´
@@ -47,8 +47,8 @@ Tool zum erstellen von JsonSchema aus JsonData
 
 Screenshot from web:
 
-![screen from web](../pic/Screenshot_2019-07-17RicoSuterNSwag.png)
+![screen from web](../pic/Screenshot_2019-07-17RicoSuterNSwag.webp)
 
 Screenshot from usage:
 
-![screen from usage](../pic/capture_002_17072019_151951.jpg)
+![screen from usage](../pic/capture_002_17072019_151951.webp)

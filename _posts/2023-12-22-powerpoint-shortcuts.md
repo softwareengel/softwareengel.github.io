@@ -4,7 +4,7 @@ title: Powerpoint 2013 Shortcuts - Presentation
 categories: [Office]
 tags: [Powerpoint, ppt, shotcuts]
 ---
-![](../pics/2023-12-22-powerpoint-shortcuts_image_1.png)
+![](../pics/2023-12-22-powerpoint-shortcuts_image_1.webp)
 
 
 # Powerpoint Shortcuts 

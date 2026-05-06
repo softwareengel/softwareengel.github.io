@@ -6,7 +6,7 @@ tags: [LLM, LM Studio, DIY]
 ---
 
 
-![](../pics/2024-02-29-diy-llm-studio_image_1.png)
+![](../pics/2024-02-29-diy-llm-studio_image_1.webp)
 
 #  DIY Lokales LLM  --  *Working* --
 ```
@@ -17,7 +17,7 @@ heBloke/WizardLM-1.0-Uncensored-Llama2-13B-GGUF/wizardlm-1.0-uncensored-llama2-1
 
 - Select LLM 
 
-![](../pics/2024-02-29-diy-llm-studio_image_2.png)
+![](../pics/2024-02-29-diy-llm-studio_image_2.webp)
 
 ## Results Mistral-7B-Instruct-v0.1-GGUF/
 ```

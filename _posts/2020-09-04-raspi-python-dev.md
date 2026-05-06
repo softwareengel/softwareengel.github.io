@@ -1,11 +1,19 @@
-﻿---
+---
 layout: post
-title: Raspi Python Development Face Recognition 
-categories: [Raspberry Pi, Python, Dev]
-tags: [Raspberry Pi, Python, Dev, MatplotLib, OpenCV]
+title: Raspi Python Development Face Recognition
+categories:
+  - Raspberry Pi
+  - Python
+  - Dev
+tags:
+  - Python
+  - Dev
+  - MatplotLib
+  - OpenCV
+  - Raspi
 ---
 
-![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.png) 
+![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.webp)) 
 
 - [Raspi 4 mit 4GB Ram, RDP, Python tests mit Matplotlib, OpenCV , Face recognition](#raspi-4-mit-4gb-ram-rdp-python-tests-mit-matplotlib-opencv--face-recognition)
   - [MatplotLib](#matplotlib)
@@ -29,7 +37,7 @@ tags: [Raspberry Pi, Python, Dev, MatplotLib, OpenCV]
     plt.plot(x, y, 'o', xnew, ynew, '-')
     plt.show()
 ```
-![2020 09 04 R A S P I R D P V S C O D E P Y T H O N Matplatlib](../pic/2020-09-04-RASPI-RDP-VSCODE-PYTHON-matplatlib.png)
+![2020 09 04 R A S P I R D P V S C O D E P Y T H O N Matplatlib](../pic/2020-09-04-RASPI-RDP-VSCODE-PYTHON-matplatlib.webp))
 
 
 ## OpenCV 
@@ -62,7 +70,7 @@ tags: [Raspberry Pi, Python, Dev, MatplotLib, OpenCV]
     cv2.destroyAllWindows()
 
 ```
-![2020 09 04 Rdp Raspi Python Opencv](../pic/2020-09-04-rdp-raspi-python-opencv.png)
+![2020 09 04 Rdp Raspi Python Opencv](../pic/2020-09-04-rdp-raspi-python-opencv.webp))
 
 # Face recognition 
 
@@ -126,4 +134,4 @@ tags: [Raspberry Pi, Python, Dev, MatplotLib, OpenCV]
     cv2.destroyAllWindows() 
 ```
 
-![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.png)
+![2020 09 04 Raspipi Python Face Recognition File](../pic/2020-09-04-raspipi-python-face-recognition-file.webp))

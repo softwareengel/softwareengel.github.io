@@ -5,16 +5,16 @@ categories: [Video]
 tags: [Video, Crop, Edit, TEncoder, ffmpeg,compression]
 ---
 
-![](../pics/2023-10-12-crop-video_image_1.png)
+![](../pics/2023-10-12-crop-video_image_1.webp)
 
 # Crop Videos ffmpeg Tencoder - Resize Video Screen and Crop - Solved (Gelöst)
 
-![](../pics/2023-10-12-crop-video_image_2.png)
+![](../pics/2023-10-12-crop-video_image_2.webp)
 
 
 - Codec options 
 
-![](../pics/2023-10-12-crop-video_image_3.png)
+![](../pics/2023-10-12-crop-video_image_3.webp)
 
 Video Bitrate: 2000 -> 141  
 

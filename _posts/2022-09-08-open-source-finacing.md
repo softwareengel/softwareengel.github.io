@@ -35,4 +35,4 @@ Table of Contents
 
 <https://github.com/nayafia/lemonade-stand>
 
-![](../pics/2022-09-08-open-source-finacing_image_1.png)  
+![](../pics/2022-09-08-open-source-finacing_image_1.webp)  
