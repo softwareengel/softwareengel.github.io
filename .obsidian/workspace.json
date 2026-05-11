@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-06-07-exclipse-modelling.md",
+                "file": "_posts/2026-05-11-orthogonal-cut-3d-en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-06-07-exclipse-modelling"
+              "title": "2026-05-11-orthogonal-cut-3d-en"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exclipse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-07-exclipse-modelling.md",
+                "file": "_posts/2026-05-11-orthogonal-cut-3d-en.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2022-06-07-exclipse-modelling"
+              "title": "Rückverweise auf 2026-05-11-orthogonal-cut-3d-en"
             }
           },
           {
@@ -180,9 +179,11 @@
   },
   "active": "959336b03ff26783",
   "lastOpenFiles": [
+    "_posts/2026-04-29-orthogonal-3d-cutting.md",
+    "_posts/2026-05-11-orthogonal-cut-3d-en.md",
+    "_posts/2022-06-07-exclipse-modelling.md",
     "_posts/2026-04-11-sql-trainer.md",
     "_posts/2026-04-29-selfoptimizing.md",
-    "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "_posts/2025-01-23-fom-html-cal.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
     "_posts/2024-08-23-GenAIProgrammierung.md",
@@ -204,8 +205,6 @@
     "_posts/2024-05-24-maxmindGeoIP.md",
     "_posts/2024-05-17-win_wsl_gui.md",
     "_posts/2024-05-17-jekyll-themes.md",
-    "_posts/2024-05-17-html5.md",
-    "_posts/2024-05-06-onlineColabTools.md",
     "pics/Pasted image 20260429143048.webp",
     "pics/Pasted image 20260429131609.webp",
     "pics/ChatGPT Image Apr 29, 2026, 02_29_24 PM.webp",
