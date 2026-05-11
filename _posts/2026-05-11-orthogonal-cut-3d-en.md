@@ -1,8 +1,15 @@
 ---
 layout: post
-title: 
-categories: 
-tags: 
+title: "Algorithm Engineering - Case Study:  In one day to 3d cutting information system app"
+categories:
+  - Science & R&D
+tags:
+  - Python
+  - 3D
+  - 3D-Cutting
+  - Algorithmns
+  - Serviceengineering
+  - Manufacturing-Software
 lastupdate: 2026-05-11
 date: 2026-05-11
 ---
