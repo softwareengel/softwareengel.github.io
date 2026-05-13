@@ -3,6 +3,8 @@ layout: post
 title: "Algorithm Engineering - Case Study: In einem Tag zum 3D-Cutting-System"
 categories:
   - Science & R&D
+  - cutting
+  - software
 tags:
   - Operations-Research
   - 3D-Cutting

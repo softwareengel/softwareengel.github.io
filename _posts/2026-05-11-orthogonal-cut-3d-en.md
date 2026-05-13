@@ -3,6 +3,8 @@ layout: post
 title: "Algorithm Engineering - Case Study:  In one day to 3d cutting information system app"
 categories:
   - Science & R&D
+  - software
+  - cutting
 tags:
   - Python
   - 3D
