@@ -13,6 +13,7 @@ tags:
   - Coding
   - Python
   - Education
+  - liveshare
 ---
 
 ![](../pics/2024-06-11-Online-Coding_image_1.webp)
