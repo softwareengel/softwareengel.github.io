@@ -10,6 +10,9 @@ tags:
   - Algorithmns
   - Serviceengineering
   - Manufacturing-Software
+  - nest
+  - cut
+  - Tool
 lastupdate: 2026-05-11
 date: 2026-05-11
 ---
@@ -23,6 +26,9 @@ summary: "This case study describes how an algorithm expert developed a 3D cutti
 # Algorithm Engineering - Case Study: From Technical OR Problem to 3D Cutting System in One Day
 
 How a technical operations research problem became a working prototype for orthogonal 3D cutting
+
+___
+Hint: this is a Sces Study to Check AI Possibilities. The real Product is already in Production , see :  https://softwareengel.de/verbesserung-bei-stahl-zuschnitt-durch-anpassung-und-integration-der-3d-verschnitt-optimierung/ 
 
 ---
 

@@ -16,7 +16,9 @@ date: 2026-04-29
 # Algorithm Engineering - Case Study: In einem Tag zum 3D-Cutting-System 
 
  Wie aus einem technischen OR-Problem ein lauffähiger Prototyp für orthogonalen 3D-Zuschnitt wurde
- 
+ ___
+ Hint: DAs ist eine CAse-Study , um die Fähigkeiten der KI - Coding-Assistenten zu testen, Das reale dazu  Produkt existiert schon lange, siehe :  https://softwareengel.de/verbesserung-bei-stahl-zuschnitt-durch-anpassung-und-integration-der-3d-verschnitt-optimierung/ 
+ s
 ---
  summary: "Diese Fallstudie beschreibt, wie ein Algorithmus-Experte innerhalb eines kompakten R&D-Sprints ein 3D-Cutting-System für orthogonale Zuschnittprobleme entwickelte: von CSV-Batchverarbeitung über Kerf-Modellierung, Strip-Packing-Algorithmen und Optimierungssteuerung bis hin zu 3D-Visualisierung, Tests und geometrischer Validierung."
  

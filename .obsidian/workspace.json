@@ -22,15 +22,9 @@
               "icon": "lucide-file",
               "title": "2026-05-11-orthogonal-cut-3d-en"
             }
-          }
-        ]
-      },
-      {
-        "id": "8df389271fea2204",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d26a7c49d2fb04a1",
+            "id": "eda30a634d61ab6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,7 +37,8 @@
               "title": "2026-04-29-orthogonal-3d-cutting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-05-11-orthogonal-cut-3d-en.md",
+                "file": "_posts/2026-04-29-orthogonal-3d-cutting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2026-05-11-orthogonal-cut-3d-en"
+              "title": "Rückverweise auf 2026-04-29-orthogonal-3d-cutting"
             }
           },
           {
@@ -199,14 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a28ae1567a38d26",
+  "active": "eda30a634d61ab6b",
   "lastOpenFiles": [
-    "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "_posts/2026-05-11-orthogonal-cut-3d-en.md",
+    "_posts/2026-04-11-sql-trainer.md",
+    "_posts/2026-04-29-orthogonal-3d-cutting.md",
     "about.md",
     "google41fda3c441a57d45.html",
     "_posts/2022-06-07-exclipse-modelling.md",
-    "_posts/2026-04-11-sql-trainer.md",
     "_posts/2026-04-29-selfoptimizing.md",
     "_posts/2025-01-23-fom-html-cal.md",
     "_posts/2024-08-30-powerpoint-text-copy.md",
