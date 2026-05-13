@@ -8,6 +8,13 @@ tags:
   - 3D-Cutting
   - Python
   - Manufacturing-Software
+  - nest
+  - cut
+  - Algorithmns
+  - app
+  - Serviceengineering
+  - planning
+  - Software
 lastupdate: 2026-04-29
 date: 2026-04-29
 ---
