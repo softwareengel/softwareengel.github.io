@@ -34,8 +34,8 @@ That is the real problem this SQL Training Platform solves.
 It is a browser-based SQL learning environment that runs SQLite directly in the browser via WebAssembly. No backend. No local database install. No accounts. No fragile classroom setup ritual. Open the app, load a sample database, run a query, and start learning.
 
 ## The Hidden Cost of Traditional SQL Training
+![2026-05-27-sql-training-without-setup-hell-1779896496792](../pics/2026-05-27-sql-training-without-setup-hell-1779896496792.webp)
 
-![[2026-05-27-sql-training-without-setup-hell-1779896496792.webp]]
 
 
 If you teach, learn, or deploy SQL training at scale, the same problems appear again and again:
@@ -68,7 +68,9 @@ This is not a toy demo. It is a focused learning and practice environment design
 
 ## Who This Product Actually Serves
 
-![[2026-05-27-sql-training-without-setup-hell-1779896576403.webp]]
+![2026-05-27-sql-training-without-setup-hell-1779896576403](../pics/2026-05-27-sql-training-without-setup-hell-1779896576403.webp)
+
+
 
 ### 1. Instructors and academic programs
 
@@ -108,7 +110,8 @@ Each feature is modest on its own. Together they create a learning environment t
 
 ## The Real Differentiator: No Backend, No Excuses
 
-![[2026-05-27-sql-training-without-setup-hell-1779896222274.webp]]
+![2026-05-27-sql-training-without-setup-hell-1779896222274](../pics/2026-05-27-sql-training-without-setup-hell-1779896222274.webp)
+
 
 A lot of tools promise easy learning. Fewer remove infrastructure from the equation.
 
@@ -162,7 +165,8 @@ That matters because training products win or lose in the boring details. Reliab
 
 ## The Opportunity
 
-![[2026-05-27-sql-training-without-setup-hell-1779896355133.webp]]
+![2026-05-27-sql-training-without-setup-hell-1779896355133](../pics/2026-05-27-sql-training-without-setup-hell-1779896355133.webp)
+
 
 The market opportunity is broader than “SQL tutorial app.”
 
@@ -187,7 +191,8 @@ Measure how quickly people get to their first successful query. Watch how much l
 
 If you want to turn SQL from a setup problem into a learning experience, this platform is the right shape of solution.
 
-![[2026-05-27-sql-training-without-setup-hell-1779896417987.webp]]
+![2026-05-27-sql-training-without-setup-hell-1779896417987](../pics/2026-05-27-sql-training-without-setup-hell-1779896417987.webp)
+
 
 <https://softwareengel.github.io/hacker-codes/>
 
