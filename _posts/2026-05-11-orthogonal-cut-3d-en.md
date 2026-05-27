@@ -19,13 +19,14 @@ tags:
 lastupdate: 2026-05-11
 date: 2026-05-11
 ---
+![](../pics/Pasted%20image%2020260429130710.webp)
 
 ---
 summary: "This case study describes how an algorithm expert developed a 3D cutting system for orthogonal cutting-stock problems within a compact R&D sprint: from CSV batch processing, kerf modeling, strip-packing algorithms, and optimization control to 3D visualization, tests, and geometric validation."
 
 ---
 
-![](../pics/Pasted%20image%2020260429130710.webp)
+
 
 # Algorithm Engineering - Case Study: From Technical OR Problem to 3D Cutting System in One Day
 
