@@ -12,10 +12,8 @@ tags:
 lastupdate: 2026-05-27
 date: 2026-05-27
 ---
+
 ![2026-05-27-sql-training-without-setup-hell-1779896990919](../pics/2026-05-27-sql-training-without-setup-hell-1779896990919.webp)
-
-
-
 
 
 # SQL Training Without Setup Hell
@@ -34,6 +32,7 @@ That is the real problem this SQL Training Platform solves.
 It is a browser-based SQL learning environment that runs SQLite directly in the browser via WebAssembly. No backend. No local database install. No accounts. No fragile classroom setup ritual. Open the app, load a sample database, run a query, and start learning.
 
 ## The Hidden Cost of Traditional SQL Training
+
 ![2026-05-27-sql-training-without-setup-hell-1779896496792](../pics/2026-05-27-sql-training-without-setup-hell-1779896496792.webp)
 
 
@@ -203,3 +202,8 @@ If you want to turn SQL from a setup problem into a learning experience, this pl
 - Use It in Your Course
 - Start a Team SQL Sandbox
 - Explore the Example Databases
+
+
+# Backup 
+
+![](../pics/Softwareengel%20-%20SQL%20Trainer%202026.pdf)
