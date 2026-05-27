@@ -12,14 +12,16 @@ tags:
 lastupdate: 2026-05-27
 date: 2026-05-27
 ---
+![2026-05-27-sql-training-without-setup-hell-1779896990919](../pics/2026-05-27-sql-training-without-setup-hell-1779896990919.webp)
 
-![[2026-05-27-sql-training-without-setup-hell-1779896990919.webp]]
+
 
 
 
 # SQL Training Without Setup Hell
 
 ![[2026-05-27-sql-training-without-setup-hell-1779895921683.webp]]
+
 <https://softwareengel.github.io/hacker-codes/>
 
 

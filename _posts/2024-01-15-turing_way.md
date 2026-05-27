@@ -3,7 +3,7 @@ layout: post
 title: Research The Turing Way
 categories: 
 tags:
-  - R&D
+  - RnD
   - Dev
 ---
 
