@@ -13,6 +13,7 @@ lastupdate: 2026-05-27
 date: 2026-05-27
 ---
 
+![[2026-05-27-sql-training-without-setup-hell-1779896990919.webp]]
 
 
 
