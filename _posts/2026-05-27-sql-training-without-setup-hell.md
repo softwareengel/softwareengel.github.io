@@ -206,4 +206,19 @@ If you want to turn SQL from a setup problem into a learning experience, this pl
 
 # Backup 
 
-![](../pics/Softwareengel%20-%20SQL%20Trainer%202026.pdf)
+
+## PDF
+[Softwareengel - SQL Trainer 2026](../pics/Softwareengel%20-%20SQL%20Trainer%202026.pdf)
+
+![Softwareengel - SQL Trainer 2026](../pics/Softwareengel%20-%20SQL%20Trainer%202026.pdf)
+
+## Video 
+
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="/pics/2024-08-23-GenAIProgrammierung_video_1.mp4">
+    <source src="/pics/2026-05-27%2019-14-27.mp4" type="video/mp4">
+  </video>
+</figure>
+
+
+![](../pics/2026-05-27%2019-14-27.mp4)
